@@ -409,3 +409,26 @@
             (PP (IN in)
               (NP (NNP Chile)))))))))
 
+( (S
+    (NP (DT This) (NN month))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VBD paid)
+        (PP (IN with)
+          (NP (PRP$ my) (JJ cold) (JJ hard) (NN cash))))
+      (CC and)
+      (VP (VBD owned)
+        (NP (DT the) (NNP Galaxy) (NNP S10))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NNP S10))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the)
+            (ADJP (RBS most) (JJ complete))
+            (NNP Galaxy) (NN phone))
+        (PP (IN in)
+          (NP (NNS years)))))
+    (. .)))

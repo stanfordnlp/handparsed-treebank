@@ -169,3 +169,21 @@
       (PP (IN from)
         (NP (NNP Jace))))))
 
+( (S
+    (NP (RB Here))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (PRP I))
+          (VP (VBP think)
+            (SBAR
+              (S
+                (NP (DT the) (NN smartphone))
+                (VP (VBZ works)
+                  (PP (IN for)
+                    (NP (PRP me)))
+                  (ADVP (RB through)
+                    (CC and)
+                    (RB through)))))))))
+    (. .)))
