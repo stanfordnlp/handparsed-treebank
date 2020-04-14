@@ -1,0 +1,38 @@
+( (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ lax)
+        (PP (IN about)
+          (NP (NN bramble) (NN pruning))))
+      (PP (IN before)
+        (NP 
+          (DT that)
+          (S (VP (VBP wake)
+            (PRT (RP up))))
+          (NN call))))
+    (. .)))
+
+( (S
+    (NP (PRP He))
+    (VP (VBZ  has)
+      (VBN fallen)
+      (PP-CLR (IN in)
+        (NP (NN love)))
+      (PP-CLR (IN with)
+        (NP (NN milk) (NN arrowroot) (NNS biscuits))))
+    (. .)))
+
+( (S
+    (NP-SBJ (NNP Dunfermline))
+    (VP (VBD made)
+      (S
+        (NP-SBJ (CD eight) (NNS players))
+        (ADJP-PRD (JJ redundant))))
+    (. .)))
+
+( (S
+    (NP-SBJ (NNP Kazakhstan))
+    (VP (MD will)
+      (VP (VB close)
+        (NP (JJ redundant) (NNS universities))))
+    (. .)))

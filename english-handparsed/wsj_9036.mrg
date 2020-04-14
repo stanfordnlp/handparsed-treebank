@@ -1,0 +1,21 @@
+( (S
+    (VP (VBG Enjoying)
+      (NP (PRP$  my) (JJ favorite) (NN Friday) (NN tradition)))
+    (. .)))
+
+( (NP
+    (VP (VBG Sitting)
+      (PP (IN in)
+        (NP (DT a) (RB stifling) (JJ hot) (NNP South) (NNP Station)))
+      (VP (VBG waiting)
+        (PP (IN for)
+          (NP (PRP$  my) (JJ delayed) (NNP @MBTA) (NN train)))))
+    (. .)))
+
+( (S
+    (NP (PRP I))
+    (VP 
+      (ADVP (RB fucking))
+      (VBP hate)
+      (NP (DT the) (NNP @MBTA)))))
+
