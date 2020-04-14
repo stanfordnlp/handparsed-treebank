@@ -111,7 +111,7 @@
             (NP (VBN suspected) (NNS osteoporosis)))))
       (VP (VBG facing)
         (NP
-          (NP (DT a) (JJ six-month) (NN wait))
+          (NP (DT a) (NML (CD six) (HYPH -) (NN month)) (NN wait))
           (PP (IN for)
             (NP (NN treatment))))))
     (. .)))

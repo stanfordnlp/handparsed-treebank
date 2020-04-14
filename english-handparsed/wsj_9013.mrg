@@ -26,7 +26,7 @@
       (ADVP (RB again))
       (, ,)
       (PP (IN at)
-        (NP (CD 27-27)))
+        (NP (QP (CD 27) (SYM -) (CD 27))))
       (, ,)
       (PP (IN on)
         (NP
@@ -40,7 +40,7 @@
     (VP (VBD responded)
       (PP (IN with)
         (NP
-          (NP (DT a) (JJ 20-yard) (NN touchdown) (NN pass))
+          (NP (DT a) (NML (CD 20) (HYPH -) (NN yard)) (NN touchdown) (NN pass))
           (PP (TO to)
             (NP (NNP Mike) (NNP Williams))))))
      (. .)))

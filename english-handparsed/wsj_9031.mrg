@@ -207,7 +207,7 @@
       (PP (IN with)
         (NP
           (NP
-            (NP (NNP NBA) (NN all-star) (NNP Yao) (NNP Ming))
+            (NP (NNP NBA) (NN all) (HYPH -) (NN star) (NNP Yao) (NNP Ming))
             (CC and)
             (NP
               (NP (PRP$ his) (NN wife))
@@ -316,7 +316,7 @@
         (PP (IN of)
           (NP
             (NP
-              (NP (DT the) (NNP Brookings-Tsinghua) (NNP Center))
+              (NP (DT the) (NNP Brookings) (HYPH -) (NNP Tsinghua) (NNP Center))
               (PP (IN for)
                 (NP (NNP Public) (NNP Policy))))
             (PRN (-LRB- -LRB-)

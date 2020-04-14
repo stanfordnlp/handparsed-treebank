@@ -37,7 +37,7 @@
       (NP (NNS prisoners))
       (VP (VBN imprisoned)
         (PP (IN during) 
-          (NP (NNP October) (CD 15-16) (NNS riots)))))
+          (NP (NML (NNP October) (NML (NML (CD 21)) (PP (SYM -) (NP (CD 27))))) (NNS riots)))))
     (VP (VBN been)
             (VP (VBN released)))
     (. ?)) )

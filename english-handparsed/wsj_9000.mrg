@@ -6,7 +6,7 @@
         (NP (NN President))))))
 
 ( (S-HLN
-    (NP-SBJ-1 (NNP Al-Qaeda))
+    (NP-SBJ-1 (NNP Al) (HYPH -) (NNP Qaeda))
     (VP (VBZ tries)
       (S (NP-SBJ (-NONE- *-1))
         (VP (TO to)
@@ -38,7 +38,7 @@
         (NP
           (NP (DT a) (NN claim))
           (PP (IN by)
-            (NP (NNP Jean-Bertrand) (NNP Aristide)))
+            (NP (NNP Jean) (HYPH -) (NNP Bertrand) (NNP Aristide)))
           (SBAR (IN that)
             (S
               (NP (DT the) (NNP US))
@@ -76,7 +76,7 @@
           (VP (VBP are)
              (VP (VBN linked)
                (PP (TO to)
-                  (NP (NNP al-Qaeda)))))))))
+                  (NP (NNP al) (HYPH -) (NNP Qaeda)))))))))
   (. .)))
 
 ( (S
@@ -106,15 +106,15 @@
 ( (NP
     (NP (NNS Supporters))
     (PP (IN of)
-      (NP (JJ former) (NNP President) (NNP Jean-Bertand) (NNP Aristide)))
+      (NP (JJ former) (NNP President) (NNP Jean) (HYPH -) (NNP Bertrand) (NNP Aristide)))
     (PP (IN in) 
       (NP 
         (NP (DT the) (JJ pro-Aristide) (NN slum))
         (PP (IN of)
           (NP 
-            (NP (NNP Bel-Air))))
+            (NP (NNP Bel) (HYPH -) (NNP Air))))
         (PP (IN in)
-          (NP (NNP Port-au-Prince)))))))
+          (NP (NNP Port) (HYPH -) (NNP au) (HYPH -) (NNP Prince)))))))
 
 ( (S
     (NP

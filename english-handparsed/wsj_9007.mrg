@@ -108,7 +108,7 @@
         (VP (VB outsell)
           (NP (NNP Wii))
           (PP (IN by)
-            (NP (NN end-2007))))))
+            (NP (NN end) (HYPH -) (CD 2007))))))
     (, ,)
     (VP (VBZ says) 
       (S (-NONE- *T*-1)))
@@ -253,7 +253,7 @@
         (NP (NN End))
         (PP (IN of)
           (NP
-            (NP (DT a) (JJ punk-rock) (NN institution))
+            (NP (DT a) (NML (NN punk) (HYPH -) (NN rock)) (NN institution))
             (SBAR
               (WHNP-1 (WP$ whose) (NN attitude))
               (S

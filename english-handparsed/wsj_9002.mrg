@@ -118,7 +118,7 @@
    (SQ (VBD did) (RB n't)
        (NP (PRP you))
        (VP (VB take)
-           (NP (NNP Australia-Asia) (NNP Airline))))
+           (NP (NNP Australia) (HYPH -) (NNP Asia) (NNP Airline))))
    (. ?)))
 
 ((SBARQ
