@@ -39,7 +39,7 @@
         (PP (IN during)
           (NP
             (NML
-              (NP (NNP October) (CD 21))
+              (NML (NNP October) (CD 21))
               (PP (SYM -) (NP (CD 27))))
             (NNS riots)))))
     (VP (VBN been)
