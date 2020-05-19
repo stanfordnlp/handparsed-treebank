@@ -187,3 +187,19 @@
                     (CC and)
                     (RB through)))))))))
     (. .)))
+
+
+( (S
+    (NP (PRP They))
+    (VP (MD should)
+      (VP (VB fence)
+        (NP (PRP it))
+        (PP (IN in))))))
+
+( (SQ (MD Can)
+    (NP (PRP you))
+    (VP (VB clue)
+      (NP (PRP me))
+      (PP (IN in)))
+    (. ?)))
+
