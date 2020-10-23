@@ -8,16 +8,6 @@
     (NP-VOC (NN everyone))
     (, …)))
 
-( (S
-    (NP-SBJ (PRP (You)))
-    (VP (VBP got)
-      (S (TO ta)
-        (VP (VB get)
-          (NP
-            (NP (DT an) (NNP iPhone))
-            (PP (IN for)
-              (NP (NN 3G)))))))
-    (. .)))
 
 ( (SQ (VBD Was)
     (NP-SBJ (DT the) (NNP iPhone))
