@@ -1148,7 +1148,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1161,7 +1161,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1174,7 +1174,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1187,7 +1187,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1200,7 +1200,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1213,7 +1213,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1226,7 +1226,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1239,7 +1239,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1252,7 +1252,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1265,7 +1265,7 @@
 3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1278,7 +1278,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1291,7 +1291,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1304,7 +1304,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1317,7 +1317,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1330,7 +1330,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1343,7 +1343,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1356,7 +1356,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1369,7 +1369,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1382,7 +1382,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1395,7 +1395,7 @@
 3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
 5	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -1578,7 +1578,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1591,7 +1591,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1604,7 +1604,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1617,7 +1617,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1630,7 +1630,7 @@
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
@@ -1640,7 +1640,7 @@
 # comment = complement after clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	before	before	ADP	IN	_	7	case	_	_
@@ -1653,7 +1653,7 @@
 # comment = complement after clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	before	before	ADP	IN	_	7	case	_	_
@@ -1666,7 +1666,7 @@
 # comment = complement after clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	before	before	ADP	IN	_	7	case	_	_
@@ -1679,7 +1679,7 @@
 # comment = complement after clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	before	before	ADP	IN	_	7	case	_	_
@@ -1692,7 +1692,7 @@
 # comment = complement after clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	before	before	ADP	IN	_	7	case	_	_
@@ -1708,7 +1708,7 @@
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
 8	car	car	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	6	punct	_	_
@@ -1722,7 +1722,7 @@
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
 8	car	car	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	6	punct	_	_
@@ -1736,7 +1736,7 @@
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
 8	car	car	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	6	punct	_	_
@@ -1750,7 +1750,7 @@
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
 8	car	car	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	6	punct	_	_
@@ -1764,7 +1764,7 @@
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
 8	car	car	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	6	punct	_	_
@@ -1775,7 +1775,7 @@
 # comment = passive subject
 1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 167
@@ -1784,7 +1784,7 @@
 # comment = passive subject
 1	His	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 168
@@ -1793,7 +1793,7 @@
 # comment = passive subject
 1	Theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 169
@@ -1802,7 +1802,7 @@
 # comment = passive subject
 1	Mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 170
@@ -1811,7 +1811,7 @@
 # comment = passive subject
 1	Yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
 # sent_id = 171
@@ -1880,7 +1880,7 @@
 # comment = of genitive in object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	of	of	ADP	IN	_	7	case	_	_
@@ -1893,7 +1893,7 @@
 # comment = of genitive in object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	of	of	ADP	IN	_	7	case	_	_
@@ -1906,7 +1906,7 @@
 # comment = of genitive in object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	of	of	ADP	IN	_	7	case	_	_
@@ -1919,7 +1919,7 @@
 # comment = of genitive in object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	of	of	ADP	IN	_	7	case	_	_
@@ -1932,7 +1932,7 @@
 # comment = of genitive in object
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	of	of	ADP	IN	_	7	case	_	_
@@ -1949,7 +1949,7 @@
 4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
 # sent_id = 182
@@ -1962,7 +1962,7 @@
 4	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
 # sent_id = 183
@@ -1975,7 +1975,7 @@
 4	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
 # sent_id = 184
@@ -1988,7 +1988,7 @@
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
 # sent_id = 185
@@ -2001,7 +2001,7 @@
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Period	_	7	punct	_	_
 
 # sent_id = 186
@@ -2012,7 +2012,7 @@
 2	of	of	ADP	IN	_	3	case	_	_
 3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
-5	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 187
@@ -2023,7 +2023,7 @@
 2	of	of	ADP	IN	_	3	case	_	_
 3	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
-5	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 188
@@ -2034,7 +2034,7 @@
 2	of	of	ADP	IN	_	3	case	_	_
 3	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
-5	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 189
@@ -2045,7 +2045,7 @@
 2	of	of	ADP	IN	_	3	case	_	_
 3	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
-5	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 190
@@ -2056,7 +2056,7 @@
 2	of	of	ADP	IN	_	3	case	_	_
 3	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
-5	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 191
@@ -2068,7 +2068,7 @@
 3	of	of	ADP	IN	_	4	case	_	_
 4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 192
@@ -2080,7 +2080,7 @@
 3	of	of	ADP	IN	_	4	case	_	_
 4	his	he	PRON	SG-GEN-INDEP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 193
@@ -2092,7 +2092,7 @@
 3	of	of	ADP	IN	_	4	case	_	_
 4	theirs	they	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 194
@@ -2104,7 +2104,7 @@
 3	of	of	ADP	IN	_	4	case	_	_
 4	mine	me	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 195
@@ -2116,7 +2116,7 @@
 3	of	of	ADP	IN	_	4	case	_	_
 4	yours	you	PRON	SG-GEN-INDEP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
 5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Period	_	6	punct	_	_
 
 # sent_id = 196
@@ -2127,7 +2127,7 @@
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
-5	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 197
@@ -2138,7 +2138,7 @@
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
-5	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 198
@@ -2149,7 +2149,7 @@
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
-5	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 199
@@ -2160,7 +2160,7 @@
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
-5	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 200
@@ -2171,7 +2171,7 @@
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
-5	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
 
 # sent_id = 201
@@ -2310,7 +2310,7 @@
 # comment = head of a clause with parataxis relationship to preceding clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
@@ -2325,7 +2325,7 @@
 # comment = head of a clause with parataxis relationship to preceding clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
@@ -2340,7 +2340,7 @@
 # comment = head of a clause with parataxis relationship to preceding clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
@@ -2355,7 +2355,7 @@
 # comment = head of a clause with parataxis relationship to preceding clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
@@ -2370,7 +2370,7 @@
 # comment = head of a clause with parataxis relationship to preceding clause
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
