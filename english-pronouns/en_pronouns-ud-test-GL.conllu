@@ -95,7 +95,7 @@
 # comment = predeterminer modifier
 1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	.	_	4	punct	_	_
 
@@ -105,7 +105,7 @@
 # comment = predeterminer modifier
 1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	.	_	4	punct	_	_
 
@@ -115,7 +115,7 @@
 # comment = predeterminer modifier
 1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	.	_	4	punct	_	_
 
@@ -125,7 +125,7 @@
 # comment = predeterminer modifier
 1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	.	_	4	punct	_	_
 
@@ -135,7 +135,7 @@
 # comment = predeterminer modifier
 1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	.	_	4	punct	_	_
 
@@ -436,7 +436,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	.	_	5	punct	_	_
 
@@ -447,7 +447,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	.	_	5	punct	_	_
 
@@ -458,7 +458,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	.	_	5	punct	_	_
 
@@ -469,7 +469,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	.	_	5	punct	_	_
 
@@ -480,7 +480,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	.	_	5	punct	_	_
 
