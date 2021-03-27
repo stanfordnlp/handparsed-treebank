@@ -3,7 +3,7 @@
 # text = It is hers.
 # previous = Which person owns this?
 # comment = copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -12,7 +12,7 @@
 # text = It is his.
 # previous = Which person owns this?
 # comment = copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -21,7 +21,7 @@
 # text = It is theirs.
 # previous = Which person owns this?
 # comment = copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -30,7 +30,7 @@
 # text = It is mine.
 # previous = Which person owns this?
 # comment = copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -39,7 +39,7 @@
 # text = It is yours.
 # previous = Which person owns this?
 # comment = copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -48,7 +48,7 @@
 # text = It's hers.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -57,7 +57,7 @@
 # text = It's his.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -66,7 +66,7 @@
 # text = It's theirs.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -75,7 +75,7 @@
 # text = It's mine.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -84,7 +84,7 @@
 # text = It's yours.
 # previous = Which person owns this?
 # comment = abbreviated copular subject
-1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
@@ -93,7 +93,7 @@
 # text = It's all hers!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -103,7 +103,7 @@
 # text = It's all his!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -113,7 +113,7 @@
 # text = It's all theirs!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -123,7 +123,7 @@
 # text = It's all mine!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -133,7 +133,7 @@
 # text = It's all yours!
 # previous = Which person owns this?
 # comment = predeterminer modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -143,7 +143,7 @@
 # text = It's mostly hers.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -153,7 +153,7 @@
 # text = It's mostly his.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -163,7 +163,7 @@
 # text = It's mostly theirs.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -173,7 +173,7 @@
 # text = It's mostly mine.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -183,7 +183,7 @@
 # text = It's mostly yours.
 # previous = Which person owns this?
 # comment = adverbial modifier
-1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -192,7 +192,7 @@
 # sent_id = 21
 # text = It's not hers!
 # comment = negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -201,7 +201,7 @@
 # sent_id = 22
 # text = It's not his!
 # comment = negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -210,7 +210,7 @@
 # sent_id = 23
 # text = It's not theirs!
 # comment = negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -219,7 +219,7 @@
 # sent_id = 24
 # text = It's not mine!
 # comment = negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -228,7 +228,7 @@
 # sent_id = 25
 # text = It's not yours!
 # comment = negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -238,7 +238,7 @@
 # text = It isn't hers.
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -248,7 +248,7 @@
 # text = It isn't his.
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -258,7 +258,7 @@
 # text = It isn't theirs.
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -268,7 +268,7 @@
 # text = It isn't mine.
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -278,7 +278,7 @@
 # text = It isn't yours.
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
-1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
@@ -288,7 +288,7 @@
 # text = it aint hers
 # previous = Does this belong to Alex?
 # comment = informal negation 
-1	it	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	it	it	PRON	VBZ	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
@@ -297,7 +297,7 @@
 # text = it aint his
 # previous = Does this belong to Alex?
 # comment = informal negation 
-1	it	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	it	it	PRON	VBZ	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
@@ -306,7 +306,7 @@
 # text = it aint theirs
 # previous = Does this belong to Alex?
 # comment = informal negation 
-1	it	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	it	it	PRON	VBZ	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
@@ -315,7 +315,7 @@
 # text = it aint mine
 # previous = Does this belong to Alex?
 # comment = informal negation 
-1	it	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+1	it	it	PRON	VBZ	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
@@ -324,7 +324,7 @@
 # text = it aint yours
 # previous = Does this belong to Alex?
 # comment = informal negation 
-1	it	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+1	it	it	PRON	VBZ	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
@@ -2314,7 +2314,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
-7	it	it	PRON	PERS-SG	_	9	nsubj	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
 8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	Period	_	3	punct	_	_
@@ -2329,7 +2329,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
-7	it	it	PRON	PERS-SG	_	9	nsubj	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
 8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	Period	_	3	punct	_	_
@@ -2344,7 +2344,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
-7	it	it	PRON	PERS-SG	_	9	nsubj	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
 8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	Period	_	3	punct	_	_
@@ -2359,7 +2359,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
-7	it	it	PRON	PERS-SG	_	9	nsubj	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
 8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	Period	_	3	punct	_	_
@@ -2374,7 +2374,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
-7	it	it	PRON	PERS-SG	_	9	nsubj	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
 8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	Period	_	3	punct	_	_
