@@ -909,7 +909,7 @@
 # previous = How did Alex's car drive?
 # comment = subject to irregular intransitive verb
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -918,7 +918,7 @@
 # previous = How did Alex's car drive?
 # comment = subject to irregular intransitive verb
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -927,7 +927,7 @@
 # previous = How did Alex's car drive?
 # comment = subject to irregular intransitive verb
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -936,7 +936,7 @@
 # previous = How did your car drive?
 # comment = subject to irregular intransitive verb
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -945,7 +945,7 @@
 # previous = How did my car drive?
 # comment = subject to irregular intransitive verb
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -954,7 +954,7 @@
 # comment = subject to regular intransitive verb
 # previous = What did Alex's car do?
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	accelerated	accelerate	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 97
@@ -962,7 +962,7 @@
 # comment = subject to regular intransitive verb
 # previous = What did Alex's car do?
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	accelerated	accelerate	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 98
@@ -970,7 +970,7 @@
 # comment = subject to regular intransitive verb
 # previous = What did Alex's car do?
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	accelerated	accelerate	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 99
@@ -978,7 +978,7 @@
 # comment = subject to regular intransitive verb
 # previous = What did your car do?
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	accelerated	accelerate	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 100
@@ -986,7 +986,7 @@
 # comment = subject to regular intransitive verb
 # previous = What did my car do?
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	accelerated	accelerate	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 101
@@ -994,7 +994,7 @@
 # previous = What did Alex's car hit?
 # comment = subject to regular transitive verb
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	hit	hit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1003,7 +1003,7 @@
 # previous = What did Alex's car hit?
 # comment = subject to regular transitive verb
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	hit	hit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1012,7 +1012,7 @@
 # previous = What did Alex's car hit?
 # comment = subject to regular transitive verb
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	hit	hit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1021,7 +1021,7 @@
 # previous = What did your car hit?
 # comment = subject to regular transitive verb
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	hit	hit	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1030,7 +1030,7 @@
 # previous = What did my car hit?
 # comment = subject to regular transitive verb
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	hit	hit	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1040,7 +1040,7 @@
 # comment = indirect object (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
 5	fresh	fresh	ADJ	A	_	6	amod	_	_
 6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
@@ -1052,7 +1052,7 @@
 # comment = indirect object (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
 5	fresh	fresh	ADJ	A	_	6	amod	_	_
 6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
@@ -1064,7 +1064,7 @@
 # comment = indirect object (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
 5	fresh	fresh	ADJ	A	_	6	amod	_	_
 6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
@@ -1076,7 +1076,7 @@
 # comment = indirect object (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	_
 5	fresh	fresh	ADJ	A	_	6	amod	_	_
 6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
@@ -1088,7 +1088,7 @@
 # comment = indirect object (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	iobj	_	_
 5	fresh	fresh	ADJ	A	_	6	amod	_	_
 6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
@@ -1275,7 +1275,7 @@
 # comment = subject of regular verb (clean) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1288,7 +1288,7 @@
 # comment = subject of regular verb (clean) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1301,7 +1301,7 @@
 # comment = subject of regular verb (clean) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1314,7 +1314,7 @@
 # comment = subject of regular verb (clean) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1327,7 +1327,7 @@
 # comment = subject of regular verb (clean) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1340,7 +1340,7 @@
 # comment = subject of irregular verb (sell) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1353,7 +1353,7 @@
 # comment = subject of irregular verb (sell) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1366,7 +1366,7 @@
 # comment = subject of irregular verb (sell) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1379,7 +1379,7 @@
 # comment = subject of irregular verb (sell) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1392,7 +1392,7 @@
 # comment = subject of irregular verb (sell) in complement of irregular verb (know)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	knew	know	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1822,7 +1822,7 @@
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -1834,7 +1834,7 @@
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -1846,7 +1846,7 @@
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -1858,7 +1858,7 @@
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -1870,7 +1870,7 @@
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	of	of	ADP	IN	_	4	case	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	drove	drive	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 6	responsively	responsively	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -2430,7 +2430,7 @@
 # comment = "to" version of ditransitive verb (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	fresh	fresh	ADJ	A	_	5	amod	_	_
 5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
 6	to	to	ADP	IN	_	7	case	_	_
@@ -2443,7 +2443,7 @@
 # comment = "to" version of ditransitive verb (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	fresh	fresh	ADJ	A	_	5	amod	_	_
 5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
 6	to	to	ADP	IN	_	7	case	_	_
@@ -2456,7 +2456,7 @@
 # comment = "to" version of ditransitive verb (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	fresh	fresh	ADJ	A	_	5	amod	_	_
 5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
 6	to	to	ADP	IN	_	7	case	_	_
@@ -2469,7 +2469,7 @@
 # comment = "to" version of ditransitive verb (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	fresh	fresh	ADJ	A	_	5	amod	_	_
 5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
 6	to	to	ADP	IN	_	7	case	_	_
@@ -2482,7 +2482,7 @@
 # comment = "to" version of ditransitive verb (dative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	gave	give	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	fresh	fresh	ADJ	A	_	5	amod	_	_
 5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
 6	to	to	ADP	IN	_	7	case	_	_
@@ -2495,7 +2495,7 @@
 # comment = Non-core argument (locative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	walked	walk	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	to	to	ADP	IN	_	3	case	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2506,7 +2506,7 @@
 # comment = Non-core argument (locative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	walked	walk	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	to	to	ADP	IN	_	3	case	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2517,7 +2517,7 @@
 # comment = Non-core argument (locative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	walked	walk	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	to	to	ADP	IN	_	3	case	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2528,7 +2528,7 @@
 # comment = Non-core argument (locative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	walked	walk	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	to	to	ADP	IN	_	3	case	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2539,7 +2539,7 @@
 # comment = Non-core argument (locative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	walked	walk	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	to	to	ADP	IN	_	3	case	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2550,7 +2550,7 @@
 # comment = Non-core argument (instrumental)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	drove	drive	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2561,7 +2561,7 @@
 # comment = Non-core argument (instrumental)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	drove	drive	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2572,7 +2572,7 @@
 # comment = Non-core argument (instrumental)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	drove	drive	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2583,7 +2583,7 @@
 # comment = Non-core argument (instrumental)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	drove	drive	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2594,7 +2594,7 @@
 # comment = Non-core argument (instrumental)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	drove	drive	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2605,7 +2605,7 @@
 # comment = Non-core argument (comitative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	went	go	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	with	with	ADP	IN	_	3	case	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2616,7 +2616,7 @@
 # comment = Non-core argument (comitative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	went	go	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	with	with	ADP	IN	_	3	case	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2627,7 +2627,7 @@
 # comment = Non-core argument (comitative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	went	go	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	with	with	ADP	IN	_	3	case	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2638,7 +2638,7 @@
 # comment = Non-core argument (comitative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	went	go	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	with	with	ADP	IN	_	3	case	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2649,7 +2649,7 @@
 # comment = Non-core argument (comitative)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	went	go	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	with	with	ADP	IN	_	3	case	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2660,7 +2660,7 @@
 # comment = Non-core argument (adessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	waited	wait	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	IN	_	3	case	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2671,7 +2671,7 @@
 # comment = Non-core argument (adessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	waited	wait	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	IN	_	3	case	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2682,7 +2682,7 @@
 # comment = Non-core argument (adessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	waited	wait	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	IN	_	3	case	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2693,7 +2693,7 @@
 # comment = Non-core argument (adessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	waited	wait	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	IN	_	3	case	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2704,7 +2704,7 @@
 # comment = Non-core argument (adessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	waited	wait	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	IN	_	3	case	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2825,7 +2825,7 @@
 # comment = Non-core argument (superessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	sat	sit	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	on	on	ADP	IN	_	3	case	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2836,7 +2836,7 @@
 # comment = Non-core argument (superessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	sat	sit	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	on	on	ADP	IN	_	3	case	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2847,7 +2847,7 @@
 # comment = Non-core argument (superessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	sat	sit	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	on	on	ADP	IN	_	3	case	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2858,7 +2858,7 @@
 # comment = Non-core argument (superessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	sat	sit	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	on	on	ADP	IN	_	3	case	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2869,7 +2869,7 @@
 # comment = Non-core argument (superessive)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	sat	sit	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	on	on	ADP	IN	_	3	case	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -2880,7 +2880,7 @@
 # comment = subjunctive 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	recommended	recommend	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -2893,7 +2893,7 @@
 # comment = subjunctive 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	recommended	recommend	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -2906,7 +2906,7 @@
 # comment = subjunctive 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	recommended	recommend	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -2919,7 +2919,7 @@
 # comment = subjunctive 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	recommended	recommend	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -2932,7 +2932,7 @@
 # comment = subjunctive 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	recommended	recommend	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -3079,7 +3079,7 @@
 # previous = What was Alex's car like?
 # comment = subject of unergative intransitive
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	broke	break	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 282
@@ -3087,7 +3087,7 @@
 # previous = What was Alex's car like?
 # comment = subject of unergative intransitive
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	broke	break	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 283
@@ -3095,7 +3095,7 @@
 # previous = What was Alex's car like?
 # comment = subject of unergative intransitive
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	broke	break	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 284
@@ -3103,7 +3103,7 @@
 # previous = What was your car like?
 # comment = subject of unergative intransitive
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	broke	break	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 285
@@ -3111,6 +3111,6 @@
 # previous = What was my car like?
 # comment = subject of unergative intransitive
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	broke	break	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
