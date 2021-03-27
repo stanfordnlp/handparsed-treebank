@@ -1099,7 +1099,7 @@
 # previous = Which cars did dealers see?
 # comment = direct object to irregular transitive verb (accusative, absolutive) 
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	saw	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1108,7 +1108,7 @@
 # previous = Which cars did dealers see?
 # comment = direct object to irregular transitive verb (accusative, absolutive) 
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	saw	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1117,7 +1117,7 @@
 # previous = Which cars did dealers see?
 # comment = direct object to irregular transitive verb (accusative, absolutive) 
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	saw	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1126,7 +1126,7 @@
 # previous = Which cars did dealers see?
 # comment = direct object to irregular transitive verb (accusative, absolutive) 
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	saw	see	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1135,7 +1135,7 @@
 # previous = Which cars did dealers see?
 # comment = direct object to irregular transitive verb (accusative, absolutive) 
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	saw	see	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 3	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -2385,7 +2385,7 @@
 # comment = with auxiliary suffix
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 217
@@ -2394,7 +2394,7 @@
 # comment = with auxiliary suffix
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 218
@@ -2403,7 +2403,7 @@
 # comment = with auxiliary suffix
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 219
@@ -2412,7 +2412,7 @@
 # comment = with auxiliary suffix
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 220
@@ -2421,7 +2421,7 @@
 # comment = with auxiliary suffix
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
-3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	do	do	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 221
@@ -3039,7 +3039,7 @@
 # previous = What does Alex's car do?
 # comment = subject of unaccusative intransitive
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 277
@@ -3047,7 +3047,7 @@
 # previous = What does Alex's car do?
 # comment = subject of unaccusative intransitive
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 278
@@ -3055,7 +3055,7 @@
 # previous = What does Alex's car do?
 # comment = subject of unaccusative intransitive
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 279
@@ -3063,7 +3063,7 @@
 # previous = What does your car do?
 # comment = subject of unaccusative intransitive
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 280
@@ -3071,7 +3071,7 @@
 # previous = What does my car do?
 # comment = subject of unaccusative intransitive
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	parks	park	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = 281
