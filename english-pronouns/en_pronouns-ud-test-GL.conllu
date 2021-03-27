@@ -2943,7 +2943,7 @@
 # text = Take hers.
 # previous = Which should I take?
 # comment = imperative
-1	Take	take	VERB	V	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Take	take	VERB	VB	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -2951,7 +2951,7 @@
 # text = Take his.
 # previous = Which should I take?
 # comment = imperative
-1	Take	take	VERB	V	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Take	take	VERB	VB	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -2959,7 +2959,7 @@
 # text = Take theirs.
 # previous = Which should I take?
 # comment = imperative
-1	Take	take	VERB	V	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Take	take	VERB	VB	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -2967,7 +2967,7 @@
 # text = Take mine.
 # previous = Which should I take?
 # comment = imperative
-1	Take	take	VERB	V	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Take	take	VERB	VB	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -2975,7 +2975,7 @@
 # text = Take yours.
 # previous = Which should I take?
 # comment = imperative
-1	Take	take	VERB	V	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Take	take	VERB	VB	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nsubj	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	1	punct	_	_
 
