@@ -2008,7 +2008,7 @@
 # text = One of hers was cleaned.
 # previous = What happened to Alex's car?
 # comment = "of" genitive and partitive in subject of passive sentence
-1	One	one	NUM	N	NumType=Card	5	nsubj	_	_
+1	One	one	NUM	CD	NumType=Card	5	nsubj	_	_
 2	of	of	ADP	IN	_	3	case	_	_
 3	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
@@ -2019,7 +2019,7 @@
 # text = One of his was cleaned.
 # previous = What happened to Alex's car?
 # comment = "of" genitive and partitive in subject of passive sentence
-1	One	one	NUM	N	NumType=Card	5	nsubj	_	_
+1	One	one	NUM	CD	NumType=Card	5	nsubj	_	_
 2	of	of	ADP	IN	_	3	case	_	_
 3	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
@@ -2030,7 +2030,7 @@
 # text = One of theirs was cleaned.
 # previous = What happened to Alex's car?
 # comment = "of" genitive and partitive in subject of passive sentence
-1	One	one	NUM	N	NumType=Card	5	nsubj	_	_
+1	One	one	NUM	CD	NumType=Card	5	nsubj	_	_
 2	of	of	ADP	IN	_	3	case	_	_
 3	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
@@ -2041,7 +2041,7 @@
 # text = One of mine was cleaned.
 # previous = What happened to your car?
 # comment = "of" genitive and partitive in subject of passive sentence
-1	One	one	NUM	N	NumType=Card	5	nsubj	_	_
+1	One	one	NUM	CD	NumType=Card	5	nsubj	_	_
 2	of	of	ADP	IN	_	3	case	_	_
 3	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
@@ -2052,7 +2052,7 @@
 # text = One of yours was cleaned.
 # previous = What happened to my car?
 # comment = "of" genitive and partitive in subject of passive sentence
-1	One	one	NUM	N	NumType=Card	5	nsubj	_	_
+1	One	one	NUM	CD	NumType=Card	5	nsubj	_	_
 2	of	of	ADP	IN	_	3	case	_	_
 3	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
