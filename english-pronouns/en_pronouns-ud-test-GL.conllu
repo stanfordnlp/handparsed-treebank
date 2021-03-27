@@ -1509,7 +1509,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -1523,7 +1523,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -1537,7 +1537,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -1551,7 +1551,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -1565,7 +1565,7 @@
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	conj	_	_
-7	sell	sell	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
 
