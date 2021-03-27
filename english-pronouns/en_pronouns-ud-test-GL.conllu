@@ -4,7 +4,7 @@
 # previous = Which person owns this?
 # comment = copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -13,7 +13,7 @@
 # previous = Which person owns this?
 # comment = copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -22,7 +22,7 @@
 # previous = Which person owns this?
 # comment = copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -31,7 +31,7 @@
 # previous = Which person owns this?
 # comment = copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -40,7 +40,7 @@
 # previous = Which person owns this?
 # comment = copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -49,7 +49,7 @@
 # previous = Which person owns this?
 # comment = abbreviated copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -58,7 +58,7 @@
 # previous = Which person owns this?
 # comment = abbreviated copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -67,7 +67,7 @@
 # previous = Which person owns this?
 # comment = abbreviated copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -76,7 +76,7 @@
 # previous = Which person owns this?
 # comment = abbreviated copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -85,7 +85,7 @@
 # previous = Which person owns this?
 # comment = abbreviated copular subject
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -94,7 +94,7 @@
 # previous = Which person owns this?
 # comment = predeterminer modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -104,7 +104,7 @@
 # previous = Which person owns this?
 # comment = predeterminer modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -114,7 +114,7 @@
 # previous = Which person owns this?
 # comment = predeterminer modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -124,7 +124,7 @@
 # previous = Which person owns this?
 # comment = predeterminer modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -134,7 +134,7 @@
 # previous = Which person owns this?
 # comment = predeterminer modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-SG	Case=Nom	4	det:predet	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -144,7 +144,7 @@
 # previous = Which person owns this?
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -154,7 +154,7 @@
 # previous = Which person owns this?
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -164,7 +164,7 @@
 # previous = Which person owns this?
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -174,7 +174,7 @@
 # previous = Which person owns this?
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -184,7 +184,7 @@
 # previous = Which person owns this?
 # comment = adverbial modifier
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	mostly	mostly	ADV	RB	_	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -193,7 +193,7 @@
 # text = It's not hers!
 # comment = negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -202,7 +202,7 @@
 # text = It's not his!
 # comment = negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -211,7 +211,7 @@
 # text = It's not theirs!
 # comment = negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -220,7 +220,7 @@
 # text = It's not mine!
 # comment = negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -229,7 +229,7 @@
 # text = It's not yours!
 # comment = negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	ExclMark	_	4	punct	_	_
@@ -239,7 +239,7 @@
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -249,7 +249,7 @@
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -259,7 +259,7 @@
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -269,7 +269,7 @@
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -279,7 +279,7 @@
 # previous = Does this belong to Alex?
 # comment = abbreviated negation 
 1	It	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
@@ -335,7 +335,7 @@
 # comment = copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -345,7 +345,7 @@
 # comment = copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -355,7 +355,7 @@
 # comment = copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -365,7 +365,7 @@
 # comment = copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -375,7 +375,7 @@
 # comment = copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -385,7 +385,7 @@
 # comment = abbreviated copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -395,7 +395,7 @@
 # comment = abbreviated copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -405,7 +405,7 @@
 # comment = abbreviated copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -415,7 +415,7 @@
 # comment = abbreviated copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -425,7 +425,7 @@
 # comment = abbreviated copular object 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -435,7 +435,7 @@
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -446,7 +446,7 @@
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -457,7 +457,7 @@
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -468,7 +468,7 @@
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -479,7 +479,7 @@
 # comment = abbreviated copular object with predeterminer modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	PRON	TOT-SG	Case=Nom	5	nmod	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -490,7 +490,7 @@
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -501,7 +501,7 @@
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -512,7 +512,7 @@
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -523,7 +523,7 @@
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -534,7 +534,7 @@
 # comment = abbreviated copular object with adverbial modifier
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mostly	mostly	ADV	RB	_	5	advmod	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -545,7 +545,7 @@
 # comment = abbreviated copular object with negation 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -556,7 +556,7 @@
 # comment = abbreviated copular object with negation 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -567,7 +567,7 @@
 # comment = abbreviated copular object with negation 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -578,7 +578,7 @@
 # comment = abbreviated copular object with negation 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -589,7 +589,7 @@
 # comment = abbreviated copular object with negation 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
-3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	ExclMark	_	5	punct	_	_
@@ -600,7 +600,7 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -611,7 +611,7 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -622,7 +622,7 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -633,7 +633,7 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -644,7 +644,7 @@
 # comment = copular object with abbreviated negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	5	punct	_	_
@@ -764,7 +764,7 @@
 # previous = Where is Alex's car?
 # comment = expositional subject
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -773,7 +773,7 @@
 # previous = Where is Alex's car?
 # comment = expositional subject
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -782,7 +782,7 @@
 # previous = Where is Alex's car?
 # comment = expositional subject
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -791,7 +791,7 @@
 # previous = Where is your car?
 # comment = expositional subject
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -800,7 +800,7 @@
 # previous = Where is my car?
 # comment = expositional subject
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
 
@@ -810,7 +810,7 @@
 # comment = complement to be verb
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	E	_	5	case	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	3	punct	_	_
@@ -821,7 +821,7 @@
 # comment = complement to be verb
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	E	_	5	case	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	3	punct	_	_
@@ -832,7 +832,7 @@
 # comment = complement to be verb
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	E	_	5	case	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	3	punct	_	_
@@ -843,7 +843,7 @@
 # comment = complement to be verb
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	E	_	5	case	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	3	punct	_	_
@@ -854,7 +854,7 @@
 # comment = complement to be verb
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	at	at	ADP	E	_	5	case	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	3	punct	_	_
@@ -864,7 +864,7 @@
 # previous = What do you think of Alex's car?
 # comment = copular subject with adjective
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -873,7 +873,7 @@
 # previous = What do you think of Alex's car?
 # comment = copular subject with adjective
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -882,7 +882,7 @@
 # previous = What do you think of Alex's car?
 # comment = copular subject with adjective
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -891,7 +891,7 @@
 # previous = What do you think of your car?
 # comment = copular subject with adjective
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -900,7 +900,7 @@
 # previous = What do you think of my car?
 # comment = copular subject with adjective
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	nice	nice	ADJ	A	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	_
 
@@ -2984,7 +2984,7 @@
 # previous = What did the dealer like about Alex's car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
@@ -2995,7 +2995,7 @@
 # previous = What did the dealer like about Alex's car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	His	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
@@ -3006,7 +3006,7 @@
 # previous = What did the dealer like about Alex's car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
@@ -3017,7 +3017,7 @@
 # previous = What did the dealer like about your car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
@@ -3028,7 +3028,7 @@
 # previous = What did the dealer like about my car?
 # comment = extraction/raising via "tough extraction" and clausal subject
 1	Yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	clean	clean	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
