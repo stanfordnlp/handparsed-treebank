@@ -2883,8 +2883,8 @@
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 262
@@ -2896,8 +2896,8 @@
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 263
@@ -2909,8 +2909,8 @@
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 264
@@ -2922,8 +2922,8 @@
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 265
@@ -2935,8 +2935,8 @@
 3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	get	get	VERB	V	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	painted	painted	ADJ	POS	Degree=Pos	6	xcomp	_	SpaceAfter=No
+6	get	get	VERB	VBP	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	painted	ADJ	VBN	Degree=Pos	6	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = 266
