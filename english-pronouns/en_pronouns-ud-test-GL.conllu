@@ -289,7 +289,7 @@
 # previous = Does this belong to Alex?
 # comment = informal negation 
 1	it	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -298,7 +298,7 @@
 # previous = Does this belong to Alex?
 # comment = informal negation 
 1	it	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -307,7 +307,7 @@
 # previous = Does this belong to Alex?
 # comment = informal negation 
 1	it	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -316,7 +316,7 @@
 # previous = Does this belong to Alex?
 # comment = informal negation 
 1	it	it	PRON	PERS-SG	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -325,7 +325,7 @@
 # previous = Does this belong to Alex?
 # comment = informal negation 
 1	it	it	PRON	PERS-SG	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-2	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 3	nt	not	PART	RB	Polarity=Neg	4	advmod	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -655,7 +655,7 @@
 # comment = copular object with informal negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	nt	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -665,7 +665,7 @@
 # comment = copular object with informal negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	nt	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -675,7 +675,7 @@
 # comment = copular object with informal negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	nt	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -685,7 +685,7 @@
 # comment = copular object with informal negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	nt	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
 
@@ -695,7 +695,7 @@
 # comment = copular object with informal negation
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 4	nt	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
 
