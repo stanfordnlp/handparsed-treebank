@@ -1145,7 +1145,7 @@
 # comment = subject of regular verb (clean) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1158,7 +1158,7 @@
 # comment = subject of regular verb (clean) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1171,7 +1171,7 @@
 # comment = subject of regular verb (clean) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1184,7 +1184,7 @@
 # comment = subject of regular verb (clean) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1197,7 +1197,7 @@
 # comment = subject of regular verb (clean) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1210,7 +1210,7 @@
 # comment = subject of irregular verb (sell) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1223,7 +1223,7 @@
 # comment = subject of irregular verb (sell) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1236,7 +1236,7 @@
 # comment = subject of irregular verb (sell) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1249,7 +1249,7 @@
 # comment = subject of irregular verb (sell) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1262,7 +1262,7 @@
 # comment = subject of irregular verb (sell) in complement of regular verb (like)
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
 5	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -1404,7 +1404,7 @@
 # previous = Did the dealers like seeing Alex's car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1414,7 +1414,7 @@
 # previous = Did the dealers like seeing Alex's car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1424,7 +1424,7 @@
 # previous = Did the dealers like seeing Alex's car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1434,7 +1434,7 @@
 # previous = Did the dealers like seeing your car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1444,7 +1444,7 @@
 # previous = Did the dealers like seeing my car?
 # comment = direct object of irregular infinitive verb (see) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1454,7 +1454,7 @@
 # previous = Did the dealers like cleaning Alex's car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cleaning	clean	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	hers	she	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1464,7 +1464,7 @@
 # previous = Did the dealers like cleaning Alex's car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cleaning	clean	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	his	he	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1474,7 +1474,7 @@
 # previous = Did the dealers like cleaning Alex's car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cleaning	clean	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	theirs	they	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1484,7 +1484,7 @@
 # previous = Did the dealers like cleaning your car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cleaning	clean	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	mine	me	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -1494,7 +1494,7 @@
 # previous = Did the dealers like cleaning my car?
 # comment = direct object of regular infinitive verb (clean) in complement of regular verb (like)
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cleaning	clean	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	yours	you	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -2179,7 +2179,7 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2192,7 +2192,7 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2205,7 +2205,7 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2218,7 +2218,7 @@
 # previous = What did the dealers like doing with your cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2231,7 +2231,7 @@
 # previous = What did the dealers like doing with my cars?
 # comment = with orphaned dependent preceding due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2244,7 +2244,7 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2257,7 +2257,7 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2270,7 +2270,7 @@
 # previous = What did the dealers like doing with Alex's cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2283,7 +2283,7 @@
 # previous = What did the dealers like doing with your cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
@@ -2296,7 +2296,7 @@
 # previous = What did the dealers like doing with my cars?
 # comment = with orphaned following dependent due to verb ellipsis in conjunction
 1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seeing	see	VERB	VBG	Mood=Part|Tense=Pres	2	xcomp	_	_
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
