@@ -779,27 +779,6 @@ sub verb_aggl3 {
     $lemma = $lem;
 }
 
-sub verb_aggl3 {
-# Imperative 1. Plural: (facciamolo)
-    my $saved = $subtype;
-    if ($subtype) { $subtype .= "|"; }
-    $subtype .= "Clitic=Yes";
-    my $lem = $lemma;
-    $form = $agglform . "lo"; @parts = verb_parts($agglform, $lemma, $saved, "lo"); output();
-    $form = $agglform . "li"; @parts = verb_parts($agglform, $lemma, $saved, "li"); output();
-    $form = $agglform . "la"; @parts = verb_parts($agglform, $lemma, $saved, "la"); output();
-    $form = $agglform . "le"; @parts = verb_parts($agglform, $lemma, $saved, "le"); output();
-    $form = $agglform . "ne"; @parts = verb_parts($agglform, $lemma, $saved, "ne"); output();
-    $form = $agglform . "ci"; @parts = verb_parts($agglform, $lemma, $saved, "ci"); output();
-    $form = $agglform . "celo"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "lo"); output();
-    $form = $agglform . "celi"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "li"); output();
-    $form = $agglform . "cela"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "la"); output();
-    $form = $agglform . "cele"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "le"); output();
-    $form = $agglform . "cene"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "ne"); output();
-    $subtype = $saved;
-    $lemma = $lem;
-}
-
 sub verb_aggl4 {
 # Imperative 2. Plural: (fatemelo)
     my $saved = $subtype;
