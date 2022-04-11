@@ -603,6 +603,7 @@ sub get_verbforms {
 }
 
 %PRON_PERS = (
+    ce => 1,
     me => 1,
     mi => 1,
     te => 2,
@@ -615,10 +616,13 @@ sub get_verbforms {
     li => 3,
     lo => 3,
     le => 3,
-    la => 3
+    la => 3,
+    se => 3,
+    si => 3
     );
 
 %PRON_LEMMA = (
+    ce => ce,
     me => io,
     mi => io,
     te => tu,
@@ -631,7 +635,9 @@ sub get_verbforms {
     li => loro,
     lo => lui,
     le => lui,
-    la => lui
+    la => lui,
+    se => se,
+    si => si
     );
 
 sub verb_parts {
