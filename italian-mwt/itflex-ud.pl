@@ -667,6 +667,7 @@ sub verb_aggl {
     my $saved = $subtype;
     if ($subtype) { $subtype .= "|"; }
     $subtype .= "Clitic=Yes";
+    my $lem = $lemma;
     $form = $agglform . "lo"; @parts = verb_parts($agglform, $lemma, $saved, "lo"); output();
     $form = $agglform . "la"; @parts = verb_parts($agglform, $lemma, $saved, "la"); output();
 #   $form = $agglform . "La"; output();
