@@ -19,3 +19,26 @@
       (VBP hate)
       (NP (DT the) (NNP @MBTA)))))
 
+( (S
+    (NP
+      (NP (NNP Sh'reyan) (POS 's))
+      (NNS antennae))
+    (VP
+      (VBP are)
+      (ADJP (RB hella) (JJ thicc)))))
+
+( (S
+    (NP (NN girl))
+    (NP (DT dat) (NN ass))
+    (VP (-NONE- *?*)
+        (ADJP (RB thicc)))))
+
+( (S
+    (NP (PRP$ Our) (NN system))
+    (VP
+      (VBZ makes)
+      (NP
+        (NP (JJ hella) (NNS errors))
+        (PP
+          (IN on)
+          (NP (NN slang)))))))
