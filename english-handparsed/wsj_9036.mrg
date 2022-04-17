@@ -31,7 +31,7 @@
     (NP (NN girl))
     (NP (DT dat) (NN ass))
     (VP (-NONE- *?*)
-        (ADJP (RB thicc)))))
+        (ADJP (JJ thicc)))))
 
 ( (S
     (NP (PRP$ Our) (NN system))
