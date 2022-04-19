@@ -608,7 +608,7 @@ sub get_verbforms {
     mi => 1,
     te => 2,
     ti => 2,
-    ci => 2,
+    ci => 1,
     ve => 2,
     vi => 2,
     gli => 3,
@@ -623,19 +623,19 @@ sub get_verbforms {
 
 %PRON_LEMMA = (
     ce => ce,
-    me => io,
-    mi => io,
-    te => tu,
-    ti => tu,
-    ci => noi,
-    ve => voi,
-    vi => voi,
-    gli => loro,
-    glie => loro,
-    li => loro,
-    lo => lui,
-    le => lui,
-    la => lui,
+    ci => ci,
+    me => me,
+    mi => mi,
+    te => te,
+    ti => ti,
+    ve => ve,
+    vi => vi,
+    gli => gli,
+    glie => gli,
+    la => la,
+    le => 'le',
+    li => li,
+    lo => lo,
     se => se,
     si => si
     );
@@ -668,48 +668,50 @@ sub verb_aggl {
     if ($subtype) { $subtype .= "|"; }
     $subtype .= "Clitic=Yes";
     my $lem = $lemma;
-    $form = $agglform . "lo"; @parts = verb_parts($agglform, $lemma, $saved, "lo"); output();
-    $form = $agglform . "la"; @parts = verb_parts($agglform, $lemma, $saved, "la"); output();
-#   $form = $agglform . "La"; output();
-    $form = $agglform . "li"; @parts = verb_parts($agglform, $lemma, $saved, "li"); output();
-    $form = $agglform . "le"; @parts = verb_parts($agglform, $lemma, $saved, "le"); output();
-    $form = $agglform . "gli"; @parts = verb_parts($agglform, $lemma, $saved, "gli"); output();
-    $form = $agglform . "ne"; @parts = verb_parts($agglform, $lemma, $saved, "ne"); output();
-    $form = $agglform . "mi"; @parts = verb_parts($agglform, $lemma, $saved, "mi"); output();
-    $form = $agglform . "ti"; @parts = verb_parts($agglform, $lemma, $saved, "ti"); output();
-    $form = $agglform . "si"; @parts = verb_parts($agglform, $lemma, $saved, "si"); output();
-    $form = $agglform . "ci"; @parts = verb_parts($agglform, $lemma, $saved, "ci"); output();
-    $form = $agglform . "vi"; @parts = verb_parts($agglform, $lemma, $saved, "vi"); output();
-    $form = $agglform . "mela"; @parts = verb_parts($agglform, $lemma, $saved, "me", "la"); output();
-    $form = $agglform . "tela"; @parts = verb_parts($agglform, $lemma, $saved, "te", "la"); output();
-    $form = $agglform . "sela"; @parts = verb_parts($agglform, $lemma, $saved, "se", "la"); output();
-    $form = $agglform . "gliela"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "la"); output();
-    $form = $agglform . "cela"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "la"); output();
-    $form = $agglform . "vela"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "la"); output();
-    $form = $agglform . "melo"; @parts = verb_parts($agglform, $lemma, $saved, "me", "lo"); output();
-    $form = $agglform . "telo"; @parts = verb_parts($agglform, $lemma, $saved, "te", "lo"); output();
-    $form = $agglform . "selo"; @parts = verb_parts($agglform, $lemma, $saved, "se", "lo"); output();
-    $form = $agglform . "glielo"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "lo"); output();
-    $form = $agglform . "celo"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "lo"); output();
-    $form = $agglform . "velo"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "lo"); output();
-    $form = $agglform . "mele"; @parts = verb_parts($agglform, $lemma, $saved, "me", "le"); output();
-    $form = $agglform . "tele"; @parts = verb_parts($agglform, $lemma, $saved, "te", "le"); output();
-    $form = $agglform . "sele"; @parts = verb_parts($agglform, $lemma, $saved, "se", "le"); output();
-    $form = $agglform . "gliele"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "le"); output();
-    $form = $agglform . "cele"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "le"); output();
-    $form = $agglform . "vele"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "le"); output();
-    $form = $agglform . "meli"; @parts = verb_parts($agglform, $lemma, $saved, "me", "li"); output();
-    $form = $agglform . "teli"; @parts = verb_parts($agglform, $lemma, $saved, "te", "li"); output();
-    $form = $agglform . "seli"; @parts = verb_parts($agglform, $lemma, $saved, "se", "li"); output();
-    $form = $agglform . "glieli"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "li"); output();
-    $form = $agglform . "celi"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "li"); output();
-    $form = $agglform . "veli"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "li"); output();
-    $form = $agglform . "mene"; @parts = verb_parts($agglform, $lemma, $saved, "me", "ne"); output();
-    $form = $agglform . "tene"; @parts = verb_parts($agglform, $lemma, $saved, "te", "ne"); output();
-    $form = $agglform . "sene"; @parts = verb_parts($agglform, $lemma, $saved, "se", "ne"); output();
-    $form = $agglform . "gliene"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "ne"); output();
-    $form = $agglform . "cene"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "ne"); output();
-    $form = $agglform . "vene"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "ne"); output();
+    if (!$intrans) {
+	$form = $agglform . "lo"; @parts = verb_parts($agglform, $lemma, $saved, "lo"); output();
+	$form = $agglform . "la"; @parts = verb_parts($agglform, $lemma, $saved, "la"); output();
+	#   $form = $agglform . "La"; output();
+	$form = $agglform . "li"; @parts = verb_parts($agglform, $lemma, $saved, "li"); output();
+	$form = $agglform . "le"; @parts = verb_parts($agglform, $lemma, $saved, "le"); output();
+	$form = $agglform . "gli"; @parts = verb_parts($agglform, $lemma, $saved, "gli"); output();
+	$form = $agglform . "ne"; @parts = verb_parts($agglform, $lemma, $saved, "ne"); output();
+	$form = $agglform . "mi"; @parts = verb_parts($agglform, $lemma, $saved, "mi"); output();
+	$form = $agglform . "ti"; @parts = verb_parts($agglform, $lemma, $saved, "ti"); output();
+	$form = $agglform . "si"; @parts = verb_parts($agglform, $lemma, $saved, "si"); output();
+	$form = $agglform . "ci"; @parts = verb_parts($agglform, $lemma, $saved, "ci"); output();
+	$form = $agglform . "vi"; @parts = verb_parts($agglform, $lemma, $saved, "vi"); output();
+	$form = $agglform . "mela"; @parts = verb_parts($agglform, $lemma, $saved, "me", "la"); output();
+	$form = $agglform . "tela"; @parts = verb_parts($agglform, $lemma, $saved, "te", "la"); output();
+	$form = $agglform . "sela"; @parts = verb_parts($agglform, $lemma, $saved, "se", "la"); output();
+	$form = $agglform . "gliela"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "la"); output();
+	$form = $agglform . "cela"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "la"); output();
+	$form = $agglform . "vela"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "la"); output();
+	$form = $agglform . "melo"; @parts = verb_parts($agglform, $lemma, $saved, "me", "lo"); output();
+	$form = $agglform . "telo"; @parts = verb_parts($agglform, $lemma, $saved, "te", "lo"); output();
+	$form = $agglform . "selo"; @parts = verb_parts($agglform, $lemma, $saved, "se", "lo"); output();
+	$form = $agglform . "glielo"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "lo"); output();
+	$form = $agglform . "celo"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "lo"); output();
+	$form = $agglform . "velo"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "lo"); output();
+	$form = $agglform . "mele"; @parts = verb_parts($agglform, $lemma, $saved, "me", "le"); output();
+	$form = $agglform . "tele"; @parts = verb_parts($agglform, $lemma, $saved, "te", "le"); output();
+	$form = $agglform . "sele"; @parts = verb_parts($agglform, $lemma, $saved, "se", "le"); output();
+	$form = $agglform . "gliele"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "le"); output();
+	$form = $agglform . "cele"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "le"); output();
+	$form = $agglform . "vele"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "le"); output();
+	$form = $agglform . "meli"; @parts = verb_parts($agglform, $lemma, $saved, "me", "li"); output();
+	$form = $agglform . "teli"; @parts = verb_parts($agglform, $lemma, $saved, "te", "li"); output();
+	$form = $agglform . "seli"; @parts = verb_parts($agglform, $lemma, $saved, "se", "li"); output();
+	$form = $agglform . "glieli"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "li"); output();
+	$form = $agglform . "celi"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "li"); output();
+	$form = $agglform . "veli"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "li"); output();
+	$form = $agglform . "mene"; @parts = verb_parts($agglform, $lemma, $saved, "me", "ne"); output();
+	$form = $agglform . "tene"; @parts = verb_parts($agglform, $lemma, $saved, "te", "ne"); output();
+	$form = $agglform . "sene"; @parts = verb_parts($agglform, $lemma, $saved, "se", "ne"); output();
+	$form = $agglform . "gliene"; @parts = verb_parts($agglform, $lemma, $saved, "glie", "ne"); output();
+	$form = $agglform . "cene"; @parts = verb_parts($agglform, $lemma, $saved, "ce", "ne"); output();
+	$form = $agglform . "vene"; @parts = verb_parts($agglform, $lemma, $saved, "ve", "ne"); output();
+    }
     $subtype = $saved;
     $lemma = $lem;
 }
@@ -1672,8 +1674,10 @@ sub prp01 {
     # $subtype = "art";
     makeroot(1);
     detprep("Gender=Masc", "Number=Sing", "l", "il");
-    detprep("Gender=Comb", "Number=Sing", "ll'", "il");
-    detprep("Gender=Masc", "Number=Sing", "llo", "il");
+    #    detprep("Gender=Comb", "Number=Sing", "ll'", "il");
+    detprep("Gender=Comb", "Number=Sing", "ll'", "l'");
+    detprep("Gender=Comb", "Number=Sing", "ll’", "l’");
+    detprep("Gender=Masc", "Number=Sing", "llo", "lo");
     detprep("Gender=Fem", "Number=Sing", "lla", "la");
     detprep("Gender=Masc", "Number=Plur", "i", "i");
     detprep("Gender=Masc", "Number=Plur", "gli", "gli");
