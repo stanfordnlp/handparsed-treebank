@@ -682,7 +682,7 @@
       (NP (DT the) (NN meal))
       (PP (IN on)
         (NP
-          (NP (NN flight) (NN UA) (CD 386))
+          (NP (NN flight) (NNP UA) (CD 386))
           (PP (IN from)
             (NP (NNP San) (NNP Francisco)))
           (PP (IN to)
