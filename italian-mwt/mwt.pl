@@ -13,6 +13,7 @@ verb("portare", 1);
 verb("battere", 2);
 verb("abbracciare", 3);
 verb("finire", 4);
+verb("leccare", 5);
 verb("peccare", 5, "intr");
 verb("accadere", 6, "intr");
 verb("succedere", 7, "intr");
