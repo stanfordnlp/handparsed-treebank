@@ -36,3 +36,9 @@
 9034: imperatives (the separate "commands" data of 100 imperatives)
 9035: historical usages (was formerly "historical.0001.mrg")
 9036: informal social media stuff (was formerly "informal.0001.mrg")
+
+
+
+# english.conll: automatically converted using CoreNLP's conversion tool
+# some checking of the dependencies, features, etc would be useful though
+# for i in `ls *.mrg | cut -d "." -f 1`; do echo $i; java edu.stanford.nlp.trees.ud.UniversalDependenciesConverter -treeFile $i.mrg  -outputRepresentation enhanced -addFeatures > $i.conll; done
