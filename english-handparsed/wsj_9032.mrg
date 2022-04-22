@@ -432,3 +432,14 @@
         (PP (IN in)
           (NP (NNS years)))))
     (. .)))
+
+( (S
+    (NP (PRP He))
+    (VP
+      (VBD was)
+      (VP
+        (VBN elected)
+        (S (NP (NN president)))
+        (PP
+          (IN in)
+          (NP (CD 2008)))))))
