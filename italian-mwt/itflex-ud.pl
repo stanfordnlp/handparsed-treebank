@@ -1,16 +1,33 @@
-#! /usr/bin/perl
-###########################################################################
-# itflex.pl
-# (c) Achim Stein 1994
-# Institut fuer Linguistik/Romanistik
-# Universitaet Stuttgart
-# email: achim@ims.uni-stuttgart.de
+#! /usr/bin/env perl
+# =============================================================================
+# Authors:
+#   Achim Stein
+#     Institut fuer Linguistik/Romanistik
+#     Universitaet Stuttgart
+#     email: achim@ims.uni-stuttgart.de
 #
-# Entirely rewritten in Perl, by:
-# (c) 2005, Giuseppe Attardi
-# attardi@di.unipi.it
+#   Giuseppe Attardi
+#     Dipartimento di Informatica
+#     Universittà di Pisa
+#     email: attardi@di.unipi.it
 #
-###########################################################################
+# =============================================================================
+#  Copyright (c) 2005-2022. Giuseppe Attardi (attardi@di.unipi.it).
+# =============================================================================
+#
+#  This is free software; you can redistribute it and/or modify it
+#  under the terms of the GNU Affero General Public License, version 3,
+#  as published by the Free Software Foundation.
+#
+#  The code is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU Affero General Public License for more details.
+#
+#  The GNU Affero General Public License is available at:
+#      http://www.gnu.org/licenses/
+#
+# =============================================================================
 
 ###########################################################################
 # Universal Dependencies tags
@@ -96,7 +113,7 @@ use Getopt::Std;
 sub usage {
     die <<USAGE;
  Usage:  $0 [options] lexFile
- Generate lexicon database from commands in lexFile.
+ Generate lexicon database from commands in lexFile (e.g. ./mwt.pl).
  options:
  -h	print this message
  -m     output just multi-word expressions
@@ -1674,7 +1691,6 @@ sub prp01 {
     # $subtype = "art";
     makeroot(1);
     detprep("Gender=Masc", "Number=Sing", "l", "il");
-    #    detprep("Gender=Comb", "Number=Sing", "ll'", "il");
     detprep("Gender=Comb", "Number=Sing", "ll'", "l'");
     detprep("Gender=Comb", "Number=Sing", "ll’", "l’");
     detprep("Gender=Masc", "Number=Sing", "llo", "lo");
