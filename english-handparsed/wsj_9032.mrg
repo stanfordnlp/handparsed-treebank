@@ -443,3 +443,16 @@
         (PP
           (IN in)
           (NP (CD 2008)))))))
+
+
+( (S
+    (NP (PRP He))
+    (VP
+      (VBD was)
+      (VP
+        (VBN elected)
+        (S (NP (NN president)))
+        (PP
+          (IN in)
+          (NP (CD 2008)))))
+    (. .)))
