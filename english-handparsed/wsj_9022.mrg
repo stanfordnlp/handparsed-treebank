@@ -80,3 +80,17 @@
           (NP (DT the) (NN omelette) (POS 's))
           (NN smell))))
     (. .)))
+
+
+( (S
+    (S
+      (NP (NN Aspirin))
+      (VP (VBZ causes)
+        (NP (NN bleeding))))
+    (CC and)
+    (S
+      (NP (NNP Ibuprofen))
+      (VP (VBZ reduces)
+        (NP (NN inflammation))))
+    (. .)))
+
