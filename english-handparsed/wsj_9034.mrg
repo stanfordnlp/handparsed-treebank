@@ -464,6 +464,12 @@
 ((S
   (VP
     (VB Turn)
+    (PRT (RP on))
+    (NP (DT the) (NN light)))))
+
+((S
+  (VP
+    (VB Switch)
     (PRT (RP off))
     (NP (DT the) (NN light)))))
 
