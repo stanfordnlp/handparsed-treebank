@@ -4133,9 +4133,9 @@
 3	!	!	PUNCT	.	_	1	punct	1:punct	_
 
 1	Turn	turn	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	on	on	ADP	IN	_	4	case	4:case	_
+2	off	off	ADP	RP	_	1	compound:prt	1:compound:prt	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-4	light	light	NOUN	NN	Number=Sing	1	obl	1:obl:on	_
+4	light	light	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
 1	Scan	scan	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_

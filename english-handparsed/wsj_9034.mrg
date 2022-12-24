@@ -462,9 +462,10 @@
   (. !)))
 
 ((S
-    (VP (VB Turn)
-      (PP (IN on)
-        (NP (DT the) (NN light))))))
+  (VP
+    (VB Turn)
+    (PRT (RP off))
+    (NP (DT the) (NN light)))))
 
 ((S
   (VP 
