@@ -65,7 +65,7 @@
 6	mosque	mosque	NOUN	NN	Number=Sing	4	nmod	4:nmod:at	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-2	European	european	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+2	European	European	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	parliament	parliament	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
 4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
@@ -613,7 +613,7 @@
 18	in	in	ADP	IN	_	19	case	19:case	_
 19	animals	animal	NOUN	NNS	Number=Plur	17	nmod	17:nmod:in	_
 20	and	and	CCONJ	CC	_	21	cc	21:cc	_
-21	people	people	NOUN	NNS	Number=Plur	19	conj	17:nmod:in|19:conj:and	_
+21	people	person	NOUN	NNS	Number=Plur	19	conj	17:nmod:in|19:conj:and	_
 22	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 1	There	there	PRON	EX	_	2	expl	2:expl	_
@@ -823,7 +823,7 @@
 4	'	'	PUNCT	''	_	3	punct	3:punct	_
 5	docks	dock	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	in	in	ADP	IN	_	8	case	8:case	_
-7	Indian	indian	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+7	Indian	Indian	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	port	port	NOUN	NN	Number=Sing	5	obl	5:obl:in	_
 
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
@@ -1203,12 +1203,12 @@
 8	machine	machine	NOUN	NN	Number=Sing	6	conj	5:obj|6:conj:and	_
 
 1	Fifty	fifty	NUM	CD	NumType=Card	2	nummod	2:nummod	_
-2	Kurds	Kurds	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+2	Kurds	Kurd	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	for	for	SCONJ	IN	_	5	mark	5:mark	_
 5	waving	wave	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:for	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-7	Iraqi	iraqi	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+7	Iraqi	Iraqi	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	flag	flag	NOUN	NN	Number=Sing	5	obj	5:obj	_
 
 1	Switch	switch	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -2234,6 +2234,15 @@
 10	smell	smell	NOUN	NN	Number=Sing	6	obj	6:obj	_
 11	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+1	Aspirin	aspirin	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
+2	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	bleeding	bleeding	NOUN	NN	Number=Sing	2	obj	2:obj	_
+4	and	and	CCONJ	CC	_	6	cc	6:cc	_
+5	Ibuprofen	Ibuprofen	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+6	reduces	reduce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+7	inflammation	inflammation	NOUN	NN	Number=Sing	6	obj	6:obj	_
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+
 1	Stanford	Stanford	PROPN	NNP	Number=Sing	3	nsubj:pass	3:nsubj:pass	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -2283,7 +2292,7 @@
 9	subject	subject	NOUN	NN	Number=Sing	6	nmod	6:nmod:on	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-2	British	british	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+2	British	British	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	delegates	delegate	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 4	obtained	obtain	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	visas	visa	NOUN	NNS	Number=Plur	4	obj	4:obj	_
@@ -2968,7 +2977,7 @@
 20	of	of	ADP	IN	_	24	case	24:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
 22	greatest	great	ADJ	JJR	Degree=Cmp	24	amod	24:amod	_
-23	English	english	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
+23	English	English	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
 24	writers	writer	NOUN	NNS	Number=Plur	19	nmod	19:nmod:of	_
 25	to	to	PART	TO	_	28	mark	28:mark	_
 26	have	have	AUX	VB	VerbForm=Inf	28	aux	28:aux	_
@@ -3005,7 +3014,7 @@
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 1	Places	place	NOUN	NNS	Number=Plur	0	root	0:root	_
-2	people	people	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+2	people	person	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	1	acl:relcl	1:acl:relcl	_
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
@@ -3327,7 +3336,7 @@
 3	HELP	help	NOUN	NN	Number=Sing	2	obj	2:obj	_
 4	with	with	ADP	IN	_	7	case	7:case	_
 5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
-6	Syrian	syrian	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+6	Syrian	Syrian	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	Hamster	hamster	NOUN	NN	Number=Sing	3	nmod	3:nmod:with	_
 8	!!!?	!!!?	PUNCT	.	_	2	punct	2:punct	_
 
@@ -3519,7 +3528,7 @@
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	1930	1930	NUM	CD	NumType=Card	7	nmod	7:nmod:of	_
 10	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-11	people	people	NOUN	NNS	Number=Plur	10	obj	10:obj	_
+11	people	person	NOUN	NNS	Number=Plur	10	obj	10:obj	_
 12	from	from	ADP	IN	_	14	case	14:case	_
 13	mixed	mixed	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	marriages	marriage	NOUN	NNS	Number=Plur	11	nmod	11:nmod:from	_
@@ -3760,7 +3769,7 @@
 6	address	address	NOUN	NN	Number=Sing	2	dep	2:dep	_
 
 1	Find	find	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	people	people	NOUN	NNS	Number=Plur	1	obj	1:obj	_
+2	people	person	NOUN	NNS	Number=Plur	1	obj	1:obj	_
 3	named	name	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
 4	Park	Park	PROPN	NNP	Number=Sing	3	obj	3:obj	_
 
@@ -3883,7 +3892,7 @@
 8	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 1	Good	good	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
-2	Mexican	mexican	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+2	Mexican	Mexican	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	restaurants	restaurant	NOUN	NNS	Number=Plur	0	root	0:root	_
 4	around	around	ADP	IN	_	5	case	5:case	_
 5	here	here	ADV	RB	PronType=Dem	3	nmod	3:nmod:around	_
@@ -4130,7 +4139,7 @@
 
 1	Scan	scan	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-3	papers	papers	NOUN	NNS	Number=Plur	1	obj	1:obj	_
+3	papers	paper	NOUN	NNS	Number=Plur	1	obj	1:obj	_
 
 1	upload	upload	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
