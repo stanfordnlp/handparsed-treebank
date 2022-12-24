@@ -203,3 +203,17 @@
       (PP (IN in)))
     (. ?)))
 
+
+( (S
+    (S
+      (VP
+        (VB Turn)
+        (PRT (RP off))
+        (NP (DT the) (NN oven))))
+    (, ;)
+    (S
+      (ADVP (RB else))
+      (NP (DT the) (NN roast))
+      (VP
+        (MD will)
+        (VP (VB burn))))))

@@ -2584,6 +2584,17 @@
 5	in	in	ADP	IN	_	3	obl	3:obl	_
 6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+1	Turn	turn	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	off	off	ADP	RP	_	1	compound:prt	1:compound:prt	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	oven	oven	NOUN	NN	Number=Sing	1	obj	1:obj	_
+5	;	;	PUNCT	,	_	1	punct	1:punct	_
+6	else	else	ADV	RB	_	10	advmod	10:advmod	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	roast	roast	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
+9	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+10	burn	burn	VERB	VB	VerbForm=Inf	1	parataxis	1:parataxis	_
+
 1	(	(	PUNCT	-LRB-	_	2	punct	2:punct	_
 2	CNN	CNN	PROPN	NNP	Number=Sing	0	root	0:root	_
 3	)	)	PUNCT	-RRB-	_	2	punct	2:punct	_
