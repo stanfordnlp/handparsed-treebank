@@ -217,3 +217,32 @@
       (VP
         (MD will)
         (VP (VB burn))))))
+
+( (S
+    (NP (DT The) (NN bee))
+    (VP
+      (MD will)
+      (VP
+        (VB sting)
+        (NP (PRP you))
+        (SBAR
+          (IN if)
+          (S
+            (NP (PRP you))
+            (VP
+              (VBP are)
+              (RB n't)
+              (ADJP (JJ careful)))))))))
+
+( (S
+    (NP (PRP$ My) (NN daughter))
+    (VP
+      (VBZ likes)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB swing)
+            (PP
+              (IN at)
+              (NP (DT the) (NN playground)))))))))
