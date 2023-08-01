@@ -79,3 +79,55 @@
     (VBD meant)
     (NP (CD 3000) (JJR more) (NN coronavirus) (NNS infections)))))
 
+( (S
+   (SBAR
+     (IN As)
+     (S
+       (NP (PRP$ my) (NN arthritis))
+       (VP
+         (VBZ gets)
+         (ADJP (JJR worse)))))
+   (, ,)
+   (NP (PRP$ my) (NN thigh))
+   (VP
+     (VBZ gets)
+     (ADJP (JJR number)))))
+
+( (S
+   (NP (NN Cocaine))
+   (VP
+     (VBZ makes)
+     (S
+       (NP (PRP$ my) (NNS lips))
+       (ADJP
+         (ADJP (JJR number))
+         (PP
+           (IN than)
+           (NP (NN meth))))))))
+
+
+( (S
+   (NP
+     (NP (DT The) (JJ only) (NN time))
+     (SBAR
+       (S
+         (NP (PRP I))
+         (VP
+           (VBD felt)
+           (ADJP (JJR number))))))
+   (VP
+     (VBD was)
+     (SBAR
+       (WHADVP (WRB when))
+       (S
+         (NP (PRP I))
+         (VP
+           (VBD rubbed)
+           (NP (NN one))
+           (PRT (RP out))
+           (NP
+             (NP (CD three) (NNS times))
+             (PP
+               (IN in)
+               (NP (DT a) (NN row))))))))))
+
