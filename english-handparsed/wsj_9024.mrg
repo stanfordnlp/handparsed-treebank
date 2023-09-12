@@ -62,6 +62,72 @@
         (NP (DT the) (NN recycling))))))
 
 ( (S
+    (NP (DT The) (NN soup) (NN can))
+    (VP
+      (VBD swelled)
+      (PRT (RP up))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (ADVP (RB just))
+          (VP
+            (VBZ means)
+            (NP (JJ free) (NN botox)))
+          (, ,)
+          (INTJ (JJ right)))))
+    (. ?)))
+
+
+( (S
+    (NP (DT The) (JJ empty) (NN can))
+    (VP
+      (VBD tipped)
+      (PRT (RB over)))))
+
+
+( (S
+    (NP (PRP$ My) (NN art) (NN teacher))
+    (VP
+      (VBD used)
+      (NP (PRP$ my) (NN charcoal) (NN pencil))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB make)
+            (S
+              (NP
+                (NP (NNP Jennifer) (POS 's))
+                (JJ right)
+                (NN can))
+              (ADJP
+                (NP (DT a) (NN bit))
+                (JJR bigger))))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP
+            (VBD asked)
+            (PP
+              (IN for)
+              (NP
+                (NP (NN advice))
+                (PP
+                  (IN on)
+                  (NP
+                    (NP (DT the) (NN nude))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP
+                          (VBD had)
+                          (VP (VBN drawn)))))))))))))))
+
+
+
+( (S
     (NP
       (NP (JJ High) (NN exposure))
       (PP

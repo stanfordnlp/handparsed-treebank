@@ -2397,6 +2397,55 @@
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	recycling	recycling	NOUN	NN	Number=Sing	2	obl	2:obl:in	_
 
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	soup	soup	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	can	can	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	swelled	swell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	up	up	ADP	RP	_	4	compound:prt	4:compound:prt	_
+6	,	,	PUNCT	,	_	4	punct	4:punct	_
+7	which	which	PRON	WDT	PronType=Int	9	nsubj	9:nsubj	_
+8	just	just	ADV	RB	_	9	advmod	9:advmod	_
+9	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
+10	free	free	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	botox	botox	NOUN	NN	Number=Sing	9	obj	9:obj	_
+12	,	,	PUNCT	,	_	9	punct	9:punct	_
+13	right	right	ADJ	JJ	Degree=Pos	9	discourse	9:discourse	_
+14	?	?	PUNCT	.	_	4	punct	4:punct	_
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	empty	empty	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	can	can	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	tipped	tip	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	over	over	ADV	RB	_	4	compound:prt	4:compound:prt	_
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	art	art	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	teacher	teacher	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	charcoal	charcoal	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	pencil	pencil	NOUN	NN	Number=Sing	4	obj	4:obj	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	make	make	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	_
+10	Jennifer	Jennifer	PROPN	NNP	Number=Sing	13	nmod:poss	13:nmod:poss	_
+11	's	's	PART	POS	_	10	case	10:case	_
+12	right	right	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	can	can	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+15	bit	bit	NOUN	NN	Number=Sing	16	obl:npmod	16:obl:npmod	_
+16	bigger	big	ADJ	JJR	Degree=Cmp	9	xcomp	9:xcomp	_
+17	when	when	ADV	WRB	PronType=Int	19	advmod	19:advmod	_
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj	_
+19	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	4:advcl	_
+20	for	for	ADP	IN	_	21	case	21:case	_
+21	advice	advice	NOUN	NN	Number=Sing	19	obl	19:obl:for	_
+22	on	on	ADP	IN	_	24	case	24:case	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+24	nude	nude	NOUN	NN	Number=Sing	21	nmod	21:nmod:on	_
+25	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	27:nsubj	_
+26	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	27	aux	27:aux	_
+27	drawn	draw	VERB	VBN	Tense=Past|VerbForm=Part	24	acl:relcl	24:acl:relcl	_
+
 1	High	high	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	exposure	exposure	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 3	to	to	ADP	IN	_	4	case	4:case	_
