@@ -26,6 +26,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	@MBTA	@MBTA	PROPN	NNP	Number=Sing	3	obj	3:obj	_
 
+1-2	Sh'reyan's	_	_	_	_	_	_	_	_
 1	Sh'reyan	Sh'reyan	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
 2	's	's	PART	POS	_	1	case	1:case	_
 3	antennae	antenna	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_

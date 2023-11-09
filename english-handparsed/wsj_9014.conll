@@ -125,6 +125,7 @@
 4	fleas	flea	NOUN	NNS	Number=Plur	1	obl	1:obl:for	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	_
 2	n't	not	PART	RB	_	3	advmod	3:advmod	_
 3	sleep	sleep	VERB	VB	VerbForm=Inf	0	root	0:root	_

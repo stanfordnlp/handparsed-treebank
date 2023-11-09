@@ -46,6 +46,7 @@
 7	NYC	NYC	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+1-2	I'M	_	_	_	_	_	_	_	_
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
 2	'M	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	FEELING	feel	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_

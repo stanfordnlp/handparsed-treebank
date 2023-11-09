@@ -32,6 +32,7 @@
 4	peanuts	peanut	NOUN	NNS	Number=Plur	1	obj	1:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	5	aux	5:aux	SpaceAfter=No
 2	n't	not	PART	RB	_	5	advmod	5:advmod	_
 3	be	be	VERB	VB	VerbForm=Inf	5	cop	5:cop	_

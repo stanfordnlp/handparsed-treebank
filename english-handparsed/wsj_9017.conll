@@ -7,6 +7,7 @@
 7	London	London	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	SpaceAfter=No
 2	n't	not	PART	RB	_	3	advmod	3:advmod	_
 3	use	use	VERB	VB	VerbForm=Inf	0	root	0:root	_

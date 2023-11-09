@@ -210,10 +210,12 @@
 
 1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 2	Ms.	Ms.	PROPN	NNP	Number=Sing	3	compound	3:compound	_
+3-4	Currie's	_	_	_	_	_	_	_	_
 3	Currie	Currie	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	SpaceAfter=No
 4	's	's	PART	POS	_	3	case	3:case	_
 5	lawyers	lawyer	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
 6	stated	state	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+7-8	she's	_	_	_	_	_	_	_	_
 7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	SpaceAfter=No
 8	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 9	not	not	PART	RB	_	10	advmod	10:advmod	_
@@ -261,6 +263,7 @@
 2	which	which	DET	WDT	PronType=Int	3	det	3:det	_
 3	city	city	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
 4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5-6	John's	_	_	_	_	_	_	_	_
 5	John	John	PROPN	NNP	Number=Sing	7	nmod:poss	7:nmod:poss	SpaceAfter=No
 6	's	's	PART	POS	_	5	case	5:case	_
 7	laptop	laptop	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -328,6 +331,7 @@
 6	?	?	PUNCT	.	_	5	punct	5:punct	_
 
 1	Why	why	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
+2-3	didn't	_	_	_	_	_	_	_	_
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
 3	n't	not	PART	RB	_	5	advmod	5:advmod	_
 4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
@@ -348,6 +352,7 @@
 9	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 1	Why	why	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
+2-3	didn't	_	_	_	_	_	_	_	_
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
 3	n't	not	PART	RB	_	5	advmod	5:advmod	_
 4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
@@ -841,6 +846,7 @@
 7	NYC	NYC	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+1-2	I'M	_	_	_	_	_	_	_	_
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
 2	'M	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	FEELING	feel	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
@@ -1033,6 +1039,7 @@
 3	Zune	Zune	PROPN	NNP	Number=Sing	1	dep	1:dep	SpaceAfter=No
 4	?	?	PUNCT	.	_	1	punct	1:punct	_
 
+1-2	He's	_	_	_	_	_	_	_	_
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	4:nsubj:pass	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 3	not	not	PART	RB	_	4	advmod	4:advmod	_
@@ -1118,6 +1125,7 @@
 7	institution	institution	NOUN	NN	Number=Sing	1	nmod	1:nmod:of|9:nmod:poss	_
 8	whose	whose	PRON	WP$	Poss=Yes|PronType=Int	9	nmod:poss	7:ref	_
 9	attitude	attitude	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+10-11	Won't	_	_	_	_	_	_	_	_
 10	Wo	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	SpaceAfter=No
 11	n't	not	PART	RB	_	12	advmod	12:advmod	_
 12	die	die	VERB	VB	VerbForm=Inf	7	acl:relcl	7:acl:relcl	SpaceAfter=No
@@ -1219,6 +1227,7 @@
 
 1	Fix	fix	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3-4	user's	_	_	_	_	_	_	_	_
 3	user	user	NOUN	NN	Number=Sing	6	nmod:poss	6:nmod:poss	SpaceAfter=No
 4	's	's	PART	POS	_	3	case	3:case	_
 5	parser	parser	NOUN	NN	Number=Sing	6	compound	6:compound	_
@@ -1247,6 +1256,7 @@
 1	Please	please	INTJ	UH	_	2	discourse	2:discourse	_
 2	tell	tell	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	Sebastian	Sebastian	PROPN	NNP	Number=Sing	2	obj	2:obj	_
+4-5	we'll	_	_	_	_	_	_	_	_
 4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	9:nsubj	SpaceAfter=No
 5	'll	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
 6	be	be	VERB	VB	VerbForm=Inf	9	cop	9:cop	_
@@ -1287,6 +1297,7 @@
 2	Bon	Bon	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	Jovi	Jovi	PROPN	NNP	Number=Sing	1	obj	1:obj	_
 
+1-2	Let's	_	_	_	_	_	_	_	_
 1	Let	let	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 2	's	's	PRON	PRP	_	3	nsubj	3:nsubj	_
 3	talk	talk	VERB	VB	VerbForm=Inf	1	ccomp	1:ccomp	_
@@ -1401,6 +1412,7 @@
 4	peanuts	peanut	NOUN	NNS	Number=Plur	1	obj	1:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	5	aux	5:aux	SpaceAfter=No
 2	n't	not	PART	RB	_	5	advmod	5:advmod	_
 3	be	be	VERB	VB	VerbForm=Inf	5	cop	5:cop	_
@@ -1671,6 +1683,7 @@
 4	fleas	flea	NOUN	NNS	Number=Plur	1	obl	1:obl:for	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	_
 2	n't	not	PART	RB	_	3	advmod	3:advmod	_
 3	sleep	sleep	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -1816,6 +1829,7 @@
 7	London	London	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	SpaceAfter=No
 2	n't	not	PART	RB	_	3	advmod	3:advmod	_
 3	use	use	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -2158,6 +2172,7 @@
 14	broken	break	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	advcl	19:advcl:because	SpaceAfter=No
 15	,	,	PUNCT	,	_	19	punct	19:punct	_
 16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj	_
+17-18	couldn't	_	_	_	_	_	_	_	_
 17	could	could	AUX	MD	VerbForm=Fin	19	aux	19:aux	SpaceAfter=No
 18	n't	not	PART	RB	_	19	advmod	19:advmod	_
 19	access	access	VERB	VB	VerbForm=Inf	2	conj	2:conj:but	_
@@ -2168,6 +2183,7 @@
 1	One	one	NUM	CD	NumType=Card	13	nsubj	13:nsubj	_
 2	of	of	ADP	IN	_	8	case	8:case	_
 3	Professor	Professor	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+4-5	Ng's	_	_	_	_	_	_	_	_
 4	Ng	Ng	PROPN	NNP	Number=Sing	8	nmod:poss	8:nmod:poss	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	4:case	_
 6	most	most	ADV	RBS	_	7	advmod	7:advmod	_
@@ -2266,6 +2282,7 @@
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
 6	hated	hate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8-9	omelette's	_	_	_	_	_	_	_	_
 8	omelette	omelette	NOUN	NN	Number=Sing	10	nmod:poss	10:nmod:poss	SpaceAfter=No
 9	's	's	PART	POS	_	8	case	8:case	_
 10	smell	smell	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
@@ -2427,6 +2444,7 @@
 7	pencil	pencil	NOUN	NN	Number=Sing	4	obj	4:obj	_
 8	to	to	PART	TO	_	9	mark	9:mark	_
 9	make	make	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	_
+10-11	Jennifer's	_	_	_	_	_	_	_	_
 10	Jennifer	Jennifer	PROPN	NNP	Number=Sing	13	nmod:poss	13:nmod:poss	SpaceAfter=No
 11	's	's	PART	POS	_	10	case	10:case	_
 12	right	right	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
@@ -2688,6 +2706,7 @@
 5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	4:obj	_
 6	if	if	SCONJ	IN	_	10	mark	10:mark	_
 7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
+8-9	aren't	_	_	_	_	_	_	_	_
 8	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
 9	n't	not	PART	RB	_	10	advmod	10:advmod	_
 10	careful	careful	ADJ	JJ	Degree=Pos	4	advcl	4:advcl:if	_
@@ -2712,6 +2731,7 @@
 4	5	5	NUM	CD	NumType=Card	1	dep	1:dep	SpaceAfter=No
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
 6	but	but	CCONJ	CC	_	10	cc	10:cc	_
+7-8	that's	_	_	_	_	_	_	_	_
 7	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	10:nsubj	SpaceAfter=No
 8	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 9	still	still	ADV	RB	_	10	advmod	10:advmod	_
@@ -2734,6 +2754,7 @@
 6	be	be	VERB	VB	VerbForm=Inf	13	cop	13:cop	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 8	21st	21st	ADJ	JJ	Degree=Pos|NumType=Ord	9	amod	9:amod	_
+9-10	century's	_	_	_	_	_	_	_	_
 9	century	century	NOUN	NN	Number=Sing	13	nmod:poss	13:nmod:poss	SpaceAfter=No
 10	's	's	PART	POS	_	9	case	9:case	_
 11	new	new	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
@@ -2932,10 +2953,12 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	hotel	hotel	NOUN	NN	Number=Sing	6	obl	6:obl:to	_
 11	because	because	SCONJ	IN	_	14	mark	14:mark	_
+12-13	you're	_	_	_	_	_	_	_	_
 12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	14:nsubj	SpaceAfter=No
 13	're	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 14	hungover	hungover	ADJ	JJ	Degree=Pos	2	advcl	2:advcl:because	_
 15	and	and	CCONJ	CC	_	18	cc	18:cc	_
+16-17	I'm	_	_	_	_	_	_	_	_
 16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	SpaceAfter=No
 17	'm	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
 18	broke	broke	ADJ	JJ	Degree=Pos	14	conj	2:advcl:because|14:conj:and	SpaceAfter=No
@@ -3217,6 +3240,7 @@
 30	former	former	ADJ	JJ	Degree=Pos	31	amod	31:amod	_
 31	players	player	NOUN	NNS	Number=Plur	25	conj	16:acl:relcl|25:conj:and	_
 32	on	on	ADP	IN	_	37	case	37:case	_
+33-34	China's	_	_	_	_	_	_	_	_
 33	China	China	PROPN	NNP	Number=Sing	37	nmod:poss	37:nmod:poss	SpaceAfter=No
 34	's	's	PART	POS	_	33	case	33:case	_
 35	national	national	ADJ	JJ	Degree=Pos	37	amod	37:amod	_
@@ -3302,6 +3326,7 @@
 5	leading	lead	VERB	VBG	VerbForm=Ger	6	amod	6:amod	_
 6	expert	expert	NOUN	NN	Number=Sing	2	appos	2:appos	_
 7	on	on	ADP	IN	_	11	case	11:case	_
+8-9	China's	_	_	_	_	_	_	_	_
 8	China	China	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 9	's	's	PART	POS	_	8	case	8:case	_
 10	environmental	environmental	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
@@ -3665,6 +3690,7 @@
 6	like	like	ADP	IN	_	7	case	7:case	_
 7	theirs	theirs	PRON	PRP	_	3	nmod	3:nmod:like	SpaceAfter=No
 8	,	,	PUNCT	,	_	14	punct	14:punct	_
+9-10	it's	_	_	_	_	_	_	_	_
 9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj|16:nsubj:xsubj	SpaceAfter=No
 10	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 11	not	not	PART	RB	_	14	advmod	14:advmod	_
@@ -3677,6 +3703,7 @@
 18	psychiatrist	psychiatrist	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
 19	.	.	PUNCT	.	_	14	punct	14:punct	_
 
+1-2	China's	_	_	_	_	_	_	_	_
 1	China	China	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
 2	's	's	PART	POS	_	1	case	1:case	_
 3	population	population	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
@@ -3709,6 +3736,7 @@
 11	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 1	`	`	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
+2-3	Don't	_	_	_	_	_	_	_	_
 2	Do	do	AUX	VB	VerbForm=Inf	4	aux	4:aux	SpaceAfter=No
 3	n't	not	PART	RB	_	4	advmod	4:advmod	_
 4	Let	let	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -3857,9 +3885,11 @@
 5	Danny	Danny	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	Cooper	Cooper	PROPN	NNP	Number=Sing	1	obl	1:obl:to	_
 
+1-2	What's	_	_	_	_	_	_	_	_
 1	What	what	PRON	WP	PronType=Int	0	root	0:root	SpaceAfter=No
 2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	Steve	Steve	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+4-5	Wang's	_	_	_	_	_	_	_	_
 4	Wang	Wang	PROPN	NNP	Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	4:case	_
 6	home	home	NOUN	NN	Number=Sing	7	compound	7:compound	_
@@ -3879,6 +3909,7 @@
 3	radio	radio	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
 1	show	show	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2-3	Jennifer's	_	_	_	_	_	_	_	_
 2	Jennifer	Jennifer	PROPN	NNP	Number=Sing	1	iobj	1:iobj	_
 3	's	's	PART	POS	_	2	case	2:case	_
 4	home	home	NOUN	NN	Number=Sing	6	compound	6:compound	_
@@ -3893,6 +3924,7 @@
 1	When	when	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4-5	wife's	_	_	_	_	_	_	_	_
 4	wife	wife	NOUN	NN	Number=Sing	6	nmod:poss	6:nmod:poss	SpaceAfter=No
 5	's	's	PART	POS	_	4	case	4:case	_
 6	birthday	birthday	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
@@ -3945,6 +3977,7 @@
 4	review	review	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	meeting	meeting	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+1-2	What's	_	_	_	_	_	_	_	_
 1	What	what	PRON	WP	PronType=Int	2	nsubj	2:nsubj	SpaceAfter=No
 2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	on	on	ADP	IN	_	5	case	5:case	_
@@ -4040,6 +4073,7 @@
 10	home	home	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+1-2	Apple's	_	_	_	_	_	_	_	_
 1	Apple	Apple	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
 2	's	's	PART	POS	_	1	case	1:case	_
 3	stock	stock	NOUN	NN	Number=Sing	4	compound	4:compound	_
@@ -4047,6 +4081,7 @@
 
 1	check	check	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3-4	week's	_	_	_	_	_	_	_	_
 3	week	week	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 4	's	's	PART	POS	_	3	case	3:case	_
 5	forecast	forecast	NOUN	NN	Number=Sing	3	dep	3:dep	_
@@ -4531,6 +4566,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	@MBTA	@MBTA	PROPN	NNP	Number=Sing	3	obj	3:obj	_
 
+1-2	Sh'reyan's	_	_	_	_	_	_	_	_
 1	Sh'reyan	Sh'reyan	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
 2	's	's	PART	POS	_	1	case	1:case	_
 3	antennae	antenna	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_

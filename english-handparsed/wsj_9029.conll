@@ -61,10 +61,12 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	hotel	hotel	NOUN	NN	Number=Sing	6	obl	6:obl:to	_
 11	because	because	SCONJ	IN	_	14	mark	14:mark	_
+12-13	you're	_	_	_	_	_	_	_	_
 12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	14:nsubj	SpaceAfter=No
 13	're	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 14	hungover	hungover	ADJ	JJ	Degree=Pos	2	advcl	2:advcl:because	_
 15	and	and	CCONJ	CC	_	18	cc	18:cc	_
+16-17	I'm	_	_	_	_	_	_	_	_
 16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	SpaceAfter=No
 17	'm	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
 18	broke	broke	ADJ	JJ	Degree=Pos	14	conj	2:advcl:because|14:conj:and	SpaceAfter=No
