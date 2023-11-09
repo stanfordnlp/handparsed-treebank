@@ -2130,6 +2130,7 @@
 8	Thanksgiving	Thanksgiving	PROPN	NNP	Number=Sing	3	obl:tmod	3:obl:tmod	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+1-2	'Twas	_	_	_	_	_	_	_	_
 1	'T	't	PRON	PRP	_	7	nsubj	7:nsubj	SpaceAfter=No
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
