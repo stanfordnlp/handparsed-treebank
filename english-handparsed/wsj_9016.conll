@@ -1,0 +1,42 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	premium	premium	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	membership	membership	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	from	from	ADP	IN	_	9	case	9:case	_
+7	24	24	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+8	Hour	Hour	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	Fitness	Fitness	PROPN	NNP	Number=Sing	2	obl	2:obl:from	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+1	Thursday	Thursday	PROPN	NNP	Number=Sing	4	obl:tmod	4:obl:tmod	_
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+3	hip	hip	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	hurt	hurt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+
+1	Tuesday	Tuesday	PROPN	NNP	Number=Sing	6	obl:tmod	6:obl:tmod	_
+2	last	last	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	week	week	NOUN	NN	Number=Sing	1	dep	1:dep	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	Flyers	Flyers	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+6	won	win	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+
+1	Anytime	anytime	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
+2	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	for	for	ADP	IN	_	4	case	4:case	_
+4	lunch	lunch	NOUN	NN	Number=Sing	2	obl	2:obl:for	_
+
+1	Anytime	anytime	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	week	week	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_
+4	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	for	for	ADP	IN	_	6	case	6:case	_
+6	lunch	lunch	NOUN	NN	Number=Sing	4	obl	4:obl:for	_
+
+1	Anytime	anytime	ADV	RB	_	6	advmod	6:advmod	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	run	run	VERB	VB	VerbForm=Inf	1	dep	1:dep	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	hip	hip	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+6	hurts	hurt	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+

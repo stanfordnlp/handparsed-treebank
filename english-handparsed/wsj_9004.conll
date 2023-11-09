@@ -1,0 +1,38 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	dog	dog	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	bit	bite	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	cat	cat	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	dog	dog	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	chases	chase	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	squirrels	squirrel	NOUN	NNS	Number=Plur	3	obj	3:obj	SpaceAfter=No
+5	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+1	His	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	dog	dog	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	eats	eat	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	sausage	sausage	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+5	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	2:amod	_
+2	dogs	dog	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	kibble	kibble	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+5	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	osprey	osprey	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	fish	fish	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	!	!	PUNCT	.	_	3	punct	3:punct	_
+
+1	There	there	PRON	EX	_	2	expl	2:expl	_
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	wolves	wolf	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+4	here	here	ADV	RB	PronType=Dem	2	advmod	2:advmod	SpaceAfter=No
+5	.	.	PUNCT	.	_	2	punct	2:punct	_
+

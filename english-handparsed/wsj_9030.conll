@@ -1,0 +1,64 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	am	be	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	nerd	nerd	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+5	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+1	Oversaw	oversee	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	car	car	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	manufacturing	manufacturing	NOUN	NN	Number=Sing	1	obj	1:obj	_
+
+1	Cook	cook	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	chicken	chicken	NOUN	NN	Number=Sing	1	obj	1:obj	_
+3	for	for	ADP	IN	_	5	case	5:case	_
+4	30	30	NUM	CD	NumType=Card	5	nummod	5:nummod	_
+5	mins	min	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_
+
+1	Braise	braise	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	lamb	lamb	NOUN	NN	Number=Sing	1	obj	1:obj	_
+3	for	for	ADP	IN	_	5	case	5:case	_
+4	20	20	NUM	CD	NumType=Card	5	nummod	5:nummod	_
+5	mins	min	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_
+
+1	Roast	roast	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	pork	pork	NOUN	NN	Number=Sing	1	obj	1:obj	_
+3	for	for	ADP	IN	_	5	case	5:case	_
+4	1	1	NUM	CD	NumType=Card	5	nummod	5:nummod	_
+5	hour	hour	NOUN	NN	Number=Sing	1	obl	1:obl:for	SpaceAfter=No
+6	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+1	Grill	grill	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	sausages	sausages	NOUN	NN	Number=Sing	1	obj	1:obj	_
+3	for	for	ADP	IN	_	5	case	5:case	_
+4	5	5	NUM	CD	NumType=Card	5	nummod	5:nummod	_
+5	minutes	minute	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	baked	bake	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	cake	cake	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	last	last	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	night	night	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
+
+1	Bake	bake	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	in	in	ADP	IN	_	3	case	3:case	_
+3	oven	oven	NOUN	NN	Number=Sing	1	obl	1:obl:in	_
+4	for	for	ADP	IN	_	6	case	6:case	_
+5	30	30	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+6	mins	min	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_
+
+1	unlock	unlock	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	debit	debit	NOUN	NN	Number=Sing	4	compound	4:compound	_
+4	card	card	NOUN	NN	Number=Sing	1	obj	1:obj	_
+
+1	Head	head	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	down	down	ADP	IN	_	4	case	4:case	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	stairs	stair	NOUN	NNS	Number=Plur	1	obl	1:obl:down	SpaceAfter=No
+5	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+1	Tip	tip	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	appropriately	appropriately	ADV	RB	_	1	advmod	1:advmod	SpaceAfter=No
+3	!	!	PUNCT	.	_	1	punct	1:punct	_
+

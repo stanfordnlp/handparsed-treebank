@@ -1,0 +1,13 @@
+1	Nitric	nitric	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	oxide	oxide	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|6:nsubj	_
+3	activates	activate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	PKCα	pkcα	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	inhibits	inhibit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:and	_
+7	Na+-K+-ATPase	na+-k+-atpase	NOUN	NN	Number=Sing	6	obj	6:obj	_
+8	in	in	ADP	IN	_	11	case	11:case	_
+9	opossum	opossum	NOUN	NN	Number=Sing	11	compound	11:compound	_
+10	kidney	kidney	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	cells	cell	NOUN	NNS	Number=Plur	3	obl	3:obl:in	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	3:punct	_
+

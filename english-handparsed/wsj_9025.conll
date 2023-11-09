@@ -1,0 +1,23 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	wallet	wallet	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	with	with	ADP	IN	_	7	case	7:case	_
+6	300	300	NUM	CD	NumType=Card	7	nummod	7:nummod	_
+7	rupees	rupee	NOUN	NNS	Number=Plur	2	obl	2:obl:with	_
+8	in	in	ADP	IN	_	10	case	10:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	subway	subway	NOUN	NN	Number=Sing	2	obl	2:obl:in	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	dog	dog	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	needed	need	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	surgery	surgery	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	after	after	SCONJ	IN	_	6	mark	6:mark	_
+6	eating	eat	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:after	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+8	rupee	rupee	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	coin	coin	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+
