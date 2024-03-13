@@ -1,3 +1,4 @@
+# sent_id = 0
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
 3	lax	lax	ADJ	JJ	Degree=Pos	0	root	0:root	_
@@ -11,6 +12,7 @@
 11	call	call	NOUN	NN	Number=Sing	3	obl	3:obl:before	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 1
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	dep	3:dep	_
 3	fallen	fall	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
@@ -22,6 +24,7 @@
 9	biscuits	biscuit	NOUN	NNS	Number=Plur	3	obl	3:obl:with	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 2
 1	Dunfermline	Dunfermline	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	eight	eight	NUM	CD	NumType=Card	4	nummod	4:nummod	_
@@ -29,6 +32,7 @@
 5	redundant	redundant	ADJ	JJ	Degree=Pos	2	xcomp	2:xcomp	SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 3
 1	Kazakhstan	Kazakhstan	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	close	close	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -36,6 +40,7 @@
 5	universities	university	NOUN	NNS	Number=Plur	3	obj	3:obj	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 4
 1	Chicken	chicken	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	soup	soup	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
@@ -49,6 +54,7 @@
 11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
 12	cold	cold	NOUN	NN	Number=Sing	10	obj	10:obj	_
 
+# sent_id = 5
 1	Please	please	INTJ	UH	_	2	discourse	2:discourse	_
 2	put	put	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
@@ -58,6 +64,7 @@
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	recycling	recycling	NOUN	NN	Number=Sing	2	obl	2:obl:in	_
 
+# sent_id = 6
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	soup	soup	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	can	can	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -73,12 +80,14 @@
 13	right	right	ADJ	JJ	Degree=Pos	9	discourse	9:discourse	SpaceAfter=No
 14	?	?	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 7
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	empty	empty	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	can	can	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	tipped	tip	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	over	over	ADV	RB	_	4	compound:prt	4:compound:prt	_
 
+# sent_id = 8
 1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	art	art	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	teacher	teacher	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -108,6 +117,7 @@
 26	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	27	aux	27:aux	_
 27	drawn	draw	VERB	VBN	Tense=Past|VerbForm=Part	24	acl:relcl	24:acl:relcl	_
 
+# sent_id = 9
 1	High	high	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	exposure	exposure	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 3	to	to	ADP	IN	_	4	case	4:case	_
@@ -116,6 +126,7 @@
 6	cause	cause	VERB	VB	VerbForm=Inf	0	root	0:root	_
 7	nausea	nausea	NOUN	NN	Number=Sing	6	obj	6:obj	_
 
+# sent_id = 10
 1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
 2	tin	tin	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	can	can	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_

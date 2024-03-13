@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Nitric	nitric	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	oxide	oxide	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|6:nsubj	_
 3	activates	activate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_

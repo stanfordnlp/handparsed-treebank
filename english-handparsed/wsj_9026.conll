@@ -1,3 +1,4 @@
+# sent_id = 0
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	restaurant	restaurant	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	serves	serve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -14,6 +15,7 @@
 14	desired	desired	ADJ	JJ	Degree=Pos	10	advcl	10:advcl:to	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 1
 1	Another	another	DET	DT	_	2	det	2:det	_
 2	round	round	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 3	of	of	ADP	IN	_	5	case	5:case	_
@@ -26,6 +28,7 @@
 10	founder	founder	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 2
 1	Who	who	PRON	WP	PronType=Int	5	obj	5:obj	_
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
 3	John	John	PROPN	NNP	Number=Sing	4	compound	4:compound	_
@@ -33,6 +36,7 @@
 5	stab	stab	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 6	?	?	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 3
 1	Does	Does	PROPN	NNP	Number=Sing	4	dep	4:dep	_
 2	homeowners	homeowner	NOUN	NNS	Number=Plur	3	compound	3:compound	_
 3	insurance	insurance	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -40,6 +44,7 @@
 5	tornadoes	tornado	NOUN	NNS	Number=Plur	4	obj	4:obj	SpaceAfter=No
 6	?	?	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 4
 1	Monitor	monitor	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	heart	heart	NOUN	NN	Number=Sing	4	compound	4:compound	_
@@ -49,23 +54,27 @@
 7	abnormalities	abnormality	NOUN	NNS	Number=Plur	1	obl	1:obl:for	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 5
 1	John	John	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	boils	boil	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	water	water	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 6
 1	John	John	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	boiling	boil	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 4	water	water	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 7
 1	Ann	Ann	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	waters	water	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	plant	plant	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 8
 1	Matt	Matt	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	types	type	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	at	at	ADP	IN	_	5	case	5:case	_
@@ -73,6 +82,7 @@
 5	keyboard	keyboard	NOUN	NN	Number=Sing	2	obl	2:obl:at	SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 9
 1	Matt	Matt	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	typing	type	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
@@ -81,6 +91,7 @@
 6	keyboard	keyboard	NOUN	NN	Number=Sing	3	obl	3:obl:on	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 10
 1	Manolis	Manolis	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	hands	hand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
@@ -89,6 +100,7 @@
 6	Angel	Angel	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 11
 1	If	if	SCONJ	IN	_	3	mark	3:mark	_
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 3	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl:if	_
@@ -103,6 +115,7 @@
 12	out	out	ADP	RP	_	10	compound:prt	10:compound:prt	SpaceAfter=No
 13	.	.	PUNCT	.	_	10	punct	10:punct	_
 
+# sent_id = 12
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	answer	answer	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -114,6 +127,7 @@
 9	away	away	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 13
 1	Hopefully	hopefully	ADV	RB	_	4	advmod	4:advmod	_
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
 3	data	datum	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
@@ -125,22 +139,26 @@
 9	folder	folder	NOUN	NN	Number=Sing	4	obl	4:obl:in	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 14
 1	Dogs	dog	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj|4:nsubj:xsubj	_
 2	like	like	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	chase	chase	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	cats	cat	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 
+# sent_id = 15
 1	Cats	cat	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 2	chase	chase	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	mice	mouse	NOUN	NNS	Number=Plur	2	obj	2:obj	_
 
+# sent_id = 16
 1	Large	large	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	cats	cat	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
 3	chase	chase	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	small	small	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	birds	bird	NOUN	NNS	Number=Plur	3	obj	3:obj	_
 
+# sent_id = 17
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	team	team	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	rents	rent	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -151,12 +169,14 @@
 8	city	city	NOUN	NN	Number=Sing	3	obl	3:obl:from	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 18
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	rents	rent	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
 4	from	from	ADP	IN	_	5	case	5:case	_
 5	Jace	Jace	PROPN	NNP	Number=Sing	2	obl	2:obl:from	_
 
+# sent_id = 19
 1	Here	here	ADV	RB	PronType=Dem	2	nsubj	2:nsubj	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	why	why	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
@@ -172,12 +192,14 @@
 13	through	through	ADV	RB	_	11	conj	8:advmod|11:conj:and	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 20
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	should	should	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	fence	fence	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
 5	in	in	ADP	IN	_	3	obl	3:obl	_
 
+# sent_id = 21
 1	Can	can	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 3	clue	clue	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -185,6 +207,7 @@
 5	in	in	ADP	IN	_	3	obl	3:obl	SpaceAfter=No
 6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 22
 1	Turn	turn	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	off	off	ADP	RP	_	1	compound:prt	1:compound:prt	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
@@ -196,6 +219,7 @@
 9	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 10	burn	burn	VERB	VB	VerbForm=Inf	1	parataxis	1:parataxis	_
 
+# sent_id = 23
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	bee	bee	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	will	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
@@ -208,6 +232,7 @@
 9	n't	not	PART	RB	_	10	advmod	10:advmod	_
 10	careful	careful	ADJ	JJ	Degree=Pos	4	advcl	4:advcl:if	_
 
+# sent_id = 24
 1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	daughter	daughter	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|5:nsubj:xsubj	_
 3	likes	like	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_

@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Thou	thou	PRON	PRP	_	3	nsubj	3:nsubj	_
 2	art	art	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	slow	slow	ADJ	JJ	Degree=Pos	0	root	0:root	_
@@ -7,6 +8,7 @@
 7	succeed	succeed	VERB	VB	VerbForm=Inf	6	dep	6:dep	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 1
 1	If	if	SCONJ	IN	_	5	mark	5:mark	_
 2	thou	thou	PRON	PRP	_	5	nsubj	5:nsubj	_
 3	wilt	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
@@ -20,12 +22,14 @@
 11	thee	thee	PRON	PRP	_	10	obj	10:obj	SpaceAfter=No
 12	.	.	PUNCT	.	_	10	punct	10:punct	_
 
+# sent_id = 2
 1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	hath	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	thy	thy	PRON	PRP$	_	4	nmod:poss	4:nmod:poss	_
 4	looks	look	NOUN	NNS	Number=Plur	2	obj	2:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 3
 1	Seek	seek	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	and	and	CCONJ	CC	_	5	cc	5:cc	_
 3	ye	ye	PRON	PRP	_	5	nsubj	5:nsubj	_
@@ -33,6 +37,7 @@
 5	find	find	VERB	VB	VerbForm=Inf	1	conj	1:conj:and	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 4
 1	Ye	ye	PRON	PRP	_	2	nsubj	2:nsubj	_
 2	forget	forget	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
@@ -41,6 +46,7 @@
 6	God	God	PROPN	NNP	Number=Sing	4	acl	4:acl:of	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 5
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_

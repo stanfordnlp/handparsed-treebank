@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Mellitus	Mellitus	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
@@ -7,6 +8,7 @@
 7	London	London	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 1
 1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	SpaceAfter=No
 2	n't	not	PART	RB	_	3	advmod	3:advmod	_
@@ -19,6 +21,7 @@
 9	giraffe	giraffe	NOUN	NN	Number=Sing	3	obl	3:obl:on	SpaceAfter=No
 10	!	!	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 2
 1	All	all	DET	DT	_	2	det	2:det	_
 2	whales	whale	NOUN	NNS	Number=Plur	6	nsubj	4:nsubj|6:nsubj	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
@@ -27,6 +30,7 @@
 6	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	fish	fish	NOUN	NNS	Number=Plur	6	obj	6:obj	_
 
+# sent_id = 3
 1	All	all	DET	DT	_	2	det	2:det	_
 2	whales	whale	NOUN	NNS	Number=Plur	6	nsubj	4:nsubj|6:nsubj	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_

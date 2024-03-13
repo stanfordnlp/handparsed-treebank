@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Al	Al	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Qaida	Qaida	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	Endorses	endorse	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -7,6 +8,7 @@
 7	for	for	ADP	IN	_	8	case	8:case	_
 8	President	president	NOUN	NN	Number=Sing	3	obl	3:obl:for	_
 
+# sent_id = 1
 1	Al	Al	PROPN	NNP	Number=Sing	3	compound	3:compound	SpaceAfter=No
 2	-	-	PUNCT	HYPH	_	3	punct	3:punct	SpaceAfter=No
 3	Qaeda	Qaeda	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj|6:nsubj:xsubj	_
@@ -18,6 +20,7 @@
 9	in	in	ADP	IN	_	10	case	10:case	_
 10	Iraq	Iraq	PROPN	NNP	Number=Sing	6	obl	6:obl:in	_
 
+# sent_id = 2
 1	Al	Al	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 2	Qaeda	Qaeda	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	texts	text	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	_
@@ -28,11 +31,13 @@
 8	US	US	PROPN	NNP	Number=Sing	9	compound	9:compound	_
 9	book	book	NOUN	NN	Number=Sing	6	obl	6:obl:in	_
 
+# sent_id = 3
 1	Embattled	embattle	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	2:amod	_
 2	Aristide	Aristide	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	quits	quit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	Haiti	Haiti	PROPN	NNP	Number=Sing	3	obj	3:obj	_
 
+# sent_id = 4
 1	Washington	Washington	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	rejected	reject	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
@@ -57,6 +62,7 @@
 22	Haiti	Haiti	PROPN	NNP	Number=Sing	21	obj	21:obj	SpaceAfter=No
 23	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 5
 1	Baghdad	Baghdad	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	bomb	bomb	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	kills	kill	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -64,6 +70,7 @@
 5	at	at	ADP	IN	_	6	case	6:case	_
 6	mosque	mosque	NOUN	NN	Number=Sing	4	nmod	4:nmod:at	_
 
+# sent_id = 6
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	European	European	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	parliament	parliament	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
@@ -76,6 +83,7 @@
 10	body	body	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	10:punct	_
 
+# sent_id = 7
 1	All	all	DET	DT	_	2	det	2:det	_
 2	four	four	NUM	CD	NumType=Card	4	nsubj	4:nsubj	_
 3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
@@ -89,6 +97,7 @@
 11	Qaeda	Qaeda	PROPN	NNP	Number=Sing	7	obl	7:obl:to	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 8
 1	Two	two	NUM	CD	NumType=Card	5	nummod	5:nummod	_
 2	senior	senior	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 3	bin	bin	PROPN	NNP	Number=Sing	5	compound	5:compound	_
@@ -108,6 +117,7 @@
 17	Iraq	Iraq	PROPN	NNP	Number=Sing	15	conj	12:obl:between|15:conj:and	SpaceAfter=No
 18	.	.	PUNCT	.	_	8	punct	8:punct	_
 
+# sent_id = 9
 1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 2	al	al	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	Qaida	Qaida	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
@@ -117,6 +127,7 @@
 7	nukes	nuke	NOUN	NNS	Number=Plur	4	obj	4:obj	SpaceAfter=No
 8	?	?	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 10
 1	Supporters	supporter	NOUN	NNS	Number=Plur	0	root	0:root	_
 2	of	of	ADP	IN	_	8	case	8:case	_
 3	former	former	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
@@ -140,6 +151,7 @@
 21	-	-	PUNCT	HYPH	_	22	punct	22:punct	SpaceAfter=No
 22	Prince	Prince	PROPN	NNP	Number=Sing	12	nmod	12:nmod:in	_
 
+# sent_id = 11
 1	One	one	NUM	CD	NumType=Card	3	compound	3:compound	_
 2	in	in	ADP	IN	_	3	advmod	3:advmod	_
 3	two	two	NUM	CD	NumType=Card	6	nummod	6:nummod	_
@@ -155,6 +167,7 @@
 13	HIV	hiv	NOUN	NN	Number=Sing	11	obl	11:obl:for	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	10:punct	_
 
+# sent_id = 12
 1	Bin	Bin	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Laden	Laden	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_

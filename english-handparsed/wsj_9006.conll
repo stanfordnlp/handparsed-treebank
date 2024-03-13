@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Heavy	heavy	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	fighting	fighting	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 3	Monday	Monday	PROPN	NNP	Number=Sing	5	obl:tmod	5:obl:tmod	_
@@ -6,15 +7,18 @@
 6	Najaf	Najaf	PROPN	NNP	Number=Sing	5	obj	5:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 1
 1	Bill	Bill	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	drinks	drink	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	brandy	brandy	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 2
 1	Chris	Chris	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	swims	swim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 3
 1	Minorities	minority	NOUN	NNS	Number=Plur	0	root	0:root	_
 2	rise	rise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	dep	1:dep	_
 3	in	in	ADP	IN	_	6	case	6:case	_
@@ -22,6 +26,7 @@
 5	US	US	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	states	state	NOUN	NNS	Number=Plur	2	obl	2:obl:in	_
 
+# sent_id = 4
 1	`	`	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
 2	Toxic	toxic	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	ship	ship	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
@@ -31,12 +36,14 @@
 7	Indian	Indian	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	port	port	NOUN	NN	Number=Sing	5	obl	5:obl:in	_
 
+# sent_id = 5
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	drank	drink	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	all	all	DET	PDT	_	5	det:predet	5:det:predet	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	milk	milk	NOUN	NN	Number=Sing	2	obj	2:obj	_
 
+# sent_id = 6
 1	Mia	Mia	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
@@ -46,6 +53,7 @@
 7	NYC	NYC	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 7
 1-2	I'M	_	_	_	_	_	_	_	_
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
 2	'M	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_

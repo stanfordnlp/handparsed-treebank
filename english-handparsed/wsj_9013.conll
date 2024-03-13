@@ -1,3 +1,4 @@
+# sent_id = 0
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|5:nsubj|10:nsubj	_
 2	slanted	slant	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	inside	inside	ADV	RB	_	2	advmod	2:advmod	SpaceAfter=No
@@ -19,6 +20,7 @@
 19	snowbank	snowbank	NOUN	NN	Number=Sing	16	obl	16:obl:into	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 1
 1	Tony	Tony	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Romo	Romo	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	tied	tie	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -40,6 +42,7 @@
 19	Witten	Witten	PROPN	NNP	Number=Sing	16	nmod	16:nmod:to	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 2
 1	Freeman	Freeman	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	responded	respond	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	with	with	ADP	IN	_	9	case	9:case	_

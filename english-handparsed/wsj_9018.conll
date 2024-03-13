@@ -1,3 +1,4 @@
+# sent_id = 0
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	ate	eat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
@@ -7,6 +8,7 @@
 7	gum	gum	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 1
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
@@ -18,6 +20,7 @@
 9	bone	bone	NOUN	NN	Number=Sing	7	obj	7:obj	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 2
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
@@ -28,6 +31,7 @@
 8	gum	gum	NOUN	NN	Number=Sing	7	obj	7:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 3
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	3:aux	_
 3	swimming	swim	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
@@ -36,12 +40,14 @@
 6	Shanghai	Shanghai	PROPN	NNP	Number=Sing	3	obl	3:obl:in	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 4
 1	Neither	neither	DET	DT	_	3	det	3:det	_
 2	leading	lead	VERB	VBG	VerbForm=Ger	3	amod	3:amod	_
 3	tenor	tenor	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	cheap	cheap	ADV	RB	_	4	advmod	4:advmod	_
 
+# sent_id = 5
 1	Everyone	everyone	PRON	NN	Number=Sing	6	nsubj	3:nsubj|6:nsubj	_
 2	who	who	PRON	WP	PronType=Rel	3	nsubj	1:ref	_
 3	starts	start	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
@@ -53,6 +59,7 @@
 9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	broke	broke	ADJ	JJ	Degree=Pos	6	advcl	6:advcl:until	_
 
+# sent_id = 6
 1	Everyone	everyone	PRON	NN	Number=Sing	6	nsubj	3:nsubj|6:nsubj	_
 2	who	who	PRON	WP	PronType=Rel	3	nsubj	1:ref	_
 3	starts	start	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_

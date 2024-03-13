@@ -36,13 +36,14 @@
 9034: imperatives (the separate "commands" data of 100 imperatives)
 9035: historical usages (was formerly "historical.0001.mrg")
 9036: informal social media stuff (was formerly "informal.0001.mrg")
+9037: -nna endings for the Stanza tokenizer
 
 
 
 # english.conll: automatically converted using CoreNLP's conversion tool
 # some checking of the dependencies, features, etc would be useful though
 # for i in `ls *.mrg | cut -d "." -f 1`; do echo $i; java edu.stanford.nlp.trees.ud.UniversalDependenciesConverter -treeFile $i.mrg -textFile $i.txt  -outputRepresentation enhanced -addFeatures -combineMWTs > $i.conll; done
-# cat wsj*conll > english.conll
+# grep --no-filename -v "sent_id" wsj_90*conll > english.conll
 
 
 # wsj_9032.txt might need more fiddling with the punctuation

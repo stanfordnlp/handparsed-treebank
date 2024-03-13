@@ -1,3 +1,4 @@
+# sent_id = 0
 1	``	``	PUNCT	``	_	6	punct	6:punct	SpaceAfter=No
 2	And	and	CCONJ	CC	_	6	cc	6:cc	_
 3	what	what	PRON	WP	PronType=Int	6	obj	6:obj	_
@@ -7,6 +8,7 @@
 7	?	?	PUNCT	.	_	6	punct	6:punct	SpaceAfter=No
 8	''	''	PUNCT	''	_	6	punct	6:punct	_
 
+# sent_id = 1
 1	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
 2	But	but	CCONJ	CC	_	6	cc	6:cc	_
 3	where	where	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
@@ -16,6 +18,7 @@
 7	?	?	PUNCT	.	_	6	punct	6:punct	SpaceAfter=No
 8	)	)	PUNCT	-RRB-	_	6	punct	6:punct	_
 
+# sent_id = 2
 1	``	``	PUNCT	``	_	6	punct	6:punct	SpaceAfter=No
 2	And	and	CCONJ	CC	_	6	cc	6:cc	_
 3	where	where	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
@@ -25,6 +28,7 @@
 7	?	?	PUNCT	.	_	6	punct	6:punct	SpaceAfter=No
 8	''	''	PUNCT	''	_	6	punct	6:punct	_
 
+# sent_id = 3
 1	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
 2	But	but	CCONJ	CC	_	6	cc	6:cc	_
 3	what	what	PRON	WP	PronType=Int	6	obj	6:obj	_
@@ -34,6 +38,7 @@
 7	?	?	PUNCT	.	_	6	punct	6:punct	SpaceAfter=No
 8	)	)	PUNCT	-RRB-	_	6	punct	6:punct	_
 
+# sent_id = 4
 1	`	`	PUNCT	``	_	6	punct	6:punct	SpaceAfter=No
 2	Which	which	DET	WDT	PronType=Int	3	det	3:det	_
 3	avatars	avatar	NOUN	NNS	Number=Plur	6	obj	6:obj	_

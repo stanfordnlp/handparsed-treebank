@@ -1,3 +1,4 @@
+# sent_id = 0
 1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
 2	third	third	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 3	of	of	ADP	IN	_	5	case	5:case	_
@@ -7,6 +8,7 @@
 7	dead	dead	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 1
 1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
 2	third	third	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 3	of	of	ADP	IN	_	5	case	5:case	_
@@ -16,6 +18,7 @@
 7	mine	mine	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 2
 1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
 2	sixth	sixth	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 3	of	of	ADP	IN	_	5	case	5:case	_
@@ -26,6 +29,7 @@
 8	necks	neck	NOUN	NNS	Number=Plur	6	obj	6:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	6:punct	_
 
+# sent_id = 3
 1	Pennsylvania	Pennsylvania	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	law	law	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -49,6 +53,7 @@
 21	court	court	NOUN	NN	Number=Sing	18	obl	18:obl:in	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 4
 1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
 2	one	one	NUM	CD	NumType=Card	3	nummod	3:nummod	_
 3	accountant	accountant	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -56,6 +61,7 @@
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	meeting	meeting	NOUN	NN	Number=Sing	4	obj	4:obj	_
 
+# sent_id = 5
 1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
 2	three	three	NUM	CD	NumType=Card	3	nummod	3:nummod	_
 3	players	player	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
@@ -65,6 +71,7 @@
 7	last	last	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	season	season	NOUN	NN	Number=Sing	4	obl:tmod	4:obl:tmod	_
 
+# sent_id = 6
 1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
 2	one	one	NUM	CD	NumType=Card	3	nummod	3:nummod	_
 3	day	day	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -74,6 +81,7 @@
 7	coronavirus	coronavirus	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	infections	infection	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 
+# sent_id = 7
 1	As	as	SCONJ	IN	_	4	mark	4:mark	_
 2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	arthritis	arthritis	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -85,6 +93,7 @@
 9	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 10	number	numb	ADJ	JJR	Degree=Cmp	9	xcomp	9:xcomp	_
 
+# sent_id = 8
 1	Cocaine	cocaine	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
 2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
@@ -93,6 +102,7 @@
 6	than	than	ADP	IN	_	7	case	7:case	_
 7	meth	meth	NOUN	NN	Number=Sing	5	obl	5:obl:than	_
 
+# sent_id = 9
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 2	only	only	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	time	time	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_

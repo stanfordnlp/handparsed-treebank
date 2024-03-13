@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Take	take	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	trash	trash	NOUN	NN	Number=Sing	1	obj	1:obj	_
@@ -5,6 +6,7 @@
 5	tonight	tonight	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 1
 1	Remove	remove	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	spacer	spacer	NOUN	NN	Number=Sing	1	obj	1:obj	_
@@ -16,6 +18,7 @@
 9	lever	lever	NOUN	NN	Number=Sing	6	conj	3:nmod:between|6:conj:and	SpaceAfter=No
 10	!	!	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 2
 1	Pick	pick	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	up	up	ADP	RP	_	1	compound:prt	1:compound:prt	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
@@ -23,9 +26,11 @@
 5	wrench	wrench	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 3
 1	Go	go	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	forward	forward	ADV	RB	_	1	advmod	1:advmod	_
 
+# sent_id = 4
 1	Commit	commit	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	changes	change	NOUN	NNS	Number=Plur	1	obj	1:obj	_
@@ -33,6 +38,7 @@
 5	svn	svn	NOUN	NN	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 5
 1	Move	move	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	back	back	ADV	RB	_	1	advmod	1:advmod	_
 3	to	to	ADP	TO	_	6	case	6:case	_
@@ -40,10 +46,12 @@
 5	original	original	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	spot	spot	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 
+# sent_id = 6
 1	Turn	turn	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	left	left	ADV	RB	_	1	advmod	1:advmod	SpaceAfter=No
 3	!	!	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 7
 1	Put	put	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	tire	tire	NOUN	NN	Number=Sing	4	compound	4:compound	_
@@ -53,6 +61,7 @@
 7	truck	truck	NOUN	NN	Number=Sing	1	obl	1:obl:on	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 8
 1	Get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	1:iobj	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
@@ -63,6 +72,7 @@
 8	table	table	NOUN	NN	Number=Sing	4	nmod	4:nmod:on	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 9
 1	Fly	fly	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	past	past	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
@@ -74,6 +84,7 @@
 9	windows	window	NOUN	NNS	Number=Plur	6	obl	6:obl:through	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 10
 1	Come	come	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	back	back	ADV	RB	_	1	advmod	1:advmod	_
 3	towards	towards	ADP	IN	_	5	case	5:case	_
@@ -81,37 +92,44 @@
 5	couch	couch	NOUN	NN	Number=Sing	1	obl	1:obl:towards	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 11
 1	Create	create	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 3	new	new	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	project	project	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+# sent_id = 12
 1	Open	open	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
 3	document	document	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+# sent_id = 13
 1	Save	save	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 3	backup	backup	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	copy	copy	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 14
 1	Close	close	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	open	open	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	application	application	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+# sent_id = 15
 1	Eat	eat	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	bananas	banana	NOUN	NNS	Number=Plur	1	obj	1:obj	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 16
 1	Turn	turn	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	to	to	ADP	TO	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	left	left	NOUN	NN	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 17
 1	Turn	turn	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	left	left	ADV	RB	_	1	advmod	1:advmod	_
 3	at	at	ADP	IN	_	5	case	5:case	_
@@ -119,12 +137,14 @@
 5	light	light	NOUN	NN	Number=Sing	1	advcl	1:advcl:at	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 18
 1	Check	check	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	Cirrus	Cirrus	PROPN	NNP	Number=Sing	1	obj	1:obj	_
 3	for	for	ADP	IN	_	4	case	4:case	_
 4	fleas	flea	NOUN	NNS	Number=Plur	1	obl	1:obl:for	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 19
 1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	_
 2	n't	not	PART	RB	_	3	advmod	3:advmod	_
@@ -136,6 +156,7 @@
 8	darling	darling	NOUN	NN	Number=Sing	3	dep	3:dep	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 20
 1	Asshole	asshole	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
 3	pick	pick	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -144,6 +165,7 @@
 6	phone	phone	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 21
 1	Hey	hey	INTJ	UH	_	5	discourse	5:discourse	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	5:punct	_
 3	dog	dog	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
@@ -153,21 +175,26 @@
 7	bananas	banana	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 22
 1	Climb	climb	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	ramp	ramp	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+# sent_id = 23
 1	Process	process	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	XML	xml	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+# sent_id = 24
 1	Search	search	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	for	for	ADP	IN	_	3	case	3:case	_
 3	gold	gold	NOUN	NN	Number=Sing	1	obl	1:obl:for	_
 
+# sent_id = 25
 1	Stab	stab	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	kobold	kobold	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+# sent_id = 26
 1	Combine	combine	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	3/4	3/4	NUM	CD	NumType=Card	3	nummod	3:nummod	_
 3	cup	cup	NOUN	NN	Number=Sing	1	obj	1:obj	_
@@ -183,6 +210,7 @@
 13	powder	powder	NOUN	NN	Number=Sing	3	conj	1:obj|3:conj:and	SpaceAfter=No
 14	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 27
 1	Show	show	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
 3	list	list	NOUN	NN	Number=Sing	1	obj	1:obj	_
@@ -195,6 +223,7 @@
 10	customer	customer	NOUN	NN	Number=Sing	3	nmod	3:nmod:for	SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 28
 1	Request	request	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	approval	approval	NOUN	NN	Number=Sing	1	obj	1:obj	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
@@ -203,6 +232,7 @@
 6	record	record	NOUN	NN	Number=Sing	4	obj	4:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 29
 1	Text	text	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	tonight	tonight	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_

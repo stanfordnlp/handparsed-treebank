@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	can	can	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	succeed	succeed	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -5,6 +6,7 @@
 5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 6	bargains	bargain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	dep	3:dep	_
 
+# sent_id = 1
 1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	mother	mother	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
@@ -15,6 +17,7 @@
 8	woman	woman	NOUN	NN	Number=Sing	4	obl	4:obl:with	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 2
 1	Politicians	politician	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	regulations	regulation	NOUN	NNS	Number=Plur	2	obj	2:obj	_
@@ -23,6 +26,7 @@
 6	farmers	farmer	NOUN	NNS	Number=Plur	4	obl	4:obl:than	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 3
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	far	far	ADV	RB	Degree=Pos	7	advmod	7:advmod	_
 3	did	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
@@ -36,6 +40,7 @@
 11	ages	age	NOUN	NNS	Number=Plur	7	obl	7:obl:in	SpaceAfter=No
 12	?	?	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 4
 1	Ms.	Ms.	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Manning	Manning	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
@@ -48,6 +53,7 @@
 10	am	be	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	dep	7:dep	SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 5
 1	Chelsea	Chelsea	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Manning	Manning	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 3	on	on	ADP	IN	_	4	case	4:case	_
@@ -65,6 +71,7 @@
 15	Senate	Senate	PROPN	NNP	Number=Sing	12	nmod	12:nmod:for	SpaceAfter=No
 16	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 6
 1	Born	bear	VERB	VBN	Tense=Past|VerbForm=Part	16	advcl	16:advcl	_
 2	on	on	ADP	IN	_	3	case	3:case	_
 3	December	December	PROPN	NNP	Number=Sing	1	obl	1:obl:on	_
@@ -95,6 +102,7 @@
 28	lived	live	VERB	VBN	Tense=Past|VerbForm=Part	24	acl	24:acl:to	SpaceAfter=No
 29	.	.	PUNCT	.	_	16	punct	16:punct	_
 
+# sent_id = 7
 1	Veronica	Veronica	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	manning	man	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
@@ -115,6 +123,7 @@
 18	on	on	ADV	RB	_	11	advmod	11:advmod	SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 8
 1	Teachers	teacher	NOUN	NNS	Number=Plur	2	compound	2:compound	_
 2	union	union	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	OKs	ok	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -123,6 +132,7 @@
 6	district	district	NOUN	NN	Number=Sing	4	nmod	4:nmod:with	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 9
 1	Places	place	NOUN	NNS	Number=Plur	0	root	0:root	_
 2	people	person	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
@@ -134,6 +144,7 @@
 9	choices	choice	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
 10	differ	differ	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	1:conj:and	_
 
+# sent_id = 10
 1	Powisset	Powisset	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Farm	Farm	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 3	in	in	ADP	IN	_	4	case	4:case	_
@@ -141,6 +152,7 @@
 5	offers	offer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	programs	program	NOUN	NNS	Number=Plur	5	obj	5:obj	_
 
+# sent_id = 11
 1	Number	number	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 2	Of	of	ADP	IN	_	5	case	5:case	_
 3	Wisconsin	Wisconsin	PROPN	NNP	Number=Sing	5	compound	5:compound	_
@@ -150,13 +162,16 @@
 7	To	to	PART	TO	_	8	mark	8:mark	_
 8	Decline	decline	VERB	VB	VerbForm=Inf	6	dep	6:dep	_
 
+# sent_id = 12
 1	•	•	SYM	SYM	_	2	dep	2:dep	_
 2	Buy	buy	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	milk	milk	NOUN	NN	Number=Sing	2	obj	2:obj	_
 
+# sent_id = 13
 1	•	•	SYM	SYM	_	2	dep	2:dep	_
 2	Carrots	carrot	NOUN	NNS	Number=Plur	0	root	0:root	_
 
+# sent_id = 14
 1	Shall	shall	AUX	MD	VerbForm=Fin	0	root	0:root	_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 3	buy	buy	VERB	VB	VerbForm=Inf	1	dep	1:dep	_
@@ -165,6 +180,7 @@
 6	beer	beer	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 7	?	?	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 15
 1	Shall	shall	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 3	censor	censor	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -178,6 +194,7 @@
 11	well	well	ADV	RB	Degree=Pos	10	fixed	10:fixed	SpaceAfter=No
 12	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 16
 1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	embarked	embark	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	on	on	ADP	IN	_	7	case	7:case	_
@@ -231,6 +248,7 @@
 50	China	China	PROPN	NNP	Number=Sing	48	obl	48:obl:throughout	SpaceAfter=No
 51	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 17
 1	And	and	CCONJ	CC	_	4	cc	4:cc	_
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
@@ -253,6 +271,7 @@
 20	Tea	Tea	PROPN	NNP	Number=Sing	15	obl	15:obl:in	SpaceAfter=No
 21	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 18
 1	Additionally	additionally	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	5:punct	_
 3	Tommy	Tommy	PROPN	NNP	Number=Sing	4	compound	4:compound	_
@@ -289,6 +308,7 @@
 34	Ye	Ye	PROPN	NNP	Number=Sing	31	appos	31:appos	SpaceAfter=No
 35	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 19
 1	Ye	Ye	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Qi	Qi	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_

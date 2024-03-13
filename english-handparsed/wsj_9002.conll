@@ -1,3 +1,4 @@
+# sent_id = 0
 1	When	when	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
@@ -8,6 +9,7 @@
 8	subway	subway	NOUN	NN	Number=Sing	4	nmod	4:nmod:on	SpaceAfter=No
 9	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 1
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	old	old	ADJ	JJ	Degree=Pos	3	dep	3:dep	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -15,6 +17,7 @@
 5	cousin	cousin	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 2
 1	Which	which	DET	WDT	PronType=Int	2	det	2:det	_
 2	president	president	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	signed	sign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -24,6 +27,7 @@
 7	independence	independence	NOUN	NN	Number=Sing	5	acl	5:acl:of	SpaceAfter=No
 8	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 3
 1	In	in	ADP	IN	_	3	case	3:case	_
 2	which	which	DET	WDT	PronType=Int	3	det	3:det	_
 3	city	city	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
@@ -40,28 +44,33 @@
 13	10th	10th	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	SpaceAfter=No
 14	?	?	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 4
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj	SpaceAfter=No
 4	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 5
 1	Where	where	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	fox	fox	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
 5	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 6
 1	Where	where	ADV	WRB	PronType=Int	4	advmod	4:advmod	_
 2	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
 3	beavers	beaver	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 4	common	common	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 5	?	?	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 7
 1	Where	where	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	SpaceAfter=No
 4	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 8
 1	Where	where	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
@@ -71,6 +80,7 @@
 7	holiday	holiday	NOUN	NN	Number=Sing	5	obl	5:obl:on	SpaceAfter=No
 8	?	?	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 9
 1	Whom	whom	PRON	WP	PronType=Int	4	obj	4:obj	_
 2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 3	Mary	Mary	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
@@ -79,6 +89,7 @@
 6	Fridays	Fridays	PROPN	NNP	Number=Sing	4	advcl	4:advcl:on	SpaceAfter=No
 7	?	?	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 10
 1	When	when	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
 3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
@@ -88,6 +99,7 @@
 7	boyfriend	boyfriend	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
 8	?	?	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 11
 1	Which	which	DET	WDT	PronType=Int	2	det	2:det	_
 2	blouse	blouse	NOUN	NN	Number=Sing	5	obj	5:obj	_
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
@@ -95,6 +107,7 @@
 5	like	like	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 6	?	?	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 12
 1	Why	why	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 2-3	didn't	_	_	_	_	_	_	_	_
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
@@ -106,6 +119,7 @@
 8	today	today	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
 9	?	?	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 13
 1	Who	who	PRON	WP	PronType=Int	0	root	0:root	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
@@ -116,6 +130,7 @@
 8	hat	hat	NOUN	NN	Number=Sing	4	nmod	4:nmod:with	SpaceAfter=No
 9	?	?	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 14
 1	Why	why	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 2-3	didn't	_	_	_	_	_	_	_	_
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
@@ -128,6 +143,7 @@
 9	Airline	Airline	PROPN	NNP	Number=Sing	5	obj	5:obj	SpaceAfter=No
 10	?	?	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 15
 1	What	what	PRON	WP	PronType=Int	0	root	0:root	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
@@ -137,6 +153,7 @@
 7	music	music	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	SpaceAfter=No
 8	?	?	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 16
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	much	much	ADJ	JJ	Degree=Pos	3	nsubj	3:nsubj	_
 3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -145,6 +162,7 @@
 6	for	for	ADP	IN	_	3	dep	3:dep	SpaceAfter=No
 7	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 17
 1	What	what	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
 2	lives	live	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	in	in	ADP	IN	_	5	case	5:case	_
@@ -152,12 +170,14 @@
 5	garden	garden	NOUN	NN	Number=Sing	2	obl	2:obl:in	SpaceAfter=No
 6	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 18
 1	Who	who	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
 2	attended	attend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	party	party	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 19
 1	Who	who	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
 2	met	meet	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	2:obj	_
@@ -166,6 +186,7 @@
 6	airport	airport	NOUN	NN	Number=Sing	2	obl	2:obl:at	SpaceAfter=No
 7	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 20
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	many	many	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	cars	car	NOUN	NNS	Number=Plur	7	obj	7:obj	_
@@ -175,6 +196,7 @@
 7	have	have	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 8	?	?	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 21
 1	Who	who	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
 2	sits	sit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	in	in	ADP	IN	_	5	case	5:case	_
@@ -182,6 +204,7 @@
 5	seat	seat	NOUN	NN	Number=Sing	2	obl	2:obl:in	SpaceAfter=No
 6	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 22
 1	Which	which	DET	WDT	PronType=Int	3	det	3:det	_
 2	large	large	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	cactus	cactus	NOUN	NNS	Number=Plur	6	dep	6:dep	_
@@ -192,6 +215,7 @@
 8	eat	eat	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	SpaceAfter=No
 9	?	?	PUNCT	.	_	6	punct	6:punct	_
 
+# sent_id = 23
 1	What	what	PRON	WP	PronType=Int	9	nsubj:pass	9:nsubj:pass	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
@@ -203,6 +227,7 @@
 9	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 10	?	?	PUNCT	.	_	9	punct	9:punct	_
 
+# sent_id = 24
 1	Where	where	ADV	WRB	PronType=Int	4	advmod	4:advmod	_
 2	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_

@@ -1,3 +1,4 @@
+# sent_id = 0
 1	In	in	ADP	IN	_	3	case	3:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	60s	60	NOUN	NNS	Number=Plur	7	obl	7:obl:in	SpaceAfter=No
@@ -15,6 +16,7 @@
 15	Vietnam	Vietnam	PROPN	NNP	Number=Sing	13	nmod	13:nmod:in	SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 1
 1	Rabies	rabies	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
 2	(	(	PUNCT	-LRB-	_	8	punct	8:punct	_
 3	from	from	ADP	IN	_	8	case	8:case	_
@@ -38,6 +40,7 @@
 21	people	person	NOUN	NNS	Number=Plur	19	conj	17:nmod:in|19:conj:and	SpaceAfter=No
 22	.	.	PUNCT	.	_	13	punct	13:punct	_
 
+# sent_id = 2
 1	There	there	PRON	EX	_	2	expl	2:expl	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	ccomp	28:ccomp	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
@@ -71,6 +74,7 @@
 31	1980s	1980	NOUN	NNS	Number=Plur	28	obl	28:obl:since	SpaceAfter=No
 32	.	.	PUNCT	.	_	28	punct	28:punct	_
 
+# sent_id = 3
 1	``	``	PUNCT	``	_	33	punct	33:punct	SpaceAfter=No
 2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	transaction	transaction	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
@@ -109,6 +113,7 @@
 36	statement	statement	NOUN	NN	Number=Sing	33	obl	33:obl:in	SpaceAfter=No
 37	.	.	PUNCT	.	_	33	punct	33:punct	_
 
+# sent_id = 4
 1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
 2	funding	funding	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	shortage	shortage	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
@@ -129,6 +134,7 @@
 18	treatment	treatment	NOUN	NN	Number=Sing	16	nmod	16:nmod:for	SpaceAfter=No
 19	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 5
 1	Humans	human	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
@@ -148,6 +154,7 @@
 17	tools	tool	NOUN	NNS	Number=Plur	16	obj	16:obj	SpaceAfter=No
 18	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 6
 1	Bacteria	bacterium	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 2	grow	grow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	in	in	ADP	IN	_	6	case	6:case	_
@@ -160,6 +167,7 @@
 10	conditions	condition	NOUN	NNS	Number=Plur	8	conj	6:nmod:of|8:conj:and	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 7
 1	ARCADIS	ARCADIS	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	reported	report	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	fourth	fourth	ADJ	JJ	Degree=Pos|NumType=Ord	6	amod	6:amod	_
@@ -183,6 +191,7 @@
 21	ago	ago	ADP	IN	_	20	amod	20:amod	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 8
 1	Book	book	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	flights	flight	NOUN	NNS	Number=Plur	1	obj	1:obj	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_
@@ -200,12 +209,14 @@
 15	service	service	NOUN	NN	Number=Sing	1	obl	1:obl:with	SpaceAfter=No
 16	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 9
 1	Book	book	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	cheap	cheap	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	flights	flight	NOUN	NNS	Number=Plur	1	obj	1:obj	_
 4	to	to	ADP	TO	_	5	case	5:case	_
 5	Athens	Athens	PROPN	NNP	Number=Sing	3	nmod	3:nmod:to	_
 
+# sent_id = 10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_

@@ -1,11 +1,14 @@
+# sent_id = 0
 1	Hi	hi	INTJ	UH	_	2	discourse	2:discourse	_
 2	Sue	Sue	PROPN	NNP	Number=Sing	0	root	0:root	SpaceAfter=No
 3	!	!	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 1
 1	Hi	hi	INTJ	UH	_	2	discourse	2:discourse	_
 2	everyone	everyone	PRON	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 3	…	…	PUNCT	,	_	2	punct	2:punct	_
 
+# sent_id = 2
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	got	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	ta	ta	ADP	TO	_	4	dep	4:dep	_
@@ -16,6 +19,7 @@
 8	3G	3g	NOUN	NN	Number=Sing	6	nmod	6:nmod:for	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 3
 1	Was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	iPhone	iPhone	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
@@ -25,57 +29,70 @@
 7	Phone	phone	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 8	?	?	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 4
 1	Oversaw	oversee	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 2	car	car	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	manufacturing	manufacturing	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
+# sent_id = 5
 1	Hello	hello	INTJ	UH	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	sir	sir	PROPN	NNP	Number=Sing	1	dep	1:dep	SpaceAfter=No
 4	!!!	!!!	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 6
 1	Hi	hi	INTJ	UH	_	0	root	0:root	SpaceAfter=No
 2	!!!	!!!	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 7
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
 3	shocked	shocked	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 4	!!	!!	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 8
 1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	perfectly	perfectly	ADV	RB	_	4	advmod	4:advmod	_
 4	legal	legal	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 5	!!	!!	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 9
 1	and	and	CCONJ	CC	_	2	cc	2:cc	_
 2	bridges	bridge	NOUN	NNS	Number=Plur	0	root	0:root	SpaceAfter=No
 3	???	???	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 10
 1	Boy	boy	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	trouble	trouble	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 3	??	??	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 11
 1	Any	any	DET	DT	_	3	det	3:det	_
 2	other	other	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	way	way	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 4	??	??	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 12
 1	Really	really	ADV	RB	_	0	root	0:root	SpaceAfter=No
 2	??	??	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 13
 1	Awesome	awesome	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 2	!!!!	!!!!	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 14
 1	Very	very	ADV	RB	_	2	advmod	2:advmod	_
 2	helpful	helpful	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 3	!!!!	!!!!	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 15
 1	WHAT	what	PRON	WP	PronType=Int	0	root	0:root	_
 2	IS	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	THAT	that	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	1:nsubj	SpaceAfter=No
 4	?????	?????	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 16
 1	*****	*****	SYM	SYM	_	2	dep	2:dep	_
 2	DIRECTIONS	direction	NOUN	NNS	Number=Plur	0	root	0:root	_
 3	FOR	for	SCONJ	IN	_	6	mark	6:mark	_
@@ -88,11 +105,13 @@
 10	!!!	!!!	PUNCT	.	_	2	punct	2:punct	_
 11	*****	*****	SYM	SYM	_	2	dep	2:dep	_
 
+# sent_id = 17
 1	©	©	SYM	SYM	_	0	root	0:root	_
 2	2015	2015	NUM	CD	NumType=Card	1	dep	1:dep	_
 3	Houston	Houston	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	Chronicle	Chronicle	PROPN	NNP	Number=Sing	1	dep	1:dep	_
 
+# sent_id = 18
 1	©	©	SYM	SYM	_	0	root	0:root	_
 2	2018	2018	NUM	CD	NumType=Card	1	dep	1:dep	_
 3	The	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -100,6 +119,7 @@
 5	York	York	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	Times	Times	PROPN	NNP	Number=Sing	1	dep	1:dep	_
 
+# sent_id = 19
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	more	more	ADV	RBR	_	4	advmod	4:advmod	_
@@ -111,12 +131,14 @@
 9	"	"	PUNCT	''	_	4	punct	4:punct	SpaceAfter=No
 10	....	....	PUNCT	,	_	4	punct	4:punct	_
 
+# sent_id = 20
 1	THIS	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	_
 2	IS	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	ABSOLUTELY	absolutely	ADV	RB	_	4	advmod	4:advmod	_
 4	LEGAL	legal	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 5	!!!!	!!!!	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 21
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	HELP	help	NOUN	NN	Number=Sing	2	obj	2:obj	_
@@ -126,10 +148,12 @@
 7	Hamster	hamster	NOUN	NN	Number=Sing	3	nmod	3:nmod:with	SpaceAfter=No
 8	!!!?	!!!?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 22
 1	A	a	NOUN	NN	Number=Sing	0	root	0:root	_
 2	++++	++++	SYM	SYM	_	1	dep	1:dep	_
 3	!!!!!!	!!!!!!	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 23
 1	****	****	SYM	SYM	_	5	dep	5:dep	_
 2	sigh	sigh	INTJ	UH	_	5	discourse	5:discourse	_
 3	****	****	SYM	SYM	_	5	dep	5:dep	_
@@ -147,6 +171,7 @@
 15	really	really	ADV	RB	_	5	dep	5:dep	SpaceAfter=No
 16	!	!	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 24
 1	Places	place	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	5:punct	_
 3	too	too	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
@@ -157,10 +182,13 @@
 8	qualities	quality	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 25
 1	------	------	SYM	SYM	_	0	root	0:root	_
 
+# sent_id = 26
 1	_____	_____	SYM	SYM	_	0	root	0:root	_
 
+# sent_id = 27
 1	---=	---=	SYM	SYM	_	4	dep	4:dep	_
 2	19	19	NUM	CD	NumType=Card	4	nummod	4:nummod	_
 3	Specialized	specialized	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
@@ -172,6 +200,7 @@
 9	Encryption	encryption	NOUN	NN	Number=Sing	7	obl	7:obl:via	_
 10	=---	=---	SYM	SYM	_	4	dep	4:dep	_
 
+# sent_id = 28
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	answer	answer	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
@@ -179,14 +208,17 @@
 5	Slovenia	Slovenia	PROPN	NNP	Number=Sing	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 29
 1	----	----	SYM	SYM	_	2	dep	2:dep	_
 2	Sue	Sue	PROPN	NNP	Number=Sing	0	root	0:root	_
 
+# sent_id = 30
 1	++++++	++++++	SYM	SYM	_	3	dep	3:dep	_
 2	CONFIDENTIALITY	confidentiality	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	NOTICE	notice	NOUN	NN	Number=Sing	0	root	0:root	_
 4	+++++	+++++	SYM	SYM	_	3	dep	3:dep	_
 
+# sent_id = 31
 1	Cathy	Cathy	PROPN	NNP	Number=Sing	0	root	0:root	_
 2	*****	*****	SYM	SYM	_	1	dep	1:dep	_
 3	Five	five	NUM	CD	NumType=Card	4	nummod	4:nummod	_
@@ -197,10 +229,12 @@
 8	Tots	Tots	PROPN	NNPS	Number=Plur	1	obl	1:obl:for	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 32
 1	A	a	NOUN	NN	Number=Sing	0	root	0:root	_
 2	++++	++++	SYM	SYM	_	1	dep	1:dep	_
 3	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 33
 1	excellent	excellent	ADJ	JJ	Degree=Pos	4	dep	4:dep	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
 3	top	top	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
@@ -212,6 +246,7 @@
 9	anyone	anyone	PRON	NN	Number=Sing	7	obl	7:obl:to	SpaceAfter=No
 10	!!!!!!!!!!	!!!!!!!!!!	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 34
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	size	size	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
 3	of	of	ADP	IN	_	5	case	5:case	_
@@ -222,12 +257,14 @@
 8	3	3	NUM	CD	NumType=Card	9	nummod	9:nummod	_
 9	mb	mb	NOUN	NNS	Number=Plur	0	root	0:root	_
 
+# sent_id = 35
 1	6	6	NUM	CD	NumType=Card	0	root	0:root	_
 2	x	x	SYM	SYM	_	1	dep	1:dep	_
 3	1	1	NUM	CD	NumType=Card	1	dep	1:dep	_
 4	=	=	SYM	SYM	_	1	dep	1:dep	_
 5	6	6	NUM	CD	NumType=Card	1	dep	1:dep	_
 
+# sent_id = 36
 1	From	from	ADP	IN	_	4	case	4:case	_
 2	state	state	NOUN	NN	Number=Sing	3	dep	3:dep	_
 3	controlling	control	VERB	VBG	VerbForm=Ger	4	amod	4:amod	_
@@ -260,6 +297,7 @@
 30	stages	stage	NOUN	NNS	Number=Plur	27	obl	27:obl:through	SpaceAfter=No
 31	.	.	PUNCT	.	_	27	punct	27:punct	_
 
+# sent_id = 37
 1	Kerry	Kerry	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Katona	Katona	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|4:nsubj:xsubj	_
 3	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
@@ -273,6 +311,7 @@
 11	at	at	ADP	IN	_	12	case	12:case	_
 12	airport	airport	NOUN	NN	Number=Sing	3	obl	3:obl:at	_
 
+# sent_id = 38
 1	Texas	Texas	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	woman	woman	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	donates	donate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -286,6 +325,7 @@
 11	hers	hers	PRON	PRP	_	10	obj	10:obj	_
 12	off	off	ADP	RP	_	10	compound:prt	10:compound:prt	_
 
+# sent_id = 39
 1	Furthermore	furthermore	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	7	punct	7:punct	_
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
@@ -304,6 +344,7 @@
 16	area	area	NOUN	NN	Number=Sing	12	nmod	12:nmod:for	SpaceAfter=No
 17	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 40
 1	Unfortunately	unfortunately	ADV	RB	_	10	advmod	10:advmod	_
 2	for	for	ADP	IN	_	3	case	3:case	_
 3	Yawai	Yawai	PROPN	NNP	Number=Sing	1	obl	1:obl:for	SpaceAfter=No
@@ -326,6 +367,7 @@
 20	predicament	predicament	NOUN	NN	Number=Sing	10	obl	10:obl:in	SpaceAfter=No
 21	.	.	PUNCT	.	_	10	punct	10:punct	_
 
+# sent_id = 41
 1	In	in	ADP	IN	_	3	case	3:case	_
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
 3	kind	kind	NOUN	NN	Number=Sing	14	obl	14:obl:in	_
@@ -347,6 +389,7 @@
 18	psychiatrist	psychiatrist	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
 19	.	.	PUNCT	.	_	14	punct	14:punct	_
 
+# sent_id = 42
 1-2	China's	_	_	_	_	_	_	_	_
 1	China	China	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
 2	's	's	PART	POS	_	1	case	1:case	_
@@ -367,6 +410,7 @@
 17	theirs	theirs	PRON	PRP	_	15	obl	15:obl:than	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	6:punct	_
 
+# sent_id = 43
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	limit	limit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	obj	2:obj	_
@@ -379,6 +423,7 @@
 10	ours	ours	PRON	PRP	_	7	acl:relcl	7:acl:relcl	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 44
 1	`	`	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2-3	Don't	_	_	_	_	_	_	_	_
 2	Do	do	AUX	VB	VerbForm=Inf	4	aux	4:aux	SpaceAfter=No
@@ -388,6 +433,7 @@
 6	...	...	PUNCT	:	_	4	punct	4:punct	SpaceAfter=No
 7	'	'	PUNCT	''	_	4	punct	4:punct	_
 
+# sent_id = 45
 1	``	``	PUNCT	``	_	2	punct	2:punct	SpaceAfter=No
 2	Deliver	deliver	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	Us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	2:obj	_
@@ -395,6 +441,7 @@
 5	Evil	evil	NOUN	NN	Number=Sing	2	obl	2:obl:from	SpaceAfter=No
 6	''	''	PUNCT	''	_	2	punct	2:punct	_
 
+# sent_id = 46
 1	Mine	mine	PRON	PRP	_	5	nsubj	5:nsubj|8:nsubj	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	two	two	NUM	CD	NumType=Card	4	nummod	4:nummod	_
@@ -405,10 +452,12 @@
 8	dirty	dirty	ADJ	JJ	Degree=Pos	5	conj	5:conj:and	SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 47
 1	Mine	mine	PRON	PRP	_	2	nsubj	2:nsubj	_
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 48
 1	Nittetsu	Nittetsu	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Mining	Mining	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_
@@ -421,6 +470,7 @@
 10	in	in	ADP	IN	_	11	case	11:case	_
 11	Chile	Chile	PROPN	NNP	Number=Sing	8	obl	8:obl:in	_
 
+# sent_id = 49
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
 2	month	month	NOUN	NN	Number=Sing	5	obl:tmod	5:obl:tmod	SpaceAfter=No
 3	,	,	PUNCT	,	_	5	punct	5:punct	_
@@ -438,6 +488,7 @@
 15	S10	S10	PROPN	NNP	Number=Sing	12	obj	12:obj	SpaceAfter=No
 16	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 50
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	S10	S10	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
@@ -450,6 +501,7 @@
 10	years	year	NOUN	NNS	Number=Plur	8	nmod	8:nmod:in	SpaceAfter=No
 11	.	.	PUNCT	.	_	8	punct	8:punct	_
 
+# sent_id = 51
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -457,6 +509,7 @@
 5	in	in	ADP	IN	_	6	case	6:case	_
 6	2008	2008	NUM	CD	NumType=Card	3	obl	3:obl:in	_
 
+# sent_id = 52
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_

@@ -1,13 +1,16 @@
+# sent_id = 0
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
 2	restaurant	restaurant	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	fucking	fucking	ADV	RB	_	4	advmod	4:advmod	_
 4	blows	blow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 
+# sent_id = 1
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	shit	shit	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	2:obj	_
 4	not	not	PART	RB	_	2	advmod	2:advmod	_
 
+# sent_id = 2
 1	Lurrus	Lurrus	PROPN	NNP	Number=Sing	4	nsubj:pass	4:nsubj:pass	_
 2	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 3	get	get	AUX	VB	VerbForm=Inf	4	aux:pass	4:aux:pass	_

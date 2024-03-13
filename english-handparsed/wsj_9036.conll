@@ -1,3 +1,4 @@
+# sent_id = 0
 1	Enjoying	enjoy	VERB	VBG	VerbForm=Ger	0	root	0:root	_
 2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 3	favorite	favorite	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
@@ -5,6 +6,7 @@
 5	tradition	tradition	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 1
 1	Sitting	sit	VERB	VBG	VerbForm=Ger	0	root	0:root	_
 2	in	in	ADP	IN	_	7	case	7:case	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
@@ -20,12 +22,14 @@
 13	train	train	NOUN	NN	Number=Sing	8	obl	8:obl:for	SpaceAfter=No
 14	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 2
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	fucking	fucking	ADV	RB	_	3	advmod	3:advmod	_
 3	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	@MBTA	@MBTA	PROPN	NNP	Number=Sing	3	obj	3:obj	_
 
+# sent_id = 3
 1-2	Sh'reyan's	_	_	_	_	_	_	_	_
 1	Sh'reyan	Sh'reyan	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
 2	's	's	PART	POS	_	1	case	1:case	_
@@ -34,11 +38,13 @@
 5	hella	hella	ADV	RB	_	6	advmod	6:advmod	_
 6	thicc	thicc	ADJ	JJ	Degree=Pos	0	root	0:root	_
 
+# sent_id = 4
 1	girl	girl	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 2	dat	that	DET	DT	_	3	det	3:det	_
 3	ass	ass	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	thicc	thicc	ADJ	JJ	Degree=Pos	0	root	0:root	_
 
+# sent_id = 5
 1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	system	system	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_

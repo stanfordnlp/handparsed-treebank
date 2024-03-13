@@ -1,9 +1,11 @@
+# sent_id = 0
 1	UnitedHealth	UnitedHealth	PROPN	NNP	Number=Sing	3	compound	3:compound	SpaceAfter=No
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
 3	Mattel	Mattel	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
 4	rise	rise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 1
 1	Fujitsu	Fujitsu	PROPN	NNP	Number=Sing	5	compound	5:compound	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	5:punct	_
 3	Toshiba	Toshiba	PROPN	NNP	Number=Sing	5	appos	5:appos	SpaceAfter=No
@@ -16,6 +18,7 @@
 10	Sony	Sony	PROPN	NNP	Number=Sing	7	obl	7:obl:from	SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 2
 1	Walt	Walt	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Disney	Disney	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	cuts	cut	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -26,6 +29,7 @@
 8	calories	calorie	NOUN	NNS	Number=Plur	6	appos	6:appos	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 3
 1	Collision	collision	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
 2	of	of	ADP	IN	_	5	case	5:case	_
 3	two	two	NUM	CD	NumType=Card	5	nummod	5:nummod	_
@@ -40,6 +44,7 @@
 12	60	60	NUM	CD	NumType=Card	11	obj	11:obj	SpaceAfter=No
 13	.	.	PUNCT	.	_	8	punct	8:punct	_
 
+# sent_id = 4
 1	Japan	Japan	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	welcomes	welcome	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	UN	UN	PROPN	NNP	Number=Sing	4	compound	4:compound	_
@@ -53,6 +58,7 @@
 11	sanction	sanction	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 5
 1	Two	two	NUM	CD	NumType=Card	3	nummod	3:nummod	_
 2	metro	metro	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	trains	train	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
@@ -64,6 +70,7 @@
 9	hurt	hurt	VERB	VBN	Tense=Past|VerbForm=Part	4	parataxis	4:parataxis	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 6
 1	Jobs	Jobs	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	disses	diss	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	Zune	Zune	PROPN	NNP	Number=Sing	2	obj	2:obj	SpaceAfter=No
@@ -74,6 +81,7 @@
 8	pre-orders	pre-order	NOUN	NNS	Number=Plur	7	obj	7:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 7
 1	US	US	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 2	stock	stock	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	futures	future	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
@@ -85,6 +93,7 @@
 9	focus	focus	NOUN	NN	Number=Sing	4	parataxis	4:parataxis	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 8
 1	Laptop	laptop	NOUN	NN	Number=Sing	4	compound	4:compound	_
 2	battery	battery	NOUN	NN	Number=Sing	4	compound	4:compound	_
 3	recall	recall	NOUN	NN	Number=Sing	4	compound	4:compound	_
@@ -95,6 +104,7 @@
 8	in	in	ADP	RP	_	7	compound:prt	7:compound:prt	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 9
 1	Piniella	Piniella	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	coming	come	VERB	VBG	VerbForm=Ger	0	root	0:root	_
 3	to	to	ADP	TO	_	4	case	4:case	_
@@ -104,6 +114,7 @@
 7	Cubs	Cubs	PROPN	NNP	Number=Sing	6	obj	6:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 10
 1	PS3	PS3	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	may	may	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	outsell	outsell	VERB	VB	VerbForm=Inf	10	ccomp	10:ccomp	_
@@ -119,6 +130,7 @@
 13	firm	firm	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	10:punct	_
 
+# sent_id = 11
 1	Bully	Bully	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	should	should	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	ship	ship	VERB	VB	VerbForm=Inf	5	ccomp	5:ccomp	SpaceAfter=No
@@ -127,6 +139,7 @@
 6	judge	judge	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 12
 1	World	World	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	united	unite	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 3	against	against	ADP	IN	_	5	case	5:case	_
@@ -136,6 +149,7 @@
 7	Rice	Rice	PROPN	NNP	Number=Sing	2	dep	2:dep	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 13
 1	Researchers	researcher	NOUN	NNS	Number=Plur	5	dep	5:dep	_
 2	:	:	PUNCT	:	_	5	punct	5:punct	_
 3	element	element	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
@@ -143,6 +157,7 @@
 5	created	create	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 14
 1	In	in	ADP	IN	_	2	case	2:case	_
 2	pictures	picture	NOUN	NNS	Number=Plur	7	obl	7:obl:in	_
 3	:	:	PUNCT	:	_	7	punct	7:punct	_
@@ -152,6 +167,7 @@
 7	blast	blast	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = 15
 1	Will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	McGuires	McGuires	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	keep	keep	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -160,6 +176,7 @@
 6	locally	locally	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
 7	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 16
 1	Who	who	PRON	WP	PronType=Int	3	nsubj	3:nsubj	_
 2	will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	cover	cover	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -167,12 +184,14 @@
 5	night	night	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	SpaceAfter=No
 6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 17
 1	Healthy	healthy	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	move	move	NOUN	NN	Number=Sing	0	root	0:root	_
 3	for	for	ADP	IN	_	4	case	4:case	_
 4	Disney	Disney	PROPN	NNP	Number=Sing	2	nmod	2:nmod:for	SpaceAfter=No
 5	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 18
 1	iPod	iPod	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	killers	killer	NOUN	NNS	Number=Plur	0	root	0:root	_
 3	for	for	ADP	IN	_	4	case	4:case	_
@@ -180,11 +199,13 @@
 5	2006	2006	NUM	CD	NumType=Card	4	nummod	4:nummod	SpaceAfter=No
 6	?	?	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 19
 1	Jobs	Jobs	PROPN	NNP	Number=Sing	0	root	0:root	_
 2	on	on	ADP	IN	_	3	case	3:case	_
 3	Zune	Zune	PROPN	NNP	Number=Sing	1	dep	1:dep	SpaceAfter=No
 4	?	?	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 20
 1-2	He's	_	_	_	_	_	_	_	_
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	4:nsubj:pass	SpaceAfter=No
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
@@ -192,6 +213,7 @@
 4	bothered	bother	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	4:punct	_
 
+# sent_id = 21
 1	India	India	PROPN	NNP	Number=Sing	2	dep	2:dep	_
 2	unhappy	unhappy	ADJ	JJ	Degree=Pos	0	root	0:root	_
 3	with	with	ADP	IN	_	4	case	4:case	_
@@ -200,6 +222,7 @@
 6	fighting	fighting	NOUN	NN	Number=Sing	2	obl	2:obl:over	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 22
 1	Terror	terror	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	suspects	suspect	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 3	on	on	ADP	IN	_	5	case	5:case	_
@@ -207,6 +230,7 @@
 5	run	run	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	5:punct	_
 
+# sent_id = 23
 1	Food	food	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	shortages	shortage	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
 3	looming	loom	VERB	VBG	VerbForm=Ger	0	root	0:root	_
@@ -217,6 +241,7 @@
 8	sanctions	sanction	NOUN	NNS	Number=Plur	7	obj	7:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 24
 1	NK	NK	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	test	test	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|6:nsubj:pass:xsubj	_
 3	yet	yet	ADV	RB	_	0	root	0:root	_
@@ -225,6 +250,7 @@
 6	confirmed	confirm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 25
 1	Aussies	Aussies	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 2	to	to	PART	TO	_	3	mark	3:mark	_
 3	help	help	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -233,6 +259,7 @@
 6	workers	worker	NOUN	NNS	Number=Plur	4	obj	4:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 26
 1	Disney	Disney	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 2	to	to	PART	TO	_	3	mark	3:mark	_
 3	serve	serve	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -242,12 +269,14 @@
 7	parks	park	NOUN	NNS	Number=Plur	3	obl	3:obl:at	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 27
 1	Carnage	carnage	NOUN	NN	Number=Sing	0	root	0:root	_
 2	in	in	ADP	IN	_	4	case	4:case	_
 3	Sri	Sri	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	Lanka	Lanka	PROPN	NNP	Number=Sing	1	nmod	1:nmod:in	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 28
 1	Different	different	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	agendas	agenda	NOUN	NNS	Number=Plur	0	root	0:root	_
 3	for	for	ADP	IN	_	6	case	6:case	_
@@ -256,12 +285,14 @@
 6	rivals	rival	NOUN	NNS	Number=Plur	2	nmod	2:nmod:for	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 29
 1	Successful	successful	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	surgery	surgery	NOUN	NN	Number=Sing	0	root	0:root	_
 3	for	for	ADP	IN	_	4	case	4:case	_
 4	Cech	Cech	PROPN	NNP	Number=Sing	2	nmod	2:nmod:for	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 30
 1	End	end	NOUN	NN	Number=Sing	0	root	0:root	_
 2	of	of	ADP	IN	_	7	case	7:case	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
@@ -277,6 +308,7 @@
 12	die	die	VERB	VB	VerbForm=Inf	7	acl:relcl	7:acl:relcl	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 31
 1	Bold	bold	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	move	move	NOUN	NN	Number=Sing	0	root	0:root	_
 3	for	for	ADP	IN	_	4	case	4:case	_
@@ -288,18 +320,21 @@
 9	Lou	Lou	PROPN	NNP	Number=Sing	7	nmod	7:nmod:for	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 32
 1	To	to	PART	TO	_	2	mark	2:mark	_
 2	oust	oust	VERB	VB	VerbForm=Inf	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	president	president	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 33
 1	Jobs	Jobs	PROPN	NNP	Number=Sing	0	root	0:root	_
 2	on	on	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	iPod	ipod	NOUN	NN	Number=Sing	1	nmod	1:nmod:on	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
+# sent_id = 34
 1	Disney	Disney	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	joins	join	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	move	move	NOUN	NN	Number=Sing	2	obj	2:obj	_
@@ -309,6 +344,7 @@
 7	foods	food	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 35
 1	Another	another	DET	DT	_	2	det	2:det	_
 2	boss	boss	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	bites	bite	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -318,6 +354,7 @@
 7	scandal	scandal	NOUN	NN	Number=Sing	3	obl	3:obl:in	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 36
 1	Sony	Sony	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj|4:nsubj:xsubj	_
 2	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
@@ -326,6 +363,7 @@
 6	Live	Live	PROPN	NNP	Number=Sing	4	obj	4:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 37
 1	But	but	CCONJ	CC	_	3	cc	3:cc	_
 2	Cech	Cech	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	stays	stay	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -334,6 +372,7 @@
 6	observation	observation	NOUN	NN	Number=Sing	3	obl	3:obl:for	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
+# sent_id = 38
 1	Suppan	Suppan	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	deep	deep	ADV	RB	_	2	advmod	2:advmod	_
@@ -347,6 +386,7 @@
 11	mound	mound	NOUN	NN	Number=Sing	7	conj	2:obl:at|7:conj:and	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 39
 1	How	how	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 2	biometric	biometric	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	technology	technology	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
@@ -356,6 +396,7 @@
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
 8	machine	machine	NOUN	NN	Number=Sing	6	conj	5:obj|6:conj:and	_
 
+# sent_id = 40
 1	Fifty	fifty	NUM	CD	NumType=Card	2	nummod	2:nummod	_
 2	Kurds	Kurd	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
