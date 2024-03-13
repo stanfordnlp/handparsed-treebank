@@ -155,6 +155,23 @@
           (NP (JJS most) (NNS adults)))))))
 
 ( (S
+    (NP (DT The) (NN henna))
+    (VP
+      (VBD faded)
+      (PP
+        (IN in)
+        (NP (CD two) (NNS weeks))))))
+
+( (S
+    (VP
+      (VB Do)
+      (RB not)
+      (VP
+        (VB drink)
+        (NP (NN henna))))))
+
+
+( (S
     (NP (DT The) (NNPS Israelites))
     (VP
       (VBD survived)
