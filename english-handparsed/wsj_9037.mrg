@@ -117,6 +117,44 @@
           (NP (PRP$ my) (JJ Chinese) (NN name)))))))
 
 ( (S
+    (S
+      (NP (DT Some) (NNS towns))
+      (VP
+        (VBD were)
+        (VP (VBN destroyed))))
+    (, ;)
+    (S
+      (NP
+        (NP (DT the) (NNS people))
+        (PP
+          (IN of)
+          (NP (NNP Henna))))
+      (VP
+        (VBD were)
+        (VP (VBN massacred))))
+    (. .)))
+
+( (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (VP
+          (VBN applied)
+          (PP
+            (IN to)
+            (NP (DT the) (NN skin))))))
+    (, ,)
+    (NP (NN henna))
+    (VP
+      (VBZ is)
+      (ADVP (RB likely))
+      (ADJP
+        (JJ safe)
+        (PP
+          (IN for)
+          (NP (JJS most) (NNS adults)))))))
+
+( (S
     (NP (DT The) (NNPS Israelites))
     (VP
       (VBD survived)
