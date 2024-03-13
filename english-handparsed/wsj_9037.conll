@@ -1,0 +1,139 @@
+# sent_id = 0
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	favorite	favorite	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	actress	actress	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	Johanna	Johanna	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Lumley	Lumley	PROPN	NNP	Number=Sing	0	root	0:root	_
+
+# sent_id = 1
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+4	burnt	burn	VERB	VBN	Tense=Past|VerbForm=Part	5	dep	5:dep	_
+5	sienna	sienna	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	crayon	crayon	NOUN	NN	Number=Sing	2	obj	2:obj	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	color	color	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_
+9	in	in	ADP	RP	_	8	compound:prt	8:compound:prt	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	picture	picture	NOUN	NN	Number=Sing	8	obj	8:obj	_
+
+# sent_id = 2
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	large	large	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	goanna	goanna	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	bit	bite	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+6	arm	arm	NOUN	NN	Number=Sing	4	obj	4:obj	_
+
+# sent_id = 3
+1	Someone	someone	PRON	NN	Number=Sing	4	nsubj	4:nsubj	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
+4	wears	wear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	bandanna	bandanna	NOUN	NN	Number=Sing	4	iobj	4:iobj	_
+7	every	every	DET	DT	_	8	det	8:det	_
+8	time	time	NOUN	NN	Number=Sing	4	obj	4:obj	_
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+10	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	_
+11	dancing	dancing	NOUN	NN	Number=Sing	10	obj	10:obj	_
+
+# sent_id = 4
+1	Legend	legend	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
+2	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	2:obj	_
+4	belladonna	belladonna	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+5	killed	kill	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	2:ccomp	_
+6	Socrates	Socrates	PROPN	NNP	Number=Sing	5	obj	5:obj	_
+
+# sent_id = 5
+1	Ms.	Ms.	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Bumbry	Bumbry	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj|7:nsubj:xsubj	_
+3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+4	never	never	ADV	RB	_	5	advmod	5:advmod	_
+5	afraid	afraid	ADJ	JJ	Degree=Pos	0	root	0:root	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	inhabit	inhabit	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	primadonna	primadonna	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	role	role	NOUN	NN	Number=Sing	7	obj	7:obj	_
+11	offstage	offstage	ADV	RB	_	7	advmod	7:advmod	_
+
+# sent_id = 6
+1	Unlike	unlike	ADP	IN	_	3	case	3:case	_
+2	most	most	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
+3	fish	fish	NOUN	NNS	Number=Plur	8	obl	8:obl:unlike	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	8:punct	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	channa	channa	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
+7	can	can	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+8	leave	leave	VERB	VB	VerbForm=Inf	0	root	0:root	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	water	water	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	for	for	ADP	IN	_	14	case	14:case	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+13	short	short	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	period	period	NOUN	NN	Number=Sing	8	obl	8:obl:for	_
+15	of	of	ADP	IN	_	16	case	16:case	_
+16	time	time	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	_
+
+# sent_id = 7
+1	Apparently	apparently	ADV	RB	_	3	advmod	3:advmod	_
+2	Madonna	Madonna	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+3	loathes	loathe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	hydrangeas	hydrangea	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	savanna	savanna	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	many	many	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	lions	lion	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+
+# sent_id = 9
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	henna	henna	NOUN	NN	Number=Sing	5	compound	5:compound	_
+5	tattoo	tattoo	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	of	of	ADP	IN	_	9	case	9:case	_
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	Chinese	Chinese	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	name	name	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	_
+
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	Israelites	Israelites	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+3	survived	survive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	on	on	ADP	IN	_	5	case	5:case	_
+5	manna	manna	NOUN	NN	Number=Sing	3	obl	3:obl:on	_
+6	during	during	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	Exodus	Exodus	PROPN	NNP	Number=Sing	3	obl	3:obl:during	_
+
+# sent_id = 11
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	restaurant	restaurant	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	excellent	excellent	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+5	panna	panna	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	cotta	cotta	NOUN	NN	Number=Sing	3	obj	3:obj	_
+
+# sent_id = 12
+1	Nanna	Nanna	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	Icelandic	Icelandic	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	singer	singer	NOUN	NN	Number=Sing	0	root	0:root	_
+
+# sent_id = 13
+1-2	Dinna	_	_	_	_	_	_	_	_
+1	Din	do	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
+2	na	not	ADV	RB	_	1	advmod	1:advmod	_
+3	light	light	VERB	VB	VerbForm=Inf	1	dep	1:dep	_
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_
+5	candle	candle	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	!	!	PUNCT	.	_	1	punct	1:punct	_
+

@@ -1,0 +1,150 @@
+( (S
+    (NP (PRP$ My) (JJ favorite) (NN actress))
+    (VP
+      (VBZ is)
+      (NP (NNP Johanna) (NNP Lumley)))))
+
+( (S
+    (NP (PRP I))
+    (VP
+      (VBD used)
+      (NP
+        (DT a)
+        (ADJP (VBN burnt) (JJ sienna))
+        (NN crayon))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB color)
+            (PRT (RP in))
+            (NP (DT the) (NN picture))))))))
+
+( (S
+    (NP (DT A) (JJ large) (NN goanna))
+    (VP
+      (VBD bit)
+      (NP (PRP$ my) (NN arm)))))
+
+
+# The Stanza parser wanted S - VP - NN - dancing but that looked weird
+( (S
+    (NP
+      (NP (NN Someone))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP know)))))
+    (VP
+      (VBZ wears)
+      (NP (DT a) (NN bandanna))
+      (NP
+        (NP (DT every) (NN time))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP
+              (VBZ goes)
+              (NP (NN dancing)))))))))
+
+( (S
+    (NP (NN Legend))
+    (VP
+      (VBZ tells)
+      (NP (PRP us))
+      (SBAR
+        (S
+          (NP (NN belladonna))
+          (VP
+            (VBD killed)
+            (NP (NNP Socrates))))))))
+
+( (S
+    (NP (NNP Ms.) (NNP Bumbry))
+    (VP
+      (VBD was)
+      (ADVP (RB never))
+      (ADJP
+        (JJ afraid)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB inhabit)
+              (NP (DT the) (NN primadonna) (NN role))
+              (ADVP (RB offstage)))))))))
+
+( (S
+    (PP
+      (IN Unlike)
+      (NP (JJS most) (NNS fish)))
+    (, ,)
+    (NP (DT a) (NN channa))
+    (VP
+      (MD can)
+      (VP
+        (VB leave)
+        (NP (DT the) (NN water))
+        (PP
+          (IN for)
+          (NP
+            (NP (DT a) (JJ short) (NN period))
+            (PP
+              (IN of)
+              (NP (NN time)))))))))
+
+( (S
+    (ADVP (RB Apparently))
+    (NP (NNP Madonna))
+    (VP
+      (VBZ loathes)
+      (NP (NNS hydrangeas)))))
+
+( (S
+    (NP (DT The) (NN savanna))
+    (VP
+      (VBZ has)
+      (NP (JJ many) (NNS lions)))))
+
+( (S
+    (NP (PRP I))
+    (VP
+      (VBD got)
+      (NP
+        (NP (DT a) (NN henna) (NN tattoo))
+        (PP
+          (IN of)
+          (NP (PRP$ my) (JJ Chinese) (NN name)))))))
+
+( (S
+    (NP (DT The) (NNPS Israelites))
+    (VP
+      (VBD survived)
+      (PP
+        (IN on)
+        (NP (NN manna)))
+      (PP
+        (IN during)
+        (NP (DT the) (NNP Exodus))))))
+
+( (S
+    (NP (DT That) (NN restaurant))
+    (VP
+      (VBZ has)
+      (NP (JJ excellent) (NN panna) (NN cotta)))))
+
+(ROOT
+  (S
+    (NP (NNP Nanna))
+    (VP
+      (VBZ is)
+      (NP (DT an) (JJ Icelandic) (NN singer)))))
+
+( (S
+    (VP
+      (VB Din)
+      (RB na)
+      (VP
+        (VB light)
+        (NP (DT that) (NN candle))))
+    (. !)))
