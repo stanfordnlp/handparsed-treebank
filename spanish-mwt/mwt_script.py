@@ -145,6 +145,7 @@ con_obj_add = ["2\tme\tyo\tPRON\t_\tCase=Dat|Number=Sing|Person=1|PrepCase=Npr|P
                "2\tnos\tyo\tPRON\t_\tCase=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs\t1\tiobj\t_\t_"]
 
 for i, row in imperatives.iterrows():
+    random.seed(row['infinitive'] + "-1234", version=2)
     for j in range(3):
         form = random.choice(['tu', 'usted', 'ustedes'])
         cap = random.randint(0, 1)
