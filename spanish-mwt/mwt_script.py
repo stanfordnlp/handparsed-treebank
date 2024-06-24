@@ -7,19 +7,8 @@ import random
 
 mwt_strings = []
 
-starter = """# sent_id = 0
-# text = juntarse.
-1-2	juntarse	_	_	_	_	_	_	_	SpaceAfter=No
-1	juntar	juntar	VERB	_	VerbForm=Inf	0	root	_	_
-2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	obj	_	_
-3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
-
-# sent_id = 0
-# text = Juntarse.
-1-2	Juntarse	_	_	_	_	_	_	_	SpaceAfter=No
-1	Juntar	juntar	VERB	_	VerbForm=Inf	0	root	_	_
-2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	obj	_	_
-3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_"""
+with open("handpicked.mwt", encoding='utf-8') as fin:
+    starter = fin.read()
 
 mwt_strings.append(starter)
 
