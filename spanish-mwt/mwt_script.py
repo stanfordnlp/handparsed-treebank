@@ -16,24 +16,21 @@ mwt_strings = ["\n".join(block) for block in mwt_strings]
 train = "es_ancora-ud-train.conllu"
 dev = "es_ancora-ud-dev.conllu"
 test = "es_ancora-ud-test.conllu"
+ancora_files = [train, dev, test]
 
-root = os.path.join(os.environ["UDBASE"], "UD_Spanish-AnCora")
+ancora_root = os.path.join(os.environ["UDBASE"], "UD_Spanish-AnCora")
 
-train_path = os.path.join(root, train)
-dev_path = os.path.join(root, dev)
-test_path = os.path.join(root, test)
-
-verb_list = []
-with open(train_path, 'r', encoding='ISO-8859-1') as file:
-    train = file.read()
-with open(dev_path, 'r', encoding='ISO-8859-1') as file:
-    dev = file.read()
-with open(test_path, 'r', encoding='ISO-8859-1') as file:
-    test = file.read()
-
+verbs_found = []
 # sample verb = '10	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_'
 verb_re = r'[\d]+(\t[A-Za-z]+\t[A-Za-z]+\tVERB\t_\t[A-Za-z=|0-9]*\t[\d]+\t[a-z]+\t_\t_)'
-verbs_found = re.findall(verb_re, train) + re.findall(verb_re, dev) + re.findall(verb_re, test)
+
+for ancora_file in ancora_files:
+    path = os.path.join(ancora_root, ancora_file)
+
+    with open(path, 'r', encoding='utf-8') as fin:
+        train = fin.read()
+        verbs_found.extend(re.findall(verb_re, train))
+
 for i, j, in enumerate(verbs_found):
     j_new = re.sub(r'\t[\d]+', '\t0', j)
     verbs_found[i] = "1" + j_new
