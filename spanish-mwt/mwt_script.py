@@ -5,12 +5,13 @@ import numpy as np
 import pandas as pd
 import random
 
-mwt_strings = []
-
 with open("handpicked.mwt", encoding='utf-8') as fin:
     starter = fin.read()
 
-mwt_strings.append(starter)
+mwt_strings = starter.strip().split("\n\n")
+mwt_strings = [x.split("\n") for x in mwt_strings]
+mwt_strings = [[x for x in block if not x.startswith("# sent_id")] for block in mwt_strings]
+mwt_strings = ["\n".join(block) for block in mwt_strings]
 
 train = "es_ancora-ud-train.conllu"
 dev = "es_ancora-ud-dev.conllu"
@@ -70,7 +71,6 @@ ind_obj_prep = ["3\tla\tél\tPRON\t_\tCase=Acc|Gender=Fem|Number=Sing|Person=3|P
                 "3\tlas\tél\tPRON\t_\tCase=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs\t1\tiobj\t_\t_",
                 "3\tlos\tél\tPRON\t_\tCase=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs\t1\tiobj\t_\t_"]
 
-sent_id = "# sent_id = 0"
 text = "# text = "
 period_dir = "3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_"
 period_indir = "4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_"
@@ -108,7 +108,7 @@ for verb in inf_ger_verbs:
             add_text = re.findall(r'[\d]+\t([A-Za-z]+)\t', add)[0]
             submitted_text = text + verb_text + add_text + "."
             mwt_text = "1-2\t" + verb_text + add_text + "\t_\t_\t_\t_\t_\t_\t_\tSpaceAfter=No"
-            text_parts = [sent_id, submitted_text, mwt_text, verb, add, period_dir]
+            text_parts = [submitted_text, mwt_text, verb, add, period_dir]
         else:
             if re.search('VerbForm=Inf', verb) is None:
                 verb_text = verb_text[:len(verb_text) - 4] + accent_letter[verb_text[len(verb_text) - 4].lower()] + \
@@ -124,7 +124,7 @@ for verb in inf_ger_verbs:
             add_prep_text = re.findall(r'[\d]+\t([A-Za-z]+)\t', add_prep)[0]
             submitted_text = text + verb_text + add_pron_text + add_prep_text
             mwt_text = "1-3\t" + verb_text + add_pron_text + add_prep_text + "\t_\t_\t_\t_\t_\t_\t_\tSpaceAfter=No"
-            text_parts = [sent_id, submitted_text, mwt_text, verb, add_pron, add_prep, period_indir]
+            text_parts = [submitted_text, mwt_text, verb, add_pron, add_prep, period_indir]
 
         new_entry = '\n'.join(text_parts)
         if new_entry not in mwt_strings:
@@ -208,10 +208,13 @@ for i, row in imperatives.iterrows():
                 verb = "1\t" + conj_verb + "\t" + infinitive_verb + \
                        "\tVERB\t_\tMood=Imp|Numb=Plur|Person=3|VerbForm=Fin\t0\t" + clause_type + "\t_\t_"
 
-        text_parts = [sent_id, submitted_text, mwt_text, verb, add_pron, period_dir]
+        text_parts = [submitted_text, mwt_text, verb, add_pron, period_dir]
         new_entry = '\n'.join(text_parts)
         if new_entry not in mwt_strings:
             mwt_strings.append(new_entry)
 
-with open('spanish.mwt', mode='wt', encoding='utf-8') as file:
-    file.write('\n\n'.join(mwt_strings))
+with open('spanish.mwt', mode='wt', encoding='utf-8') as fout:
+    for mwt_idx, mwt_string in enumerate(mwt_strings):
+        fout.write('# sent_id = %d\n' % mwt_idx)
+        fout.write(mwt_string)
+        fout.write('\n\n')
