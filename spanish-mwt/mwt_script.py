@@ -170,7 +170,7 @@ for i, row in imperatives.iterrows():
                 add_pron = random.choice(reflex_se)
             else:
                 verb = "1\t" + conj_verb + "\t" + infinitive_verb + \
-                       "\tVERB\t_\tMood=Imp|Numb=PLur|Person=3|VerbForm=Fin\t0\t" + clause_type + "\t_\t_"
+                       "\tVERB\t_\tMood=Imp|Numb=Plur|Person=3|VerbForm=Fin\t0\t" + clause_type + "\t_\t_"
                 add_pron = random.choice(reflex_se)
         else:
             infinitive_verb = row['infinitive']
@@ -206,7 +206,7 @@ for i, row in imperatives.iterrows():
                        "\tVERB\t_\tMood=Imp|Numb=Sing|Person=3|VerbForm=Fin\t0\t" + clause_type + "\t_\t_"
             else:
                 verb = "1\t" + conj_verb + "\t" + infinitive_verb + \
-                       "\tVERB\t_\tMood=Imp|Numb=PLur|Person=3|VerbForm=Fin\t0\t" + clause_type + "\t_\t_"
+                       "\tVERB\t_\tMood=Imp|Numb=Plur|Person=3|VerbForm=Fin\t0\t" + clause_type + "\t_\t_"
 
         text_parts = [sent_id, submitted_text, mwt_text, verb, add_pron, period_dir]
         new_entry = '\n'.join(text_parts)
