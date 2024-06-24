@@ -27,15 +27,13 @@ train = "es_ancora-ud-train.conllu"
 dev = "es_ancora-ud-dev.conllu"
 test = "es_ancora-ud-test.conllu"
 
-#Replace path, with starting directory to search for AnCora data
-for root, dirs, files in os.walk(r'c:\\'):
-    for name in files:
-        if name == train:
-            train_path = os.path.abspath(os.path.join(root, name))
-        if name == dev:
-            dev_path = os.path.abspath(os.path.join(root, name))
-        if name == test:
-            test_path = os.path.abspath(os.path.join(root, name))
+root = os.path.join(os.environ["UDBASE"], "UD_Spanish-AnCora")
+
+train_path = os.path.join(root, train)
+dev_path = os.path.join(root, dev)
+test_path = os.path.join(root, test)
+
+random.seed(1234)
 
 verb_list = []
 with open(train_path, 'r', encoding='ISO-8859-1') as file:
