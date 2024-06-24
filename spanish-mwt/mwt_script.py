@@ -33,8 +33,6 @@ train_path = os.path.join(root, train)
 dev_path = os.path.join(root, dev)
 test_path = os.path.join(root, test)
 
-random.seed(1234)
-
 verb_list = []
 with open(train_path, 'r', encoding='ISO-8859-1') as file:
     train = file.read()
@@ -96,6 +94,7 @@ accent_letter = {'a': 'á',
                  'u': 'ú'}
 
 for verb in inf_ger_verbs:
+    random.seed(verb + "-1234", version=2)
     for i in range(4):
         verb_matches = re.findall(r'[\d]+\t([A-Za-z]+)\t', verb)
         verb_text = verb_matches[0].lower()
