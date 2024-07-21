@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import random
 
-with open("handpicked.mwt", encoding='utf-8') as fin:
+with open("infinitives.mwt", encoding='utf-8') as fin:
     starter = fin.read()
 
 mwt_strings = starter.strip().split("\n\n")
