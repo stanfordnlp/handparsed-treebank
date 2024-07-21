@@ -61,167 +61,475 @@
 4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = 8
+# text = amarlos.
+1-2	amarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	amar	amar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 9
+# text = Amarlos.
+1-2	Amarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Amar	amar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 10
+# text = amoblarlos.
+1-2	amoblarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	amoblar	amoblar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 11
+# text = Amoblarlos.
+1-2	Amoblarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Amoblar	amoblar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 12
+# text = arreglarlos.
+1-2	arreglarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	arreglar	arreglar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 13
+# text = Arreglarlos.
+1-2	Arreglarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Arreglar	arreglar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 14
 # text = atarlos.
 1-2	atarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	atar	atar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 9
+# sent_id = 15
 # text = Atarlos.
 1-2	Atarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Atar	atar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 10
+# sent_id = 16
+# text = ayudarlos.
+1-2	ayudarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	ayudar	ayudar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 17
+# text = Ayudarlos.
+1-2	Ayudarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ayudar	ayudar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 18
 # text = besarlos.
 1-2	besarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 11
+# sent_id = 19
 # text = Besarlos.
 1-2	Besarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 12
+# sent_id = 20
+# text = besarlos.
+1-2	besarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 21
+# text = Besarlos.
+1-2	Besarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 22
+# text = buscarlos.
+1-2	buscarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	buscar	buscar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 23
+# text = Buscarlos.
+1-2	Buscarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Buscar	buscar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 24
+# text = cambiarlos.
+1-2	cambiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	cambiar	cambiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 25
+# text = Cambiarlos.
+1-2	Cambiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Cambiar	cambiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 26
 # text = compartirlos.
 1-2	compartirlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	compartir	compartir	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 13
+# sent_id = 27
 # text = Compartirlos.
 1-2	Compartirlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Compartir	compartir	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 14
+# sent_id = 28
+# text = conquistarlos.
+1-2	conquistarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	conquistar	conquistar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 29
+# text = Conquistarlos.
+1-2	Conquistarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Conquistar	conquistar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 30
+# text = consumirlos.
+1-2	consumirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	consumir	consumir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 31
+# text = Consumirlos.
+1-2	Consumirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Consumir	consumir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 32
 # text = decirlos.
 1-2	decirlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 15
+# sent_id = 33
 # text = Decirlos.
 1-2	Decirlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 16
+# sent_id = 34
+# text = distraerlos.
+1-2	distraerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	distraer	distraer	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 35
+# text = Distraerlos.
+1-2	Distraerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Distraer	distraer	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 36
+# text = escucharlos.
+1-2	escucharlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	escuchar	escuchar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 37
+# text = Escucharlos.
+1-2	Escucharlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Escuchar	escuchar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 38
+# text = esquivarlos.
+1-2	esquivarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	esquivar	esquivar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 39
+# text = Esquivarlos.
+1-2	Esquivarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Esquivar	esquivar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 40
+# text = estudiarlos.
+1-2	estudiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	estudiar	estudiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 41
+# text = Estudiarlos.
+1-2	Estudiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Estudiar	estudiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 42
 # text = haberlos.
 1-2	haberlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	haber	haber	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 17
+# sent_id = 43
 # text = Haberlos.
 1-2	Haberlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Haber	haber	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 18
+# sent_id = 44
 # text = hacerlos.
 1-2	hacerlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 19
+# sent_id = 45
 # text = Hacerlos.
 1-2	Hacerlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 20
+# sent_id = 46
+# text = incluirlos.
+1-2	incluirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	incluir	incluir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 47
+# text = Incluirlos.
+1-2	Incluirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Incluir	incluir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 48
 # text = invadirlos.
 1-2	invadirlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	invadir	invadir	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 21
+# sent_id = 49
 # text = Invadirlos.
 1-2	Invadirlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Invadir	invadir	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 22
+# sent_id = 50
 # text = llamarlos.
 1-2	llamarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	llamar	llamar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 23
+# sent_id = 51
 # text = Llamarlos.
 1-2	Llamarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Llamar	llamar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 24
+# sent_id = 52
+# text = lograrlos.
+1-2	lograrlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	lograr	lograr	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 53
+# text = Lograrlos.
+1-2	Lograrlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Lograr	lograr	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 54
+# text = matarlos.
+1-2	matarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	matar	matar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 55
+# text = Matarlos.
+1-2	Matarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Matar	matar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 56
+# text = nulificarlos.
+1-2	nulificarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	nulificar	nulificar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 57
+# text = Nulificarlos.
+1-2	Nulificarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Nulificar	nulificar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 58
+# text = ordenarlos.
+1-2	ordenarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	ordenar	ordenar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 59
+# text = Ordenarlos.
+1-2	Ordenarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ordenar	ordenar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 60
+# text = oírlos.
+1-2	oírlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	oír	oír	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 61
+# text = Oírlos.
+1-2	Oírlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Oír	oír	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 62
+# text = romperlos.
+1-2	romperlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	romper	romper	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 63
+# text = Romperlos.
+1-2	Romperlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Romper	romper	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 64
 # text = saberlos.
 1-2	saberlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	saber	saber	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 25
+# sent_id = 65
 # text = Saberlos.
 1-2	Saberlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Saber	saber	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 26
+# sent_id = 66
+# text = sentirlos.
+1-2	sentirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	sentir	sentir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 67
+# text = Sentirlos.
+1-2	Sentirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Sentir	sentir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 68
+# text = sublimarlos.
+1-2	sublimarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	sublimar	sublimar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 69
+# text = Sublimarlos.
+1-2	Sublimarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Sublimar	sublimar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 70
 # text = tenerlos.
 1-2	tenerlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	tener	tener	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 27
+# sent_id = 71
 # text = Tenerlos.
 1-2	Tenerlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Tener	tener	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 28
+# sent_id = 72
 # text = usarlos.
 1-2	usarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	usar	usar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 29
+# sent_id = 73
 # text = Usarlos.
 1-2	Usarlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Usar	usar	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 30
+# sent_id = 74
 # text = verlos.
 1-2	verlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
 2	los	él	PRON	_	_	1	obj	_	_
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
-# sent_id = 31
+# sent_id = 75
 # text = Verlos.
 1-2	Verlos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
