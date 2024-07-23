@@ -1,149 +1,149 @@
 # text = Nous vous recommandons vivement d'investir dans un système aux normes.
 # sent_id = 1
-1       Nous    nous    PRON    _       Emph=No|Number=Plur|Person=1|PronType=Prs       3       nsubj   _       _
-2       vous    vous    PRON    _       Emph=No|Number=Plur|Person=2|PronType=Prs       3       iobj    _       _
-3       recommandons    recommander     VERB    _       Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin   0       root    _       _
-4       vivement        vivement        ADV     _       _       3       advmod  _       _
-5       d'      de      ADP     _       _       6       mark    _       SpaceAfter=No
-6       investir        investir        VERB    _       VerbForm=Inf    3       xcomp   _       _
-7       dans    dans    ADP     _       _       9       case    _       _
-8       un      un      DET     _       Definite=Ind|Gender=Masc|Number=Sing|PronType=Art       9       det     _       _
-9       système système NOUN    _       Gender=Masc|Number=Sing 6       obl:arg _       _
-10-11   aux     _       _       _       _       _       _       _       _
-10      à       à       ADP     _       _       12      case    _       _
-11      les     le      DET     _       Definite=Def|Number=Plur|PronType=Art   12      det     _       _
-12      normes  norme   NOUN    _       Gender=Fem|Number=Plur  9       nmod    _       SpaceAfter=No
-13      .       .       PUNCT   _       _       3       punct   _       _
+1	Nous	nous	PRON	_	Emph=No|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
+3	recommandons	recommander	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vivement	vivement	ADV	_	_	3	advmod	_	_
+5	d'	de	ADP	_	_	6	mark	_	SpaceAfter=No
+6	investir	investir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+7	dans	dans	ADP	_	_	9	case	_	_
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	système	système	NOUN	_	Gender=Masc|Number=Sing	6	obl:arg	_	_
+10-11	aux	_	_	_	_	_	_	_	_
+10	à	à	ADP	_	_	12	case	_	_
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+12	normes	norme	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
 
 # text = Élaborez un plan de gestion de crise.
 # sent_id = 2
-1       Élaborez        élaborer        VERB    _       Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   0       root    _       _
-2       un      un      DET     _       Definite=Ind|Gender=Masc|Number=Sing|PronType=Art       3       det     _       _
-3       plan    plan    NOUN    _       Gender=Masc|Number=Sing 1       obj     _       _
-4       de      de      ADP     _       _       5       case    _       _
-5       gestion gestion NOUN    _       Gender=Fem|Number=Sing  3       nmod    _       _
-6       de      de      ADP     _       _       7       case    _       _
-7       crise   crise   NOUN    _       Gender=Fem|Number=Sing  5       nmod    _       SpaceAfter=No
-8       .       .       PUNCT   _       _       1       punct   _       _
+1	Élaborez	élaborer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	plan	plan	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	gestion	gestion	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	crise	crise	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # text = Il semble que vous ne soyez pas informé.
 # sent_id = 3
-1       Il      lui     PRON    _       Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs   2       expl:subj       _       _
-2       semble  sembler VERB    _       Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin   0       root    _       _
-3       que     que     SCONJ   _       _       8       mark    _       _
-4       vous    vous    PRON    _       Emph=No|Number=Plur|Person=2|PronType=Prs       8       nsubj:pass      _       _
-5       ne      ne      ADV     _       Polarity=Neg    8       advmod  _       _
-6       soyez   être    AUX     _       Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   8       aux:pass        _       _
-7       pas     pas     ADV     _       Polarity=Neg    8       advmod  _       _
-8       informé informer        VERB    _       Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass     2       csubj   _       SpaceAfter=No
-9       .       .       PUNCT   _       _       2       punct   _       _
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_
+2	semble	sembler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	8	mark	_	_
+4	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	8	nsubj:pass	_	_
+5	ne	ne	ADV	_	Polarity=Neg	8	advmod	_	_
+6	soyez	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+7	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
+8	informé	informer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	csubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # text = Mettez en place des politiques de recouvrement plus strictes!
 # sent_id = 4
-1       Mettez  mettre  VERB    _       Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   0       root    _       _
-2       en      en      ADP     _       _       3       case    _       _
-3       place   place   NOUN    _       Gender=Fem|Number=Sing  1       obl:mod _       _
-4-5     des     _       _       _       _       _       _       _       _
-4       de      de      ADP     _       _       6       case    _       _
-5       les     le      DET     _       Definite=Def|Number=Plur|PronType=Art   6       det     _       _
-6       politiques      politique       NOUN    _       Gender=Fem|Number=Plur  1       obl:arg _       _
-7       de      de      ADP     _       _       8       case    _       _
-8       recouvrement    recouvrement    NOUN    _       Gender=Masc|Number=Sing 6       nmod    _       _
-9       plus    plus    ADV     _       _       10      advmod  _       _
-10      strictes        strict  ADJ     _       Gender=Fem|Number=Plur  6       amod    _       SpaceAfter=No
-11      !       !       PUNCT   _       _       1       punct   _       _
+1	Mettez	mettre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	place	place	NOUN	_	Gender=Fem|Number=Sing	1	obl:mod	_	_
+4-5	des	_	_	_	_	_	_	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	politiques	politique	NOUN	_	Gender=Fem|Number=Plur	1	obl:arg	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	recouvrement	recouvrement	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	plus	plus	ADV	_	_	10	advmod	_	_
+10	strictes	strict	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	1	punct	_	_
 
 # text = Nos experts peuvent vous conseiller.
 # sent_id = 5
-1       Nos     son     DET     _       Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs      2       det     _       _
-2       experts expert  NOUN    _       Gender=Masc|Number=Plur 3       nsubj   _       _
-3       peuvent pouvoir VERB    _       Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin   0       root    _       _
-4       vous    vous    PRON    _       Emph=No|Number=Plur|Person=2|PronType=Prs       5       obj     _       _
-5       conseiller      conseiller      VERB    _       VerbForm=Inf    3       xcomp   _       SpaceAfter=No
-6       .       .       PUNCT   _       _       3       punct   _       _
+1	Nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	experts	expert	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	peuvent	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	5	obj	_	_
+5	conseiller	conseiller	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 # text = Assurez-vous d'être à l'heure!
 # sent_id = 6
-1       Assurez assurer VERB    _       Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   0       root    _       SpaceAfter=No
-2       -vous   vous    PRON    _       Emph=No|Number=Plur|Person=2|PronType=Prs       1       nsubj   _       _
-3       d'      de      ADP     _       _       4       mark    _       SpaceAfter=No
-4       être    être    AUX     _       VerbForm=Inf    1       ccomp   _       _
-5       à       à       ADP     _       _       7       case    _       _
-6       l'      le      DET     _       Definite=Def|Number=Sing|PronType=Art   7       det     _       SpaceAfter=No
-7       heure   heure   NOUN    _       Gender=Fem|Number=Sing  4       obl:arg _       SpaceAfter=No
-8       !       !       PUNCT   _       _       1       punct   _       _
+1	Assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	d'	de	ADP	_	_	4	mark	_	SpaceAfter=No
+4	être	être	AUX	_	VerbForm=Inf	1	ccomp	_	_
+5	à	à	ADP	_	_	7	case	_	_
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	heure	heure	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	SpaceAfter=No
+8	!	!	PUNCT	_	_	1	punct	_	_
 
 # text = Puisque vous êtes équipé d'un logiciel de facturation, assurez-vous d'utiliser le système de relance afin de résorber les retards de paiement que vous déplorez.
 # sent_id = 7
-1       Puisque puisque SCONJ   _       _       4       mark    _       _
-2       vous    vous    PRON    _       Number=Plur|Person=2|PronType=Prs       4       nsubj:pass      _       _
-3       êtes    être    AUX     _       Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   4       aux:pass        _       _
-4       équipé  équiper VERB    _       Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass     11      advcl   _       _
-5       d'      de      ADP     _       _       7       case    _       SpaceAfter=No
-6       un      un      DET     _       Definite=Ind|Gender=Masc|Number=Sing|PronType=Art       7       det     _       _
-7       logiciel        logiciel        NOUN    _       Gender=Masc|Number=Sing 4       obl:arg _       _
-8       de      de      ADP     _       _       9       case    _       _
-9       facturation     facturation     NOUN    _       Gender=Fem|Number=Sing  7       nmod    _       SpaceAfter=No
-10      ,       ,       PUNCT   _       _       4       punct   _       _
-11      assurez assurer VERB    _       Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   0       root    _       SpaceAfter=No
-12      -vous   vous    PRON    _       Emph=No|Number=Plur|Person=2|PronType=Prs       11      nsubj   _       _
-13      d'      de      ADP     _       _       14      mark    _       SpaceAfter=No
-14      utiliser        utiliser        VERB    _       VerbForm=Inf    11      ccomp   _       _
-15      le      le      DET     _       Definite=Def|Gender=Masc|Number=Sing|PronType=Art       16      det     _       _
-16      système système NOUN    _       Gender=Masc|Number=Sing 14      obj     _       _
-17      de      de      ADP     _       _       18      case    _       _
-18      relance relance NOUN    _       Gender=Fem|Number=Sing  16      nmod    _       _
-19      afin    afin    ADV     _       _       14      advmod  _       _
-20      de      de      ADP     _       _       21      mark    _       _
-21      résorber        résorber        VERB    _       VerbForm=Inf    19      ccomp   _       _
-22      les     le      DET     _       Definite=Def|Number=Plur|PronType=Art   23      det     _       _
-23      retards retard  NOUN    _       Gender=Masc|Number=Plur 21      obj     _       _
-24      de      de      ADP     _       _       25      case    _       _
-25      paiement        paiement        NOUN    _       Gender=Masc|Number=Sing 23      nmod    _       _
-26      que     que     PRON    _       PronType=Rel    28      obj     _       _
-27      vous    vous    PRON    _       Emph=No|Number=Plur|Person=2|PronType=Prs       28      nsubj   _       _
-28      déplorez        déplorer        VERB    _       Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   23      acl:relcl       _       SpaceAfter=No
-29      .       .       PUNCT   _       _       11      punct   _       _
+1	Puisque	puisque	SCONJ	_	_	4	mark	_	_
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj:pass	_	_
+3	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	équipé	équiper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
+5	d'	de	ADP	_	_	7	case	_	SpaceAfter=No
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	logiciel	logiciel	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	facturation	facturation	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	4	punct	_	_
+11	assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
+13	d'	de	ADP	_	_	14	mark	_	SpaceAfter=No
+14	utiliser	utiliser	VERB	_	VerbForm=Inf	11	ccomp	_	_
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	système	système	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	relance	relance	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+19	afin	afin	ADV	_	_	14	advmod	_	_
+20	de	de	ADP	_	_	21	mark	_	_
+21	résorber	résorber	VERB	_	VerbForm=Inf	19	ccomp	_	_
+22	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+23	retards	retard	NOUN	_	Gender=Masc|Number=Plur	21	obj	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	paiement	paiement	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+26	que	que	PRON	_	PronType=Rel	28	obj	_	_
+27	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	28	nsubj	_	_
+28	déplorez	déplorer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	11	punct	_	_
 
 
 # text = Assurez-vous de bien suivre la réglementation qui encadre votre secteur d'activité.
 # sent_id = 8
-1       Assurez assurer VERB    _       Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   0       root    _       SpaceAfter=No
-2       -vous   vous    PRON    _       Number=Plur|Person=2|PronType=Prs       1       nsubj   _       _
-3       de      de      ADP     _       _       5       mark    _       _
-4       bien    bien    ADV     _       _       5       advmod  _       _
-5       suivre  suivre  VERB    _       VerbForm=Inf    1       xcomp   _       _
-6       la      le      DET     _       Definite=Def|Gender=Fem|Number=Sing|PronType=Art        7       det     _       _
-7       réglementation  réglementation  NOUN    _       Gender=Fem|Number=Sing  5       obj     _       _
-8       qui     qui     PRON    _       PronType=Rel    9       nsubj   _       _
-9       encadre encadrer        VERB    _       Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin   7       acl:relcl       _       _
-10      votre   son     DET     _       Number=Sing|Poss=Yes    11      det     _       _
-11      secteur secteur NOUN    _       Gender=Masc|Number=Sing 9       obj     _       _
-12      d'      de      ADP     _       _       13      case    _       SpaceAfter=No
-13      activité        activité        NOUN    _       Gender=Fem|Number=Sing  11      nmod    _       SpaceAfter=No
-14      .       .       PUNCT   _       _       1      punct   _       _
+1	Assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	-vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	de	de	ADP	_	_	5	mark	_	_
+4	bien	bien	ADV	_	_	5	advmod	_	_
+5	suivre	suivre	VERB	_	VerbForm=Inf	1	xcomp	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	réglementation	réglementation	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	_
+9	encadre	encadrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	votre	son	DET	_	Number=Sing|Poss=Yes	11	det	_	_
+11	secteur	secteur	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	d'	de	ADP	_	_	13	case	_	SpaceAfter=No
+13	activité	activité	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 
 
 # text = Assurez-vous de couvrir les risques potentiels, y compris les incendies, les catastrophes naturelles et le vol.
 # sent_id = 9
-1       Assurez assurer VERB    _       Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin   0       root    _       SpaceAfter=No
-2       -vous   vous    PRON    _       Emph=No|Number=Plur|Person=2|PronType=Prs       1       nsubj   _       _
-3       de      de      ADP     _       _       4       mark    _       _
-4       couvrir couvrir VERB    _       VerbForm=Inf    1       ccomp   _       _
-5       les     le      DET     _       Definite=Def|Number=Plur|PronType=Art   6       det     _       _
-6       risques risque  NOUN    _       Gender=Masc|Number=Plur 4       obj     _       _
-7       potentiels      potentiel       ADJ     _       Gender=Masc|Number=Plur 6       amod    _       SpaceAfter=No
-8       ,       ,       PUNCT   _       _       12      punct   _       _
-9       y       y       PRON    _       Emph=No|ExtPos=ADP|Person=3|PronType=Prs        12      case    _       _
-10      compris comprendre      VERB    _       Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass 9       fixed   _       _
-11      les     le      DET     _       Definite=Def|Number=Plur|PronType=Art   12      det     _       _
-12      incendies       incendie        NOUN    _       Gender=Masc|Number=Plur 6       nmod    _       SpaceAfter=No
-13      ,       ,       PUNCT   _       _       15      punct   _       _
-14      les     le      DET     _       Definite=Def|Number=Plur|PronType=Art   15      det     _       _
-15      catastrophes    catastrophe     NOUN    _       Gender=Fem|Number=Plur  12      conj    _       _
-16      naturelles      naturel ADJ     _       Gender=Fem|Number=Plur  15      amod    _       _
-17      et      et      CCONJ   _       _       19      cc      _       _
-18      le      le      DET     _       Definite=Def|Gender=Masc|Number=Sing|PronType=Art       19      det     _       _
-19      vol     vol     NOUN    _       Gender=Masc|Number=Sing 12      conj    _       SpaceAfter=No
-20      .       .       PUNCT   _       _       1       punct   _       _
+1	Assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	couvrir	couvrir	VERB	_	VerbForm=Inf	1	ccomp	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	risques	risque	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	potentiels	potentiel	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	y	y	PRON	_	Emph=No|ExtPos=ADP|Person=3|PronType=Prs	12	case	_	_
+10	compris	comprendre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass	9	fixed	_	_
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+12	incendies	incendie	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
+15	catastrophes	catastrophe	NOUN	_	Gender=Fem|Number=Plur	12	conj	_	_
+16	naturelles	naturel	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
+17	et	et	CCONJ	_	_	19	cc	_	_
+18	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	vol	vol	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
