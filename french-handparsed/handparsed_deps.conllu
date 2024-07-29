@@ -65,7 +65,7 @@
 # text = Assurez-vous d'être à l'heure!
 # sent_id = 6
 1	Assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+2	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	1	expl:pv	_	_
 3	d'	de	ADP	_	_	4	mark	_	SpaceAfter=No
 4	être	être	AUX	_	VerbForm=Inf	1	ccomp	_	_
 5	à	à	ADP	_	_	7	case	_	_
@@ -86,7 +86,7 @@
 9	facturation	facturation	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	4	punct	_	_
 11	assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-12	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
+12	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	11	expl:pv	_	_
 13	d'	de	ADP	_	_	14	mark	_	SpaceAfter=No
 14	utiliser	utiliser	VERB	_	VerbForm=Inf	11	ccomp	_	_
 15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -109,7 +109,7 @@
 # text = Assurez-vous de bien suivre la réglementation qui encadre votre secteur d'activité.
 # sent_id = 8
 1	Assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+2	-vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	1	expl:pv	_	_
 3	de	de	ADP	_	_	5	mark	_	_
 4	bien	bien	ADV	_	_	5	advmod	_	_
 5	suivre	suivre	VERB	_	VerbForm=Inf	1	xcomp	_	_
@@ -128,7 +128,7 @@
 # text = Assurez-vous de couvrir les risques potentiels, y compris les incendies, les catastrophes naturelles et le vol.
 # sent_id = 9
 1	Assurez	assurer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+2	-vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	1	expl:pv	_	_
 3	de	de	ADP	_	_	4	mark	_	_
 4	couvrir	couvrir	VERB	_	VerbForm=Inf	1	ccomp	_	_
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
