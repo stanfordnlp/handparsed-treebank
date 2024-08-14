@@ -1,0 +1,1553 @@
+# sent_id = 0
+# text = juntarse.
+1-2	juntarse	_	_	_	_	_	_	_	SpaceAfter=No
+1	juntar	juntar	VERB	_	VerbForm=Inf	0	root	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 1
+# text = Juntarse.
+1-2	Juntarse	_	_	_	_	_	_	_	SpaceAfter=No
+1	Juntar	juntar	VERB	_	VerbForm=Inf	0	root	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 2
+# text = Decírselo.
+1-3	Decírselo	_	_	_	_	_	_	_	SpaceAfter=No
+1	Decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
+2	se	él	PRON	_	_	1	_	_	_
+3	lo	él	PRON	_	_	2	_	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 3
+# text = decírselo.
+1-3	decírselo	_	_	_	_	_	_	_	SpaceAfter=No
+1	decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
+2	se	él	PRON	_	_	1	_	_	_
+3	lo	él	PRON	_	_	2	_	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 4
+# text = Decírmelo.
+1-3	Decírmelo	_	_	_	_	_	_	_	SpaceAfter=No
+1	Decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
+2	me	él	PRON	_	_	1	_	_	_
+3	lo	él	PRON	_	_	2	_	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 5
+# text = decírmelo.
+1-3	decírmelo	_	_	_	_	_	_	_	SpaceAfter=No
+1	decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
+2	me	él	PRON	_	_	1	_	_	_
+3	lo	él	PRON	_	_	2	_	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 6
+# text = Dárselo.
+1-3	Dárselo	_	_	_	_	_	_	_	SpaceAfter=No
+1	Dar	dar	VERB	_	VerbForm=Inf	0	root	_	_
+2	se	él	PRON	_	_	1	_	_	_
+3	lo	él	PRON	_	_	2	_	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 7
+# text = dárselo.
+1-3	dárselo	_	_	_	_	_	_	_	SpaceAfter=No
+1	dar	dar	VERB	_	VerbForm=Inf	0	root	_	_
+2	se	él	PRON	_	_	1	_	_	_
+3	lo	él	PRON	_	_	2	_	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 8
+# text = amarlos.
+1-2	amarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	amar	amar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 9
+# text = Amarlos.
+1-2	Amarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Amar	amar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 10
+# text = amoblarlos.
+1-2	amoblarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	amoblar	amoblar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 11
+# text = Amoblarlos.
+1-2	Amoblarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Amoblar	amoblar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 12
+# text = arreglarlos.
+1-2	arreglarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	arreglar	arreglar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 13
+# text = Arreglarlos.
+1-2	Arreglarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Arreglar	arreglar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 14
+# text = atarlos.
+1-2	atarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	atar	atar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 15
+# text = Atarlos.
+1-2	Atarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Atar	atar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 16
+# text = ayudarlos.
+1-2	ayudarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	ayudar	ayudar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 17
+# text = Ayudarlos.
+1-2	Ayudarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ayudar	ayudar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 18
+# text = besarlos.
+1-2	besarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 19
+# text = Besarlos.
+1-2	Besarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 20
+# text = besarlos.
+1-2	besarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 21
+# text = Besarlos.
+1-2	Besarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Besar	besar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 22
+# text = buscarlos.
+1-2	buscarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	buscar	buscar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 23
+# text = Buscarlos.
+1-2	Buscarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Buscar	buscar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 24
+# text = cambiarlos.
+1-2	cambiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	cambiar	cambiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 25
+# text = Cambiarlos.
+1-2	Cambiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Cambiar	cambiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 26
+# text = compartirlos.
+1-2	compartirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	compartir	compartir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 27
+# text = Compartirlos.
+1-2	Compartirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Compartir	compartir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 28
+# text = conquistarlos.
+1-2	conquistarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	conquistar	conquistar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 29
+# text = Conquistarlos.
+1-2	Conquistarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Conquistar	conquistar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 30
+# text = consumirlos.
+1-2	consumirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	consumir	consumir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 31
+# text = Consumirlos.
+1-2	Consumirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Consumir	consumir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 32
+# text = decirlos.
+1-2	decirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 33
+# text = Decirlos.
+1-2	Decirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Decir	decir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 34
+# text = distraerlos.
+1-2	distraerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	distraer	distraer	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 35
+# text = Distraerlos.
+1-2	Distraerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Distraer	distraer	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 36
+# text = escucharlos.
+1-2	escucharlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	escuchar	escuchar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 37
+# text = Escucharlos.
+1-2	Escucharlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Escuchar	escuchar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 38
+# text = esquivarlos.
+1-2	esquivarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	esquivar	esquivar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 39
+# text = Esquivarlos.
+1-2	Esquivarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Esquivar	esquivar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 40
+# text = estudiarlos.
+1-2	estudiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	estudiar	estudiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 41
+# text = Estudiarlos.
+1-2	Estudiarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Estudiar	estudiar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 42
+# text = haberlos.
+1-2	haberlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	haber	haber	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 43
+# text = Haberlos.
+1-2	Haberlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Haber	haber	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 44
+# text = hacerlos.
+1-2	hacerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 45
+# text = Hacerlos.
+1-2	Hacerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 46
+# text = incluirlos.
+1-2	incluirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	incluir	incluir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 47
+# text = Incluirlos.
+1-2	Incluirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Incluir	incluir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 48
+# text = invadirlos.
+1-2	invadirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	invadir	invadir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 49
+# text = Invadirlos.
+1-2	Invadirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Invadir	invadir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 50
+# text = llamarlos.
+1-2	llamarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	llamar	llamar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 51
+# text = Llamarlos.
+1-2	Llamarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Llamar	llamar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 52
+# text = lograrlos.
+1-2	lograrlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	lograr	lograr	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 53
+# text = Lograrlos.
+1-2	Lograrlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Lograr	lograr	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 54
+# text = matarlos.
+1-2	matarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	matar	matar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 55
+# text = Matarlos.
+1-2	Matarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Matar	matar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 56
+# text = nulificarlos.
+1-2	nulificarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	nulificar	nulificar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 57
+# text = Nulificarlos.
+1-2	Nulificarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Nulificar	nulificar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 58
+# text = ordenarlos.
+1-2	ordenarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	ordenar	ordenar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 59
+# text = Ordenarlos.
+1-2	Ordenarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ordenar	ordenar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 60
+# text = oírlos.
+1-2	oírlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	oír	oír	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 61
+# text = Oírlos.
+1-2	Oírlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Oír	oír	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 62
+# text = romperlos.
+1-2	romperlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	romper	romper	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 63
+# text = Romperlos.
+1-2	Romperlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Romper	romper	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 64
+# text = saberlos.
+1-2	saberlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	saber	saber	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 65
+# text = Saberlos.
+1-2	Saberlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Saber	saber	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 66
+# text = sentirlos.
+1-2	sentirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	sentir	sentir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 67
+# text = Sentirlos.
+1-2	Sentirlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Sentir	sentir	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 68
+# text = sublimarlos.
+1-2	sublimarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	sublimar	sublimar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 69
+# text = Sublimarlos.
+1-2	Sublimarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Sublimar	sublimar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 70
+# text = tenerlos.
+1-2	tenerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	tener	tener	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 71
+# text = Tenerlos.
+1-2	Tenerlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Tener	tener	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 72
+# text = usarlos.
+1-2	usarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	usar	usar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 73
+# text = Usarlos.
+1-2	Usarlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Usar	usar	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 74
+# text = verlos.
+1-2	verlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 75
+# text = Verlos.
+1-2	Verlos	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
+2	los	él	PRON	_	_	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 76
+# text = aceitoso.
+1	aceitoso	aceitoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 77
+# text = afectuoso.
+1	afectuoso	afectuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 78
+# text = Airoso.
+1	Airoso	Airoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 79
+# text = Algodonoso.
+1	Algodonoso	Algodonoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 80
+# text = Algoso.
+1	Algoso	Algoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 81
+# text = Amargoso.
+1	Amargoso	Amargoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 82
+# text = Ampuloso.
+1	Ampuloso	Ampuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 83
+# text = Andrajoso.
+1	Andrajoso	Andrajoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 84
+# text = Anguloso.
+1	Anguloso	Anguloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 85
+# text = anheloso.
+1	anheloso	anheloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 86
+# text = Aparatoso.
+1	Aparatoso	Aparatoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 87
+# text = Arcilloso.
+1	Arcilloso	Arcilloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 88
+# text = ardoroso.
+1	ardoroso	ardoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 89
+# text = Argentoso.
+1	Argentoso	Argentoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 90
+# text = Arterioso.
+1	Arterioso	Arterioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 91
+# text = asombroso.
+1	asombroso	asombroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 92
+# text = Avaricioso.
+1	Avaricioso	Avaricioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 93
+# text = añoso.
+1	añoso	añoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 94
+# text = baboso.
+1	baboso	baboso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 95
+# text = belicoso.
+1	belicoso	belicoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 96
+# text = bondadoso.
+1	bondadoso	bondadoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 97
+# text = Brumoso.
+1	Brumoso	Brumoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 98
+# text = Calamitoso.
+1	Calamitoso	Calamitoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 99
+# text = Calimoso.
+1	Calimoso	Calimoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 100
+# text = calmoso.
+1	calmoso	calmoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 101
+# text = cascajoso.
+1	cascajoso	cascajoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 102
+# text = caudaloso.
+1	caudaloso	caudaloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 103
+# text = Cauteloso.
+1	Cauteloso	Cauteloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 104
+# text = caviloso.
+1	caviloso	caviloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 105
+# text = Cenagoso.
+1	Cenagoso	Cenagoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 106
+# text = chismoso.
+1	chismoso	chismoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 107
+# text = Clamoroso.
+1	Clamoroso	Clamoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 108
+# text = Cochambroso.
+1	Cochambroso	Cochambroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 109
+# text = Comatoso.
+1	Comatoso	Comatoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 110
+# text = Dadivoso.
+1	Dadivoso	Dadivoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 111
+# text = deleitoso.
+1	deleitoso	deleitoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 112
+# text = Desdeñoso.
+1	Desdeñoso	Desdeñoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 113
+# text = Desventajoso.
+1	Desventajoso	Desventajoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 114
+# text = doloroso.
+1	doloroso	doloroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 115
+# text = Doloso.
+1	Doloso	Doloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 116
+# text = donoso.
+1	donoso	donoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 117
+# text = empalagoso.
+1	empalagoso	empalagoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 118
+# text = enfadoso.
+1	enfadoso	enfadoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 119
+# text = engañoso.
+1	engañoso	engañoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 120
+# text = Engorroso.
+1	Engorroso	Engorroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 121
+# text = Enjundioso.
+1	Enjundioso	Enjundioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 122
+# text = enojoso.
+1	enojoso	enojoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 123
+# text = Escabroso.
+1	Escabroso	Escabroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 124
+# text = Escandaloso.
+1	Escandaloso	Escandaloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 125
+# text = escatimoso.
+1	escatimoso	escatimoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 126
+# text = escrupuloso.
+1	escrupuloso	escrupuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 127
+# text = Espantoso.
+1	Espantoso	Espantoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 128
+# text = Esplendoroso.
+1	Esplendoroso	Esplendoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 129
+# text = espumoso.
+1	espumoso	espumoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 130
+# text = Esquistoso.
+1	Esquistoso	Esquistoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 131
+# text = estorboso.
+1	estorboso	estorboso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 132
+# text = Estrepitoso.
+1	Estrepitoso	Estrepitoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 133
+# text = Estropajoso.
+1	Estropajoso	Estropajoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 134
+# text = Estudioso.
+1	Estudioso	Estudioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 135
+# text = excrementoso.
+1	excrementoso	excrementoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 136
+# text = Fabuloso.
+1	Fabuloso	Fabuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 137
+# text = Fachendoso.
+1	Fachendoso	Fachendoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 138
+# text = facineroso.
+1	facineroso	facineroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 139
+# text = fastidioso.
+1	fastidioso	fastidioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 140
+# text = Fatigoso.
+1	Fatigoso	Fatigoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 141
+# text = Ferruginoso.
+1	Ferruginoso	Ferruginoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 142
+# text = Fibroso.
+1	Fibroso	Fibroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 143
+# text = Flatoso.
+1	Flatoso	Flatoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 144
+# text = fructuoso.
+1	fructuoso	fructuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 145
+# text = fungoso.
+1	fungoso	fungoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 146
+# text = ganchoso.
+1	ganchoso	ganchoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 147
+# text = ganoso.
+1	ganoso	ganoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 148
+# text = Gaseoso.
+1	Gaseoso	Gaseoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 149
+# text = gastoso.
+1	gastoso	gastoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 150
+# text = generoso.
+1	generoso	generoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 151
+# text = Globuloso.
+1	Globuloso	Globuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 152
+# text = Glutinoso.
+1	Glutinoso	Glutinoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 153
+# text = Gorgojoso.
+1	Gorgojoso	Gorgojoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 154
+# text = gozoso.
+1	gozoso	gozoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 155
+# text = Gramoso.
+1	Gramoso	Gramoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 156
+# text = Granoso.
+1	Granoso	Granoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 157
+# text = granuloso.
+1	granuloso	granuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 158
+# text = Gredoso.
+1	Gredoso	Gredoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 159
+# text = Grumoso.
+1	Grumoso	Grumoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 160
+# text = Gustoso.
+1	Gustoso	Gustoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 161
+# text = Habilidoso.
+1	Habilidoso	Habilidoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 162
+# text = harinoso.
+1	harinoso	harinoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 163
+# text = Hojoso.
+1	Hojoso	Hojoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 164
+# text = Honroso.
+1	Honroso	Honroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 165
+# text = Hormigoso.
+1	Hormigoso	Hormigoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 166
+# text = humoso.
+1	humoso	humoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 167
+# text = Imperioso.
+1	Imperioso	Imperioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 168
+# text = Indecoroso.
+1	Indecoroso	Indecoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 169
+# text = Infructuoso.
+1	Infructuoso	Infructuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 170
+# text = insidioso.
+1	insidioso	insidioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 171
+# text = irrespetuoso.
+1	irrespetuoso	irrespetuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 172
+# text = Jabonoso.
+1	Jabonoso	Jabonoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 173
+# text = Jubiloso.
+1	Jubiloso	Jubiloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 174
+# text = Laborioso.
+1	Laborioso	Laborioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 175
+# text = Lacrimoso.
+1	Lacrimoso	Lacrimoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 176
+# text = Ladrilloso.
+1	Ladrilloso	Ladrilloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 177
+# text = lamoso.
+1	lamoso	lamoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 178
+# text = latoso.
+1	latoso	latoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 179
+# text = lechoso.
+1	lechoso	lechoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 180
+# text = Letargoso.
+1	Letargoso	Letargoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 181
+# text = lloroso.
+1	lloroso	lloroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 182
+# text = Lujurioso.
+1	Lujurioso	Lujurioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 183
+# text = Luminoso.
+1	Luminoso	Luminoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 184
+# text = lustroso.
+1	lustroso	lustroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 185
+# text = lutoso.
+1	lutoso	lutoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 186
+# text = majestuoso.
+1	majestuoso	majestuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 187
+# text = Maravilloso.
+1	Maravilloso	Maravilloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 188
+# text = marchoso.
+1	marchoso	marchoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 189
+# text = mareoso.
+1	mareoso	mareoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 190
+# text = Marmoroso.
+1	Marmoroso	Marmoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 191
+# text = Medanoso.
+1	Medanoso	Medanoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 192
+# text = Melodioso.
+1	Melodioso	Melodioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 193
+# text = membranoso.
+1	membranoso	membranoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 194
+# text = Meticuloso.
+1	Meticuloso	Meticuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 195
+# text = Miedoso.
+1	Miedoso	Miedoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 196
+# text = milagroso.
+1	milagroso	milagroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 197
+# text = Mimoso.
+1	Mimoso	Mimoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 198
+# text = Misterioso.
+1	Misterioso	Misterioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 199
+# text = montoso.
+1	montoso	montoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 200
+# text = Mostachoso.
+1	Mostachoso	Mostachoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 201
+# text = Mucilaginoso.
+1	Mucilaginoso	Mucilaginoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 202
+# text = muermoso.
+1	muermoso	muermoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 203
+# text = Musculoso.
+1	Musculoso	Musculoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 204
+# text = nauseoso.
+1	nauseoso	nauseoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 205
+# text = Nebuloso.
+1	Nebuloso	Nebuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 206
+# text = nubloso.
+1	nubloso	nubloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 207
+# text = Numeroso.
+1	Numeroso	Numeroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 208
+# text = Numinoso.
+1	Numinoso	Numinoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 209
+# text = ojoso.
+1	ojoso	ojoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 210
+# text = oleoso.
+1	oleoso	oleoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 211
+# text = oneroso.
+1	oneroso	oneroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 212
+# text = panoso.
+1	panoso	panoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 213
+# text = Pantanoso.
+1	Pantanoso	Pantanoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 214
+# text = Patoso.
+1	Patoso	Patoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 215
+# text = Pavoroso.
+1	Pavoroso	Pavoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 216
+# text = Pecaminoso.
+1	Pecaminoso	Pecaminoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 217
+# text = pegajoso.
+1	pegajoso	pegajoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 218
+# text = pesaroso.
+1	pesaroso	pesaroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 219
+# text = Pingajoso.
+1	Pingajoso	Pingajoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 220
+# text = piojoso.
+1	piojoso	piojoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 221
+# text = poderoso.
+1	poderoso	poderoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 222
+# text = Ponzoñoso.
+1	Ponzoñoso	Ponzoñoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 223
+# text = populoso.
+1	populoso	populoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 224
+# text = Portentoso.
+1	Portentoso	Portentoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 225
+# text = Primoroso.
+1	Primoroso	Primoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 226
+# text = provechoso.
+1	provechoso	provechoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 227
+# text = Pundonoroso.
+1	Pundonoroso	Pundonoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 228
+# text = Puntilloso.
+1	Puntilloso	Puntilloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 229
+# text = Quejicoso.
+1	Quejicoso	Quejicoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 230
+# text = quejumbroso.
+1	quejumbroso	quejumbroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 231
+# text = Quisquilloso.
+1	Quisquilloso	Quisquilloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 232
+# text = Raboso.
+1	Raboso	Raboso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 233
+# text = Racimoso.
+1	Racimoso	Racimoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 234
+# text = Rayoso.
+1	Rayoso	Rayoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 235
+# text = Rentoso.
+1	Rentoso	Rentoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 236
+# text = Resinoso.
+1	Resinoso	Resinoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 237
+# text = Revoltoso.
+1	Revoltoso	Revoltoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 238
+# text = Rocalloso.
+1	Rocalloso	Rocalloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 239
+# text = rugoso.
+1	rugoso	rugoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 240
+# text = Rumboso.
+1	Rumboso	Rumboso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 241
+# text = Saleroso.
+1	Saleroso	Saleroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 242
+# text = Sarmentoso.
+1	Sarmentoso	Sarmentoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 243
+# text = silboso.
+1	silboso	silboso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 244
+# text = silencioso.
+1	silencioso	silencioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 245
+# text = Sombroso.
+1	Sombroso	Sombroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 246
+# text = Sospechoso.
+1	Sospechoso	Sospechoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 247
+# text = Sulfuroso.
+1	Sulfuroso	Sulfuroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 248
+# text = Tachoso.
+1	Tachoso	Tachoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 249
+# text = Tedioso.
+1	Tedioso	Tedioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 250
+# text = Tembloroso.
+1	Tembloroso	Tembloroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 251
+# text = Tempestuoso.
+1	Tempestuoso	Tempestuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 252
+# text = tendinoso.
+1	tendinoso	tendinoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 253
+# text = tiñoso.
+1	tiñoso	tiñoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 254
+# text = Todopoderoso.
+1	Todopoderoso	Todopoderoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 255
+# text = Tormentoso.
+1	Tormentoso	Tormentoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 256
+# text = torrentoso.
+1	torrentoso	torrentoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 257
+# text = tremoso.
+1	tremoso	tremoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 258
+# text = tropezoso.
+1	tropezoso	tropezoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 259
+# text = tubuloso.
+1	tubuloso	tubuloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 260
+# text = Tumultuoso.
+1	Tumultuoso	Tumultuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 261
+# text = Ulceroso.
+1	Ulceroso	Ulceroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 262
+# text = undoso.
+1	undoso	undoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 263
+# text = Vagaroso.
+1	Vagaroso	Vagaroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 264
+# text = valeroso.
+1	valeroso	valeroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 265
+# text = vaporoso.
+1	vaporoso	vaporoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 266
+# text = Varioloso.
+1	Varioloso	Varioloso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 267
+# text = Venenoso.
+1	Venenoso	Venenoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 268
+# text = venturoso.
+1	venturoso	venturoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 269
+# text = verboso.
+1	verboso	verboso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 270
+# text = verdoso.
+1	verdoso	verdoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 271
+# text = Vigoroso.
+1	Vigoroso	Vigoroso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 272
+# text = Vinoso.
+1	Vinoso	Vinoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 273
+# text = Vistoso.
+1	Vistoso	Vistoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 274
+# text = vituperioso.
+1	vituperioso	vituperioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 275
+# text = Voluminoso.
+1	Voluminoso	Voluminoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 276
+# text = Voluntarioso.
+1	Voluntarioso	Voluntarioso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 277
+# text = voluptuoso.
+1	voluptuoso	voluptuoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+# sent_id = 278
+# text = Zumoso.
+1	Zumoso	Zumoso	ADJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
