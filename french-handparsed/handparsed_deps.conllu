@@ -35,7 +35,7 @@
 5	ne	ne	ADV	_	Polarity=Neg	8	advmod	_	_
 6	soyez	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
 7	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
-8	informé	informer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	csubj	_	SpaceAfter=No
+8	informé	informer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 # text = Mettez en place des politiques de recouvrement plus strictes!
@@ -43,15 +43,13 @@
 1	Mettez	mettre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	place	place	NOUN	_	Gender=Fem|Number=Sing	1	obl:mod	_	_
-4-5	des	_	_	_	_	_	_	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	politiques	politique	NOUN	_	Gender=Fem|Number=Plur	1	obl:arg	_	_
-7	de	de	ADP	_	_	8	case	_	_
-8	recouvrement	recouvrement	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
-9	plus	plus	ADV	_	_	10	advmod	_	_
-10	strictes	strict	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
-11	!	!	PUNCT	_	_	1	punct	_	_
+4	des	un	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	politiques	politique	NOUN	_	Gender=Fem|Number=Plur	1	obl:arg	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	recouvrement	recouvrement	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	plus	plus	ADV	_	_	9	advmod	_	_
+9	strictes	strict	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	1	punct	_	_
 
 # text = Nos experts peuvent vous conseiller.
 # sent_id = 5
