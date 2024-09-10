@@ -15,7 +15,8 @@ from stanza.utils.conll import CoNLL
 
 starter = CoNLL.conll2doc("infinitives.mwt")
 
-OSO_WORDS = [
+ADJ_WORDS = [
+    # mostly -oso
     'abundoso',
     'aceitoso',
     'acetoso',
@@ -409,7 +410,95 @@ OSO_WORDS = [
     'voluntarioso',
     'voluptuoso',
     'yesoso',
-    'zumoso'
+    'zumoso',
+
+    # also a few non-oso ADJ
+    'albanesa',
+    'desdeñosa',
+    'sudanesa',
+    'anseriforme',
+    'cordiforme',
+    'cuneiforme',
+    'falciforme',
+    'veriforme',
+]
+
+NOUN_WORDS = [
+    'endodermo',
+    'barítono',
+
+    'diablesa',
+    'galactosa',
+    'leguminosa',
+    'mayonesa',
+
+    'zócalo',
+]
+
+OTHER_WORDS = [
+    # currently unsorted
+    # appears Spanish WordNet is either unavailable or expensive
+    'cabelludo',
+    'desheredado',
+    'abaniqueo',
+    'campanilleo',
+    'culebreo',
+    'filisteo',
+    'flanqueo',
+    'gorjeo',
+    'hebreo',
+    'lloriqueo',
+    'maniqueo',
+    'marisqueo',
+    'moqueo',
+    'nabateo',
+    'pluriempleo',
+    'politiqueo',
+    'retranqueo',
+    'sobajeo',
+    'tijereteo',
+    'amígdala',
+    'arandela',
+    'cavernícola',
+    'clientela',
+    'hipérbola',
+    'hortícola',
+    'madreperla',
+    'oropéndola',
+    'diástole',
+    'hipérbole',
+    'mercachifle',
+    'astrágalo',
+    'carambolo',
+    'carbonilo',
+    'cernícalo',
+    'chirimbolo',
+    'címbalo',
+    'clavicémbalo',
+    'codicilo',
+    'crocodilo',
+    'crótalo',
+    'dédalo',
+    'escándalo',
+    'estraperlo',
+    'júbilo',
+    'libelo',
+    'matapalo',
+    'murciégalo',
+    'níscalo',
+    'óvalo',
+    'pabilo',
+    'pétalo',
+    'róbalo',
+    'sábalo',
+    'sándalo',
+    'sépalo',
+    'tagalo',
+    'tántalo',
+    'violoncelo',
+
+    # depends on context
+    'cruciforme',
 ]
 
 
@@ -419,26 +508,38 @@ new_sentences = []
 
 random.seed(1000)
 
-for word in OSO_WORDS:
-    # there really are a lot of words
-    random_class = random.randint(1, 4)
-    if random_class > 2:
-        continue
-    if random_class == 2:
-        word = word[:1].upper() + word[1:]
-
-    sent_id += 1
-
-    adj = ["1", word, word, "ADJ", "_", "_", "0", "root", "_", "_"]
+def make_sentence(word, pos, sent_id):
+    word_pos = ["1", word, word, pos, "_", "_", "0", "root", "_", "_"]
 
     sentence = [
         "# sent_id = %d" % sent_id,
         "# text = %s." % word,
-        "\t".join(adj),
+        "\t".join(word_pos),
         "2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_"
     ]
-    new_sentences.append("\n".join(sentence))
+    return sentence
 
+def iterate_section(sent_id, section, pos):
+    section_sentences = []
+    for word in section:
+        # there really are a lot of words
+        random_class = random.randint(1, 2)
+        if random_class == 2:
+            word = word[:1].upper() + word[1:]
+
+        sent_id += 1
+        sentence = make_sentence(word, 'ADJ', sent_id)
+        section_sentences.append("\n".join(sentence))
+    return sent_id, section_sentences
+
+sent_id, section_sentences = iterate_section(sent_id, ADJ_WORDS, "ADJ")
+new_sentences.extend(section_sentences)
+
+sent_id, section_sentences = iterate_section(sent_id, NOUN_WORDS, "NOUN")
+new_sentences.extend(section_sentences)
+
+sent_id, section_sentences = iterate_section(sent_id, OTHER_WORDS, "_")
+new_sentences.extend(section_sentences)
 
 print("{:C}".format(starter))
 print()
