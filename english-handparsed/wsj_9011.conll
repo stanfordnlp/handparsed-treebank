@@ -41,7 +41,7 @@
 1-2	Don't	_	_	_	_	_	_	_	_
 1	Do	do	AUX	VB	VerbForm=Inf	5	aux	5:aux	SpaceAfter=No
 2	n't	not	PART	RB	_	5	advmod	5:advmod	_
-3	be	be	VERB	VB	VerbForm=Inf	5	cop	5:cop	_
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	5:cop	_
 4	too	too	ADV	RB	_	5	advmod	5:advmod	_
 5	proud	proud	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	of	of	ADP	IN	_	9	case	9:case	_

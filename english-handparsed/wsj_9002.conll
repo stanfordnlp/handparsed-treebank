@@ -59,7 +59,7 @@
 
 # sent_id = 6
 1	Where	where	ADV	WRB	PronType=Int	4	advmod	4:advmod	_
-2	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
 3	beavers	beaver	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 4	common	common	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 5	?	?	PUNCT	.	_	4	punct	4:punct	_

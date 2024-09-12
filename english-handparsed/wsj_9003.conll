@@ -52,7 +52,7 @@
 7	Osama	Osama	PROPN	NNP	Number=Sing	9	compound	9:compound	_
 8	bin	bin	PROPN	NNP	Number=Sing	9	compound	9:compound	_
 9	Laden	Laden	PROPN	NNP	Number=Sing	11	nsubj	11:nsubj	_
-10	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	11:cop	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	11:cop	_
 11	present	present	ADJ	JJ	Degree=Pos	5	ccomp	5:ccomp	_
 12	during	during	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
@@ -76,7 +76,7 @@
 9	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 6
-1	Is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 2	Bin	Bin	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	Laden	Laden	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
 4	rich	rich	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No

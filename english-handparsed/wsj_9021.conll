@@ -46,7 +46,7 @@
 
 # sent_id = 4
 1	There	there	PRON	EX	_	2	expl	2:expl	_
-2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	some	some	DET	DT	_	5	det	5:det	_
 4	portability	portability	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	issues	issue	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
@@ -55,7 +55,7 @@
 8	,	,	PUNCT	,	_	2	punct	2:punct	_
 9	but	but	CCONJ	CC	_	13	cc	13:cc	_
 10	STL	STL	PROPN	NNP	Number=Sing	13	nsubj	13:nsubj	_
-11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
 12	very	very	ADV	RB	_	13	advmod	13:advmod	_
 13	portable	portable	ADJ	JJ	Degree=Pos	2	conj	2:conj:but	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -74,7 +74,7 @@
 # sent_id = 6
 1-2	'Twas	_	_	_	_	_	_	_	_
 1	'T	it	PRON	PRP	_	7	nsubj	7:nsubj	SpaceAfter=No
-2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
 4	dark	dark	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
@@ -95,7 +95,7 @@
 1	UN	UN	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	peacekeepers	peacekeeper	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
-4	been	be	VERB	VBN	Tense=Past|VerbForm=Part	5	cop	5:cop	_
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	5:cop	_
 5	ineffective	ineffective	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	in	in	ADP	IN	_	7	case	7:case	_
 7	Sudan	Sudan	PROPN	NNP	Number=Sing	5	obl	5:obl:in	SpaceAfter=No
@@ -136,7 +136,7 @@
 6	most	most	ADV	RBS	_	7	advmod	7:advmod	_
 7	famous	famous	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	projects	project	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	_
-9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
 10	an	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
 11	inverted	inverted	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 12	wireless	wireless	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
@@ -146,7 +146,7 @@
 # sent_id = 11
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
 2	movie	movie	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
-3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 5	masterpiece	masterpiece	NOUN	NN	Number=Sing	0	root	0:root	_
 6	four	four	NUM	CD	NumType=Card	7	nummod	7:nummod	_

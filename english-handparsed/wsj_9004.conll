@@ -37,7 +37,7 @@
 
 # sent_id = 5
 1	There	there	PRON	EX	_	2	expl	2:expl	_
-2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	wolves	wolf	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 4	here	here	ADV	RB	PronType=Dem	2	advmod	2:advmod	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_

@@ -43,7 +43,7 @@
 # sent_id = 4
 1	Ms.	Ms.	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Manning	Manning	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
-3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 4	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
 5	angrier	angry	ADJ	JJR	Degree=Cmp	7	amod	7:amod	_
 6	public	public	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
@@ -63,7 +63,7 @@
 7	Twitter	Twitter	PROPN	NNP	Number=Sing	5	obl	5:obl:via	_
 8	that	that	ADP	IN	_	12	mark	12:mark	_
 9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	dep	12:dep	_
-10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
 11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
 12	candidate	candidate	NOUN	NN	Number=Sing	5	dep	5:dep	_
 13	for	for	ADP	IN	_	15	case	15:case	_
@@ -89,7 +89,7 @@
 15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	16:aux:pass	_
 16	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 17	to	to	PART	TO	_	19	mark	19:mark	_
-18	be	be	VERB	VB	VerbForm=Inf	19	cop	19:cop	_
+18	be	be	AUX	VB	VerbForm=Inf	19	cop	19:cop	_
 19	one	one	NOUN	NN	Number=Sing	16	dep	16:dep	_
 20	of	of	ADP	IN	_	24	case	24:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
@@ -322,7 +322,7 @@
 10	environmental	environmental	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	policy	policy	NOUN	NN	Number=Sing	6	nmod	6:nmod:on	SpaceAfter=No
 12	,	,	PUNCT	,	_	2	punct	2:punct	_
-13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	_
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	_
 14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
 15	senior	senior	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
 16	fellow	fellow	NOUN	NN	Number=Sing	0	root	0:root	_

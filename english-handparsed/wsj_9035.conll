@@ -1,6 +1,6 @@
 # sent_id = 0
 1	Thou	thou	PRON	PRP	_	3	nsubj	3:nsubj	_
-2	art	art	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+2	art	art	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	slow	slow	ADJ	JJ	Degree=Pos	0	root	0:root	_
 4	but	but	CCONJ	CC	_	6	cc	6:cc	_
 5	thou	thou	PRON	PRP	_	6	nsubj	6:nsubj	_

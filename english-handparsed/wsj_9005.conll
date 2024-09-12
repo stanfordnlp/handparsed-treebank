@@ -26,7 +26,7 @@
 7	meaning	mean	VERB	VBG	VerbForm=Ger	8	amod	8:amod	_
 8	rage	rage	NOUN	NN	Number=Sing	1	nmod	1:nmod:from	_
 9	)	)	PUNCT	-RRB-	_	8	punct	8:punct	_
-10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
 11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
 12	viral	viral	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	disease	disease	NOUN	NN	Number=Sing	0	root	0:root|15:nsubj	_
@@ -42,7 +42,7 @@
 
 # sent_id = 2
 1	There	there	PRON	EX	_	2	expl	2:expl	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	ccomp	28:ccomp	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	ccomp	28:ccomp	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 4	rising	rise	VERB	VBG	VerbForm=Ger	5	amod	5:amod	_
 5	possibility	possibility	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_

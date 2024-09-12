@@ -26,7 +26,7 @@
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = 3
-1	Is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 2	Elliot	Elliot	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 3	always	always	ADV	RB	_	5	advmod	5:advmod	_
 4	this	this	ADV	RB	_	5	advmod	5:advmod	_

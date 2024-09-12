@@ -34,7 +34,7 @@
 1	Sh'reyan	Sh'reyan	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
 2	's	's	PART	POS	_	1	case	1:case	_
 3	antennae	antenna	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
-4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 5	hella	hella	ADV	RB	_	6	advmod	6:advmod	_
 6	thicc	thicc	ADJ	JJ	Degree=Pos	0	root	0:root	_
 

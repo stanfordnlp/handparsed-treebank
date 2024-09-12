@@ -1,6 +1,6 @@
 # sent_id = 0
 1	Mellitus	Mellitus	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
-2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	5:amod	_
 5	Bishop	Bishop	PROPN	NNP	Number=Sing	0	root	0:root	_

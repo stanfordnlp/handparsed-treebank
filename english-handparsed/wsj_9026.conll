@@ -11,7 +11,7 @@
 10	leave	leave	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	_
 11	something	something	PRON	NN	Number=Sing	10	obj	10:obj	_
 12	to	to	PART	TO	_	14	mark	14:mark	_
-13	be	be	VERB	VB	VerbForm=Inf	14	cop	14:cop	_
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	14:cop	_
 14	desired	desired	ADJ	JJ	Degree=Pos	10	advcl	10:advcl:to	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -228,7 +228,7 @@
 6	if	if	SCONJ	IN	_	10	mark	10:mark	_
 7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 8-9	aren't	_	_	_	_	_	_	_	_
-8	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
 9	n't	not	PART	RB	_	10	advmod	10:advmod	_
 10	careful	careful	ADJ	JJ	Degree=Pos	4	advcl	4:advcl:if	_
 

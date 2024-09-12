@@ -56,7 +56,7 @@
 6	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	until	until	SCONJ	IN	_	10	mark	10:mark	_
 8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
-9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	broke	broke	ADJ	JJ	Degree=Pos	6	advcl	6:advcl:until	_
 
 # sent_id = 6
@@ -69,6 +69,6 @@
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	moment	moment	NOUN	NN	Number=Sing	6	obl:tmod	6:obl:tmod	_
 9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
-10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
 11	broke	broke	ADJ	JJ	Degree=Pos	8	acl:relcl	8:acl:relcl	_
 

@@ -2,7 +2,7 @@
 1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	favorite	favorite	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	actress	actress	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
-4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 5	Johanna	Johanna	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	Lumley	Lumley	PROPN	NNP	Number=Sing	0	root	0:root	_
 
@@ -51,7 +51,7 @@
 # sent_id = 5
 1	Ms.	Ms.	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Bumbry	Bumbry	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj|7:nsubj:xsubj	_
-3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 4	never	never	ADV	RB	_	5	advmod	5:advmod	_
 5	afraid	afraid	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	to	to	PART	TO	_	7	mark	7:mark	_
@@ -125,7 +125,7 @@
 5	skin	skin	NOUN	NN	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 6	,	,	PUNCT	,	_	10	punct	10:punct	_
 7	henna	henna	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
-8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 9	likely	likely	ADV	RB	_	10	advmod	10:advmod	_
 10	safe	safe	ADJ	JJ	Degree=Pos	0	root	0:root	_
 11	for	for	ADP	IN	_	13	case	13:case	_
@@ -166,7 +166,7 @@
 
 # sent_id = 16
 1	Nanna	Nanna	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 4	Icelandic	Icelandic	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	singer	singer	NOUN	NN	Number=Sing	0	root	0:root	_

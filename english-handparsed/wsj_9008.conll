@@ -43,7 +43,7 @@
 4-5	we'll	_	_	_	_	_	_	_	_
 4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	9:nsubj	SpaceAfter=No
 5	'll	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
-6	be	be	VERB	VB	VerbForm=Inf	9	cop	9:cop	_
+6	be	be	AUX	VB	VerbForm=Inf	9	cop	9:cop	_
 7	5	5	NUM	CD	NumType=Card	8	nummod	8:nummod	_
 8	minutes	minute	NOUN	NNS	Number=Plur	9	obl:npmod	9:obl:npmod	_
 9	late	late	ADJ	JJ	Degree=Pos	2	ccomp	2:ccomp	SpaceAfter=No
