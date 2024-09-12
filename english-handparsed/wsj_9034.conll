@@ -228,9 +228,9 @@
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 3	gas	gas	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	station	station	NOUN	NN	Number=Sing	1	obj	1:obj	_
-5	within	within	SCONJ	IN	_	6	mark	6:mark	_
-6	walking	walk	VERB	VBG	VerbForm=Ger	4	acl	4:acl:within	_
-7	distance	distance	NOUN	NN	Number=Sing	6	obj	6:obj	_
+5	within	within	ADP	IN	_	7	case	7:case	_
+6	walking	walking	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	distance	distance	NOUN	NN	Number=Sing	4	nmod	4:nmod:within	_
 8	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 30

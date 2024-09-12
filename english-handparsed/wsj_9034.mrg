@@ -186,9 +186,7 @@
       (NP
         (NP (DT a) (NN gas) (NN station))
         (PP (IN within)
-          (S
-            (VP (VBG walking)
-              (NP (NN distance)))))))
+          (NP (NN walking) (NN distance)))))
     (. .)))
 
 ((NP
