@@ -1,0 +1,3100 @@
+# sent_id = missing_lemma_   0
+# text = abaissez
+1	abaissez	abaisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   1
+# text = abaissent
+1	abaissent	abaisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   2
+# text = aboie
+1	aboie	aboyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   3
+# text = aboies
+1	aboies	aboyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   4
+# text = aboie
+1	aboie	aboyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   5
+# text = aboyez
+1	aboyez	aboyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   6
+# text = aboient
+1	aboient	aboyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   7
+# text = accomplissons
+1	accomplissons	accomplir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   8
+# text = achevons
+1	achevons	achever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_   9
+# text = achevez
+1	achevez	achever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  10
+# text = achèvent
+1	achèvent	achever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  11
+# text = actives
+1	actives	activer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  12
+# text = admire
+1	admire	admirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  13
+# text = admire
+1	admire	admirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  14
+# text = admirez
+1	admirez	admirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  15
+# text = admirent
+1	admirent	admirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  16
+# text = adresses
+1	adresses	adresser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  17
+# text = aérons
+1	aérons	aérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  18
+# text = aérez
+1	aérez	aérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  19
+# text = aèrent
+1	aèrent	aérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  20
+# text = agaçons
+1	agaçons	agacer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  21
+# text = agrée
+1	agrée	agréer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  22
+# text = agrées
+1	agrées	agréer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  23
+# text = agrée
+1	agrée	agréer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  24
+# text = agréez
+1	agréez	agréer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  25
+# text = agréent
+1	agréent	agréer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  26
+# text = annonces
+1	annonces	annoncer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  27
+# text = approches
+1	approches	approcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  28
+# text = arme
+1	arme	armer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  29
+# text = armes
+1	armes	armer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  30
+# text = arme
+1	arme	armer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  31
+# text = arrondis
+1	arrondis	arrondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  32
+# text = arrondis
+1	arrondis	arrondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  33
+# text = assoyons
+1	assoyons	asseoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  34
+# text = attaques
+1	attaques	attaquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  35
+# text = attirons
+1	attirons	attirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  36
+# text = avalons
+1	avalons	avaler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  37
+# text = avalez
+1	avalez	avaler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  38
+# text = avalent
+1	avalent	avaler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  39
+# text = avances
+1	avances	avancer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  40
+# text = aventure
+1	aventure	aventurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  41
+# text = aventures
+1	aventures	aventurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  42
+# text = aventure
+1	aventure	aventurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  43
+# text = avises
+1	avises	aviser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  44
+# text = avisons
+1	avisons	aviser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  45
+# text = baignez
+1	baignez	baigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  46
+# text = baignent
+1	baignent	baigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  47
+# text = baises
+1	baises	baiser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  48
+# text = baisons
+1	baisons	baiser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  49
+# text = baisez
+1	baisez	baiser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  50
+# text = baisses
+1	baisses	baisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  51
+# text = baissons
+1	baissons	baisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  52
+# text = baissez
+1	baissez	baisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  53
+# text = baissent
+1	baissent	baisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  54
+# text = balance
+1	balance	balancer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  55
+# text = balance
+1	balance	balancer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  56
+# text = balaies
+1	balaies	balayer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  57
+# text = balayons
+1	balayons	balayer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  58
+# text = balayez
+1	balayez	balayer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  59
+# text = balaient
+1	balaient	balayer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  60
+# text = bâtissons
+1	bâtissons	bâtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  61
+# text = berçons
+1	berçons	bercer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  62
+# text = bois
+1	bois	boire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  63
+# text = bois
+1	bois	boire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  64
+# text = buvons
+1	buvons	boire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  65
+# text = buvez
+1	buvez	boire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  66
+# text = bondis
+1	bondis	bondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  67
+# text = bondis
+1	bondis	bondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  68
+# text = bondit
+1	bondit	bondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  69
+# text = bondissons
+1	bondissons	bondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  70
+# text = bondissez
+1	bondissez	bondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  71
+# text = bondissent
+1	bondissent	bondir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  72
+# text = bouchons
+1	bouchons	boucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  73
+# text = boucle
+1	boucle	boucler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  74
+# text = boucle
+1	boucle	boucler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  75
+# text = boudes
+1	boudes	bouder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  76
+# text = boudons
+1	boudons	bouder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  77
+# text = boudez
+1	boudez	bouder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  78
+# text = boudent
+1	boudent	bouder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  79
+# text = bouleversent
+1	bouleversent	bouleverser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  80
+# text = bourgeonnes
+1	bourgeonnes	bourgeonner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  81
+# text = broie
+1	broie	broyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  82
+# text = broies
+1	broies	broyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  83
+# text = broie
+1	broie	broyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  84
+# text = broyons
+1	broyons	broyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  85
+# text = broyez
+1	broyez	broyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  86
+# text = broient
+1	broient	broyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  87
+# text = calme
+1	calme	calmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  88
+# text = calmes
+1	calmes	calmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  89
+# text = calme
+1	calme	calmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  90
+# text = calmons
+1	calmons	calmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  91
+# text = calmez
+1	calmez	calmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  92
+# text = caresses
+1	caresses	caresser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  93
+# text = causes
+1	causes	causer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  94
+# text = célèbres
+1	célèbres	célébrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  95
+# text = changes
+1	changes	changer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  96
+# text = charges
+1	charges	charger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  97
+# text = charme
+1	charme	charmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  98
+# text = charmes
+1	charmes	charmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_  99
+# text = charme
+1	charme	charmer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 100
+# text = cire
+1	cire	cirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 101
+# text = cires
+1	cires	cirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 102
+# text = cire
+1	cire	cirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 103
+# text = cirons
+1	cirons	cirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 104
+# text = cirez
+1	cirez	cirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 105
+# text = cirent
+1	cirent	cirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 106
+# text = cloche
+1	cloche	clocher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 107
+# text = cloches
+1	cloches	clocher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 108
+# text = cloche
+1	cloche	clocher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 109
+# text = cloue
+1	cloue	clouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 110
+# text = cloues
+1	cloues	clouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 111
+# text = cloue
+1	cloue	clouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 112
+# text = clouons
+1	clouons	clouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 113
+# text = clouent
+1	clouent	clouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 114
+# text = coiffe
+1	coiffe	coiffer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 115
+# text = coiffe
+1	coiffe	coiffer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 116
+# text = colle
+1	colle	coller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 117
+# text = colles
+1	colles	coller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 118
+# text = colle
+1	colle	coller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 119
+# text = collons
+1	collons	coller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 120
+# text = colore
+1	colore	colorer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 121
+# text = colore
+1	colore	colorer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 122
+# text = combats
+1	combats	combattre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 123
+# text = combats
+1	combats	combattre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 124
+# text = comble
+1	comble	combler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 125
+# text = comble
+1	comble	combler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 126
+# text = commandes
+1	commandes	commander	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 127
+# text = communie
+1	communie	communier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 128
+# text = communies
+1	communies	communier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 129
+# text = communie
+1	communie	communier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 130
+# text = communiez
+1	communiez	communier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 131
+# text = communient
+1	communient	communier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 132
+# text = comparons
+1	comparons	comparer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 133
+# text = complètes
+1	complètes	compléter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 134
+# text = comptes
+1	comptes	compter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 135
+# text = conduis
+1	conduis	conduire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 136
+# text = conduis
+1	conduis	conduire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 137
+# text = confies
+1	confies	confier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 138
+# text = consens
+1	consens	consentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 139
+# text = consens
+1	consens	consentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 140
+# text = consoles
+1	consoles	consoler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 141
+# text = contemples
+1	contemples	contempler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 142
+# text = conte
+1	conte	conter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 143
+# text = contes
+1	contes	conter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 144
+# text = conte
+1	conte	conter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 145
+# text = content
+1	content	conter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 146
+# text = contraries
+1	contraries	contrarier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 147
+# text = copies
+1	copies	copier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 148
+# text = couche
+1	couche	coucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 149
+# text = couches
+1	couches	coucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 150
+# text = couche
+1	couche	coucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 151
+# text = cousons
+1	cousons	coudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 152
+# text = cousez
+1	cousez	coudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 153
+# text = cousent
+1	cousent	coudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 154
+# text = coulons
+1	coulons	couler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 155
+# text = coulez
+1	coulez	couler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 156
+# text = coupes
+1	coupes	couper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 157
+# text = coupons
+1	coupons	couper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 158
+# text = coupent
+1	coupent	couper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 159
+# text = courbe
+1	courbe	courber	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 160
+# text = courbes
+1	courbes	courber	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 161
+# text = courbe
+1	courbe	courber	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 162
+# text = cours
+1	cours	courir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 163
+# text = cours
+1	cours	courir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 164
+# text = couvons
+1	couvons	couver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 165
+# text = couvez
+1	couvez	couver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 166
+# text = couvent
+1	couvent	couver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 167
+# text = crains
+1	crains	craindre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 168
+# text = crains
+1	crains	craindre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 169
+# text = creuse
+1	creuse	creuser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 170
+# text = creuse
+1	creuse	creuser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 171
+# text = crevons
+1	crevons	crever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 172
+# text = croises
+1	croises	croiser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 173
+# text = croisons
+1	croisons	croiser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 174
+# text = croîs
+1	croîs	croître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 175
+# text = croîs
+1	croîs	croître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 176
+# text = croît
+1	croît	croître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 177
+# text = croissons
+1	croissons	croître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 178
+# text = croissez
+1	croissez	croître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 179
+# text = cueilles
+1	cueilles	cueillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 180
+# text = cueillons
+1	cueillons	cueillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 181
+# text = cueillent
+1	cueillent	cueillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 182
+# text = cuit
+1	cuit	cuire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 183
+# text = cuisons
+1	cuisons	cuire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 184
+# text = cuisez
+1	cuisez	cuire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 185
+# text = cuisent
+1	cuisent	cuire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 186
+# text = daignez
+1	daignez	daigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 187
+# text = danse
+1	danse	danser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 188
+# text = danses
+1	danses	danser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 189
+# text = danse
+1	danse	danser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 190
+# text = darde
+1	darde	darder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 191
+# text = darde
+1	darde	darder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 192
+# text = dates
+1	dates	dater	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 193
+# text = débarrassent
+1	débarrassent	débarrasser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 194
+# text = débats
+1	débats	débattre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 195
+# text = débats
+1	débats	débattre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 196
+# text = débat
+1	débat	débattre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 197
+# text = décharge
+1	décharge	décharger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 198
+# text = décharge
+1	décharge	décharger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 199
+# text = déchire
+1	déchire	déchirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 200
+# text = déchire
+1	déchire	déchirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 201
+# text = déchirent
+1	déchirent	déchirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 202
+# text = dédaignes
+1	dédaignes	dédaigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 203
+# text = dédaignons
+1	dédaignons	dédaigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 204
+# text = dédaignez
+1	dédaignez	dédaigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 205
+# text = dédaignent
+1	dédaignent	dédaigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 206
+# text = défaisons
+1	défaisons	défaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 207
+# text = défaites
+1	défaites	défaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 208
+# text = délaissent
+1	délaissent	délaisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 209
+# text = dépêches
+1	dépêches	dépêcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 210
+# text = dépenses
+1	dépenses	dépenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 211
+# text = déplais
+1	déplais	déplaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 212
+# text = déplais
+1	déplais	déplaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 213
+# text = déplaît
+1	déplaît	déplaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 214
+# text = déplaisons
+1	déplaisons	déplaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 215
+# text = déplaisez
+1	déplaisez	déplaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 216
+# text = déplaisent
+1	déplaisent	déplaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 217
+# text = déploient
+1	déploient	déployer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 218
+# text = dépouille
+1	dépouille	dépouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 219
+# text = dépouille
+1	dépouille	dépouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 220
+# text = dépouillez
+1	dépouillez	dépouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 221
+# text = dépouillent
+1	dépouillent	dépouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 222
+# text = désaltèrent
+1	désaltèrent	désaltérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 223
+# text = désobéissons
+1	désobéissons	désobéir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 224
+# text = devinons
+1	devinons	deviner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 225
+# text = dictons
+1	dictons	dicter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 226
+# text = dînes
+1	dînes	dîner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 227
+# text = dispenses
+1	dispenses	dispenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 228
+# text = disputes
+1	disputes	disputer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 229
+# text = distrais
+1	distrais	distraire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 230
+# text = distrais
+1	distrais	distraire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 231
+# text = distrait
+1	distrait	distraire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 232
+# text = distrayons
+1	distrayons	distraire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 233
+# text = distrayez
+1	distrayez	distraire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 234
+# text = distraient
+1	distraient	distraire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 235
+# text = dorons
+1	dorons	dorer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 236
+# text = dors
+1	dors	dormir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 237
+# text = dors
+1	dors	dormir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 238
+# text = dort
+1	dort	dormir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 239
+# text = doubles
+1	doubles	doubler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 240
+# text = doute
+1	doute	douter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 241
+# text = doutes
+1	doutes	douter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 242
+# text = doute
+1	doute	douter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 243
+# text = dures
+1	dures	durer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 244
+# text = échanges
+1	échanges	échanger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 245
+# text = écoutes
+1	écoutes	écouter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 246
+# text = effraies
+1	effraies	effrayer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 247
+# text = effrayez
+1	effrayez	effrayer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 248
+# text = effraient
+1	effraient	effrayer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 249
+# text = élèves
+1	élèves	élever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 250
+# text = embarrasses
+1	embarrasses	embarrasser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 251
+# text = embarrassez
+1	embarrassez	embarrasser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 252
+# text = embarrassent
+1	embarrassent	embarrasser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 253
+# text = émeus
+1	émeus	émouvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 254
+# text = émeus
+1	émeus	émouvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 255
+# text = endormons
+1	endormons	endormir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 256
+# text = endormez
+1	endormez	endormir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 257
+# text = endorment
+1	endorment	endormir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 258
+# text = enlèves
+1	enlèves	enlever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 259
+# text = ennuies
+1	ennuies	ennuyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 260
+# text = ennuient
+1	ennuient	ennuyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 261
+# text = enseignes
+1	enseignes	enseigner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 262
+# text = entres
+1	entres	entrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 263
+# text = entretiens
+1	entretiens	entretenir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 264
+# text = entretiens
+1	entretiens	entretenir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 265
+# text = enveloppe
+1	enveloppe	envelopper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 266
+# text = enveloppes
+1	enveloppes	envelopper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 267
+# text = enveloppe
+1	enveloppe	envelopper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 268
+# text = envie
+1	envie	envier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 269
+# text = envies
+1	envies	envier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 270
+# text = envie
+1	envie	envier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 271
+# text = envions
+1	envions	envier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 272
+# text = enviez
+1	enviez	envier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 273
+# text = envient
+1	envient	envier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 274
+# text = épaule
+1	épaule	épauler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 275
+# text = épaules
+1	épaules	épauler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 276
+# text = épaule
+1	épaule	épauler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 277
+# text = épouses
+1	épouses	épouser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 278
+# text = épouvante
+1	épouvante	épouvanter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 279
+# text = épouvante
+1	épouvante	épouvanter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 280
+# text = erres
+1	erres	errer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 281
+# text = errons
+1	errons	errer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 282
+# text = errez
+1	errez	errer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 283
+# text = errent
+1	errent	errer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 284
+# text = escalade
+1	escalade	escalader	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 285
+# text = escalade
+1	escalade	escalader	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 286
+# text = essuies
+1	essuies	essuyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 287
+# text = essuient
+1	essuient	essuyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 288
+# text = étincelle
+1	étincelle	étinceler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 289
+# text = étincelles
+1	étincelles	étinceler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 290
+# text = évitons
+1	évitons	éviter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 291
+# text = excuses
+1	excuses	excuser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 292
+# text = extrayons
+1	extrayons	extraire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 293
+# text = façonnes
+1	façonnes	façonner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 294
+# text = façonnons
+1	façonnons	façonner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 295
+# text = façonnez
+1	façonnez	façonner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 296
+# text = façonnent
+1	façonnent	façonner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 297
+# text = fatigue
+1	fatigue	fatiguer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 298
+# text = fatigue
+1	fatigue	fatiguer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 299
+# text = fauchons
+1	fauchons	faucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 300
+# text = fauchez
+1	fauchez	faucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 301
+# text = fauchent
+1	fauchent	faucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 302
+# text = fermes
+1	fermes	fermer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 303
+# text = ferrons
+1	ferrons	ferrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 304
+# text = ferrez
+1	ferrez	ferrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 305
+# text = ferrent
+1	ferrent	ferrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 306
+# text = fêtes
+1	fêtes	fêter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 307
+# text = figures
+1	figures	figurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 308
+# text = files
+1	files	filer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 309
+# text = filons
+1	filons	filer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 310
+# text = fixes
+1	fixes	fixer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 311
+# text = flattes
+1	flattes	flatter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 312
+# text = flattez
+1	flattez	flatter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 313
+# text = flattent
+1	flattent	flatter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 314
+# text = fleuris
+1	fleuris	fleurir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 315
+# text = fleuris
+1	fleuris	fleurir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 316
+# text = fleurissons
+1	fleurissons	fleurir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 317
+# text = fonds
+1	fonds	fondre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 318
+# text = fonds
+1	fonds	fondre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 319
+# text = fond
+1	fond	fondre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 320
+# text = forces
+1	forces	forcer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 321
+# text = forge
+1	forge	forger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 322
+# text = forge
+1	forge	forger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 323
+# text = formes
+1	formes	former	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 324
+# text = fouettes
+1	fouettes	fouetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 325
+# text = fouettons
+1	fouettons	fouetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 326
+# text = fouettez
+1	fouettez	fouetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 327
+# text = fouettent
+1	fouettent	fouetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 328
+# text = fouilles
+1	fouilles	fouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 329
+# text = frémis
+1	frémis	frémir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 330
+# text = frémis
+1	frémis	frémir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 331
+# text = frémit
+1	frémit	frémir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 332
+# text = fréquentes
+1	fréquentes	fréquenter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 333
+# text = froissez
+1	froissez	froisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 334
+# text = froissent
+1	froissent	froisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 335
+# text = frottes
+1	frottes	frotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 336
+# text = frottons
+1	frottons	frotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 337
+# text = frottez
+1	frottez	frotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 338
+# text = frottent
+1	frottent	frotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 339
+# text = fuyons
+1	fuyons	fuir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 340
+# text = gardes
+1	gardes	garder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 341
+# text = garnis
+1	garnis	garnir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 342
+# text = garnis
+1	garnis	garnir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 343
+# text = gémis
+1	gémis	gémir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 344
+# text = gémis
+1	gémis	gémir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 345
+# text = gêne
+1	gêne	gêner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 346
+# text = gêne
+1	gêne	gêner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 347
+# text = germes
+1	germes	germer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 348
+# text = germez
+1	germez	germer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 349
+# text = glisse
+1	glisse	glisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 350
+# text = glisse
+1	glisse	glisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 351
+# text = glissent
+1	glissent	glisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 352
+# text = goûtez
+1	goûtez	goûter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 353
+# text = gratte
+1	gratte	gratter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 354
+# text = grattes
+1	grattes	gratter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 355
+# text = gratte
+1	gratte	gratter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 356
+# text = grattons
+1	grattons	gratter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 357
+# text = grattez
+1	grattez	gratter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 358
+# text = grattent
+1	grattent	gratter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 359
+# text = grave
+1	grave	graver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 360
+# text = graves
+1	graves	graver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 361
+# text = grave
+1	grave	graver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 362
+# text = gravissons
+1	gravissons	gravir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 363
+# text = grelotte
+1	grelotte	grelotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 364
+# text = grelotte
+1	grelotte	grelotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 365
+# text = grelottons
+1	grelottons	grelotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 366
+# text = grelottez
+1	grelottez	grelotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 367
+# text = grelottent
+1	grelottent	grelotter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 368
+# text = griffe
+1	griffe	griffer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 369
+# text = griffes
+1	griffes	griffer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 370
+# text = griffe
+1	griffe	griffer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 371
+# text = grimpes
+1	grimpes	grimper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 372
+# text = groupes
+1	groupes	grouper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 373
+# text = guette
+1	guette	guetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 374
+# text = guettes
+1	guettes	guetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 375
+# text = guette
+1	guette	guetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 376
+# text = guettons
+1	guettons	guetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 377
+# text = guettez
+1	guettez	guetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 378
+# text = guettent
+1	guettent	guetter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 379
+# text = guide
+1	guide	guider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 380
+# text = guides
+1	guides	guider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 381
+# text = guide
+1	guide	guider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 382
+# text = guidons
+1	guidons	guider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 383
+# text = hâte
+1	hâte	hâter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 384
+# text = hâte
+1	hâte	hâter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 385
+# text = hausse
+1	hausse	hausser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 386
+# text = hausse
+1	hausse	hausser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 387
+# text = informe
+1	informe	informer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 388
+# text = informe
+1	informe	informer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 389
+# text = inondez
+1	inondez	inonder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 390
+# text = inondent
+1	inondent	inonder	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 391
+# text = inquiétons
+1	inquiétons	inquiéter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 392
+# text = interromps
+1	interromps	interrompre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 393
+# text = interromps
+1	interromps	interrompre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 394
+# text = irrites
+1	irrites	irriter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 395
+# text = jaunissons
+1	jaunissons	jaunir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 396
+# text = joins
+1	joins	joindre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 397
+# text = joins
+1	joins	joindre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 398
+# text = juges
+1	juges	juger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 399
+# text = jures
+1	jures	jurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 400
+# text = lave
+1	lave	laver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 401
+# text = laves
+1	laves	laver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 402
+# text = lave
+1	lave	laver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 403
+# text = lèches
+1	lèches	lécher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 404
+# text = lèchent
+1	lèchent	lécher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 405
+# text = lies
+1	lies	lier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 406
+# text = lions
+1	lions	lier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 407
+# text = limites
+1	limites	limiter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 408
+# text = livres
+1	livres	livrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 409
+# text = loges
+1	loges	loger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 410
+# text = longent
+1	longent	longer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 411
+# text = luis
+1	luis	luire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 412
+# text = luttes
+1	luttes	lutter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 413
+# text = manies
+1	manies	manier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 414
+# text = manions
+1	manions	manier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 415
+# text = manifestes
+1	manifestes	manifester	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 416
+# text = manoeuvre
+1	manoeuvre	manoeuvrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 417
+# text = manoeuvres
+1	manoeuvres	manoeuvrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 418
+# text = manoeuvre
+1	manoeuvre	manoeuvrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 419
+# text = manoeuvrons
+1	manoeuvrons	manoeuvrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 420
+# text = manoeuvrez
+1	manoeuvrez	manoeuvrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 421
+# text = manoeuvrent
+1	manoeuvrent	manoeuvrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 422
+# text = marchande
+1	marchande	marchander	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 423
+# text = marchandes
+1	marchandes	marchander	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 424
+# text = marchande
+1	marchande	marchander	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 425
+# text = marches
+1	marches	marcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 426
+# text = marchons
+1	marchons	marcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 427
+# text = marques
+1	marques	marquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 428
+# text = maudissons
+1	maudissons	maudire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 429
+# text = maudissez
+1	maudissez	maudire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 430
+# text = maudissent
+1	maudissent	maudire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 431
+# text = mélanges
+1	mélanges	mélanger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 432
+# text = menaces
+1	menaces	menacer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 433
+# text = ménages
+1	ménages	ménager	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 434
+# text = mendies
+1	mendies	mendier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 435
+# text = mendions
+1	mendions	mendier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 436
+# text = mendient
+1	mendient	mendier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 437
+# text = mentons
+1	mentons	mentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 438
+# text = mentez
+1	mentez	mentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 439
+# text = mentent
+1	mentent	mentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 440
+# text = mesures
+1	mesures	mesurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 441
+# text = mire
+1	mire	mirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 442
+# text = mires
+1	mires	mirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 443
+# text = mire
+1	mire	mirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 444
+# text = mirons
+1	mirons	mirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 445
+# text = mirez
+1	mirez	mirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 446
+# text = mirent
+1	mirent	mirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 447
+# text = modérons
+1	modérons	modérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 448
+# text = modérez
+1	modérez	modérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 449
+# text = moquez
+1	moquez	moquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 450
+# text = mords
+1	mords	mordre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 451
+# text = mords
+1	mords	mordre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 452
+# text = mord
+1	mord	mordre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 453
+# text = mouds
+1	mouds	moudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 454
+# text = mouds
+1	mouds	moudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 455
+# text = moud
+1	moud	moudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 456
+# text = moulons
+1	moulons	moudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 457
+# text = moulez
+1	moulez	moudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 458
+# text = moulent
+1	moulent	moudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 459
+# text = mouillez
+1	mouillez	mouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 460
+# text = meus
+1	meus	mouvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 461
+# text = meus
+1	meus	mouvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 462
+# text = meut
+1	meut	mouvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 463
+# text = mouvez
+1	mouvez	mouvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 464
+# text = munissons
+1	munissons	munir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 465
+# text = mûrissons
+1	mûrissons	mûrir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 466
+# text = murmurez
+1	murmurez	murmurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 467
+# text = murmurent
+1	murmurent	murmurer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 468
+# text = nage
+1	nage	nager	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 469
+# text = nage
+1	nage	nager	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 470
+# text = nagez
+1	nagez	nager	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 471
+# text = négligent
+1	négligent	négliger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 472
+# text = nettoies
+1	nettoies	nettoyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 473
+# text = nettoyons
+1	nettoyons	nettoyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 474
+# text = nettoyez
+1	nettoyez	nettoyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 475
+# text = nettoient
+1	nettoient	nettoyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 476
+# text = noircissons
+1	noircissons	noircir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 477
+# text = obéissons
+1	obéissons	obéir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 478
+# text = offense
+1	offense	offenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 479
+# text = offense
+1	offense	offenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 480
+# text = offensez
+1	offensez	offenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 481
+# text = offensent
+1	offensent	offenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 482
+# text = offres
+1	offres	offrir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 483
+# text = opérons
+1	opérons	opérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 484
+# text = opérez
+1	opérez	opérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 485
+# text = orange
+1	orange	oranger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 486
+# text = orange
+1	orange	oranger	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 487
+# text = oses
+1	oses	oser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 488
+# text = ôte
+1	ôte	ôter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 489
+# text = ôte
+1	ôte	ôter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 490
+# text = pais
+1	pais	paître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 491
+# text = pais
+1	pais	paître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 492
+# text = paissons
+1	paissons	paître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 493
+# text = paissez
+1	paissez	paître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 494
+# text = paissent
+1	paissent	paître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 495
+# text = parons
+1	parons	parer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 496
+# text = parsème
+1	parsème	parsemer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 497
+# text = parsèmes
+1	parsèmes	parsemer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 498
+# text = parsème
+1	parsème	parsemer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 499
+# text = pèchent
+1	pèchent	pécher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 500
+# text = pêche
+1	pêche	pêcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 501
+# text = pêche
+1	pêche	pêcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 502
+# text = peignons
+1	peignons	peindre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 503
+# text = peignez
+1	peignez	peindre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 504
+# text = peignent
+1	peignent	peindre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 505
+# text = peines
+1	peines	peiner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 506
+# text = penches
+1	penches	pencher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 507
+# text = perçons
+1	perçons	percer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 508
+# text = percez
+1	percez	percer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 509
+# text = perche
+1	perche	percher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 510
+# text = perche
+1	perche	percher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 511
+# text = persévérons
+1	persévérons	persévérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 512
+# text = persévérez
+1	persévérez	persévérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 513
+# text = persévèrent
+1	persévèrent	persévérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 514
+# text = peuples
+1	peuples	peupler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 515
+# text = photographies
+1	photographies	photographier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 516
+# text = photographions
+1	photographions	photographier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 517
+# text = pique
+1	pique	piquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 518
+# text = pique
+1	pique	piquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 519
+# text = places
+1	places	placer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 520
+# text = plaisez
+1	plaisez	plaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 521
+# text = planche
+1	planche	plancher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 522
+# text = planches
+1	planches	plancher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 523
+# text = planche
+1	planche	plancher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 524
+# text = planes
+1	planes	planer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 525
+# text = planons
+1	planons	planer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 526
+# text = plantes
+1	plantes	planter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 527
+# text = portes
+1	portes	porter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 528
+# text = pourris
+1	pourris	pourrir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 529
+# text = pourris
+1	pourris	pourrir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 530
+# text = pourrit
+1	pourrit	pourrir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 531
+# text = pourvois
+1	pourvois	pourvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 532
+# text = pourvois
+1	pourvois	pourvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 533
+# text = pourvoit
+1	pourvoit	pourvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 534
+# text = pourvoyons
+1	pourvoyons	pourvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 535
+# text = pourvoyez
+1	pourvoyez	pourvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 536
+# text = pourvoient
+1	pourvoient	pourvoir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 537
+# text = pousses
+1	pousses	pousser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 538
+# text = pratiques
+1	pratiques	pratiquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 539
+# text = prêtes
+1	prêtes	prêter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 540
+# text = prie
+1	prie	prier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 541
+# text = pries
+1	pries	prier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 542
+# text = prie
+1	prie	prier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 543
+# text = prions
+1	prions	prier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 544
+# text = priez
+1	priez	prier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 545
+# text = prient
+1	prient	prier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 546
+# text = prodigue
+1	prodigue	prodiguer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 547
+# text = prodigue
+1	prodigue	prodiguer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 548
+# text = prouvons
+1	prouvons	prouver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 549
+# text = punissons
+1	punissons	punir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 550
+# text = punissez
+1	punissez	punir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 551
+# text = punissent
+1	punissent	punir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 552
+# text = purifies
+1	purifies	purifier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 553
+# text = ralentis
+1	ralentis	ralentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 554
+# text = ralentis
+1	ralentis	ralentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 555
+# text = ravis
+1	ravis	ravir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 556
+# text = ravis
+1	ravis	ravir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 557
+# text = ravissons
+1	ravissons	ravir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 558
+# text = recherches
+1	recherches	rechercher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 559
+# text = récompense
+1	récompense	récompenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 560
+# text = récompenses
+1	récompenses	récompenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 561
+# text = récompense
+1	récompense	récompenser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 562
+# text = reconduis
+1	reconduis	reconduire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 563
+# text = reconduis
+1	reconduis	reconduire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 564
+# text = recours
+1	recours	recourir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 565
+# text = recours
+1	recours	recourir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 566
+# text = redisons
+1	redisons	redire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 567
+# text = redites
+1	redites	redire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 568
+# text = redoutes
+1	redoutes	redouter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 569
+# text = réduis
+1	réduis	réduire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 570
+# text = réduis
+1	réduis	réduire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 571
+# text = refaisons
+1	refaisons	refaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 572
+# text = refont
+1	refont	refaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 573
+# text = réforme
+1	réforme	réformer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 574
+# text = réformes
+1	réformes	réformer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 575
+# text = réforme
+1	réforme	réformer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 576
+# text = refroidissons
+1	refroidissons	refroidir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 577
+# text = règles
+1	règles	régler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 578
+# text = réglons
+1	réglons	régler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 579
+# text = règnes
+1	règnes	régner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 580
+# text = rejetons
+1	rejetons	rejeter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 581
+# text = relisons
+1	relisons	relire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 582
+# text = relisez
+1	relisez	relire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 583
+# text = remarques
+1	remarques	remarquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 584
+# text = remue
+1	remue	remuer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 585
+# text = remues
+1	remues	remuer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 586
+# text = remue
+1	remue	remuer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 587
+# text = remuons
+1	remuons	remuer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 588
+# text = remuez
+1	remuez	remuer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 589
+# text = remuent
+1	remuent	remuer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 590
+# text = renais
+1	renais	renaître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 591
+# text = renais
+1	renais	renaître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 592
+# text = renaissons
+1	renaissons	renaître	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 593
+# text = rencontres
+1	rencontres	rencontrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 594
+# text = replie
+1	replie	replier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 595
+# text = replies
+1	replies	replier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 596
+# text = replie
+1	replie	replier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 597
+# text = replions
+1	replions	replier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 598
+# text = reproches
+1	reproches	reprocher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 599
+# text = réserves
+1	réserves	réserver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 600
+# text = résolvons
+1	résolvons	résoudre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 601
+# text = respirez
+1	respirez	respirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 602
+# text = resplendis
+1	resplendis	resplendir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 603
+# text = resplendis
+1	resplendis	resplendir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 604
+# text = resplendit
+1	resplendit	resplendir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 605
+# text = resplendissons
+1	resplendissons	resplendir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 606
+# text = resplendissent
+1	resplendissent	resplendir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 607
+# text = ressens
+1	ressens	ressentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 608
+# text = ressens
+1	ressens	ressentir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 609
+# text = restes
+1	restes	rester	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 610
+# text = réunissons
+1	réunissons	réunir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 611
+# text = révélons
+1	révélons	révéler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 612
+# text = rêves
+1	rêves	rêver	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 613
+# text = reverdissez
+1	reverdissez	reverdir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 614
+# text = reverdissent
+1	reverdissent	reverdir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 615
+# text = revêts
+1	revêts	revêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 616
+# text = revêts
+1	revêts	revêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 617
+# text = revêt
+1	revêt	revêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 618
+# text = revêtez
+1	revêtez	revêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 619
+# text = revêtent
+1	revêtent	revêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 620
+# text = revis
+1	revis	revivre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 621
+# text = revis
+1	revis	revivre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 622
+# text = revit
+1	revit	revivre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 623
+# text = revivons
+1	revivons	revivre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 624
+# text = revivez
+1	revivez	revivre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 625
+# text = revivent
+1	revivent	revivre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 626
+# text = ris
+1	ris	rire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 627
+# text = ris
+1	ris	rire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 628
+# text = rions
+1	rions	rire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 629
+# text = riez
+1	riez	rire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 630
+# text = rient
+1	rient	rire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 631
+# text = risques
+1	risques	risquer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 632
+# text = roche
+1	roche	rocher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 633
+# text = roches
+1	roches	rocher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 634
+# text = roche
+1	roche	rocher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 635
+# text = rompez
+1	rompez	rompre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 636
+# text = rougis
+1	rougis	rougir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 637
+# text = rougis
+1	rougis	rougir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 638
+# text = rougit
+1	rougit	rougir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 639
+# text = rougissons
+1	rougissons	rougir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 640
+# text = rouille
+1	rouille	rouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 641
+# text = rouille
+1	rouille	rouiller	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 642
+# text = ruine
+1	ruine	ruiner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 643
+# text = ruines
+1	ruines	ruiner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 644
+# text = ruine
+1	ruine	ruiner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 645
+# text = ruisselle
+1	ruisselle	ruisseler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 646
+# text = ruisselles
+1	ruisselles	ruisseler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 647
+# text = ruisselle
+1	ruisselle	ruisseler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 648
+# text = ruisselons
+1	ruisselons	ruisseler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 649
+# text = ruisselez
+1	ruisselez	ruisseler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 650
+# text = ruissellent
+1	ruissellent	ruisseler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 651
+# text = saisissons
+1	saisissons	saisir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 652
+# text = salissons
+1	salissons	salir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 653
+# text = satisfont
+1	satisfont	satisfaire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 654
+# text = savourons
+1	savourons	savourer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 655
+# text = savourez
+1	savourez	savourer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 656
+# text = savourent
+1	savourent	savourer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 657
+# text = scies
+1	scies	scier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 658
+# text = scie
+1	scie	scier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 659
+# text = scions
+1	scions	scier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 660
+# text = sèche
+1	sèche	sécher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 661
+# text = sèches
+1	sèches	sécher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 662
+# text = sèche
+1	sèche	sécher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 663
+# text = sèchent
+1	sèchent	sécher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 664
+# text = secoue
+1	secoue	secouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 665
+# text = secoues
+1	secoues	secouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 666
+# text = secoue
+1	secoue	secouer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 667
+# text = secours
+1	secours	secourir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 668
+# text = secours
+1	secours	secourir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 669
+# text = semons
+1	semons	semer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 670
+# text = serres
+1	serres	serrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 671
+# text = serrons
+1	serrons	serrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 672
+# text = serrez
+1	serrez	serrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 673
+# text = serrent
+1	serrent	serrer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 674
+# text = sers
+1	sers	servir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 675
+# text = sers
+1	sers	servir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 676
+# text = sévissons
+1	sévissons	sévir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 677
+# text = signes
+1	signes	signer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 678
+# text = songes
+1	songes	songer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 679
+# text = soufflons
+1	soufflons	souffler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 680
+# text = souffre
+1	souffre	souffrir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 681
+# text = souffre
+1	souffre	souffrir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 682
+# text = soulevons
+1	soulevons	soulever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 683
+# text = soulevez
+1	soulevez	soulever	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 684
+# text = soupe
+1	soupe	souper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 685
+# text = soupe
+1	soupe	souper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 686
+# text = soupez
+1	soupez	souper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 687
+# text = soupire
+1	soupire	soupirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 688
+# text = soupire
+1	soupire	soupirer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 689
+# text = suces
+1	suces	sucer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 690
+# text = suçons
+1	suçons	sucer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 691
+# text = supplie
+1	supplie	supplier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 692
+# text = supplies
+1	supplies	supplier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 693
+# text = supplie
+1	supplie	supplier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 694
+# text = suppliez
+1	suppliez	supplier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 695
+# text = supplient
+1	supplient	supplier	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 696
+# text = surgis
+1	surgis	surgir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 697
+# text = surgis
+1	surgis	surgir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 698
+# text = surgit
+1	surgit	surgir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 699
+# text = surgissons
+1	surgissons	surgir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 700
+# text = sursautent
+1	sursautent	sursauter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 701
+# text = tache
+1	tache	tacher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 702
+# text = taches
+1	taches	tacher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 703
+# text = tache
+1	tache	tacher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 704
+# text = tâche
+1	tâche	tâcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 705
+# text = tâches
+1	tâches	tâcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 706
+# text = tâche
+1	tâche	tâcher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 707
+# text = tachette
+1	tachette	tacheter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 708
+# text = tachettes
+1	tachettes	tacheter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 709
+# text = tachette
+1	tachette	tacheter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 710
+# text = tachettent
+1	tachettent	tacheter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 711
+# text = tailles
+1	tailles	tailler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 712
+# text = tais
+1	tais	taire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 713
+# text = tais
+1	tais	taire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 714
+# text = taisons
+1	taisons	taire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 715
+# text = taisent
+1	taisent	taire	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 716
+# text = tapent
+1	tapent	taper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 717
+# text = tapissez
+1	tapissez	tapisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 718
+# text = tapissent
+1	tapissent	tapisser	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 719
+# text = taquines
+1	taquines	taquiner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 720
+# text = téléphone
+1	téléphone	téléphoner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 721
+# text = téléphones
+1	téléphones	téléphoner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 722
+# text = téléphone
+1	téléphone	téléphoner	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 723
+# text = tentes
+1	tentes	tenter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 724
+# text = tombes
+1	tombes	tomber	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 725
+# text = tordons
+1	tordons	tordre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 726
+# text = tordez
+1	tordez	tordre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 727
+# text = tordent
+1	tordent	tordre	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 728
+# text = touches
+1	touches	toucher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 729
+# text = tournoyons
+1	tournoyons	tournoyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 730
+# text = tournoyez
+1	tournoyez	tournoyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 731
+# text = tournoient
+1	tournoient	tournoyer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 732
+# text = trace
+1	trace	tracer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 733
+# text = traces
+1	traces	tracer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 734
+# text = trace
+1	trace	tracer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 735
+# text = traçons
+1	traçons	tracer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 736
+# text = tranches
+1	tranches	trancher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 737
+# text = trempes
+1	trempes	tremper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 738
+# text = trempons
+1	trempons	tremper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 739
+# text = trempez
+1	trempez	tremper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 740
+# text = trempent
+1	trempent	tremper	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 741
+# text = tressaille
+1	tressaille	tressaillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 742
+# text = tressailles
+1	tressailles	tressaillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 743
+# text = tressaille
+1	tressaille	tressaillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 744
+# text = tressaillons
+1	tressaillons	tressaillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 745
+# text = tressaillez
+1	tressaillez	tressaillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 746
+# text = tressaillent
+1	tressaillent	tressaillir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 747
+# text = triomphe
+1	triomphe	triompher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 748
+# text = triomphe
+1	triomphe	triompher	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 749
+# text = trouble
+1	trouble	troubler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 750
+# text = troubles
+1	troubles	troubler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 751
+# text = trouble
+1	trouble	troubler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 752
+# text = vénérons
+1	vénérons	vénérer	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 753
+# text = vernis
+1	vernis	vernir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 754
+# text = vernis
+1	vernis	vernir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 755
+# text = vêts
+1	vêts	vêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 756
+# text = vêts
+1	vêts	vêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 757
+# text = vêt
+1	vêt	vêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 758
+# text = vêtons
+1	vêtons	vêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 759
+# text = vêtez
+1	vêtez	vêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 760
+# text = vêtent
+1	vêtent	vêtir	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 761
+# text = vides
+1	vides	vider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 762
+# text = vidons
+1	vidons	vider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 763
+# text = videz
+1	videz	vider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 764
+# text = vident
+1	vident	vider	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 765
+# text = visites
+1	visites	visiter	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 766
+# text = voile
+1	voile	voiler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 767
+# text = voiles
+1	voiles	voiler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 768
+# text = voile
+1	voile	voiler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 769
+# text = voilons
+1	voilons	voiler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 770
+# text = voilez
+1	voilez	voiler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 771
+# text = voilent
+1	voilent	voiler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 772
+# text = voles
+1	voles	voler	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 773
+# text = voyages
+1	voyages	voyager	VERB	_	_	0	root	_	_
+
+# sent_id = missing_lemma_ 774
+# text = voyageons
+1	voyageons	voyager	VERB	_	_	0	root	_	_
+
