@@ -228,7 +228,7 @@
 6	if	if	SCONJ	IN	_	10	mark	10:mark	_
 7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 8-9	aren't	_	_	_	_	_	_	_	_
-8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 9	n't	not	PART	RB	_	10	advmod	10:advmod	_
 10	careful	careful	ADJ	JJ	Degree=Pos	4	advcl	4:advcl:if	_
 

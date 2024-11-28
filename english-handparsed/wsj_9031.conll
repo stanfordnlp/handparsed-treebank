@@ -228,7 +228,7 @@
 31	players	player	NOUN	NNS	Number=Plur	25	conj	16:acl:relcl|25:conj:and	_
 32	on	on	ADP	IN	_	37	case	37:case	_
 33-34	China's	_	_	_	_	_	_	_	_
-33	China	China	PROPN	NNP	Number=Sing	37	nmod:poss	37:nmod:poss	SpaceAfter=No
+33	China	China	PROPN	NNP	Number=Sing	37	nmod:poss	37:nmod:poss	_
 34	's	's	PART	POS	_	33	case	33:case	_
 35	national	national	ADJ	JJ	Degree=Pos	37	amod	37:amod	_
 36	basketball	basketball	NOUN	NN	Number=Sing	37	compound	37:compound	_
@@ -317,7 +317,7 @@
 6	expert	expert	NOUN	NN	Number=Sing	2	appos	2:appos	_
 7	on	on	ADP	IN	_	11	case	11:case	_
 8-9	China's	_	_	_	_	_	_	_	_
-8	China	China	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
+8	China	China	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	_
 9	's	's	PART	POS	_	8	case	8:case	_
 10	environmental	environmental	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	policy	policy	NOUN	NN	Number=Sing	6	nmod	6:nmod:on	SpaceAfter=No

@@ -6,7 +6,7 @@
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
 6	but	but	CCONJ	CC	_	10	cc	10:cc	_
 7-8	that's	_	_	_	_	_	_	_	_
-7	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	10:nsubj	SpaceAfter=No
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	10:nsubj	_
 8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 9	still	still	ADV	RB	_	10	advmod	10:advmod	_
 10	awesome	awesome	ADJ	JJ	Degree=Pos	1	conj	1:conj:but	SpaceAfter=No
@@ -31,7 +31,7 @@
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 8	21st	21st	ADJ	JJ	Degree=Pos|NumType=Ord	9	amod	9:amod	_
 9-10	century's	_	_	_	_	_	_	_	_
-9	century	century	NOUN	NN	Number=Sing	13	nmod:poss	13:nmod:poss	SpaceAfter=No
+9	century	century	NOUN	NN	Number=Sing	13	nmod:poss	13:nmod:poss	_
 10	's	's	PART	POS	_	9	case	9:case	_
 11	new	new	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 12	``	``	PUNCT	``	_	13	punct	13:punct	SpaceAfter=No

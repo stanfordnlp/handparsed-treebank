@@ -173,7 +173,7 @@
 
 # sent_id = 17
 1-2	Dinna	_	_	_	_	_	_	_	_
-1	Din	do	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
+1	Din	do	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	na	not	ADV	RB	_	1	advmod	1:advmod	_
 3	light	light	VERB	VB	VerbForm=Inf	1	dep	1:dep	_
 4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_

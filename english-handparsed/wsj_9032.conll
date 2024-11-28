@@ -377,7 +377,7 @@
 7	theirs	theirs	PRON	PRP	_	3	nmod	3:nmod:like	SpaceAfter=No
 8	,	,	PUNCT	,	_	14	punct	14:punct	_
 9-10	it's	_	_	_	_	_	_	_	_
-9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj|16:nsubj:xsubj	SpaceAfter=No
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj|16:nsubj:xsubj	_
 10	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 11	not	not	PART	RB	_	14	advmod	14:advmod	_
 12	all	all	ADV	RB	_	14	advmod	14:advmod	_
@@ -391,7 +391,7 @@
 
 # sent_id = 42
 1-2	China's	_	_	_	_	_	_	_	_
-1	China	China	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
+1	China	China	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
 3	population	population	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
@@ -426,7 +426,7 @@
 # sent_id = 44
 1	`	`	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2-3	Don't	_	_	_	_	_	_	_	_
-2	Do	do	AUX	VB	VerbForm=Inf	4	aux	4:aux	SpaceAfter=No
+2	Do	do	AUX	VB	VerbForm=Inf	4	aux	4:aux	_
 3	n't	not	PART	RB	_	4	advmod	4:advmod	_
 4	Let	let	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	Us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	4:obj	_

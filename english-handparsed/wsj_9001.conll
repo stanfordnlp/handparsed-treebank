@@ -51,12 +51,12 @@
 1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 2	Ms.	Ms.	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3-4	Currie's	_	_	_	_	_	_	_	_
-3	Currie	Currie	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	SpaceAfter=No
+3	Currie	Currie	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	_
 4	's	's	PART	POS	_	3	case	3:case	_
 5	lawyers	lawyer	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
 6	stated	state	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 7-8	she's	_	_	_	_	_	_	_	_
-7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	SpaceAfter=No
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
 8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 9	not	not	PART	RB	_	10	advmod	10:advmod	_
 10	aware	aware	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	_

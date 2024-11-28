@@ -98,7 +98,7 @@
 8	to	to	PART	TO	_	9	mark	9:mark	_
 9	make	make	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	_
 10-11	Jennifer's	_	_	_	_	_	_	_	_
-10	Jennifer	Jennifer	PROPN	NNP	Number=Sing	13	nmod:poss	13:nmod:poss	SpaceAfter=No
+10	Jennifer	Jennifer	PROPN	NNP	Number=Sing	13	nmod:poss	13:nmod:poss	_
 11	's	's	PART	POS	_	10	case	10:case	_
 12	right	right	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	can	can	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_

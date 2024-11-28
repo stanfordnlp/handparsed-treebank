@@ -207,7 +207,7 @@
 
 # sent_id = 20
 1-2	He's	_	_	_	_	_	_	_	_
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	4:nsubj:pass	SpaceAfter=No
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	4:nsubj:pass	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 3	not	not	PART	RB	_	4	advmod	4:advmod	_
 4	bothered	bother	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
@@ -303,7 +303,7 @@
 8	whose	whose	PRON	WP$	Poss=Yes|PronType=Int	9	nmod:poss	7:ref	_
 9	attitude	attitude	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
 10-11	Won't	_	_	_	_	_	_	_	_
-10	Wo	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	SpaceAfter=No
+10	Wo	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	_
 11	n't	not	PART	RB	_	12	advmod	12:advmod	_
 12	die	die	VERB	VB	VerbForm=Inf	7	acl:relcl	7:acl:relcl	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	1:punct	_
