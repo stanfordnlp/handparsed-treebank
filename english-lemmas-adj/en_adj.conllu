@@ -1,0 +1,8484 @@
+# sent_id = 0
+# text = able
+1	able	able	ADJ	_	_	0	root	_	_
+
+# sent_id = 1
+# text = abler
+1	abler	able	ADJ	_	_	0	root	_	_
+
+# sent_id = 2
+# text = ablest
+1	ablest	able	ADJ	_	_	0	root	_	_
+
+# sent_id = 3
+# text = ample
+1	ample	ample	ADJ	_	_	0	root	_	_
+
+# sent_id = 4
+# text = ampler
+1	ampler	ample	ADJ	_	_	0	root	_	_
+
+# sent_id = 5
+# text = amplest
+1	amplest	ample	ADJ	_	_	0	root	_	_
+
+# sent_id = 6
+# text = angry
+1	angry	angry	ADJ	_	_	0	root	_	_
+
+# sent_id = 7
+# text = angrier
+1	angrier	angry	ADJ	_	_	0	root	_	_
+
+# sent_id = 8
+# text = angriest
+1	angriest	angry	ADJ	_	_	0	root	_	_
+
+# sent_id = 9
+# text = apt
+1	apt	apt	ADJ	_	_	0	root	_	_
+
+# sent_id = 10
+# text = apter
+1	apter	apt	ADJ	_	_	0	root	_	_
+
+# sent_id = 11
+# text = aptest
+1	aptest	apt	ADJ	_	_	0	root	_	_
+
+# sent_id = 12
+# text = bad
+1	bad	bad	ADJ	_	_	0	root	_	_
+
+# sent_id = 13
+# text = worse
+1	worse	bad	ADJ	_	_	0	root	_	_
+
+# sent_id = 14
+# text = worst
+1	worst	bad	ADJ	_	_	0	root	_	_
+
+# sent_id = 15
+# text = bald
+1	bald	bald	ADJ	_	_	0	root	_	_
+
+# sent_id = 16
+# text = balder
+1	balder	bald	ADJ	_	_	0	root	_	_
+
+# sent_id = 17
+# text = baldest
+1	baldest	bald	ADJ	_	_	0	root	_	_
+
+# sent_id = 18
+# text = balmy
+1	balmy	balmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 19
+# text = balmier
+1	balmier	balmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 20
+# text = balmiest
+1	balmiest	balmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 21
+# text = bandy
+1	bandy	bandy	ADJ	_	_	0	root	_	_
+
+# sent_id = 22
+# text = bandier
+1	bandier	bandy	ADJ	_	_	0	root	_	_
+
+# sent_id = 23
+# text = bandiest
+1	bandiest	bandy	ADJ	_	_	0	root	_	_
+
+# sent_id = 24
+# text = bare
+1	bare	bare	ADJ	_	_	0	root	_	_
+
+# sent_id = 25
+# text = barer
+1	barer	bare	ADJ	_	_	0	root	_	_
+
+# sent_id = 26
+# text = barest
+1	barest	bare	ADJ	_	_	0	root	_	_
+
+# sent_id = 27
+# text = base
+1	base	base	ADJ	_	_	0	root	_	_
+
+# sent_id = 28
+# text = baser
+1	baser	base	ADJ	_	_	0	root	_	_
+
+# sent_id = 29
+# text = basest
+1	basest	base	ADJ	_	_	0	root	_	_
+
+# sent_id = 30
+# text = bawdy
+1	bawdy	bawdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 31
+# text = bawdier
+1	bawdier	bawdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 32
+# text = bawdiest
+1	bawdiest	bawdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 33
+# text = beastly
+1	beastly	beastly	ADJ	_	_	0	root	_	_
+
+# sent_id = 34
+# text = beastlier
+1	beastlier	beastly	ADJ	_	_	0	root	_	_
+
+# sent_id = 35
+# text = beastliest
+1	beastliest	beastly	ADJ	_	_	0	root	_	_
+
+# sent_id = 36
+# text = beefy
+1	beefy	beefy	ADJ	_	_	0	root	_	_
+
+# sent_id = 37
+# text = beefier
+1	beefier	beefy	ADJ	_	_	0	root	_	_
+
+# sent_id = 38
+# text = beefiest
+1	beefiest	beefy	ADJ	_	_	0	root	_	_
+
+# sent_id = 39
+# text = beery
+1	beery	beery	ADJ	_	_	0	root	_	_
+
+# sent_id = 40
+# text = beerier
+1	beerier	beery	ADJ	_	_	0	root	_	_
+
+# sent_id = 41
+# text = beeriest
+1	beeriest	beery	ADJ	_	_	0	root	_	_
+
+# sent_id = 42
+# text = big
+1	big	big	ADJ	_	_	0	root	_	_
+
+# sent_id = 43
+# text = bigger
+1	bigger	big	ADJ	_	_	0	root	_	_
+
+# sent_id = 44
+# text = biggest
+1	biggest	big	ADJ	_	_	0	root	_	_
+
+# sent_id = 45
+# text = bitchy
+1	bitchy	bitchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 46
+# text = bitchier
+1	bitchier	bitchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 47
+# text = bitchiest
+1	bitchiest	bitchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 48
+# text = black
+1	black	black	ADJ	_	_	0	root	_	_
+
+# sent_id = 49
+# text = blacker
+1	blacker	black	ADJ	_	_	0	root	_	_
+
+# sent_id = 50
+# text = blackest
+1	blackest	black	ADJ	_	_	0	root	_	_
+
+# sent_id = 51
+# text = bland
+1	bland	bland	ADJ	_	_	0	root	_	_
+
+# sent_id = 52
+# text = blander
+1	blander	bland	ADJ	_	_	0	root	_	_
+
+# sent_id = 53
+# text = blandest
+1	blandest	bland	ADJ	_	_	0	root	_	_
+
+# sent_id = 54
+# text = bleak
+1	bleak	bleak	ADJ	_	_	0	root	_	_
+
+# sent_id = 55
+# text = bleaker
+1	bleaker	bleak	ADJ	_	_	0	root	_	_
+
+# sent_id = 56
+# text = bleakest
+1	bleakest	bleak	ADJ	_	_	0	root	_	_
+
+# sent_id = 57
+# text = blond
+1	blond	blond	ADJ	_	_	0	root	_	_
+
+# sent_id = 58
+# text = blonder
+1	blonder	blond	ADJ	_	_	0	root	_	_
+
+# sent_id = 59
+# text = blondest
+1	blondest	blond	ADJ	_	_	0	root	_	_
+
+# sent_id = 60
+# text = bloody
+1	bloody	bloody	ADJ	_	_	0	root	_	_
+
+# sent_id = 61
+# text = bloodier
+1	bloodier	bloody	ADJ	_	_	0	root	_	_
+
+# sent_id = 62
+# text = bloodiest
+1	bloodiest	bloody	ADJ	_	_	0	root	_	_
+
+# sent_id = 63
+# text = blue
+1	blue	blue	ADJ	_	_	0	root	_	_
+
+# sent_id = 64
+# text = bluer
+1	bluer	blue	ADJ	_	_	0	root	_	_
+
+# sent_id = 65
+# text = bluest
+1	bluest	blue	ADJ	_	_	0	root	_	_
+
+# sent_id = 66
+# text = blunt
+1	blunt	blunt	ADJ	_	_	0	root	_	_
+
+# sent_id = 67
+# text = blunter
+1	blunter	blunt	ADJ	_	_	0	root	_	_
+
+# sent_id = 68
+# text = bluntest
+1	bluntest	blunt	ADJ	_	_	0	root	_	_
+
+# sent_id = 69
+# text = boggy
+1	boggy	boggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 70
+# text = boggier
+1	boggier	boggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 71
+# text = boggiest
+1	boggiest	boggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 72
+# text = bold
+1	bold	bold	ADJ	_	_	0	root	_	_
+
+# sent_id = 73
+# text = bolder
+1	bolder	bold	ADJ	_	_	0	root	_	_
+
+# sent_id = 74
+# text = boldest
+1	boldest	bold	ADJ	_	_	0	root	_	_
+
+# sent_id = 75
+# text = bonny
+1	bonny	bonny	ADJ	_	_	0	root	_	_
+
+# sent_id = 76
+# text = bonnier
+1	bonnier	bonny	ADJ	_	_	0	root	_	_
+
+# sent_id = 77
+# text = bonniest
+1	bonniest	bonny	ADJ	_	_	0	root	_	_
+
+# sent_id = 78
+# text = bony
+1	bony	bony	ADJ	_	_	0	root	_	_
+
+# sent_id = 79
+# text = bonier
+1	bonier	bony	ADJ	_	_	0	root	_	_
+
+# sent_id = 80
+# text = boniest
+1	boniest	bony	ADJ	_	_	0	root	_	_
+
+# sent_id = 81
+# text = boozy
+1	boozy	boozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 82
+# text = boozier
+1	boozier	boozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 83
+# text = booziest
+1	booziest	boozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 84
+# text = bossy
+1	bossy	bossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 85
+# text = bossier
+1	bossier	bossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 86
+# text = bossiest
+1	bossiest	bossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 87
+# text = brainy
+1	brainy	brainy	ADJ	_	_	0	root	_	_
+
+# sent_id = 88
+# text = brainier
+1	brainier	brainy	ADJ	_	_	0	root	_	_
+
+# sent_id = 89
+# text = brainiest
+1	brainiest	brainy	ADJ	_	_	0	root	_	_
+
+# sent_id = 90
+# text = branchy
+1	branchy	branchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 91
+# text = branchier
+1	branchier	branchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 92
+# text = branchiest
+1	branchiest	branchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 93
+# text = brash
+1	brash	brash	ADJ	_	_	0	root	_	_
+
+# sent_id = 94
+# text = brasher
+1	brasher	brash	ADJ	_	_	0	root	_	_
+
+# sent_id = 95
+# text = brashest
+1	brashest	brash	ADJ	_	_	0	root	_	_
+
+# sent_id = 96
+# text = brassy
+1	brassy	brassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 97
+# text = brassier
+1	brassier	brassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 98
+# text = brassiest
+1	brassiest	brassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 99
+# text = brave
+1	brave	brave	ADJ	_	_	0	root	_	_
+
+# sent_id = 100
+# text = braver
+1	braver	brave	ADJ	_	_	0	root	_	_
+
+# sent_id = 101
+# text = bravest
+1	bravest	brave	ADJ	_	_	0	root	_	_
+
+# sent_id = 102
+# text = brawny
+1	brawny	brawny	ADJ	_	_	0	root	_	_
+
+# sent_id = 103
+# text = brawnier
+1	brawnier	brawny	ADJ	_	_	0	root	_	_
+
+# sent_id = 104
+# text = brawniest
+1	brawniest	brawny	ADJ	_	_	0	root	_	_
+
+# sent_id = 105
+# text = breezy
+1	breezy	breezy	ADJ	_	_	0	root	_	_
+
+# sent_id = 106
+# text = breezier
+1	breezier	breezy	ADJ	_	_	0	root	_	_
+
+# sent_id = 107
+# text = breeziest
+1	breeziest	breezy	ADJ	_	_	0	root	_	_
+
+# sent_id = 108
+# text = brief
+1	brief	brief	ADJ	_	_	0	root	_	_
+
+# sent_id = 109
+# text = briefer
+1	briefer	brief	ADJ	_	_	0	root	_	_
+
+# sent_id = 110
+# text = briefest
+1	briefest	brief	ADJ	_	_	0	root	_	_
+
+# sent_id = 111
+# text = bright
+1	bright	bright	ADJ	_	_	0	root	_	_
+
+# sent_id = 112
+# text = brighter
+1	brighter	bright	ADJ	_	_	0	root	_	_
+
+# sent_id = 113
+# text = brightest
+1	brightest	bright	ADJ	_	_	0	root	_	_
+
+# sent_id = 114
+# text = briny
+1	briny	briny	ADJ	_	_	0	root	_	_
+
+# sent_id = 115
+# text = brinier
+1	brinier	briny	ADJ	_	_	0	root	_	_
+
+# sent_id = 116
+# text = briniest
+1	briniest	briny	ADJ	_	_	0	root	_	_
+
+# sent_id = 117
+# text = brisk
+1	brisk	brisk	ADJ	_	_	0	root	_	_
+
+# sent_id = 118
+# text = brisker
+1	brisker	brisk	ADJ	_	_	0	root	_	_
+
+# sent_id = 119
+# text = briskest
+1	briskest	brisk	ADJ	_	_	0	root	_	_
+
+# sent_id = 120
+# text = bristly
+1	bristly	bristly	ADJ	_	_	0	root	_	_
+
+# sent_id = 121
+# text = bristlier
+1	bristlier	bristly	ADJ	_	_	0	root	_	_
+
+# sent_id = 122
+# text = bristliest
+1	bristliest	bristly	ADJ	_	_	0	root	_	_
+
+# sent_id = 123
+# text = broad
+1	broad	broad	ADJ	_	_	0	root	_	_
+
+# sent_id = 124
+# text = broader
+1	broader	broad	ADJ	_	_	0	root	_	_
+
+# sent_id = 125
+# text = broadest
+1	broadest	broad	ADJ	_	_	0	root	_	_
+
+# sent_id = 126
+# text = broody
+1	broody	broody	ADJ	_	_	0	root	_	_
+
+# sent_id = 127
+# text = broodier
+1	broodier	broody	ADJ	_	_	0	root	_	_
+
+# sent_id = 128
+# text = broodiest
+1	broodiest	broody	ADJ	_	_	0	root	_	_
+
+# sent_id = 129
+# text = brown
+1	brown	brown	ADJ	_	_	0	root	_	_
+
+# sent_id = 130
+# text = browner
+1	browner	brown	ADJ	_	_	0	root	_	_
+
+# sent_id = 131
+# text = brownest
+1	brownest	brown	ADJ	_	_	0	root	_	_
+
+# sent_id = 132
+# text = bubbly
+1	bubbly	bubbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 133
+# text = bubblier
+1	bubblier	bubbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 134
+# text = bubbliest
+1	bubbliest	bubbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 135
+# text = bulky
+1	bulky	bulky	ADJ	_	_	0	root	_	_
+
+# sent_id = 136
+# text = bulkier
+1	bulkier	bulky	ADJ	_	_	0	root	_	_
+
+# sent_id = 137
+# text = bulkiest
+1	bulkiest	bulky	ADJ	_	_	0	root	_	_
+
+# sent_id = 138
+# text = bumpy
+1	bumpy	bumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 139
+# text = bumpier
+1	bumpier	bumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 140
+# text = bumpiest
+1	bumpiest	bumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 141
+# text = burly
+1	burly	burly	ADJ	_	_	0	root	_	_
+
+# sent_id = 142
+# text = burlier
+1	burlier	burly	ADJ	_	_	0	root	_	_
+
+# sent_id = 143
+# text = burliest
+1	burliest	burly	ADJ	_	_	0	root	_	_
+
+# sent_id = 144
+# text = busy
+1	busy	busy	ADJ	_	_	0	root	_	_
+
+# sent_id = 145
+# text = busier
+1	busier	busy	ADJ	_	_	0	root	_	_
+
+# sent_id = 146
+# text = busiest
+1	busiest	busy	ADJ	_	_	0	root	_	_
+
+# sent_id = 147
+# text = calm
+1	calm	calm	ADJ	_	_	0	root	_	_
+
+# sent_id = 148
+# text = calmer
+1	calmer	calm	ADJ	_	_	0	root	_	_
+
+# sent_id = 149
+# text = calmest
+1	calmest	calm	ADJ	_	_	0	root	_	_
+
+# sent_id = 150
+# text = canny
+1	canny	canny	ADJ	_	_	0	root	_	_
+
+# sent_id = 151
+# text = cannier
+1	cannier	canny	ADJ	_	_	0	root	_	_
+
+# sent_id = 152
+# text = canniest
+1	canniest	canny	ADJ	_	_	0	root	_	_
+
+# sent_id = 153
+# text = catchy
+1	catchy	catchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 154
+# text = catchier
+1	catchier	catchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 155
+# text = catchiest
+1	catchiest	catchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 156
+# text = catty
+1	catty	catty	ADJ	_	_	0	root	_	_
+
+# sent_id = 157
+# text = cattier
+1	cattier	catty	ADJ	_	_	0	root	_	_
+
+# sent_id = 158
+# text = cattiest
+1	cattiest	catty	ADJ	_	_	0	root	_	_
+
+# sent_id = 159
+# text = chalky
+1	chalky	chalky	ADJ	_	_	0	root	_	_
+
+# sent_id = 160
+# text = chalkier
+1	chalkier	chalky	ADJ	_	_	0	root	_	_
+
+# sent_id = 161
+# text = chalkiest
+1	chalkiest	chalky	ADJ	_	_	0	root	_	_
+
+# sent_id = 162
+# text = chatty
+1	chatty	chatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 163
+# text = chattier
+1	chattier	chatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 164
+# text = chattiest
+1	chattiest	chatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 165
+# text = cheap
+1	cheap	cheap	ADJ	_	_	0	root	_	_
+
+# sent_id = 166
+# text = cheaper
+1	cheaper	cheap	ADJ	_	_	0	root	_	_
+
+# sent_id = 167
+# text = cheapest
+1	cheapest	cheap	ADJ	_	_	0	root	_	_
+
+# sent_id = 168
+# text = cheeky
+1	cheeky	cheeky	ADJ	_	_	0	root	_	_
+
+# sent_id = 169
+# text = cheekier
+1	cheekier	cheeky	ADJ	_	_	0	root	_	_
+
+# sent_id = 170
+# text = cheekiest
+1	cheekiest	cheeky	ADJ	_	_	0	root	_	_
+
+# sent_id = 171
+# text = chilly
+1	chilly	chilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 172
+# text = chillier
+1	chillier	chilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 173
+# text = chilliest
+1	chilliest	chilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 174
+# text = choosy
+1	choosy	choosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 175
+# text = choosier
+1	choosier	choosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 176
+# text = choosiest
+1	choosiest	choosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 177
+# text = choppy
+1	choppy	choppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 178
+# text = choppier
+1	choppier	choppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 179
+# text = choppiest
+1	choppiest	choppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 180
+# text = chubby
+1	chubby	chubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 181
+# text = chubbier
+1	chubbier	chubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 182
+# text = chubbiest
+1	chubbiest	chubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 183
+# text = chummy
+1	chummy	chummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 184
+# text = chummier
+1	chummier	chummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 185
+# text = chummiest
+1	chummiest	chummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 186
+# text = chunky
+1	chunky	chunky	ADJ	_	_	0	root	_	_
+
+# sent_id = 187
+# text = chunkier
+1	chunkier	chunky	ADJ	_	_	0	root	_	_
+
+# sent_id = 188
+# text = chunkiest
+1	chunkiest	chunky	ADJ	_	_	0	root	_	_
+
+# sent_id = 189
+# text = civil
+1	civil	civil	ADJ	_	_	0	root	_	_
+
+# sent_id = 190
+# text = civiller
+1	civiller	civil	ADJ	_	_	0	root	_	_
+
+# sent_id = 191
+# text = civillest
+1	civillest	civil	ADJ	_	_	0	root	_	_
+
+# sent_id = 192
+# text = clammy
+1	clammy	clammy	ADJ	_	_	0	root	_	_
+
+# sent_id = 193
+# text = clammier
+1	clammier	clammy	ADJ	_	_	0	root	_	_
+
+# sent_id = 194
+# text = clammiest
+1	clammiest	clammy	ADJ	_	_	0	root	_	_
+
+# sent_id = 195
+# text = classy
+1	classy	classy	ADJ	_	_	0	root	_	_
+
+# sent_id = 196
+# text = classier
+1	classier	classy	ADJ	_	_	0	root	_	_
+
+# sent_id = 197
+# text = classiest
+1	classiest	classy	ADJ	_	_	0	root	_	_
+
+# sent_id = 198
+# text = clean
+1	clean	clean	ADJ	_	_	0	root	_	_
+
+# sent_id = 199
+# text = cleaner
+1	cleaner	clean	ADJ	_	_	0	root	_	_
+
+# sent_id = 200
+# text = cleanest
+1	cleanest	clean	ADJ	_	_	0	root	_	_
+
+# sent_id = 201
+# text = cleanly
+1	cleanly	cleanly	ADJ	_	_	0	root	_	_
+
+# sent_id = 202
+# text = cleanlier
+1	cleanlier	cleanly	ADJ	_	_	0	root	_	_
+
+# sent_id = 203
+# text = cleanliest
+1	cleanliest	cleanly	ADJ	_	_	0	root	_	_
+
+# sent_id = 204
+# text = clear
+1	clear	clear	ADJ	_	_	0	root	_	_
+
+# sent_id = 205
+# text = clearer
+1	clearer	clear	ADJ	_	_	0	root	_	_
+
+# sent_id = 206
+# text = clearest
+1	clearest	clear	ADJ	_	_	0	root	_	_
+
+# sent_id = 207
+# text = clever
+1	clever	clever	ADJ	_	_	0	root	_	_
+
+# sent_id = 208
+# text = cleverer
+1	cleverer	clever	ADJ	_	_	0	root	_	_
+
+# sent_id = 209
+# text = cleverest
+1	cleverest	clever	ADJ	_	_	0	root	_	_
+
+# sent_id = 210
+# text = cloggy
+1	cloggy	cloggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 211
+# text = cloggier
+1	cloggier	cloggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 212
+# text = cloggiest
+1	cloggiest	cloggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 213
+# text = close
+1	close	close	ADJ	_	_	0	root	_	_
+
+# sent_id = 214
+# text = closer
+1	closer	close	ADJ	_	_	0	root	_	_
+
+# sent_id = 215
+# text = closest
+1	closest	close	ADJ	_	_	0	root	_	_
+
+# sent_id = 216
+# text = cloudy
+1	cloudy	cloudy	ADJ	_	_	0	root	_	_
+
+# sent_id = 217
+# text = cloudier
+1	cloudier	cloudy	ADJ	_	_	0	root	_	_
+
+# sent_id = 218
+# text = cloudiest
+1	cloudiest	cloudy	ADJ	_	_	0	root	_	_
+
+# sent_id = 219
+# text = clumsy
+1	clumsy	clumsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 220
+# text = clumsier
+1	clumsier	clumsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 221
+# text = clumsiest
+1	clumsiest	clumsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 222
+# text = coarse
+1	coarse	coarse	ADJ	_	_	0	root	_	_
+
+# sent_id = 223
+# text = coarser
+1	coarser	coarse	ADJ	_	_	0	root	_	_
+
+# sent_id = 224
+# text = coarsest
+1	coarsest	coarse	ADJ	_	_	0	root	_	_
+
+# sent_id = 225
+# text = cocky
+1	cocky	cocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 226
+# text = cockier
+1	cockier	cocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 227
+# text = cockiest
+1	cockiest	cocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 228
+# text = cold
+1	cold	cold	ADJ	_	_	0	root	_	_
+
+# sent_id = 229
+# text = colder
+1	colder	cold	ADJ	_	_	0	root	_	_
+
+# sent_id = 230
+# text = coldest
+1	coldest	cold	ADJ	_	_	0	root	_	_
+
+# sent_id = 231
+# text = comely
+1	comely	comely	ADJ	_	_	0	root	_	_
+
+# sent_id = 232
+# text = comelier
+1	comelier	comely	ADJ	_	_	0	root	_	_
+
+# sent_id = 233
+# text = comeliest
+1	comeliest	comely	ADJ	_	_	0	root	_	_
+
+# sent_id = 234
+# text = comfy
+1	comfy	comfy	ADJ	_	_	0	root	_	_
+
+# sent_id = 235
+# text = comfier
+1	comfier	comfy	ADJ	_	_	0	root	_	_
+
+# sent_id = 236
+# text = comfiest
+1	comfiest	comfy	ADJ	_	_	0	root	_	_
+
+# sent_id = 237
+# text = common
+1	common	common	ADJ	_	_	0	root	_	_
+
+# sent_id = 238
+# text = commoner
+1	commoner	common	ADJ	_	_	0	root	_	_
+
+# sent_id = 239
+# text = commonest
+1	commonest	common	ADJ	_	_	0	root	_	_
+
+# sent_id = 240
+# text = cool
+1	cool	cool	ADJ	_	_	0	root	_	_
+
+# sent_id = 241
+# text = cooler
+1	cooler	cool	ADJ	_	_	0	root	_	_
+
+# sent_id = 242
+# text = coolest
+1	coolest	cool	ADJ	_	_	0	root	_	_
+
+# sent_id = 243
+# text = corny
+1	corny	corny	ADJ	_	_	0	root	_	_
+
+# sent_id = 244
+# text = cornier
+1	cornier	corny	ADJ	_	_	0	root	_	_
+
+# sent_id = 245
+# text = corniest
+1	corniest	corny	ADJ	_	_	0	root	_	_
+
+# sent_id = 246
+# text = costly
+1	costly	costly	ADJ	_	_	0	root	_	_
+
+# sent_id = 247
+# text = costlier
+1	costlier	costly	ADJ	_	_	0	root	_	_
+
+# sent_id = 248
+# text = costliest
+1	costliest	costly	ADJ	_	_	0	root	_	_
+
+# sent_id = 249
+# text = cosy
+1	cosy	cosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 250
+# text = cosier
+1	cosier	cosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 251
+# text = cosiest
+1	cosiest	cosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 252
+# text = courtly
+1	courtly	courtly	ADJ	_	_	0	root	_	_
+
+# sent_id = 253
+# text = courtlier
+1	courtlier	courtly	ADJ	_	_	0	root	_	_
+
+# sent_id = 254
+# text = courtliest
+1	courtliest	courtly	ADJ	_	_	0	root	_	_
+
+# sent_id = 255
+# text = coy
+1	coy	coy	ADJ	_	_	0	root	_	_
+
+# sent_id = 256
+# text = coyer
+1	coyer	coy	ADJ	_	_	0	root	_	_
+
+# sent_id = 257
+# text = coyest
+1	coyest	coy	ADJ	_	_	0	root	_	_
+
+# sent_id = 258
+# text = cozy
+1	cozy	cozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 259
+# text = cozier
+1	cozier	cozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 260
+# text = coziest
+1	coziest	cozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 261
+# text = crafty
+1	crafty	crafty	ADJ	_	_	0	root	_	_
+
+# sent_id = 262
+# text = craftier
+1	craftier	crafty	ADJ	_	_	0	root	_	_
+
+# sent_id = 263
+# text = craftiest
+1	craftiest	crafty	ADJ	_	_	0	root	_	_
+
+# sent_id = 264
+# text = craggy
+1	craggy	craggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 265
+# text = craggier
+1	craggier	craggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 266
+# text = craggiest
+1	craggiest	craggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 267
+# text = cranky
+1	cranky	cranky	ADJ	_	_	0	root	_	_
+
+# sent_id = 268
+# text = crankier
+1	crankier	cranky	ADJ	_	_	0	root	_	_
+
+# sent_id = 269
+# text = crankiest
+1	crankiest	cranky	ADJ	_	_	0	root	_	_
+
+# sent_id = 270
+# text = crazy
+1	crazy	crazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 271
+# text = crazier
+1	crazier	crazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 272
+# text = craziest
+1	craziest	crazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 273
+# text = creaky
+1	creaky	creaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 274
+# text = creakier
+1	creakier	creaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 275
+# text = creakiest
+1	creakiest	creaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 276
+# text = creamy
+1	creamy	creamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 277
+# text = creamier
+1	creamier	creamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 278
+# text = creamiest
+1	creamiest	creamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 279
+# text = creepy
+1	creepy	creepy	ADJ	_	_	0	root	_	_
+
+# sent_id = 280
+# text = creepier
+1	creepier	creepy	ADJ	_	_	0	root	_	_
+
+# sent_id = 281
+# text = creepiest
+1	creepiest	creepy	ADJ	_	_	0	root	_	_
+
+# sent_id = 282
+# text = crinkly
+1	crinkly	crinkly	ADJ	_	_	0	root	_	_
+
+# sent_id = 283
+# text = crinklier
+1	crinklier	crinkly	ADJ	_	_	0	root	_	_
+
+# sent_id = 284
+# text = crinkliest
+1	crinkliest	crinkly	ADJ	_	_	0	root	_	_
+
+# sent_id = 285
+# text = crisp
+1	crisp	crisp	ADJ	_	_	0	root	_	_
+
+# sent_id = 286
+# text = crisper
+1	crisper	crisp	ADJ	_	_	0	root	_	_
+
+# sent_id = 287
+# text = crispest
+1	crispest	crisp	ADJ	_	_	0	root	_	_
+
+# sent_id = 288
+# text = crude
+1	crude	crude	ADJ	_	_	0	root	_	_
+
+# sent_id = 289
+# text = cruder
+1	cruder	crude	ADJ	_	_	0	root	_	_
+
+# sent_id = 290
+# text = crudest
+1	crudest	crude	ADJ	_	_	0	root	_	_
+
+# sent_id = 291
+# text = cruel
+1	cruel	cruel	ADJ	_	_	0	root	_	_
+
+# sent_id = 292
+# text = crueller
+1	crueller	cruel	ADJ	_	_	0	root	_	_
+
+# sent_id = 293
+# text = cruellest
+1	cruellest	cruel	ADJ	_	_	0	root	_	_
+
+# sent_id = 294
+# text = crumbly
+1	crumbly	crumbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 295
+# text = crumblier
+1	crumblier	crumbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 296
+# text = crumbliest
+1	crumbliest	crumbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 297
+# text = crusty
+1	crusty	crusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 298
+# text = crustier
+1	crustier	crusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 299
+# text = crustiest
+1	crustiest	crusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 300
+# text = cuddly
+1	cuddly	cuddly	ADJ	_	_	0	root	_	_
+
+# sent_id = 301
+# text = cuddlier
+1	cuddlier	cuddly	ADJ	_	_	0	root	_	_
+
+# sent_id = 302
+# text = cuddliest
+1	cuddliest	cuddly	ADJ	_	_	0	root	_	_
+
+# sent_id = 303
+# text = curly
+1	curly	curly	ADJ	_	_	0	root	_	_
+
+# sent_id = 304
+# text = curlier
+1	curlier	curly	ADJ	_	_	0	root	_	_
+
+# sent_id = 305
+# text = curliest
+1	curliest	curly	ADJ	_	_	0	root	_	_
+
+# sent_id = 306
+# text = cushy
+1	cushy	cushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 307
+# text = cushier
+1	cushier	cushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 308
+# text = cushiest
+1	cushiest	cushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 309
+# text = cute
+1	cute	cute	ADJ	_	_	0	root	_	_
+
+# sent_id = 310
+# text = cuter
+1	cuter	cute	ADJ	_	_	0	root	_	_
+
+# sent_id = 311
+# text = cutest
+1	cutest	cute	ADJ	_	_	0	root	_	_
+
+# sent_id = 312
+# text = daft
+1	daft	daft	ADJ	_	_	0	root	_	_
+
+# sent_id = 313
+# text = dafter
+1	dafter	daft	ADJ	_	_	0	root	_	_
+
+# sent_id = 314
+# text = daftest
+1	daftest	daft	ADJ	_	_	0	root	_	_
+
+# sent_id = 315
+# text = dainty
+1	dainty	dainty	ADJ	_	_	0	root	_	_
+
+# sent_id = 316
+# text = daintier
+1	daintier	dainty	ADJ	_	_	0	root	_	_
+
+# sent_id = 317
+# text = daintiest
+1	daintiest	dainty	ADJ	_	_	0	root	_	_
+
+# sent_id = 318
+# text = damp
+1	damp	damp	ADJ	_	_	0	root	_	_
+
+# sent_id = 319
+# text = damper
+1	damper	damp	ADJ	_	_	0	root	_	_
+
+# sent_id = 320
+# text = dampest
+1	dampest	damp	ADJ	_	_	0	root	_	_
+
+# sent_id = 321
+# text = dank
+1	dank	dank	ADJ	_	_	0	root	_	_
+
+# sent_id = 322
+# text = danker
+1	danker	dank	ADJ	_	_	0	root	_	_
+
+# sent_id = 323
+# text = dankest
+1	dankest	dank	ADJ	_	_	0	root	_	_
+
+# sent_id = 324
+# text = dark
+1	dark	dark	ADJ	_	_	0	root	_	_
+
+# sent_id = 325
+# text = darker
+1	darker	dark	ADJ	_	_	0	root	_	_
+
+# sent_id = 326
+# text = darkest
+1	darkest	dark	ADJ	_	_	0	root	_	_
+
+# sent_id = 327
+# text = deadly
+1	deadly	deadly	ADJ	_	_	0	root	_	_
+
+# sent_id = 328
+# text = deadlier
+1	deadlier	deadly	ADJ	_	_	0	root	_	_
+
+# sent_id = 329
+# text = deadliest
+1	deadliest	deadly	ADJ	_	_	0	root	_	_
+
+# sent_id = 330
+# text = deaf
+1	deaf	deaf	ADJ	_	_	0	root	_	_
+
+# sent_id = 331
+# text = deafer
+1	deafer	deaf	ADJ	_	_	0	root	_	_
+
+# sent_id = 332
+# text = deafest
+1	deafest	deaf	ADJ	_	_	0	root	_	_
+
+# sent_id = 333
+# text = dear
+1	dear	dear	ADJ	_	_	0	root	_	_
+
+# sent_id = 334
+# text = dearer
+1	dearer	dear	ADJ	_	_	0	root	_	_
+
+# sent_id = 335
+# text = dearest
+1	dearest	dear	ADJ	_	_	0	root	_	_
+
+# sent_id = 336
+# text = deep
+1	deep	deep	ADJ	_	_	0	root	_	_
+
+# sent_id = 337
+# text = deeper
+1	deeper	deep	ADJ	_	_	0	root	_	_
+
+# sent_id = 338
+# text = deepest
+1	deepest	deep	ADJ	_	_	0	root	_	_
+
+# sent_id = 339
+# text = dense
+1	dense	dense	ADJ	_	_	0	root	_	_
+
+# sent_id = 340
+# text = denser
+1	denser	dense	ADJ	_	_	0	root	_	_
+
+# sent_id = 341
+# text = densest
+1	densest	dense	ADJ	_	_	0	root	_	_
+
+# sent_id = 342
+# text = dewy
+1	dewy	dewy	ADJ	_	_	0	root	_	_
+
+# sent_id = 343
+# text = dewier
+1	dewier	dewy	ADJ	_	_	0	root	_	_
+
+# sent_id = 344
+# text = dewiest
+1	dewiest	dewy	ADJ	_	_	0	root	_	_
+
+# sent_id = 345
+# text = dim
+1	dim	dim	ADJ	_	_	0	root	_	_
+
+# sent_id = 346
+# text = dimmer
+1	dimmer	dim	ADJ	_	_	0	root	_	_
+
+# sent_id = 347
+# text = dimmest
+1	dimmest	dim	ADJ	_	_	0	root	_	_
+
+# sent_id = 348
+# text = dingy
+1	dingy	dingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 349
+# text = dingier
+1	dingier	dingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 350
+# text = dingiest
+1	dingiest	dingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 351
+# text = dinky
+1	dinky	dinky	ADJ	_	_	0	root	_	_
+
+# sent_id = 352
+# text = dinkier
+1	dinkier	dinky	ADJ	_	_	0	root	_	_
+
+# sent_id = 353
+# text = dinkiest
+1	dinkiest	dinky	ADJ	_	_	0	root	_	_
+
+# sent_id = 354
+# text = dire
+1	dire	dire	ADJ	_	_	0	root	_	_
+
+# sent_id = 355
+# text = direr
+1	direr	dire	ADJ	_	_	0	root	_	_
+
+# sent_id = 356
+# text = direst
+1	direst	dire	ADJ	_	_	0	root	_	_
+
+# sent_id = 357
+# text = dirty
+1	dirty	dirty	ADJ	_	_	0	root	_	_
+
+# sent_id = 358
+# text = dirtier
+1	dirtier	dirty	ADJ	_	_	0	root	_	_
+
+# sent_id = 359
+# text = dirtiest
+1	dirtiest	dirty	ADJ	_	_	0	root	_	_
+
+# sent_id = 360
+# text = dishy
+1	dishy	dishy	ADJ	_	_	0	root	_	_
+
+# sent_id = 361
+# text = dishier
+1	dishier	dishy	ADJ	_	_	0	root	_	_
+
+# sent_id = 362
+# text = dishiest
+1	dishiest	dishy	ADJ	_	_	0	root	_	_
+
+# sent_id = 363
+# text = dizzy
+1	dizzy	dizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 364
+# text = dizzier
+1	dizzier	dizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 365
+# text = dizziest
+1	dizziest	dizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 366
+# text = dotty
+1	dotty	dotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 367
+# text = dottier
+1	dottier	dotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 368
+# text = dottiest
+1	dottiest	dotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 369
+# text = doughy
+1	doughy	doughy	ADJ	_	_	0	root	_	_
+
+# sent_id = 370
+# text = doughier
+1	doughier	doughy	ADJ	_	_	0	root	_	_
+
+# sent_id = 371
+# text = doughiest
+1	doughiest	doughy	ADJ	_	_	0	root	_	_
+
+# sent_id = 372
+# text = dowdy
+1	dowdy	dowdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 373
+# text = dowdier
+1	dowdier	dowdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 374
+# text = dowdiest
+1	dowdiest	dowdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 375
+# text = drab
+1	drab	drab	ADJ	_	_	0	root	_	_
+
+# sent_id = 376
+# text = drabber
+1	drabber	drab	ADJ	_	_	0	root	_	_
+
+# sent_id = 377
+# text = drabbest
+1	drabbest	drab	ADJ	_	_	0	root	_	_
+
+# sent_id = 378
+# text = draughty
+1	draughty	draughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 379
+# text = draughtier
+1	draughtier	draughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 380
+# text = draughtiest
+1	draughtiest	draughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 381
+# text = dreamy
+1	dreamy	dreamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 382
+# text = dreamier
+1	dreamier	dreamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 383
+# text = dreamiest
+1	dreamiest	dreamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 384
+# text = dreary
+1	dreary	dreary	ADJ	_	_	0	root	_	_
+
+# sent_id = 385
+# text = drearier
+1	drearier	dreary	ADJ	_	_	0	root	_	_
+
+# sent_id = 386
+# text = dreariest
+1	dreariest	dreary	ADJ	_	_	0	root	_	_
+
+# sent_id = 387
+# text = dressy
+1	dressy	dressy	ADJ	_	_	0	root	_	_
+
+# sent_id = 388
+# text = dressier
+1	dressier	dressy	ADJ	_	_	0	root	_	_
+
+# sent_id = 389
+# text = dressiest
+1	dressiest	dressy	ADJ	_	_	0	root	_	_
+
+# sent_id = 390
+# text = drowsy
+1	drowsy	drowsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 391
+# text = drowsier
+1	drowsier	drowsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 392
+# text = drowsiest
+1	drowsiest	drowsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 393
+# text = drunk
+1	drunk	drunk	ADJ	_	_	0	root	_	_
+
+# sent_id = 394
+# text = drunker
+1	drunker	drunk	ADJ	_	_	0	root	_	_
+
+# sent_id = 395
+# text = drunkest
+1	drunkest	drunk	ADJ	_	_	0	root	_	_
+
+# sent_id = 396
+# text = dry
+1	dry	dry	ADJ	_	_	0	root	_	_
+
+# sent_id = 397
+# text = drier
+1	drier	dry	ADJ	_	_	0	root	_	_
+
+# sent_id = 398
+# text = driest
+1	driest	dry	ADJ	_	_	0	root	_	_
+
+# sent_id = 399
+# text = dull
+1	dull	dull	ADJ	_	_	0	root	_	_
+
+# sent_id = 400
+# text = duller
+1	duller	dull	ADJ	_	_	0	root	_	_
+
+# sent_id = 401
+# text = dullest
+1	dullest	dull	ADJ	_	_	0	root	_	_
+
+# sent_id = 402
+# text = dumb
+1	dumb	dumb	ADJ	_	_	0	root	_	_
+
+# sent_id = 403
+# text = dumber
+1	dumber	dumb	ADJ	_	_	0	root	_	_
+
+# sent_id = 404
+# text = dumbest
+1	dumbest	dumb	ADJ	_	_	0	root	_	_
+
+# sent_id = 405
+# text = dumpy
+1	dumpy	dumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 406
+# text = dumpier
+1	dumpier	dumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 407
+# text = dumpiest
+1	dumpiest	dumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 408
+# text = dusky
+1	dusky	dusky	ADJ	_	_	0	root	_	_
+
+# sent_id = 409
+# text = duskier
+1	duskier	dusky	ADJ	_	_	0	root	_	_
+
+# sent_id = 410
+# text = duskiest
+1	duskiest	dusky	ADJ	_	_	0	root	_	_
+
+# sent_id = 411
+# text = dusty
+1	dusty	dusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 412
+# text = dustier
+1	dustier	dusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 413
+# text = dustiest
+1	dustiest	dusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 414
+# text = early
+1	early	early	ADJ	_	_	0	root	_	_
+
+# sent_id = 415
+# text = earlier
+1	earlier	early	ADJ	_	_	0	root	_	_
+
+# sent_id = 416
+# text = earliest
+1	earliest	early	ADJ	_	_	0	root	_	_
+
+# sent_id = 417
+# text = earthy
+1	earthy	earthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 418
+# text = earthier
+1	earthier	earthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 419
+# text = earthiest
+1	earthiest	earthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 420
+# text = easy
+1	easy	easy	ADJ	_	_	0	root	_	_
+
+# sent_id = 421
+# text = easier
+1	easier	easy	ADJ	_	_	0	root	_	_
+
+# sent_id = 422
+# text = easiest
+1	easiest	easy	ADJ	_	_	0	root	_	_
+
+# sent_id = 423
+# text = edgy
+1	edgy	edgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 424
+# text = edgier
+1	edgier	edgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 425
+# text = edgiest
+1	edgiest	edgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 426
+# text = eerie
+1	eerie	eerie	ADJ	_	_	0	root	_	_
+
+# sent_id = 427
+# text = eerier
+1	eerier	eerie	ADJ	_	_	0	root	_	_
+
+# sent_id = 428
+# text = eeriest
+1	eeriest	eerie	ADJ	_	_	0	root	_	_
+
+# sent_id = 429
+# text = eery
+1	eery	eery	ADJ	_	_	0	root	_	_
+
+# sent_id = 430
+# text = eerier
+1	eerier	eery	ADJ	_	_	0	root	_	_
+
+# sent_id = 431
+# text = eeriest
+1	eeriest	eery	ADJ	_	_	0	root	_	_
+
+# sent_id = 432
+# text = empty
+1	empty	empty	ADJ	_	_	0	root	_	_
+
+# sent_id = 433
+# text = emptier
+1	emptier	empty	ADJ	_	_	0	root	_	_
+
+# sent_id = 434
+# text = emptiest
+1	emptiest	empty	ADJ	_	_	0	root	_	_
+
+# sent_id = 435
+# text = faddy
+1	faddy	faddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 436
+# text = faddier
+1	faddier	faddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 437
+# text = faddiest
+1	faddiest	faddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 438
+# text = faint
+1	faint	faint	ADJ	_	_	0	root	_	_
+
+# sent_id = 439
+# text = fainter
+1	fainter	faint	ADJ	_	_	0	root	_	_
+
+# sent_id = 440
+# text = faintest
+1	faintest	faint	ADJ	_	_	0	root	_	_
+
+# sent_id = 441
+# text = fair
+1	fair	fair	ADJ	_	_	0	root	_	_
+
+# sent_id = 442
+# text = fairer
+1	fairer	fair	ADJ	_	_	0	root	_	_
+
+# sent_id = 443
+# text = fairest
+1	fairest	fair	ADJ	_	_	0	root	_	_
+
+# sent_id = 444
+# text = fancy
+1	fancy	fancy	ADJ	_	_	0	root	_	_
+
+# sent_id = 445
+# text = fancier
+1	fancier	fancy	ADJ	_	_	0	root	_	_
+
+# sent_id = 446
+# text = fanciest
+1	fanciest	fancy	ADJ	_	_	0	root	_	_
+
+# sent_id = 447
+# text = far
+1	far	far	ADJ	_	_	0	root	_	_
+
+# sent_id = 448
+# text = farther
+1	farther	far	ADJ	_	_	0	root	_	_
+
+# sent_id = 449
+# text = farthest
+1	farthest	far	ADJ	_	_	0	root	_	_
+
+# sent_id = 450
+# text = fast
+1	fast	fast	ADJ	_	_	0	root	_	_
+
+# sent_id = 451
+# text = faster
+1	faster	fast	ADJ	_	_	0	root	_	_
+
+# sent_id = 452
+# text = fastest
+1	fastest	fast	ADJ	_	_	0	root	_	_
+
+# sent_id = 453
+# text = fat
+1	fat	fat	ADJ	_	_	0	root	_	_
+
+# sent_id = 454
+# text = fatter
+1	fatter	fat	ADJ	_	_	0	root	_	_
+
+# sent_id = 455
+# text = fattest
+1	fattest	fat	ADJ	_	_	0	root	_	_
+
+# sent_id = 456
+# text = fatty
+1	fatty	fatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 457
+# text = fattier
+1	fattier	fatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 458
+# text = fattiest
+1	fattiest	fatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 459
+# text = faulty
+1	faulty	faulty	ADJ	_	_	0	root	_	_
+
+# sent_id = 460
+# text = faultier
+1	faultier	faulty	ADJ	_	_	0	root	_	_
+
+# sent_id = 461
+# text = faultiest
+1	faultiest	faulty	ADJ	_	_	0	root	_	_
+
+# sent_id = 462
+# text = feeble
+1	feeble	feeble	ADJ	_	_	0	root	_	_
+
+# sent_id = 463
+# text = feebler
+1	feebler	feeble	ADJ	_	_	0	root	_	_
+
+# sent_id = 464
+# text = feeblest
+1	feeblest	feeble	ADJ	_	_	0	root	_	_
+
+# sent_id = 465
+# text = ferny
+1	ferny	ferny	ADJ	_	_	0	root	_	_
+
+# sent_id = 466
+# text = fernier
+1	fernier	ferny	ADJ	_	_	0	root	_	_
+
+# sent_id = 467
+# text = ferniest
+1	ferniest	ferny	ADJ	_	_	0	root	_	_
+
+# sent_id = 468
+# text = few
+1	few	few	ADJ	_	_	0	root	_	_
+
+# sent_id = 469
+# text = fewer
+1	fewer	few	ADJ	_	_	0	root	_	_
+
+# sent_id = 470
+# text = fewest
+1	fewest	few	ADJ	_	_	0	root	_	_
+
+# sent_id = 471
+# text = fierce
+1	fierce	fierce	ADJ	_	_	0	root	_	_
+
+# sent_id = 472
+# text = fiercer
+1	fiercer	fierce	ADJ	_	_	0	root	_	_
+
+# sent_id = 473
+# text = fiercest
+1	fiercest	fierce	ADJ	_	_	0	root	_	_
+
+# sent_id = 474
+# text = filmy
+1	filmy	filmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 475
+# text = filmier
+1	filmier	filmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 476
+# text = filmiest
+1	filmiest	filmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 477
+# text = filthy
+1	filthy	filthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 478
+# text = filthier
+1	filthier	filthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 479
+# text = filthiest
+1	filthiest	filthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 480
+# text = fine
+1	fine	fine	ADJ	_	_	0	root	_	_
+
+# sent_id = 481
+# text = finer
+1	finer	fine	ADJ	_	_	0	root	_	_
+
+# sent_id = 482
+# text = finest
+1	finest	fine	ADJ	_	_	0	root	_	_
+
+# sent_id = 483
+# text = firm
+1	firm	firm	ADJ	_	_	0	root	_	_
+
+# sent_id = 484
+# text = firmer
+1	firmer	firm	ADJ	_	_	0	root	_	_
+
+# sent_id = 485
+# text = firmest
+1	firmest	firm	ADJ	_	_	0	root	_	_
+
+# sent_id = 486
+# text = fishy
+1	fishy	fishy	ADJ	_	_	0	root	_	_
+
+# sent_id = 487
+# text = fishier
+1	fishier	fishy	ADJ	_	_	0	root	_	_
+
+# sent_id = 488
+# text = fishiest
+1	fishiest	fishy	ADJ	_	_	0	root	_	_
+
+# sent_id = 489
+# text = fit
+1	fit	fit	ADJ	_	_	0	root	_	_
+
+# sent_id = 490
+# text = fitter
+1	fitter	fit	ADJ	_	_	0	root	_	_
+
+# sent_id = 491
+# text = fittest
+1	fittest	fit	ADJ	_	_	0	root	_	_
+
+# sent_id = 492
+# text = fizzy
+1	fizzy	fizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 493
+# text = fizzier
+1	fizzier	fizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 494
+# text = fizziest
+1	fizziest	fizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 495
+# text = flabby
+1	flabby	flabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 496
+# text = flabbier
+1	flabbier	flabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 497
+# text = flabbiest
+1	flabbiest	flabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 498
+# text = flaky
+1	flaky	flaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 499
+# text = flakier
+1	flakier	flaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 500
+# text = flakiest
+1	flakiest	flaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 501
+# text = flashy
+1	flashy	flashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 502
+# text = flashier
+1	flashier	flashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 503
+# text = flashiest
+1	flashiest	flashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 504
+# text = flat
+1	flat	flat	ADJ	_	_	0	root	_	_
+
+# sent_id = 505
+# text = flatter
+1	flatter	flat	ADJ	_	_	0	root	_	_
+
+# sent_id = 506
+# text = flattest
+1	flattest	flat	ADJ	_	_	0	root	_	_
+
+# sent_id = 507
+# text = fleecy
+1	fleecy	fleecy	ADJ	_	_	0	root	_	_
+
+# sent_id = 508
+# text = fleecier
+1	fleecier	fleecy	ADJ	_	_	0	root	_	_
+
+# sent_id = 509
+# text = fleeciest
+1	fleeciest	fleecy	ADJ	_	_	0	root	_	_
+
+# sent_id = 510
+# text = fleet
+1	fleet	fleet	ADJ	_	_	0	root	_	_
+
+# sent_id = 511
+# text = fleeter
+1	fleeter	fleet	ADJ	_	_	0	root	_	_
+
+# sent_id = 512
+# text = fleetest
+1	fleetest	fleet	ADJ	_	_	0	root	_	_
+
+# sent_id = 513
+# text = fleshy
+1	fleshy	fleshy	ADJ	_	_	0	root	_	_
+
+# sent_id = 514
+# text = fleshier
+1	fleshier	fleshy	ADJ	_	_	0	root	_	_
+
+# sent_id = 515
+# text = fleshiest
+1	fleshiest	fleshy	ADJ	_	_	0	root	_	_
+
+# sent_id = 516
+# text = flimsy
+1	flimsy	flimsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 517
+# text = flimsier
+1	flimsier	flimsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 518
+# text = flimsiest
+1	flimsiest	flimsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 519
+# text = flinty
+1	flinty	flinty	ADJ	_	_	0	root	_	_
+
+# sent_id = 520
+# text = flintier
+1	flintier	flinty	ADJ	_	_	0	root	_	_
+
+# sent_id = 521
+# text = flintiest
+1	flintiest	flinty	ADJ	_	_	0	root	_	_
+
+# sent_id = 522
+# text = floppy
+1	floppy	floppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 523
+# text = floppier
+1	floppier	floppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 524
+# text = floppiest
+1	floppiest	floppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 525
+# text = floury
+1	floury	floury	ADJ	_	_	0	root	_	_
+
+# sent_id = 526
+# text = flourier
+1	flourier	floury	ADJ	_	_	0	root	_	_
+
+# sent_id = 527
+# text = flouriest
+1	flouriest	floury	ADJ	_	_	0	root	_	_
+
+# sent_id = 528
+# text = flowery
+1	flowery	flowery	ADJ	_	_	0	root	_	_
+
+# sent_id = 529
+# text = flowerier
+1	flowerier	flowery	ADJ	_	_	0	root	_	_
+
+# sent_id = 530
+# text = floweriest
+1	floweriest	flowery	ADJ	_	_	0	root	_	_
+
+# sent_id = 531
+# text = fluffy
+1	fluffy	fluffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 532
+# text = fluffier
+1	fluffier	fluffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 533
+# text = fluffiest
+1	fluffiest	fluffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 534
+# text = foamy
+1	foamy	foamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 535
+# text = foamier
+1	foamier	foamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 536
+# text = foamiest
+1	foamiest	foamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 537
+# text = foggy
+1	foggy	foggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 538
+# text = foggier
+1	foggier	foggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 539
+# text = foggiest
+1	foggiest	foggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 540
+# text = fond
+1	fond	fond	ADJ	_	_	0	root	_	_
+
+# sent_id = 541
+# text = fonder
+1	fonder	fond	ADJ	_	_	0	root	_	_
+
+# sent_id = 542
+# text = fondest
+1	fondest	fond	ADJ	_	_	0	root	_	_
+
+# sent_id = 543
+# text = foul
+1	foul	foul	ADJ	_	_	0	root	_	_
+
+# sent_id = 544
+# text = fouler
+1	fouler	foul	ADJ	_	_	0	root	_	_
+
+# sent_id = 545
+# text = foulest
+1	foulest	foul	ADJ	_	_	0	root	_	_
+
+# sent_id = 546
+# text = foxy
+1	foxy	foxy	ADJ	_	_	0	root	_	_
+
+# sent_id = 547
+# text = foxier
+1	foxier	foxy	ADJ	_	_	0	root	_	_
+
+# sent_id = 548
+# text = foxiest
+1	foxiest	foxy	ADJ	_	_	0	root	_	_
+
+# sent_id = 549
+# text = frail
+1	frail	frail	ADJ	_	_	0	root	_	_
+
+# sent_id = 550
+# text = frailer
+1	frailer	frail	ADJ	_	_	0	root	_	_
+
+# sent_id = 551
+# text = frailest
+1	frailest	frail	ADJ	_	_	0	root	_	_
+
+# sent_id = 552
+# text = frank
+1	frank	frank	ADJ	_	_	0	root	_	_
+
+# sent_id = 553
+# text = franker
+1	franker	frank	ADJ	_	_	0	root	_	_
+
+# sent_id = 554
+# text = frankest
+1	frankest	frank	ADJ	_	_	0	root	_	_
+
+# sent_id = 555
+# text = freaky
+1	freaky	freaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 556
+# text = freakier
+1	freakier	freaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 557
+# text = freakiest
+1	freakiest	freaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 558
+# text = free
+1	free	free	ADJ	_	_	0	root	_	_
+
+# sent_id = 559
+# text = freer
+1	freer	free	ADJ	_	_	0	root	_	_
+
+# sent_id = 560
+# text = freest
+1	freest	free	ADJ	_	_	0	root	_	_
+
+# sent_id = 561
+# text = fresh
+1	fresh	fresh	ADJ	_	_	0	root	_	_
+
+# sent_id = 562
+# text = fresher
+1	fresher	fresh	ADJ	_	_	0	root	_	_
+
+# sent_id = 563
+# text = freshest
+1	freshest	fresh	ADJ	_	_	0	root	_	_
+
+# sent_id = 564
+# text = friendly
+1	friendly	friendly	ADJ	_	_	0	root	_	_
+
+# sent_id = 565
+# text = friendlier
+1	friendlier	friendly	ADJ	_	_	0	root	_	_
+
+# sent_id = 566
+# text = friendliest
+1	friendliest	friendly	ADJ	_	_	0	root	_	_
+
+# sent_id = 567
+# text = frilly
+1	frilly	frilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 568
+# text = frillier
+1	frillier	frilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 569
+# text = frilliest
+1	frilliest	frilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 570
+# text = frisky
+1	frisky	frisky	ADJ	_	_	0	root	_	_
+
+# sent_id = 571
+# text = friskier
+1	friskier	frisky	ADJ	_	_	0	root	_	_
+
+# sent_id = 572
+# text = friskiest
+1	friskiest	frisky	ADJ	_	_	0	root	_	_
+
+# sent_id = 573
+# text = frizzy
+1	frizzy	frizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 574
+# text = frizzier
+1	frizzier	frizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 575
+# text = frizziest
+1	frizziest	frizzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 576
+# text = frosty
+1	frosty	frosty	ADJ	_	_	0	root	_	_
+
+# sent_id = 577
+# text = frostier
+1	frostier	frosty	ADJ	_	_	0	root	_	_
+
+# sent_id = 578
+# text = frostiest
+1	frostiest	frosty	ADJ	_	_	0	root	_	_
+
+# sent_id = 579
+# text = frothy
+1	frothy	frothy	ADJ	_	_	0	root	_	_
+
+# sent_id = 580
+# text = frothier
+1	frothier	frothy	ADJ	_	_	0	root	_	_
+
+# sent_id = 581
+# text = frothiest
+1	frothiest	frothy	ADJ	_	_	0	root	_	_
+
+# sent_id = 582
+# text = fruity
+1	fruity	fruity	ADJ	_	_	0	root	_	_
+
+# sent_id = 583
+# text = fruitier
+1	fruitier	fruity	ADJ	_	_	0	root	_	_
+
+# sent_id = 584
+# text = fruitiest
+1	fruitiest	fruity	ADJ	_	_	0	root	_	_
+
+# sent_id = 585
+# text = frumpy
+1	frumpy	frumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 586
+# text = frumpier
+1	frumpier	frumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 587
+# text = frumpiest
+1	frumpiest	frumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 588
+# text = fuggy
+1	fuggy	fuggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 589
+# text = fuggier
+1	fuggier	fuggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 590
+# text = fuggiest
+1	fuggiest	fuggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 591
+# text = full
+1	full	full	ADJ	_	_	0	root	_	_
+
+# sent_id = 592
+# text = fuller
+1	fuller	full	ADJ	_	_	0	root	_	_
+
+# sent_id = 593
+# text = fullest
+1	fullest	full	ADJ	_	_	0	root	_	_
+
+# sent_id = 594
+# text = funky
+1	funky	funky	ADJ	_	_	0	root	_	_
+
+# sent_id = 595
+# text = funkier
+1	funkier	funky	ADJ	_	_	0	root	_	_
+
+# sent_id = 596
+# text = funkiest
+1	funkiest	funky	ADJ	_	_	0	root	_	_
+
+# sent_id = 597
+# text = funny
+1	funny	funny	ADJ	_	_	0	root	_	_
+
+# sent_id = 598
+# text = funnier
+1	funnier	funny	ADJ	_	_	0	root	_	_
+
+# sent_id = 599
+# text = funniest
+1	funniest	funny	ADJ	_	_	0	root	_	_
+
+# sent_id = 600
+# text = furry
+1	furry	furry	ADJ	_	_	0	root	_	_
+
+# sent_id = 601
+# text = furrier
+1	furrier	furry	ADJ	_	_	0	root	_	_
+
+# sent_id = 602
+# text = furriest
+1	furriest	furry	ADJ	_	_	0	root	_	_
+
+# sent_id = 603
+# text = fussy
+1	fussy	fussy	ADJ	_	_	0	root	_	_
+
+# sent_id = 604
+# text = fussier
+1	fussier	fussy	ADJ	_	_	0	root	_	_
+
+# sent_id = 605
+# text = fussiest
+1	fussiest	fussy	ADJ	_	_	0	root	_	_
+
+# sent_id = 606
+# text = fuzzy
+1	fuzzy	fuzzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 607
+# text = fuzzier
+1	fuzzier	fuzzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 608
+# text = fuzziest
+1	fuzziest	fuzzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 609
+# text = gamy
+1	gamy	gamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 610
+# text = gamier
+1	gamier	gamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 611
+# text = gamiest
+1	gamiest	gamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 612
+# text = gassy
+1	gassy	gassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 613
+# text = gassier
+1	gassier	gassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 614
+# text = gassiest
+1	gassiest	gassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 615
+# text = gaudy
+1	gaudy	gaudy	ADJ	_	_	0	root	_	_
+
+# sent_id = 616
+# text = gaudier
+1	gaudier	gaudy	ADJ	_	_	0	root	_	_
+
+# sent_id = 617
+# text = gaudiest
+1	gaudiest	gaudy	ADJ	_	_	0	root	_	_
+
+# sent_id = 618
+# text = gauzy
+1	gauzy	gauzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 619
+# text = gauzier
+1	gauzier	gauzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 620
+# text = gauziest
+1	gauziest	gauzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 621
+# text = gawky
+1	gawky	gawky	ADJ	_	_	0	root	_	_
+
+# sent_id = 622
+# text = gawkier
+1	gawkier	gawky	ADJ	_	_	0	root	_	_
+
+# sent_id = 623
+# text = gawkiest
+1	gawkiest	gawky	ADJ	_	_	0	root	_	_
+
+# sent_id = 624
+# text = gay
+1	gay	gay	ADJ	_	_	0	root	_	_
+
+# sent_id = 625
+# text = gayer
+1	gayer	gay	ADJ	_	_	0	root	_	_
+
+# sent_id = 626
+# text = gayest
+1	gayest	gay	ADJ	_	_	0	root	_	_
+
+# sent_id = 627
+# text = gentle
+1	gentle	gentle	ADJ	_	_	0	root	_	_
+
+# sent_id = 628
+# text = gentler
+1	gentler	gentle	ADJ	_	_	0	root	_	_
+
+# sent_id = 629
+# text = gentlest
+1	gentlest	gentle	ADJ	_	_	0	root	_	_
+
+# sent_id = 630
+# text = ghastly
+1	ghastly	ghastly	ADJ	_	_	0	root	_	_
+
+# sent_id = 631
+# text = ghastlier
+1	ghastlier	ghastly	ADJ	_	_	0	root	_	_
+
+# sent_id = 632
+# text = ghastliest
+1	ghastliest	ghastly	ADJ	_	_	0	root	_	_
+
+# sent_id = 633
+# text = giddy
+1	giddy	giddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 634
+# text = giddier
+1	giddier	giddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 635
+# text = giddiest
+1	giddiest	giddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 636
+# text = glad
+1	glad	glad	ADJ	_	_	0	root	_	_
+
+# sent_id = 637
+# text = gladder
+1	gladder	glad	ADJ	_	_	0	root	_	_
+
+# sent_id = 638
+# text = gladdest
+1	gladdest	glad	ADJ	_	_	0	root	_	_
+
+# sent_id = 639
+# text = glassy
+1	glassy	glassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 640
+# text = glassier
+1	glassier	glassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 641
+# text = glassiest
+1	glassiest	glassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 642
+# text = glib
+1	glib	glib	ADJ	_	_	0	root	_	_
+
+# sent_id = 643
+# text = glibber
+1	glibber	glib	ADJ	_	_	0	root	_	_
+
+# sent_id = 644
+# text = glibbest
+1	glibbest	glib	ADJ	_	_	0	root	_	_
+
+# sent_id = 645
+# text = gloomy
+1	gloomy	gloomy	ADJ	_	_	0	root	_	_
+
+# sent_id = 646
+# text = gloomier
+1	gloomier	gloomy	ADJ	_	_	0	root	_	_
+
+# sent_id = 647
+# text = gloomiest
+1	gloomiest	gloomy	ADJ	_	_	0	root	_	_
+
+# sent_id = 648
+# text = glossy
+1	glossy	glossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 649
+# text = glossier
+1	glossier	glossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 650
+# text = glossiest
+1	glossiest	glossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 651
+# text = glum
+1	glum	glum	ADJ	_	_	0	root	_	_
+
+# sent_id = 652
+# text = glummer
+1	glummer	glum	ADJ	_	_	0	root	_	_
+
+# sent_id = 653
+# text = glummest
+1	glummest	glum	ADJ	_	_	0	root	_	_
+
+# sent_id = 654
+# text = godly
+1	godly	godly	ADJ	_	_	0	root	_	_
+
+# sent_id = 655
+# text = godlier
+1	godlier	godly	ADJ	_	_	0	root	_	_
+
+# sent_id = 656
+# text = godliest
+1	godliest	godly	ADJ	_	_	0	root	_	_
+
+# sent_id = 657
+# text = good
+1	good	good	ADJ	_	_	0	root	_	_
+
+# sent_id = 658
+# text = better
+1	better	good	ADJ	_	_	0	root	_	_
+
+# sent_id = 659
+# text = best
+1	best	good	ADJ	_	_	0	root	_	_
+
+# sent_id = 660
+# text = goodly
+1	goodly	goodly	ADJ	_	_	0	root	_	_
+
+# sent_id = 661
+# text = goodlier
+1	goodlier	goodly	ADJ	_	_	0	root	_	_
+
+# sent_id = 662
+# text = goodliest
+1	goodliest	goodly	ADJ	_	_	0	root	_	_
+
+# sent_id = 663
+# text = gooey
+1	gooey	gooey	ADJ	_	_	0	root	_	_
+
+# sent_id = 664
+# text = gooier
+1	gooier	gooey	ADJ	_	_	0	root	_	_
+
+# sent_id = 665
+# text = gooiest
+1	gooiest	gooey	ADJ	_	_	0	root	_	_
+
+# sent_id = 666
+# text = goofy
+1	goofy	goofy	ADJ	_	_	0	root	_	_
+
+# sent_id = 667
+# text = goofier
+1	goofier	goofy	ADJ	_	_	0	root	_	_
+
+# sent_id = 668
+# text = goofiest
+1	goofiest	goofy	ADJ	_	_	0	root	_	_
+
+# sent_id = 669
+# text = gory
+1	gory	gory	ADJ	_	_	0	root	_	_
+
+# sent_id = 670
+# text = gorier
+1	gorier	gory	ADJ	_	_	0	root	_	_
+
+# sent_id = 671
+# text = goriest
+1	goriest	gory	ADJ	_	_	0	root	_	_
+
+# sent_id = 672
+# text = gouty
+1	gouty	gouty	ADJ	_	_	0	root	_	_
+
+# sent_id = 673
+# text = goutier
+1	goutier	gouty	ADJ	_	_	0	root	_	_
+
+# sent_id = 674
+# text = goutiest
+1	goutiest	gouty	ADJ	_	_	0	root	_	_
+
+# sent_id = 675
+# text = grand
+1	grand	grand	ADJ	_	_	0	root	_	_
+
+# sent_id = 676
+# text = grander
+1	grander	grand	ADJ	_	_	0	root	_	_
+
+# sent_id = 677
+# text = grandest
+1	grandest	grand	ADJ	_	_	0	root	_	_
+
+# sent_id = 678
+# text = grassy
+1	grassy	grassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 679
+# text = grassier
+1	grassier	grassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 680
+# text = grassiest
+1	grassiest	grassy	ADJ	_	_	0	root	_	_
+
+# sent_id = 681
+# text = grave
+1	grave	grave	ADJ	_	_	0	root	_	_
+
+# sent_id = 682
+# text = graver
+1	graver	grave	ADJ	_	_	0	root	_	_
+
+# sent_id = 683
+# text = gravest
+1	gravest	grave	ADJ	_	_	0	root	_	_
+
+# sent_id = 684
+# text = gray
+1	gray	gray	ADJ	_	_	0	root	_	_
+
+# sent_id = 685
+# text = grayer
+1	grayer	gray	ADJ	_	_	0	root	_	_
+
+# sent_id = 686
+# text = grayest
+1	grayest	gray	ADJ	_	_	0	root	_	_
+
+# sent_id = 687
+# text = greasy
+1	greasy	greasy	ADJ	_	_	0	root	_	_
+
+# sent_id = 688
+# text = greasier
+1	greasier	greasy	ADJ	_	_	0	root	_	_
+
+# sent_id = 689
+# text = greasiest
+1	greasiest	greasy	ADJ	_	_	0	root	_	_
+
+# sent_id = 690
+# text = great
+1	great	great	ADJ	_	_	0	root	_	_
+
+# sent_id = 691
+# text = greater
+1	greater	great	ADJ	_	_	0	root	_	_
+
+# sent_id = 692
+# text = greatest
+1	greatest	great	ADJ	_	_	0	root	_	_
+
+# sent_id = 693
+# text = greedy
+1	greedy	greedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 694
+# text = greedier
+1	greedier	greedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 695
+# text = greediest
+1	greediest	greedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 696
+# text = green
+1	green	green	ADJ	_	_	0	root	_	_
+
+# sent_id = 697
+# text = greener
+1	greener	green	ADJ	_	_	0	root	_	_
+
+# sent_id = 698
+# text = greenest
+1	greenest	green	ADJ	_	_	0	root	_	_
+
+# sent_id = 699
+# text = grey
+1	grey	grey	ADJ	_	_	0	root	_	_
+
+# sent_id = 700
+# text = greyer
+1	greyer	grey	ADJ	_	_	0	root	_	_
+
+# sent_id = 701
+# text = greyest
+1	greyest	grey	ADJ	_	_	0	root	_	_
+
+# sent_id = 702
+# text = grim
+1	grim	grim	ADJ	_	_	0	root	_	_
+
+# sent_id = 703
+# text = grimmer
+1	grimmer	grim	ADJ	_	_	0	root	_	_
+
+# sent_id = 704
+# text = grimmest
+1	grimmest	grim	ADJ	_	_	0	root	_	_
+
+# sent_id = 705
+# text = grimy
+1	grimy	grimy	ADJ	_	_	0	root	_	_
+
+# sent_id = 706
+# text = grimier
+1	grimier	grimy	ADJ	_	_	0	root	_	_
+
+# sent_id = 707
+# text = grimiest
+1	grimiest	grimy	ADJ	_	_	0	root	_	_
+
+# sent_id = 708
+# text = gritty
+1	gritty	gritty	ADJ	_	_	0	root	_	_
+
+# sent_id = 709
+# text = grittier
+1	grittier	gritty	ADJ	_	_	0	root	_	_
+
+# sent_id = 710
+# text = grittiest
+1	grittiest	gritty	ADJ	_	_	0	root	_	_
+
+# sent_id = 711
+# text = groggy
+1	groggy	groggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 712
+# text = groggier
+1	groggier	groggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 713
+# text = groggiest
+1	groggiest	groggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 714
+# text = groovy
+1	groovy	groovy	ADJ	_	_	0	root	_	_
+
+# sent_id = 715
+# text = groovier
+1	groovier	groovy	ADJ	_	_	0	root	_	_
+
+# sent_id = 716
+# text = grooviest
+1	grooviest	groovy	ADJ	_	_	0	root	_	_
+
+# sent_id = 717
+# text = grotty
+1	grotty	grotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 718
+# text = grottier
+1	grottier	grotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 719
+# text = grottiest
+1	grottiest	grotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 720
+# text = grouchy
+1	grouchy	grouchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 721
+# text = grouchier
+1	grouchier	grouchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 722
+# text = grouchiest
+1	grouchiest	grouchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 723
+# text = grubby
+1	grubby	grubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 724
+# text = grubbier
+1	grubbier	grubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 725
+# text = grubbiest
+1	grubbiest	grubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 726
+# text = gruff
+1	gruff	gruff	ADJ	_	_	0	root	_	_
+
+# sent_id = 727
+# text = gruffer
+1	gruffer	gruff	ADJ	_	_	0	root	_	_
+
+# sent_id = 728
+# text = gruffest
+1	gruffest	gruff	ADJ	_	_	0	root	_	_
+
+# sent_id = 729
+# text = grumpy
+1	grumpy	grumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 730
+# text = grumpier
+1	grumpier	grumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 731
+# text = grumpiest
+1	grumpiest	grumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 732
+# text = guilty
+1	guilty	guilty	ADJ	_	_	0	root	_	_
+
+# sent_id = 733
+# text = guiltier
+1	guiltier	guilty	ADJ	_	_	0	root	_	_
+
+# sent_id = 734
+# text = guiltiest
+1	guiltiest	guilty	ADJ	_	_	0	root	_	_
+
+# sent_id = 735
+# text = gummy
+1	gummy	gummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 736
+# text = gummier
+1	gummier	gummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 737
+# text = gummiest
+1	gummiest	gummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 738
+# text = gusty
+1	gusty	gusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 739
+# text = gustier
+1	gustier	gusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 740
+# text = gustiest
+1	gustiest	gusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 741
+# text = hairy
+1	hairy	hairy	ADJ	_	_	0	root	_	_
+
+# sent_id = 742
+# text = hairier
+1	hairier	hairy	ADJ	_	_	0	root	_	_
+
+# sent_id = 743
+# text = hairiest
+1	hairiest	hairy	ADJ	_	_	0	root	_	_
+
+# sent_id = 744
+# text = handy
+1	handy	handy	ADJ	_	_	0	root	_	_
+
+# sent_id = 745
+# text = handier
+1	handier	handy	ADJ	_	_	0	root	_	_
+
+# sent_id = 746
+# text = handiest
+1	handiest	handy	ADJ	_	_	0	root	_	_
+
+# sent_id = 747
+# text = happy
+1	happy	happy	ADJ	_	_	0	root	_	_
+
+# sent_id = 748
+# text = happier
+1	happier	happy	ADJ	_	_	0	root	_	_
+
+# sent_id = 749
+# text = happiest
+1	happiest	happy	ADJ	_	_	0	root	_	_
+
+# sent_id = 750
+# text = hard
+1	hard	hard	ADJ	_	_	0	root	_	_
+
+# sent_id = 751
+# text = harder
+1	harder	hard	ADJ	_	_	0	root	_	_
+
+# sent_id = 752
+# text = hardest
+1	hardest	hard	ADJ	_	_	0	root	_	_
+
+# sent_id = 753
+# text = hardy
+1	hardy	hardy	ADJ	_	_	0	root	_	_
+
+# sent_id = 754
+# text = hardier
+1	hardier	hardy	ADJ	_	_	0	root	_	_
+
+# sent_id = 755
+# text = hardiest
+1	hardiest	hardy	ADJ	_	_	0	root	_	_
+
+# sent_id = 756
+# text = harsh
+1	harsh	harsh	ADJ	_	_	0	root	_	_
+
+# sent_id = 757
+# text = harsher
+1	harsher	harsh	ADJ	_	_	0	root	_	_
+
+# sent_id = 758
+# text = harshest
+1	harshest	harsh	ADJ	_	_	0	root	_	_
+
+# sent_id = 759
+# text = hasty
+1	hasty	hasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 760
+# text = hastier
+1	hastier	hasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 761
+# text = hastiest
+1	hastiest	hasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 762
+# text = haughty
+1	haughty	haughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 763
+# text = haughtier
+1	haughtier	haughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 764
+# text = haughtiest
+1	haughtiest	haughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 765
+# text = hazy
+1	hazy	hazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 766
+# text = hazier
+1	hazier	hazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 767
+# text = haziest
+1	haziest	hazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 768
+# text = heady
+1	heady	heady	ADJ	_	_	0	root	_	_
+
+# sent_id = 769
+# text = headier
+1	headier	heady	ADJ	_	_	0	root	_	_
+
+# sent_id = 770
+# text = headiest
+1	headiest	heady	ADJ	_	_	0	root	_	_
+
+# sent_id = 771
+# text = healthy
+1	healthy	healthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 772
+# text = healthier
+1	healthier	healthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 773
+# text = healthiest
+1	healthiest	healthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 774
+# text = hearty
+1	hearty	hearty	ADJ	_	_	0	root	_	_
+
+# sent_id = 775
+# text = heartier
+1	heartier	hearty	ADJ	_	_	0	root	_	_
+
+# sent_id = 776
+# text = heartiest
+1	heartiest	hearty	ADJ	_	_	0	root	_	_
+
+# sent_id = 777
+# text = heavy
+1	heavy	heavy	ADJ	_	_	0	root	_	_
+
+# sent_id = 778
+# text = heavier
+1	heavier	heavy	ADJ	_	_	0	root	_	_
+
+# sent_id = 779
+# text = heaviest
+1	heaviest	heavy	ADJ	_	_	0	root	_	_
+
+# sent_id = 780
+# text = hefty
+1	hefty	hefty	ADJ	_	_	0	root	_	_
+
+# sent_id = 781
+# text = heftier
+1	heftier	hefty	ADJ	_	_	0	root	_	_
+
+# sent_id = 782
+# text = heftiest
+1	heftiest	hefty	ADJ	_	_	0	root	_	_
+
+# sent_id = 783
+# text = high
+1	high	high	ADJ	_	_	0	root	_	_
+
+# sent_id = 784
+# text = higher
+1	higher	high	ADJ	_	_	0	root	_	_
+
+# sent_id = 785
+# text = highest
+1	highest	high	ADJ	_	_	0	root	_	_
+
+# sent_id = 786
+# text = hilly
+1	hilly	hilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 787
+# text = hillier
+1	hillier	hilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 788
+# text = hilliest
+1	hilliest	hilly	ADJ	_	_	0	root	_	_
+
+# sent_id = 789
+# text = hoarse
+1	hoarse	hoarse	ADJ	_	_	0	root	_	_
+
+# sent_id = 790
+# text = hoarser
+1	hoarser	hoarse	ADJ	_	_	0	root	_	_
+
+# sent_id = 791
+# text = hoarsest
+1	hoarsest	hoarse	ADJ	_	_	0	root	_	_
+
+# sent_id = 792
+# text = hoary
+1	hoary	hoary	ADJ	_	_	0	root	_	_
+
+# sent_id = 793
+# text = hoarier
+1	hoarier	hoary	ADJ	_	_	0	root	_	_
+
+# sent_id = 794
+# text = hoariest
+1	hoariest	hoary	ADJ	_	_	0	root	_	_
+
+# sent_id = 795
+# text = holy
+1	holy	holy	ADJ	_	_	0	root	_	_
+
+# sent_id = 796
+# text = holier
+1	holier	holy	ADJ	_	_	0	root	_	_
+
+# sent_id = 797
+# text = holiest
+1	holiest	holy	ADJ	_	_	0	root	_	_
+
+# sent_id = 798
+# text = homely
+1	homely	homely	ADJ	_	_	0	root	_	_
+
+# sent_id = 799
+# text = homelier
+1	homelier	homely	ADJ	_	_	0	root	_	_
+
+# sent_id = 800
+# text = homeliest
+1	homeliest	homely	ADJ	_	_	0	root	_	_
+
+# sent_id = 801
+# text = horny
+1	horny	horny	ADJ	_	_	0	root	_	_
+
+# sent_id = 802
+# text = hornier
+1	hornier	horny	ADJ	_	_	0	root	_	_
+
+# sent_id = 803
+# text = horniest
+1	horniest	horny	ADJ	_	_	0	root	_	_
+
+# sent_id = 804
+# text = hot
+1	hot	hot	ADJ	_	_	0	root	_	_
+
+# sent_id = 805
+# text = hotter
+1	hotter	hot	ADJ	_	_	0	root	_	_
+
+# sent_id = 806
+# text = hottest
+1	hottest	hot	ADJ	_	_	0	root	_	_
+
+# sent_id = 807
+# text = huffy
+1	huffy	huffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 808
+# text = huffier
+1	huffier	huffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 809
+# text = huffiest
+1	huffiest	huffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 810
+# text = humble
+1	humble	humble	ADJ	_	_	0	root	_	_
+
+# sent_id = 811
+# text = humbler
+1	humbler	humble	ADJ	_	_	0	root	_	_
+
+# sent_id = 812
+# text = humblest
+1	humblest	humble	ADJ	_	_	0	root	_	_
+
+# sent_id = 813
+# text = hungry
+1	hungry	hungry	ADJ	_	_	0	root	_	_
+
+# sent_id = 814
+# text = hungrier
+1	hungrier	hungry	ADJ	_	_	0	root	_	_
+
+# sent_id = 815
+# text = hungriest
+1	hungriest	hungry	ADJ	_	_	0	root	_	_
+
+# sent_id = 816
+# text = husky
+1	husky	husky	ADJ	_	_	0	root	_	_
+
+# sent_id = 817
+# text = huskier
+1	huskier	husky	ADJ	_	_	0	root	_	_
+
+# sent_id = 818
+# text = huskiest
+1	huskiest	husky	ADJ	_	_	0	root	_	_
+
+# sent_id = 819
+# text = icy
+1	icy	icy	ADJ	_	_	0	root	_	_
+
+# sent_id = 820
+# text = icier
+1	icier	icy	ADJ	_	_	0	root	_	_
+
+# sent_id = 821
+# text = iciest
+1	iciest	icy	ADJ	_	_	0	root	_	_
+
+# sent_id = 822
+# text = idle
+1	idle	idle	ADJ	_	_	0	root	_	_
+
+# sent_id = 823
+# text = idler
+1	idler	idle	ADJ	_	_	0	root	_	_
+
+# sent_id = 824
+# text = idlest
+1	idlest	idle	ADJ	_	_	0	root	_	_
+
+# sent_id = 825
+# text = inky
+1	inky	inky	ADJ	_	_	0	root	_	_
+
+# sent_id = 826
+# text = inkier
+1	inkier	inky	ADJ	_	_	0	root	_	_
+
+# sent_id = 827
+# text = inkiest
+1	inkiest	inky	ADJ	_	_	0	root	_	_
+
+# sent_id = 828
+# text = itchy
+1	itchy	itchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 829
+# text = itchier
+1	itchier	itchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 830
+# text = itchiest
+1	itchiest	itchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 831
+# text = jaggy
+1	jaggy	jaggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 832
+# text = jaggier
+1	jaggier	jaggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 833
+# text = jaggiest
+1	jaggiest	jaggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 834
+# text = jaunty
+1	jaunty	jaunty	ADJ	_	_	0	root	_	_
+
+# sent_id = 835
+# text = jauntier
+1	jauntier	jaunty	ADJ	_	_	0	root	_	_
+
+# sent_id = 836
+# text = jauntiest
+1	jauntiest	jaunty	ADJ	_	_	0	root	_	_
+
+# sent_id = 837
+# text = jazzy
+1	jazzy	jazzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 838
+# text = jazzier
+1	jazzier	jazzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 839
+# text = jazziest
+1	jazziest	jazzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 840
+# text = jerky
+1	jerky	jerky	ADJ	_	_	0	root	_	_
+
+# sent_id = 841
+# text = jerkier
+1	jerkier	jerky	ADJ	_	_	0	root	_	_
+
+# sent_id = 842
+# text = jerkiest
+1	jerkiest	jerky	ADJ	_	_	0	root	_	_
+
+# sent_id = 843
+# text = jolly
+1	jolly	jolly	ADJ	_	_	0	root	_	_
+
+# sent_id = 844
+# text = jollier
+1	jollier	jolly	ADJ	_	_	0	root	_	_
+
+# sent_id = 845
+# text = jolliest
+1	jolliest	jolly	ADJ	_	_	0	root	_	_
+
+# sent_id = 846
+# text = jolty
+1	jolty	jolty	ADJ	_	_	0	root	_	_
+
+# sent_id = 847
+# text = joltier
+1	joltier	jolty	ADJ	_	_	0	root	_	_
+
+# sent_id = 848
+# text = joltiest
+1	joltiest	jolty	ADJ	_	_	0	root	_	_
+
+# sent_id = 849
+# text = jowly
+1	jowly	jowly	ADJ	_	_	0	root	_	_
+
+# sent_id = 850
+# text = jowlier
+1	jowlier	jowly	ADJ	_	_	0	root	_	_
+
+# sent_id = 851
+# text = jowliest
+1	jowliest	jowly	ADJ	_	_	0	root	_	_
+
+# sent_id = 852
+# text = juicy
+1	juicy	juicy	ADJ	_	_	0	root	_	_
+
+# sent_id = 853
+# text = juicier
+1	juicier	juicy	ADJ	_	_	0	root	_	_
+
+# sent_id = 854
+# text = juiciest
+1	juiciest	juicy	ADJ	_	_	0	root	_	_
+
+# sent_id = 855
+# text = jumpy
+1	jumpy	jumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 856
+# text = jumpier
+1	jumpier	jumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 857
+# text = jumpiest
+1	jumpiest	jumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 858
+# text = jungly
+1	jungly	jungly	ADJ	_	_	0	root	_	_
+
+# sent_id = 859
+# text = junglier
+1	junglier	jungly	ADJ	_	_	0	root	_	_
+
+# sent_id = 860
+# text = jungliest
+1	jungliest	jungly	ADJ	_	_	0	root	_	_
+
+# sent_id = 861
+# text = keen
+1	keen	keen	ADJ	_	_	0	root	_	_
+
+# sent_id = 862
+# text = keener
+1	keener	keen	ADJ	_	_	0	root	_	_
+
+# sent_id = 863
+# text = keenest
+1	keenest	keen	ADJ	_	_	0	root	_	_
+
+# sent_id = 864
+# text = kind
+1	kind	kind	ADJ	_	_	0	root	_	_
+
+# sent_id = 865
+# text = kinder
+1	kinder	kind	ADJ	_	_	0	root	_	_
+
+# sent_id = 866
+# text = kindest
+1	kindest	kind	ADJ	_	_	0	root	_	_
+
+# sent_id = 867
+# text = kindly
+1	kindly	kindly	ADJ	_	_	0	root	_	_
+
+# sent_id = 868
+# text = kindlier
+1	kindlier	kindly	ADJ	_	_	0	root	_	_
+
+# sent_id = 869
+# text = kindliest
+1	kindliest	kindly	ADJ	_	_	0	root	_	_
+
+# sent_id = 870
+# text = kinky
+1	kinky	kinky	ADJ	_	_	0	root	_	_
+
+# sent_id = 871
+# text = kinkier
+1	kinkier	kinky	ADJ	_	_	0	root	_	_
+
+# sent_id = 872
+# text = kinkiest
+1	kinkiest	kinky	ADJ	_	_	0	root	_	_
+
+# sent_id = 873
+# text = knobbly
+1	knobbly	knobbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 874
+# text = knobblier
+1	knobblier	knobbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 875
+# text = knobbliest
+1	knobbliest	knobbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 876
+# text = knotty
+1	knotty	knotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 877
+# text = knottier
+1	knottier	knotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 878
+# text = knottiest
+1	knottiest	knotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 879
+# text = lacy
+1	lacy	lacy	ADJ	_	_	0	root	_	_
+
+# sent_id = 880
+# text = lacier
+1	lacier	lacy	ADJ	_	_	0	root	_	_
+
+# sent_id = 881
+# text = laciest
+1	laciest	lacy	ADJ	_	_	0	root	_	_
+
+# sent_id = 882
+# text = lame
+1	lame	lame	ADJ	_	_	0	root	_	_
+
+# sent_id = 883
+# text = lamer
+1	lamer	lame	ADJ	_	_	0	root	_	_
+
+# sent_id = 884
+# text = lamest
+1	lamest	lame	ADJ	_	_	0	root	_	_
+
+# sent_id = 885
+# text = lanky
+1	lanky	lanky	ADJ	_	_	0	root	_	_
+
+# sent_id = 886
+# text = lankier
+1	lankier	lanky	ADJ	_	_	0	root	_	_
+
+# sent_id = 887
+# text = lankiest
+1	lankiest	lanky	ADJ	_	_	0	root	_	_
+
+# sent_id = 888
+# text = large
+1	large	large	ADJ	_	_	0	root	_	_
+
+# sent_id = 889
+# text = larger
+1	larger	large	ADJ	_	_	0	root	_	_
+
+# sent_id = 890
+# text = largest
+1	largest	large	ADJ	_	_	0	root	_	_
+
+# sent_id = 891
+# text = late
+1	late	late	ADJ	_	_	0	root	_	_
+
+# sent_id = 892
+# text = later
+1	later	late	ADJ	_	_	0	root	_	_
+
+# sent_id = 893
+# text = latest
+1	latest	late	ADJ	_	_	0	root	_	_
+
+# sent_id = 894
+# text = lazy
+1	lazy	lazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 895
+# text = lazier
+1	lazier	lazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 896
+# text = laziest
+1	laziest	lazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 897
+# text = leafy
+1	leafy	leafy	ADJ	_	_	0	root	_	_
+
+# sent_id = 898
+# text = leafier
+1	leafier	leafy	ADJ	_	_	0	root	_	_
+
+# sent_id = 899
+# text = leafiest
+1	leafiest	leafy	ADJ	_	_	0	root	_	_
+
+# sent_id = 900
+# text = leaky
+1	leaky	leaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 901
+# text = leakier
+1	leakier	leaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 902
+# text = leakiest
+1	leakiest	leaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 903
+# text = lean
+1	lean	lean	ADJ	_	_	0	root	_	_
+
+# sent_id = 904
+# text = leaner
+1	leaner	lean	ADJ	_	_	0	root	_	_
+
+# sent_id = 905
+# text = leanest
+1	leanest	lean	ADJ	_	_	0	root	_	_
+
+# sent_id = 906
+# text = lengthy
+1	lengthy	lengthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 907
+# text = lengthier
+1	lengthier	lengthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 908
+# text = lengthiest
+1	lengthiest	lengthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 909
+# text = lewd
+1	lewd	lewd	ADJ	_	_	0	root	_	_
+
+# sent_id = 910
+# text = lewder
+1	lewder	lewd	ADJ	_	_	0	root	_	_
+
+# sent_id = 911
+# text = lewdest
+1	lewdest	lewd	ADJ	_	_	0	root	_	_
+
+# sent_id = 912
+# text = light
+1	light	light	ADJ	_	_	0	root	_	_
+
+# sent_id = 913
+# text = lighter
+1	lighter	light	ADJ	_	_	0	root	_	_
+
+# sent_id = 914
+# text = lightest
+1	lightest	light	ADJ	_	_	0	root	_	_
+
+# sent_id = 915
+# text = likely
+1	likely	likely	ADJ	_	_	0	root	_	_
+
+# sent_id = 916
+# text = likelier
+1	likelier	likely	ADJ	_	_	0	root	_	_
+
+# sent_id = 917
+# text = likeliest
+1	likeliest	likely	ADJ	_	_	0	root	_	_
+
+# sent_id = 918
+# text = little
+1	little	little	ADJ	_	_	0	root	_	_
+
+# sent_id = 919
+# text = littler
+1	littler	little	ADJ	_	_	0	root	_	_
+
+# sent_id = 920
+# text = littlest
+1	littlest	little	ADJ	_	_	0	root	_	_
+
+# sent_id = 921
+# text = lively
+1	lively	lively	ADJ	_	_	0	root	_	_
+
+# sent_id = 922
+# text = livelier
+1	livelier	lively	ADJ	_	_	0	root	_	_
+
+# sent_id = 923
+# text = liveliest
+1	liveliest	lively	ADJ	_	_	0	root	_	_
+
+# sent_id = 924
+# text = loamy
+1	loamy	loamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 925
+# text = loamier
+1	loamier	loamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 926
+# text = loamiest
+1	loamiest	loamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 927
+# text = loathly
+1	loathly	loathly	ADJ	_	_	0	root	_	_
+
+# sent_id = 928
+# text = loathlier
+1	loathlier	loathly	ADJ	_	_	0	root	_	_
+
+# sent_id = 929
+# text = loathliest
+1	loathliest	loathly	ADJ	_	_	0	root	_	_
+
+# sent_id = 930
+# text = lofty
+1	lofty	lofty	ADJ	_	_	0	root	_	_
+
+# sent_id = 931
+# text = loftier
+1	loftier	lofty	ADJ	_	_	0	root	_	_
+
+# sent_id = 932
+# text = loftiest
+1	loftiest	lofty	ADJ	_	_	0	root	_	_
+
+# sent_id = 933
+# text = lonely
+1	lonely	lonely	ADJ	_	_	0	root	_	_
+
+# sent_id = 934
+# text = lonelier
+1	lonelier	lonely	ADJ	_	_	0	root	_	_
+
+# sent_id = 935
+# text = loneliest
+1	loneliest	lonely	ADJ	_	_	0	root	_	_
+
+# sent_id = 936
+# text = long
+1	long	long	ADJ	_	_	0	root	_	_
+
+# sent_id = 937
+# text = longer
+1	longer	long	ADJ	_	_	0	root	_	_
+
+# sent_id = 938
+# text = longest
+1	longest	long	ADJ	_	_	0	root	_	_
+
+# sent_id = 939
+# text = loony
+1	loony	loony	ADJ	_	_	0	root	_	_
+
+# sent_id = 940
+# text = loonier
+1	loonier	loony	ADJ	_	_	0	root	_	_
+
+# sent_id = 941
+# text = looniest
+1	looniest	loony	ADJ	_	_	0	root	_	_
+
+# sent_id = 942
+# text = loose
+1	loose	loose	ADJ	_	_	0	root	_	_
+
+# sent_id = 943
+# text = looser
+1	looser	loose	ADJ	_	_	0	root	_	_
+
+# sent_id = 944
+# text = loosest
+1	loosest	loose	ADJ	_	_	0	root	_	_
+
+# sent_id = 945
+# text = lordly
+1	lordly	lordly	ADJ	_	_	0	root	_	_
+
+# sent_id = 946
+# text = lordlier
+1	lordlier	lordly	ADJ	_	_	0	root	_	_
+
+# sent_id = 947
+# text = lordliest
+1	lordliest	lordly	ADJ	_	_	0	root	_	_
+
+# sent_id = 948
+# text = loud
+1	loud	loud	ADJ	_	_	0	root	_	_
+
+# sent_id = 949
+# text = louder
+1	louder	loud	ADJ	_	_	0	root	_	_
+
+# sent_id = 950
+# text = loudest
+1	loudest	loud	ADJ	_	_	0	root	_	_
+
+# sent_id = 951
+# text = lousy
+1	lousy	lousy	ADJ	_	_	0	root	_	_
+
+# sent_id = 952
+# text = lousier
+1	lousier	lousy	ADJ	_	_	0	root	_	_
+
+# sent_id = 953
+# text = lousiest
+1	lousiest	lousy	ADJ	_	_	0	root	_	_
+
+# sent_id = 954
+# text = lovely
+1	lovely	lovely	ADJ	_	_	0	root	_	_
+
+# sent_id = 955
+# text = lovelier
+1	lovelier	lovely	ADJ	_	_	0	root	_	_
+
+# sent_id = 956
+# text = loveliest
+1	loveliest	lovely	ADJ	_	_	0	root	_	_
+
+# sent_id = 957
+# text = low
+1	low	low	ADJ	_	_	0	root	_	_
+
+# sent_id = 958
+# text = lower
+1	lower	low	ADJ	_	_	0	root	_	_
+
+# sent_id = 959
+# text = lowest
+1	lowest	low	ADJ	_	_	0	root	_	_
+
+# sent_id = 960
+# text = lowly
+1	lowly	lowly	ADJ	_	_	0	root	_	_
+
+# sent_id = 961
+# text = lowlier
+1	lowlier	lowly	ADJ	_	_	0	root	_	_
+
+# sent_id = 962
+# text = lowliest
+1	lowliest	lowly	ADJ	_	_	0	root	_	_
+
+# sent_id = 963
+# text = loyal
+1	loyal	loyal	ADJ	_	_	0	root	_	_
+
+# sent_id = 964
+# text = loyaller
+1	loyaller	loyal	ADJ	_	_	0	root	_	_
+
+# sent_id = 965
+# text = loyallest
+1	loyallest	loyal	ADJ	_	_	0	root	_	_
+
+# sent_id = 966
+# text = lucky
+1	lucky	lucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 967
+# text = luckier
+1	luckier	lucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 968
+# text = luckiest
+1	luckiest	lucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 969
+# text = lumpy
+1	lumpy	lumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 970
+# text = lumpier
+1	lumpier	lumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 971
+# text = lumpiest
+1	lumpiest	lumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 972
+# text = lush
+1	lush	lush	ADJ	_	_	0	root	_	_
+
+# sent_id = 973
+# text = lusher
+1	lusher	lush	ADJ	_	_	0	root	_	_
+
+# sent_id = 974
+# text = lushest
+1	lushest	lush	ADJ	_	_	0	root	_	_
+
+# sent_id = 975
+# text = lusty
+1	lusty	lusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 976
+# text = lustier
+1	lustier	lusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 977
+# text = lustiest
+1	lustiest	lusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 978
+# text = mad
+1	mad	mad	ADJ	_	_	0	root	_	_
+
+# sent_id = 979
+# text = madder
+1	madder	mad	ADJ	_	_	0	root	_	_
+
+# sent_id = 980
+# text = maddest
+1	maddest	mad	ADJ	_	_	0	root	_	_
+
+# sent_id = 981
+# text = mangy
+1	mangy	mangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 982
+# text = mangier
+1	mangier	mangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 983
+# text = mangiest
+1	mangiest	mangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 984
+# text = manly
+1	manly	manly	ADJ	_	_	0	root	_	_
+
+# sent_id = 985
+# text = manlier
+1	manlier	manly	ADJ	_	_	0	root	_	_
+
+# sent_id = 986
+# text = manliest
+1	manliest	manly	ADJ	_	_	0	root	_	_
+
+# sent_id = 987
+# text = marshy
+1	marshy	marshy	ADJ	_	_	0	root	_	_
+
+# sent_id = 988
+# text = marshier
+1	marshier	marshy	ADJ	_	_	0	root	_	_
+
+# sent_id = 989
+# text = marshiest
+1	marshiest	marshy	ADJ	_	_	0	root	_	_
+
+# sent_id = 990
+# text = massy
+1	massy	massy	ADJ	_	_	0	root	_	_
+
+# sent_id = 991
+# text = massier
+1	massier	massy	ADJ	_	_	0	root	_	_
+
+# sent_id = 992
+# text = massiest
+1	massiest	massy	ADJ	_	_	0	root	_	_
+
+# sent_id = 993
+# text = mealy
+1	mealy	mealy	ADJ	_	_	0	root	_	_
+
+# sent_id = 994
+# text = mealier
+1	mealier	mealy	ADJ	_	_	0	root	_	_
+
+# sent_id = 995
+# text = mealiest
+1	mealiest	mealy	ADJ	_	_	0	root	_	_
+
+# sent_id = 996
+# text = mean
+1	mean	mean	ADJ	_	_	0	root	_	_
+
+# sent_id = 997
+# text = meaner
+1	meaner	mean	ADJ	_	_	0	root	_	_
+
+# sent_id = 998
+# text = meanest
+1	meanest	mean	ADJ	_	_	0	root	_	_
+
+# sent_id = 999
+# text = meaty
+1	meaty	meaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1000
+# text = meatier
+1	meatier	meaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1001
+# text = meatiest
+1	meatiest	meaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1002
+# text = meek
+1	meek	meek	ADJ	_	_	0	root	_	_
+
+# sent_id = 1003
+# text = meeker
+1	meeker	meek	ADJ	_	_	0	root	_	_
+
+# sent_id = 1004
+# text = meekest
+1	meekest	meek	ADJ	_	_	0	root	_	_
+
+# sent_id = 1005
+# text = mellow
+1	mellow	mellow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1006
+# text = mellower
+1	mellower	mellow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1007
+# text = mellowest
+1	mellowest	mellow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1008
+# text = mere
+1	mere	mere	ADJ	_	_	0	root	_	_
+
+# sent_id = 1009
+# text = merer
+1	merer	mere	ADJ	_	_	0	root	_	_
+
+# sent_id = 1010
+# text = merest
+1	merest	mere	ADJ	_	_	0	root	_	_
+
+# sent_id = 1011
+# text = merry
+1	merry	merry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1012
+# text = merrier
+1	merrier	merry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1013
+# text = merriest
+1	merriest	merry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1014
+# text = messy
+1	messy	messy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1015
+# text = messier
+1	messier	messy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1016
+# text = messiest
+1	messiest	messy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1017
+# text = mighty
+1	mighty	mighty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1018
+# text = mightier
+1	mightier	mighty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1019
+# text = mightiest
+1	mightiest	mighty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1020
+# text = mild
+1	mild	mild	ADJ	_	_	0	root	_	_
+
+# sent_id = 1021
+# text = milder
+1	milder	mild	ADJ	_	_	0	root	_	_
+
+# sent_id = 1022
+# text = mildest
+1	mildest	mild	ADJ	_	_	0	root	_	_
+
+# sent_id = 1023
+# text = milky
+1	milky	milky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1024
+# text = milkier
+1	milkier	milky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1025
+# text = milkiest
+1	milkiest	milky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1026
+# text = mingy
+1	mingy	mingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1027
+# text = mingier
+1	mingier	mingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1028
+# text = mingiest
+1	mingiest	mingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1029
+# text = minute
+1	minute	minute	ADJ	_	_	0	root	_	_
+
+# sent_id = 1030
+# text = minuter
+1	minuter	minute	ADJ	_	_	0	root	_	_
+
+# sent_id = 1031
+# text = minutest
+1	minutest	minute	ADJ	_	_	0	root	_	_
+
+# sent_id = 1032
+# text = miry
+1	miry	miry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1033
+# text = mirier
+1	mirier	miry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1034
+# text = miriest
+1	miriest	miry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1035
+# text = misty
+1	misty	misty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1036
+# text = mistier
+1	mistier	misty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1037
+# text = mistiest
+1	mistiest	misty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1038
+# text = moldy
+1	moldy	moldy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1039
+# text = moldier
+1	moldier	moldy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1040
+# text = moldiest
+1	moldiest	moldy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1041
+# text = moody
+1	moody	moody	ADJ	_	_	0	root	_	_
+
+# sent_id = 1042
+# text = moodier
+1	moodier	moody	ADJ	_	_	0	root	_	_
+
+# sent_id = 1043
+# text = moodiest
+1	moodiest	moody	ADJ	_	_	0	root	_	_
+
+# sent_id = 1044
+# text = moony
+1	moony	moony	ADJ	_	_	0	root	_	_
+
+# sent_id = 1045
+# text = moonier
+1	moonier	moony	ADJ	_	_	0	root	_	_
+
+# sent_id = 1046
+# text = mooniest
+1	mooniest	moony	ADJ	_	_	0	root	_	_
+
+# sent_id = 1047
+# text = mossy
+1	mossy	mossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1048
+# text = mossier
+1	mossier	mossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1049
+# text = mossiest
+1	mossiest	mossy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1050
+# text = mouldy
+1	mouldy	mouldy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1051
+# text = mouldier
+1	mouldier	mouldy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1052
+# text = mouldiest
+1	mouldiest	mouldy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1053
+# text = mousy
+1	mousy	mousy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1054
+# text = mousier
+1	mousier	mousy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1055
+# text = mousiest
+1	mousiest	mousy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1056
+# text = mucky
+1	mucky	mucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1057
+# text = muckier
+1	muckier	mucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1058
+# text = muckiest
+1	muckiest	mucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1059
+# text = muddy
+1	muddy	muddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1060
+# text = muddier
+1	muddier	muddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1061
+# text = muddiest
+1	muddiest	muddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1062
+# text = muggy
+1	muggy	muggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1063
+# text = muggier
+1	muggier	muggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1064
+# text = muggiest
+1	muggiest	muggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1065
+# text = murky
+1	murky	murky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1066
+# text = murkier
+1	murkier	murky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1067
+# text = murkiest
+1	murkiest	murky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1068
+# text = mushy
+1	mushy	mushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1069
+# text = mushier
+1	mushier	mushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1070
+# text = mushiest
+1	mushiest	mushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1071
+# text = musky
+1	musky	musky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1072
+# text = muskier
+1	muskier	musky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1073
+# text = muskiest
+1	muskiest	musky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1074
+# text = musty
+1	musty	musty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1075
+# text = mustier
+1	mustier	musty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1076
+# text = mustiest
+1	mustiest	musty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1077
+# text = muzzy
+1	muzzy	muzzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1078
+# text = muzzier
+1	muzzier	muzzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1079
+# text = muzziest
+1	muzziest	muzzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1080
+# text = narrow
+1	narrow	narrow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1081
+# text = narrower
+1	narrower	narrow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1082
+# text = narrowest
+1	narrowest	narrow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1083
+# text = nasty
+1	nasty	nasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1084
+# text = nastier
+1	nastier	nasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1085
+# text = nastiest
+1	nastiest	nasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1086
+# text = natty
+1	natty	natty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1087
+# text = nattier
+1	nattier	natty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1088
+# text = nattiest
+1	nattiest	natty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1089
+# text = naughty
+1	naughty	naughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1090
+# text = naughtier
+1	naughtier	naughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1091
+# text = naughtiest
+1	naughtiest	naughty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1092
+# text = near
+1	near	near	ADJ	_	_	0	root	_	_
+
+# sent_id = 1093
+# text = nearer
+1	nearer	near	ADJ	_	_	0	root	_	_
+
+# sent_id = 1094
+# text = nearest
+1	nearest	near	ADJ	_	_	0	root	_	_
+
+# sent_id = 1095
+# text = neat
+1	neat	neat	ADJ	_	_	0	root	_	_
+
+# sent_id = 1096
+# text = neater
+1	neater	neat	ADJ	_	_	0	root	_	_
+
+# sent_id = 1097
+# text = neatest
+1	neatest	neat	ADJ	_	_	0	root	_	_
+
+# sent_id = 1098
+# text = needy
+1	needy	needy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1099
+# text = needier
+1	needier	needy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1100
+# text = neediest
+1	neediest	needy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1101
+# text = new
+1	new	new	ADJ	_	_	0	root	_	_
+
+# sent_id = 1102
+# text = newer
+1	newer	new	ADJ	_	_	0	root	_	_
+
+# sent_id = 1103
+# text = newest
+1	newest	new	ADJ	_	_	0	root	_	_
+
+# sent_id = 1104
+# text = newsy
+1	newsy	newsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1105
+# text = newsier
+1	newsier	newsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1106
+# text = newsiest
+1	newsiest	newsy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1107
+# text = nice
+1	nice	nice	ADJ	_	_	0	root	_	_
+
+# sent_id = 1108
+# text = nicer
+1	nicer	nice	ADJ	_	_	0	root	_	_
+
+# sent_id = 1109
+# text = nicest
+1	nicest	nice	ADJ	_	_	0	root	_	_
+
+# sent_id = 1110
+# text = niffy
+1	niffy	niffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1111
+# text = niffier
+1	niffier	niffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1112
+# text = niffiest
+1	niffiest	niffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1113
+# text = nifty
+1	nifty	nifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1114
+# text = niftier
+1	niftier	nifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1115
+# text = niftiest
+1	niftiest	nifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1116
+# text = nimble
+1	nimble	nimble	ADJ	_	_	0	root	_	_
+
+# sent_id = 1117
+# text = nimbler
+1	nimbler	nimble	ADJ	_	_	0	root	_	_
+
+# sent_id = 1118
+# text = nimblest
+1	nimblest	nimble	ADJ	_	_	0	root	_	_
+
+# sent_id = 1119
+# text = nippy
+1	nippy	nippy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1120
+# text = nippier
+1	nippier	nippy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1121
+# text = nippiest
+1	nippiest	nippy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1122
+# text = noble
+1	noble	noble	ADJ	_	_	0	root	_	_
+
+# sent_id = 1123
+# text = nobler
+1	nobler	noble	ADJ	_	_	0	root	_	_
+
+# sent_id = 1124
+# text = noblest
+1	noblest	noble	ADJ	_	_	0	root	_	_
+
+# sent_id = 1125
+# text = noisy
+1	noisy	noisy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1126
+# text = noisier
+1	noisier	noisy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1127
+# text = noisiest
+1	noisiest	noisy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1128
+# text = nosy
+1	nosy	nosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1129
+# text = nosier
+1	nosier	nosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1130
+# text = nosiest
+1	nosiest	nosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1131
+# text = nutty
+1	nutty	nutty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1132
+# text = nuttier
+1	nuttier	nutty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1133
+# text = nuttiest
+1	nuttiest	nutty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1134
+# text = odd
+1	odd	odd	ADJ	_	_	0	root	_	_
+
+# sent_id = 1135
+# text = odder
+1	odder	odd	ADJ	_	_	0	root	_	_
+
+# sent_id = 1136
+# text = oddest
+1	oddest	odd	ADJ	_	_	0	root	_	_
+
+# sent_id = 1137
+# text = oily
+1	oily	oily	ADJ	_	_	0	root	_	_
+
+# sent_id = 1138
+# text = oilier
+1	oilier	oily	ADJ	_	_	0	root	_	_
+
+# sent_id = 1139
+# text = oiliest
+1	oiliest	oily	ADJ	_	_	0	root	_	_
+
+# sent_id = 1140
+# text = old
+1	old	old	ADJ	_	_	0	root	_	_
+
+# sent_id = 1141
+# text = older
+1	older	old	ADJ	_	_	0	root	_	_
+
+# sent_id = 1142
+# text = oldest
+1	oldest	old	ADJ	_	_	0	root	_	_
+
+# sent_id = 1143
+# text = oozy
+1	oozy	oozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1144
+# text = oozier
+1	oozier	oozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1145
+# text = ooziest
+1	ooziest	oozy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1146
+# text = pale
+1	pale	pale	ADJ	_	_	0	root	_	_
+
+# sent_id = 1147
+# text = paler
+1	paler	pale	ADJ	_	_	0	root	_	_
+
+# sent_id = 1148
+# text = palest
+1	palest	pale	ADJ	_	_	0	root	_	_
+
+# sent_id = 1149
+# text = pally
+1	pally	pally	ADJ	_	_	0	root	_	_
+
+# sent_id = 1150
+# text = pallier
+1	pallier	pally	ADJ	_	_	0	root	_	_
+
+# sent_id = 1151
+# text = palliest
+1	palliest	pally	ADJ	_	_	0	root	_	_
+
+# sent_id = 1152
+# text = palmy
+1	palmy	palmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1153
+# text = palmier
+1	palmier	palmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1154
+# text = palmiest
+1	palmiest	palmy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1155
+# text = paltry
+1	paltry	paltry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1156
+# text = paltrier
+1	paltrier	paltry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1157
+# text = paltriest
+1	paltriest	paltry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1158
+# text = pasty
+1	pasty	pasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1159
+# text = pastier
+1	pastier	pasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1160
+# text = pastiest
+1	pastiest	pasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1161
+# text = patchy
+1	patchy	patchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1162
+# text = patchier
+1	patchier	patchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1163
+# text = patchiest
+1	patchiest	patchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1164
+# text = paunchy
+1	paunchy	paunchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1165
+# text = paunchier
+1	paunchier	paunchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1166
+# text = paunchiest
+1	paunchiest	paunchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1167
+# text = peaky
+1	peaky	peaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1168
+# text = peakier
+1	peakier	peaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1169
+# text = peakiest
+1	peakiest	peaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1170
+# text = pearly
+1	pearly	pearly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1171
+# text = pearlier
+1	pearlier	pearly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1172
+# text = pearliest
+1	pearliest	pearly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1173
+# text = peaty
+1	peaty	peaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1174
+# text = peatier
+1	peatier	peaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1175
+# text = peatiest
+1	peatiest	peaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1176
+# text = pebbly
+1	pebbly	pebbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1177
+# text = pebblier
+1	pebblier	pebbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1178
+# text = pebbliest
+1	pebbliest	pebbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1179
+# text = perky
+1	perky	perky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1180
+# text = perkier
+1	perkier	perky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1181
+# text = perkiest
+1	perkiest	perky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1182
+# text = pesky
+1	pesky	pesky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1183
+# text = peskier
+1	peskier	pesky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1184
+# text = peskiest
+1	peskiest	pesky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1185
+# text = petty
+1	petty	petty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1186
+# text = pettier
+1	pettier	petty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1187
+# text = pettiest
+1	pettiest	petty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1188
+# text = piggy
+1	piggy	piggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1189
+# text = piggier
+1	piggier	piggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1190
+# text = piggiest
+1	piggiest	piggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1191
+# text = pimply
+1	pimply	pimply	ADJ	_	_	0	root	_	_
+
+# sent_id = 1192
+# text = pimplier
+1	pimplier	pimply	ADJ	_	_	0	root	_	_
+
+# sent_id = 1193
+# text = pimpliest
+1	pimpliest	pimply	ADJ	_	_	0	root	_	_
+
+# sent_id = 1194
+# text = pink
+1	pink	pink	ADJ	_	_	0	root	_	_
+
+# sent_id = 1195
+# text = pinker
+1	pinker	pink	ADJ	_	_	0	root	_	_
+
+# sent_id = 1196
+# text = pinkest
+1	pinkest	pink	ADJ	_	_	0	root	_	_
+
+# sent_id = 1197
+# text = pithy
+1	pithy	pithy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1198
+# text = pithier
+1	pithier	pithy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1199
+# text = pithiest
+1	pithiest	pithy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1200
+# text = plain
+1	plain	plain	ADJ	_	_	0	root	_	_
+
+# sent_id = 1201
+# text = plainer
+1	plainer	plain	ADJ	_	_	0	root	_	_
+
+# sent_id = 1202
+# text = plainest
+1	plainest	plain	ADJ	_	_	0	root	_	_
+
+# sent_id = 1203
+# text = plucky
+1	plucky	plucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1204
+# text = pluckier
+1	pluckier	plucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1205
+# text = pluckiest
+1	pluckiest	plucky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1206
+# text = plummy
+1	plummy	plummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1207
+# text = plummier
+1	plummier	plummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1208
+# text = plummiest
+1	plummiest	plummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1209
+# text = plump
+1	plump	plump	ADJ	_	_	0	root	_	_
+
+# sent_id = 1210
+# text = plumper
+1	plumper	plump	ADJ	_	_	0	root	_	_
+
+# sent_id = 1211
+# text = plumpest
+1	plumpest	plump	ADJ	_	_	0	root	_	_
+
+# sent_id = 1212
+# text = plush
+1	plush	plush	ADJ	_	_	0	root	_	_
+
+# sent_id = 1213
+# text = plusher
+1	plusher	plush	ADJ	_	_	0	root	_	_
+
+# sent_id = 1214
+# text = plushest
+1	plushest	plush	ADJ	_	_	0	root	_	_
+
+# sent_id = 1215
+# text = plushy
+1	plushy	plushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1216
+# text = plushier
+1	plushier	plushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1217
+# text = plushiest
+1	plushiest	plushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1218
+# text = podgy
+1	podgy	podgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1219
+# text = podgier
+1	podgier	podgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1220
+# text = podgiest
+1	podgiest	podgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1221
+# text = poky
+1	poky	poky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1222
+# text = pokier
+1	pokier	poky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1223
+# text = pokiest
+1	pokiest	poky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1224
+# text = polite
+1	polite	polite	ADJ	_	_	0	root	_	_
+
+# sent_id = 1225
+# text = politer
+1	politer	polite	ADJ	_	_	0	root	_	_
+
+# sent_id = 1226
+# text = politest
+1	politest	polite	ADJ	_	_	0	root	_	_
+
+# sent_id = 1227
+# text = poor
+1	poor	poor	ADJ	_	_	0	root	_	_
+
+# sent_id = 1228
+# text = poorer
+1	poorer	poor	ADJ	_	_	0	root	_	_
+
+# sent_id = 1229
+# text = poorest
+1	poorest	poor	ADJ	_	_	0	root	_	_
+
+# sent_id = 1230
+# text = posh
+1	posh	posh	ADJ	_	_	0	root	_	_
+
+# sent_id = 1231
+# text = posher
+1	posher	posh	ADJ	_	_	0	root	_	_
+
+# sent_id = 1232
+# text = poshest
+1	poshest	posh	ADJ	_	_	0	root	_	_
+
+# sent_id = 1233
+# text = potty
+1	potty	potty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1234
+# text = pottier
+1	pottier	potty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1235
+# text = pottiest
+1	pottiest	potty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1236
+# text = pretty
+1	pretty	pretty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1237
+# text = prettier
+1	prettier	pretty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1238
+# text = prettiest
+1	prettiest	pretty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1239
+# text = pricey
+1	pricey	pricey	ADJ	_	_	0	root	_	_
+
+# sent_id = 1240
+# text = pricier
+1	pricier	pricey	ADJ	_	_	0	root	_	_
+
+# sent_id = 1241
+# text = priciest
+1	priciest	pricey	ADJ	_	_	0	root	_	_
+
+# sent_id = 1242
+# text = prickly
+1	prickly	prickly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1243
+# text = pricklier
+1	pricklier	prickly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1244
+# text = prickliest
+1	prickliest	prickly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1245
+# text = priestly
+1	priestly	priestly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1246
+# text = priestlier
+1	priestlier	priestly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1247
+# text = priestliest
+1	priestliest	priestly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1248
+# text = prim
+1	prim	prim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1249
+# text = primmer
+1	primmer	prim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1250
+# text = primmest
+1	primmest	prim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1251
+# text = princely
+1	princely	princely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1252
+# text = princelier
+1	princelier	princely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1253
+# text = princeliest
+1	princeliest	princely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1254
+# text = prosy
+1	prosy	prosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1255
+# text = prosier
+1	prosier	prosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1256
+# text = prosiest
+1	prosiest	prosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1257
+# text = proud
+1	proud	proud	ADJ	_	_	0	root	_	_
+
+# sent_id = 1258
+# text = prouder
+1	prouder	proud	ADJ	_	_	0	root	_	_
+
+# sent_id = 1259
+# text = proudest
+1	proudest	proud	ADJ	_	_	0	root	_	_
+
+# sent_id = 1260
+# text = pudgy
+1	pudgy	pudgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1261
+# text = pudgier
+1	pudgier	pudgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1262
+# text = pudgiest
+1	pudgiest	pudgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1263
+# text = puffy
+1	puffy	puffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1264
+# text = puffier
+1	puffier	puffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1265
+# text = puffiest
+1	puffiest	puffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1266
+# text = pulpy
+1	pulpy	pulpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1267
+# text = pulpier
+1	pulpier	pulpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1268
+# text = pulpiest
+1	pulpiest	pulpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1269
+# text = puny
+1	puny	puny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1270
+# text = punier
+1	punier	puny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1271
+# text = puniest
+1	puniest	puny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1272
+# text = pure
+1	pure	pure	ADJ	_	_	0	root	_	_
+
+# sent_id = 1273
+# text = purer
+1	purer	pure	ADJ	_	_	0	root	_	_
+
+# sent_id = 1274
+# text = purest
+1	purest	pure	ADJ	_	_	0	root	_	_
+
+# sent_id = 1275
+# text = quaint
+1	quaint	quaint	ADJ	_	_	0	root	_	_
+
+# sent_id = 1276
+# text = quainter
+1	quainter	quaint	ADJ	_	_	0	root	_	_
+
+# sent_id = 1277
+# text = quaintest
+1	quaintest	quaint	ADJ	_	_	0	root	_	_
+
+# sent_id = 1278
+# text = queasy
+1	queasy	queasy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1279
+# text = queasier
+1	queasier	queasy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1280
+# text = queasiest
+1	queasiest	queasy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1281
+# text = queenly
+1	queenly	queenly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1282
+# text = queenlier
+1	queenlier	queenly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1283
+# text = queenliest
+1	queenliest	queenly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1284
+# text = queer
+1	queer	queer	ADJ	_	_	0	root	_	_
+
+# sent_id = 1285
+# text = queerer
+1	queerer	queer	ADJ	_	_	0	root	_	_
+
+# sent_id = 1286
+# text = queerest
+1	queerest	queer	ADJ	_	_	0	root	_	_
+
+# sent_id = 1287
+# text = quick
+1	quick	quick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1288
+# text = quicker
+1	quicker	quick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1289
+# text = quickest
+1	quickest	quick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1290
+# text = quiet
+1	quiet	quiet	ADJ	_	_	0	root	_	_
+
+# sent_id = 1291
+# text = quieter
+1	quieter	quiet	ADJ	_	_	0	root	_	_
+
+# sent_id = 1292
+# text = quietest
+1	quietest	quiet	ADJ	_	_	0	root	_	_
+
+# sent_id = 1293
+# text = racy
+1	racy	racy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1294
+# text = racier
+1	racier	racy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1295
+# text = raciest
+1	raciest	racy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1296
+# text = rainy
+1	rainy	rainy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1297
+# text = rainier
+1	rainier	rainy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1298
+# text = rainiest
+1	rainiest	rainy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1299
+# text = randy
+1	randy	randy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1300
+# text = randier
+1	randier	randy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1301
+# text = randiest
+1	randiest	randy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1302
+# text = rare
+1	rare	rare	ADJ	_	_	0	root	_	_
+
+# sent_id = 1303
+# text = rarer
+1	rarer	rare	ADJ	_	_	0	root	_	_
+
+# sent_id = 1304
+# text = rarest
+1	rarest	rare	ADJ	_	_	0	root	_	_
+
+# sent_id = 1305
+# text = rash
+1	rash	rash	ADJ	_	_	0	root	_	_
+
+# sent_id = 1306
+# text = rasher
+1	rasher	rash	ADJ	_	_	0	root	_	_
+
+# sent_id = 1307
+# text = rashest
+1	rashest	rash	ADJ	_	_	0	root	_	_
+
+# sent_id = 1308
+# text = ratty
+1	ratty	ratty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1309
+# text = rattier
+1	rattier	ratty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1310
+# text = rattiest
+1	rattiest	ratty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1311
+# text = ready
+1	ready	ready	ADJ	_	_	0	root	_	_
+
+# sent_id = 1312
+# text = readier
+1	readier	ready	ADJ	_	_	0	root	_	_
+
+# sent_id = 1313
+# text = readiest
+1	readiest	ready	ADJ	_	_	0	root	_	_
+
+# sent_id = 1314
+# text = red
+1	red	red	ADJ	_	_	0	root	_	_
+
+# sent_id = 1315
+# text = redder
+1	redder	red	ADJ	_	_	0	root	_	_
+
+# sent_id = 1316
+# text = reddest
+1	reddest	red	ADJ	_	_	0	root	_	_
+
+# sent_id = 1317
+# text = reedy
+1	reedy	reedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1318
+# text = reedier
+1	reedier	reedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1319
+# text = reediest
+1	reediest	reedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1320
+# text = remote
+1	remote	remote	ADJ	_	_	0	root	_	_
+
+# sent_id = 1321
+# text = remoter
+1	remoter	remote	ADJ	_	_	0	root	_	_
+
+# sent_id = 1322
+# text = remotest
+1	remotest	remote	ADJ	_	_	0	root	_	_
+
+# sent_id = 1323
+# text = rich
+1	rich	rich	ADJ	_	_	0	root	_	_
+
+# sent_id = 1324
+# text = richer
+1	richer	rich	ADJ	_	_	0	root	_	_
+
+# sent_id = 1325
+# text = richest
+1	richest	rich	ADJ	_	_	0	root	_	_
+
+# sent_id = 1326
+# text = ripe
+1	ripe	ripe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1327
+# text = riper
+1	riper	ripe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1328
+# text = ripest
+1	ripest	ripe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1329
+# text = risky
+1	risky	risky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1330
+# text = riskier
+1	riskier	risky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1331
+# text = riskiest
+1	riskiest	risky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1332
+# text = rocky
+1	rocky	rocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1333
+# text = rockier
+1	rockier	rocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1334
+# text = rockiest
+1	rockiest	rocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1335
+# text = roomy
+1	roomy	roomy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1336
+# text = roomier
+1	roomier	roomy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1337
+# text = roomiest
+1	roomiest	roomy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1338
+# text = ropey
+1	ropey	ropey	ADJ	_	_	0	root	_	_
+
+# sent_id = 1339
+# text = ropier
+1	ropier	ropey	ADJ	_	_	0	root	_	_
+
+# sent_id = 1340
+# text = ropiest
+1	ropiest	ropey	ADJ	_	_	0	root	_	_
+
+# sent_id = 1341
+# text = rosy
+1	rosy	rosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1342
+# text = rosier
+1	rosier	rosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1343
+# text = rosiest
+1	rosiest	rosy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1344
+# text = rough
+1	rough	rough	ADJ	_	_	0	root	_	_
+
+# sent_id = 1345
+# text = rougher
+1	rougher	rough	ADJ	_	_	0	root	_	_
+
+# sent_id = 1346
+# text = roughest
+1	roughest	rough	ADJ	_	_	0	root	_	_
+
+# sent_id = 1347
+# text = round
+1	round	round	ADJ	_	_	0	root	_	_
+
+# sent_id = 1348
+# text = rounder
+1	rounder	round	ADJ	_	_	0	root	_	_
+
+# sent_id = 1349
+# text = roundest
+1	roundest	round	ADJ	_	_	0	root	_	_
+
+# sent_id = 1350
+# text = rowdy
+1	rowdy	rowdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1351
+# text = rowdier
+1	rowdier	rowdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1352
+# text = rowdiest
+1	rowdiest	rowdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1353
+# text = ruddy
+1	ruddy	ruddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1354
+# text = ruddier
+1	ruddier	ruddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1355
+# text = ruddiest
+1	ruddiest	ruddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1356
+# text = rude
+1	rude	rude	ADJ	_	_	0	root	_	_
+
+# sent_id = 1357
+# text = ruder
+1	ruder	rude	ADJ	_	_	0	root	_	_
+
+# sent_id = 1358
+# text = rudest
+1	rudest	rude	ADJ	_	_	0	root	_	_
+
+# sent_id = 1359
+# text = rummy
+1	rummy	rummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1360
+# text = rummer
+1	rummer	rummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1361
+# text = rummest
+1	rummest	rummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1362
+# text = runny
+1	runny	runny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1363
+# text = runnier
+1	runnier	runny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1364
+# text = runniest
+1	runniest	runny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1365
+# text = rushy
+1	rushy	rushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1366
+# text = rushier
+1	rushier	rushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1367
+# text = rushiest
+1	rushiest	rushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1368
+# text = rusty
+1	rusty	rusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1369
+# text = rustier
+1	rustier	rusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1370
+# text = rustiest
+1	rustiest	rusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1371
+# text = sad
+1	sad	sad	ADJ	_	_	0	root	_	_
+
+# sent_id = 1372
+# text = sadder
+1	sadder	sad	ADJ	_	_	0	root	_	_
+
+# sent_id = 1373
+# text = saddest
+1	saddest	sad	ADJ	_	_	0	root	_	_
+
+# sent_id = 1374
+# text = safe
+1	safe	safe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1375
+# text = safer
+1	safer	safe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1376
+# text = safest
+1	safest	safe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1377
+# text = saintly
+1	saintly	saintly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1378
+# text = saintlier
+1	saintlier	saintly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1379
+# text = saintliest
+1	saintliest	saintly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1380
+# text = sallow
+1	sallow	sallow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1381
+# text = sallower
+1	sallower	sallow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1382
+# text = sallowest
+1	sallowest	sallow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1383
+# text = salty
+1	salty	salty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1384
+# text = saltier
+1	saltier	salty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1385
+# text = saltiest
+1	saltiest	salty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1386
+# text = sandy
+1	sandy	sandy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1387
+# text = sandier
+1	sandier	sandy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1388
+# text = sandiest
+1	sandiest	sandy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1389
+# text = sane
+1	sane	sane	ADJ	_	_	0	root	_	_
+
+# sent_id = 1390
+# text = saner
+1	saner	sane	ADJ	_	_	0	root	_	_
+
+# sent_id = 1391
+# text = sanest
+1	sanest	sane	ADJ	_	_	0	root	_	_
+
+# sent_id = 1392
+# text = sappy
+1	sappy	sappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1393
+# text = sappier
+1	sappier	sappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1394
+# text = sappiest
+1	sappiest	sappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1395
+# text = saucy
+1	saucy	saucy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1396
+# text = saucier
+1	saucier	saucy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1397
+# text = sauciest
+1	sauciest	saucy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1398
+# text = scabby
+1	scabby	scabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1399
+# text = scabbier
+1	scabbier	scabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1400
+# text = scabbiest
+1	scabbiest	scabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1401
+# text = scaly
+1	scaly	scaly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1402
+# text = scalier
+1	scalier	scaly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1403
+# text = scaliest
+1	scaliest	scaly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1404
+# text = scanty
+1	scanty	scanty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1405
+# text = scantier
+1	scantier	scanty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1406
+# text = scantiest
+1	scantiest	scanty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1407
+# text = scarce
+1	scarce	scarce	ADJ	_	_	0	root	_	_
+
+# sent_id = 1408
+# text = scarcer
+1	scarcer	scarce	ADJ	_	_	0	root	_	_
+
+# sent_id = 1409
+# text = scarcest
+1	scarcest	scarce	ADJ	_	_	0	root	_	_
+
+# sent_id = 1410
+# text = scary
+1	scary	scary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1411
+# text = scarier
+1	scarier	scary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1412
+# text = scariest
+1	scariest	scary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1413
+# text = scatty
+1	scatty	scatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1414
+# text = scattier
+1	scattier	scatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1415
+# text = scattiest
+1	scattiest	scatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1416
+# text = schmaltzy
+1	schmaltzy	schmaltzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1417
+# text = schmaltzier
+1	schmaltzier	schmaltzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1418
+# text = schmaltziest
+1	schmaltziest	schmaltzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1419
+# text = schmalzy
+1	schmalzy	schmalzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1420
+# text = schmalzier
+1	schmalzier	schmalzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1421
+# text = schmalziest
+1	schmalziest	schmalzy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1422
+# text = scraggy
+1	scraggy	scraggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1423
+# text = scraggier
+1	scraggier	scraggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1424
+# text = scraggiest
+1	scraggiest	scraggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1425
+# text = scrappy
+1	scrappy	scrappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1426
+# text = scrappier
+1	scrappier	scrappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1427
+# text = scrappiest
+1	scrappiest	scrappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1428
+# text = scratchy
+1	scratchy	scratchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1429
+# text = scratchier
+1	scratchier	scratchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1430
+# text = scratchiest
+1	scratchiest	scratchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1431
+# text = scrawny
+1	scrawny	scrawny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1432
+# text = scrawnier
+1	scrawnier	scrawny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1433
+# text = scrawniest
+1	scrawniest	scrawny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1434
+# text = screwy
+1	screwy	screwy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1435
+# text = screwier
+1	screwier	screwy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1436
+# text = screwiest
+1	screwiest	screwy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1437
+# text = scrubby
+1	scrubby	scrubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1438
+# text = scrubbier
+1	scrubbier	scrubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1439
+# text = scrubbiest
+1	scrubbiest	scrubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1440
+# text = scruffy
+1	scruffy	scruffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1441
+# text = scruffier
+1	scruffier	scruffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1442
+# text = scruffiest
+1	scruffiest	scruffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1443
+# text = scummy
+1	scummy	scummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1444
+# text = scummier
+1	scummier	scummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1445
+# text = scummiest
+1	scummiest	scummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1446
+# text = scurfy
+1	scurfy	scurfy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1447
+# text = scurfier
+1	scurfier	scurfy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1448
+# text = scurfiest
+1	scurfiest	scurfy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1449
+# text = seamy
+1	seamy	seamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1450
+# text = seamier
+1	seamier	seamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1451
+# text = seamiest
+1	seamiest	seamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1452
+# text = sedgy
+1	sedgy	sedgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1453
+# text = sedgier
+1	sedgier	sedgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1454
+# text = sedgiest
+1	sedgiest	sedgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1455
+# text = seedy
+1	seedy	seedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1456
+# text = seedier
+1	seedier	seedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1457
+# text = seediest
+1	seediest	seedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1458
+# text = seemly
+1	seemly	seemly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1459
+# text = seemlier
+1	seemlier	seemly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1460
+# text = seemliest
+1	seemliest	seemly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1461
+# text = severe
+1	severe	severe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1462
+# text = severer
+1	severer	severe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1463
+# text = severest
+1	severest	severe	ADJ	_	_	0	root	_	_
+
+# sent_id = 1464
+# text = sexy
+1	sexy	sexy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1465
+# text = sexier
+1	sexier	sexy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1466
+# text = sexiest
+1	sexiest	sexy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1467
+# text = shabby
+1	shabby	shabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1468
+# text = shabbier
+1	shabbier	shabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1469
+# text = shabbiest
+1	shabbiest	shabby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1470
+# text = shadowy
+1	shadowy	shadowy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1471
+# text = shadowier
+1	shadowier	shadowy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1472
+# text = shadowiest
+1	shadowiest	shadowy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1473
+# text = shady
+1	shady	shady	ADJ	_	_	0	root	_	_
+
+# sent_id = 1474
+# text = shadier
+1	shadier	shady	ADJ	_	_	0	root	_	_
+
+# sent_id = 1475
+# text = shadiest
+1	shadiest	shady	ADJ	_	_	0	root	_	_
+
+# sent_id = 1476
+# text = shaggy
+1	shaggy	shaggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1477
+# text = shaggier
+1	shaggier	shaggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1478
+# text = shaggiest
+1	shaggiest	shaggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1479
+# text = shaky
+1	shaky	shaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1480
+# text = shakier
+1	shakier	shaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1481
+# text = shakiest
+1	shakiest	shaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1482
+# text = shapely
+1	shapely	shapely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1483
+# text = shapelier
+1	shapelier	shapely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1484
+# text = shapeliest
+1	shapeliest	shapely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1485
+# text = sharp
+1	sharp	sharp	ADJ	_	_	0	root	_	_
+
+# sent_id = 1486
+# text = sharper
+1	sharper	sharp	ADJ	_	_	0	root	_	_
+
+# sent_id = 1487
+# text = sharpest
+1	sharpest	sharp	ADJ	_	_	0	root	_	_
+
+# sent_id = 1488
+# text = sheer
+1	sheer	sheer	ADJ	_	_	0	root	_	_
+
+# sent_id = 1489
+# text = sheerer
+1	sheerer	sheer	ADJ	_	_	0	root	_	_
+
+# sent_id = 1490
+# text = sheerest
+1	sheerest	sheer	ADJ	_	_	0	root	_	_
+
+# sent_id = 1491
+# text = shifty
+1	shifty	shifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1492
+# text = shiftier
+1	shiftier	shifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1493
+# text = shiftiest
+1	shiftiest	shifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1494
+# text = shingly
+1	shingly	shingly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1495
+# text = shinglier
+1	shinglier	shingly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1496
+# text = shingliest
+1	shingliest	shingly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1497
+# text = shiny
+1	shiny	shiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1498
+# text = shinier
+1	shinier	shiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1499
+# text = shiniest
+1	shiniest	shiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1500
+# text = shirty
+1	shirty	shirty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1501
+# text = shirtier
+1	shirtier	shirty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1502
+# text = shirtiest
+1	shirtiest	shirty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1503
+# text = shoddy
+1	shoddy	shoddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1504
+# text = shoddier
+1	shoddier	shoddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1505
+# text = shoddiest
+1	shoddiest	shoddy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1506
+# text = short
+1	short	short	ADJ	_	_	0	root	_	_
+
+# sent_id = 1507
+# text = shorter
+1	shorter	short	ADJ	_	_	0	root	_	_
+
+# sent_id = 1508
+# text = shortest
+1	shortest	short	ADJ	_	_	0	root	_	_
+
+# sent_id = 1509
+# text = showery
+1	showery	showery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1510
+# text = showerier
+1	showerier	showery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1511
+# text = showeriest
+1	showeriest	showery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1512
+# text = showy
+1	showy	showy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1513
+# text = showier
+1	showier	showy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1514
+# text = showiest
+1	showiest	showy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1515
+# text = shrewd
+1	shrewd	shrewd	ADJ	_	_	0	root	_	_
+
+# sent_id = 1516
+# text = shrewder
+1	shrewder	shrewd	ADJ	_	_	0	root	_	_
+
+# sent_id = 1517
+# text = shrewdest
+1	shrewdest	shrewd	ADJ	_	_	0	root	_	_
+
+# sent_id = 1518
+# text = shrill
+1	shrill	shrill	ADJ	_	_	0	root	_	_
+
+# sent_id = 1519
+# text = shriller
+1	shriller	shrill	ADJ	_	_	0	root	_	_
+
+# sent_id = 1520
+# text = shrillest
+1	shrillest	shrill	ADJ	_	_	0	root	_	_
+
+# sent_id = 1521
+# text = shy
+1	shy	shy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1522
+# text = shyer
+1	shyer	shy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1523
+# text = shyest
+1	shyest	shy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1524
+# text = sickly
+1	sickly	sickly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1525
+# text = sicklier
+1	sicklier	sickly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1526
+# text = sickliest
+1	sickliest	sickly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1527
+# text = silky
+1	silky	silky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1528
+# text = silkier
+1	silkier	silky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1529
+# text = silkiest
+1	silkiest	silky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1530
+# text = silly
+1	silly	silly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1531
+# text = sillier
+1	sillier	silly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1532
+# text = silliest
+1	silliest	silly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1533
+# text = silvery
+1	silvery	silvery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1534
+# text = silverier
+1	silverier	silvery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1535
+# text = silveriest
+1	silveriest	silvery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1536
+# text = simple
+1	simple	simple	ADJ	_	_	0	root	_	_
+
+# sent_id = 1537
+# text = simpler
+1	simpler	simple	ADJ	_	_	0	root	_	_
+
+# sent_id = 1538
+# text = simplest
+1	simplest	simple	ADJ	_	_	0	root	_	_
+
+# sent_id = 1539
+# text = sketchy
+1	sketchy	sketchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1540
+# text = sketchier
+1	sketchier	sketchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1541
+# text = sketchiest
+1	sketchiest	sketchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1542
+# text = skimpy
+1	skimpy	skimpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1543
+# text = skimpier
+1	skimpier	skimpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1544
+# text = skimpiest
+1	skimpiest	skimpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1545
+# text = skinny
+1	skinny	skinny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1546
+# text = skinnier
+1	skinnier	skinny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1547
+# text = skinniest
+1	skinniest	skinny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1548
+# text = slack
+1	slack	slack	ADJ	_	_	0	root	_	_
+
+# sent_id = 1549
+# text = slacker
+1	slacker	slack	ADJ	_	_	0	root	_	_
+
+# sent_id = 1550
+# text = slackest
+1	slackest	slack	ADJ	_	_	0	root	_	_
+
+# sent_id = 1551
+# text = slangy
+1	slangy	slangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1552
+# text = slangier
+1	slangier	slangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1553
+# text = slangiest
+1	slangiest	slangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1554
+# text = slaty
+1	slaty	slaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1555
+# text = slatier
+1	slatier	slaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1556
+# text = slatiest
+1	slatiest	slaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1557
+# text = sleazy
+1	sleazy	sleazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1558
+# text = sleazier
+1	sleazier	sleazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1559
+# text = sleaziest
+1	sleaziest	sleazy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1560
+# text = sleek
+1	sleek	sleek	ADJ	_	_	0	root	_	_
+
+# sent_id = 1561
+# text = sleeker
+1	sleeker	sleek	ADJ	_	_	0	root	_	_
+
+# sent_id = 1562
+# text = sleekest
+1	sleekest	sleek	ADJ	_	_	0	root	_	_
+
+# sent_id = 1563
+# text = sleepy
+1	sleepy	sleepy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1564
+# text = sleepier
+1	sleepier	sleepy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1565
+# text = sleepiest
+1	sleepiest	sleepy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1566
+# text = sleety
+1	sleety	sleety	ADJ	_	_	0	root	_	_
+
+# sent_id = 1567
+# text = sleetier
+1	sleetier	sleety	ADJ	_	_	0	root	_	_
+
+# sent_id = 1568
+# text = sleetiest
+1	sleetiest	sleety	ADJ	_	_	0	root	_	_
+
+# sent_id = 1569
+# text = slick
+1	slick	slick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1570
+# text = slicker
+1	slicker	slick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1571
+# text = slickest
+1	slickest	slick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1572
+# text = slight
+1	slight	slight	ADJ	_	_	0	root	_	_
+
+# sent_id = 1573
+# text = slighter
+1	slighter	slight	ADJ	_	_	0	root	_	_
+
+# sent_id = 1574
+# text = slightest
+1	slightest	slight	ADJ	_	_	0	root	_	_
+
+# sent_id = 1575
+# text = slim
+1	slim	slim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1576
+# text = slimmer
+1	slimmer	slim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1577
+# text = slimmest
+1	slimmest	slim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1578
+# text = slimy
+1	slimy	slimy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1579
+# text = slimier
+1	slimier	slimy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1580
+# text = slimiest
+1	slimiest	slimy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1581
+# text = slippery
+1	slippery	slippery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1582
+# text = slipperier
+1	slipperier	slippery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1583
+# text = slipperiest
+1	slipperiest	slippery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1584
+# text = sloppy
+1	sloppy	sloppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1585
+# text = sloppier
+1	sloppier	sloppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1586
+# text = sloppiest
+1	sloppiest	sloppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1587
+# text = slovenly
+1	slovenly	slovenly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1588
+# text = slovenlier
+1	slovenlier	slovenly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1589
+# text = slovenliest
+1	slovenliest	slovenly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1590
+# text = slow
+1	slow	slow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1591
+# text = slower
+1	slower	slow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1592
+# text = slowest
+1	slowest	slow	ADJ	_	_	0	root	_	_
+
+# sent_id = 1593
+# text = slummy
+1	slummy	slummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1594
+# text = slummier
+1	slummier	slummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1595
+# text = slummiest
+1	slummiest	slummy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1596
+# text = slushy
+1	slushy	slushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1597
+# text = slushier
+1	slushier	slushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1598
+# text = slushiest
+1	slushiest	slushy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1599
+# text = sly
+1	sly	sly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1600
+# text = slyer
+1	slyer	sly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1601
+# text = slyest
+1	slyest	sly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1602
+# text = small
+1	small	small	ADJ	_	_	0	root	_	_
+
+# sent_id = 1603
+# text = smaller
+1	smaller	small	ADJ	_	_	0	root	_	_
+
+# sent_id = 1604
+# text = smallest
+1	smallest	small	ADJ	_	_	0	root	_	_
+
+# sent_id = 1605
+# text = smart
+1	smart	smart	ADJ	_	_	0	root	_	_
+
+# sent_id = 1606
+# text = smarter
+1	smarter	smart	ADJ	_	_	0	root	_	_
+
+# sent_id = 1607
+# text = smartest
+1	smartest	smart	ADJ	_	_	0	root	_	_
+
+# sent_id = 1608
+# text = smelly
+1	smelly	smelly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1609
+# text = smellier
+1	smellier	smelly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1610
+# text = smelliest
+1	smelliest	smelly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1611
+# text = smoky
+1	smoky	smoky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1612
+# text = smokier
+1	smokier	smoky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1613
+# text = smokiest
+1	smokiest	smoky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1614
+# text = smooth
+1	smooth	smooth	ADJ	_	_	0	root	_	_
+
+# sent_id = 1615
+# text = smoother
+1	smoother	smooth	ADJ	_	_	0	root	_	_
+
+# sent_id = 1616
+# text = smoothest
+1	smoothest	smooth	ADJ	_	_	0	root	_	_
+
+# sent_id = 1617
+# text = smug
+1	smug	smug	ADJ	_	_	0	root	_	_
+
+# sent_id = 1618
+# text = smugger
+1	smugger	smug	ADJ	_	_	0	root	_	_
+
+# sent_id = 1619
+# text = smuggest
+1	smuggest	smug	ADJ	_	_	0	root	_	_
+
+# sent_id = 1620
+# text = smutty
+1	smutty	smutty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1621
+# text = smuttier
+1	smuttier	smutty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1622
+# text = smuttiest
+1	smuttiest	smutty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1623
+# text = snaky
+1	snaky	snaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1624
+# text = snakier
+1	snakier	snaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1625
+# text = snakiest
+1	snakiest	snaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1626
+# text = snappy
+1	snappy	snappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1627
+# text = snappier
+1	snappier	snappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1628
+# text = snappiest
+1	snappiest	snappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1629
+# text = sneaky
+1	sneaky	sneaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1630
+# text = sneakier
+1	sneakier	sneaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1631
+# text = sneakiest
+1	sneakiest	sneaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1632
+# text = sniffy
+1	sniffy	sniffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1633
+# text = sniffier
+1	sniffier	sniffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1634
+# text = sniffiest
+1	sniffiest	sniffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1635
+# text = snooty
+1	snooty	snooty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1636
+# text = snootier
+1	snootier	snooty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1637
+# text = snootiest
+1	snootiest	snooty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1638
+# text = snorty
+1	snorty	snorty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1639
+# text = snortier
+1	snortier	snorty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1640
+# text = snortiest
+1	snortiest	snorty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1641
+# text = snotty
+1	snotty	snotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1642
+# text = snottier
+1	snottier	snotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1643
+# text = snottiest
+1	snottiest	snotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1644
+# text = snowy
+1	snowy	snowy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1645
+# text = snowier
+1	snowier	snowy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1646
+# text = snowiest
+1	snowiest	snowy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1647
+# text = snug
+1	snug	snug	ADJ	_	_	0	root	_	_
+
+# sent_id = 1648
+# text = snugger
+1	snugger	snug	ADJ	_	_	0	root	_	_
+
+# sent_id = 1649
+# text = snuggest
+1	snuggest	snug	ADJ	_	_	0	root	_	_
+
+# sent_id = 1650
+# text = soapy
+1	soapy	soapy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1651
+# text = soapier
+1	soapier	soapy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1652
+# text = soapiest
+1	soapiest	soapy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1653
+# text = soft
+1	soft	soft	ADJ	_	_	0	root	_	_
+
+# sent_id = 1654
+# text = softer
+1	softer	soft	ADJ	_	_	0	root	_	_
+
+# sent_id = 1655
+# text = softest
+1	softest	soft	ADJ	_	_	0	root	_	_
+
+# sent_id = 1656
+# text = soggy
+1	soggy	soggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1657
+# text = soggier
+1	soggier	soggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1658
+# text = soggiest
+1	soggiest	soggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1659
+# text = soon
+1	soon	soon	ADJ	_	_	0	root	_	_
+
+# sent_id = 1660
+# text = sooner
+1	sooner	soon	ADJ	_	_	0	root	_	_
+
+# sent_id = 1661
+# text = soonest
+1	soonest	soon	ADJ	_	_	0	root	_	_
+
+# sent_id = 1662
+# text = sooty
+1	sooty	sooty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1663
+# text = sootier
+1	sootier	sooty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1664
+# text = sootiest
+1	sootiest	sooty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1665
+# text = soppy
+1	soppy	soppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1666
+# text = soppier
+1	soppier	soppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1667
+# text = soppiest
+1	soppiest	soppy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1668
+# text = sorry
+1	sorry	sorry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1669
+# text = sorrier
+1	sorrier	sorry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1670
+# text = sorriest
+1	sorriest	sorry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1671
+# text = speedy
+1	speedy	speedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1672
+# text = speedier
+1	speedier	speedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1673
+# text = speediest
+1	speediest	speedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1674
+# text = spicy
+1	spicy	spicy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1675
+# text = spicier
+1	spicier	spicy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1676
+# text = spiciest
+1	spiciest	spicy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1677
+# text = spiky
+1	spiky	spiky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1678
+# text = spikier
+1	spikier	spiky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1679
+# text = spikiest
+1	spikiest	spiky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1680
+# text = spindly
+1	spindly	spindly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1681
+# text = spindlier
+1	spindlier	spindly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1682
+# text = spindliest
+1	spindliest	spindly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1683
+# text = spiny
+1	spiny	spiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1684
+# text = spinier
+1	spinier	spiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1685
+# text = spiniest
+1	spiniest	spiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1686
+# text = spongy
+1	spongy	spongy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1687
+# text = spongier
+1	spongier	spongy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1688
+# text = spongiest
+1	spongiest	spongy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1689
+# text = spooky
+1	spooky	spooky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1690
+# text = spookier
+1	spookier	spooky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1691
+# text = spookiest
+1	spookiest	spooky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1692
+# text = spotty
+1	spotty	spotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1693
+# text = spottier
+1	spottier	spotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1694
+# text = spottiest
+1	spottiest	spotty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1695
+# text = sprightly
+1	sprightly	sprightly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1696
+# text = sprightlier
+1	sprightlier	sprightly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1697
+# text = sprightliest
+1	sprightliest	sprightly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1698
+# text = springy
+1	springy	springy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1699
+# text = springier
+1	springier	springy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1700
+# text = springiest
+1	springiest	springy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1701
+# text = spry
+1	spry	spry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1702
+# text = spryer
+1	spryer	spry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1703
+# text = spryest
+1	spryest	spry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1704
+# text = spunky
+1	spunky	spunky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1705
+# text = spunkier
+1	spunkier	spunky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1706
+# text = spunkiest
+1	spunkiest	spunky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1707
+# text = squashy
+1	squashy	squashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1708
+# text = squashier
+1	squashier	squashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1709
+# text = squashiest
+1	squashiest	squashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1710
+# text = squeaky
+1	squeaky	squeaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1711
+# text = squeakier
+1	squeakier	squeaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1712
+# text = squeakiest
+1	squeakiest	squeaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1713
+# text = squiggly
+1	squiggly	squiggly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1714
+# text = squigglier
+1	squigglier	squiggly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1715
+# text = squiggliest
+1	squiggliest	squiggly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1716
+# text = stale
+1	stale	stale	ADJ	_	_	0	root	_	_
+
+# sent_id = 1717
+# text = staler
+1	staler	stale	ADJ	_	_	0	root	_	_
+
+# sent_id = 1718
+# text = stalest
+1	stalest	stale	ADJ	_	_	0	root	_	_
+
+# sent_id = 1719
+# text = starchy
+1	starchy	starchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1720
+# text = starchier
+1	starchier	starchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1721
+# text = starchiest
+1	starchiest	starchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1722
+# text = starry
+1	starry	starry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1723
+# text = starrier
+1	starrier	starry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1724
+# text = starriest
+1	starriest	starry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1725
+# text = stately
+1	stately	stately	ADJ	_	_	0	root	_	_
+
+# sent_id = 1726
+# text = statelier
+1	statelier	stately	ADJ	_	_	0	root	_	_
+
+# sent_id = 1727
+# text = stateliest
+1	stateliest	stately	ADJ	_	_	0	root	_	_
+
+# sent_id = 1728
+# text = steady
+1	steady	steady	ADJ	_	_	0	root	_	_
+
+# sent_id = 1729
+# text = steadier
+1	steadier	steady	ADJ	_	_	0	root	_	_
+
+# sent_id = 1730
+# text = steadiest
+1	steadiest	steady	ADJ	_	_	0	root	_	_
+
+# sent_id = 1731
+# text = stealthy
+1	stealthy	stealthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1732
+# text = stealthier
+1	stealthier	stealthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1733
+# text = stealthiest
+1	stealthiest	stealthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1734
+# text = steamy
+1	steamy	steamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1735
+# text = steamier
+1	steamier	steamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1736
+# text = steamiest
+1	steamiest	steamy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1737
+# text = steely
+1	steely	steely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1738
+# text = steelier
+1	steelier	steely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1739
+# text = steeliest
+1	steeliest	steely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1740
+# text = steep
+1	steep	steep	ADJ	_	_	0	root	_	_
+
+# sent_id = 1741
+# text = steeper
+1	steeper	steep	ADJ	_	_	0	root	_	_
+
+# sent_id = 1742
+# text = steepest
+1	steepest	steep	ADJ	_	_	0	root	_	_
+
+# sent_id = 1743
+# text = stern
+1	stern	stern	ADJ	_	_	0	root	_	_
+
+# sent_id = 1744
+# text = sterner
+1	sterner	stern	ADJ	_	_	0	root	_	_
+
+# sent_id = 1745
+# text = sternest
+1	sternest	stern	ADJ	_	_	0	root	_	_
+
+# sent_id = 1746
+# text = sticky
+1	sticky	sticky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1747
+# text = stickier
+1	stickier	sticky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1748
+# text = stickiest
+1	stickiest	sticky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1749
+# text = stiff
+1	stiff	stiff	ADJ	_	_	0	root	_	_
+
+# sent_id = 1750
+# text = stiffer
+1	stiffer	stiff	ADJ	_	_	0	root	_	_
+
+# sent_id = 1751
+# text = stiffest
+1	stiffest	stiff	ADJ	_	_	0	root	_	_
+
+# sent_id = 1752
+# text = still
+1	still	still	ADJ	_	_	0	root	_	_
+
+# sent_id = 1753
+# text = stiller
+1	stiller	still	ADJ	_	_	0	root	_	_
+
+# sent_id = 1754
+# text = stillest
+1	stillest	still	ADJ	_	_	0	root	_	_
+
+# sent_id = 1755
+# text = stingy
+1	stingy	stingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1756
+# text = stingier
+1	stingier	stingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1757
+# text = stingiest
+1	stingiest	stingy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1758
+# text = stocky
+1	stocky	stocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1759
+# text = stockier
+1	stockier	stocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1760
+# text = stockiest
+1	stockiest	stocky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1761
+# text = stodgy
+1	stodgy	stodgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1762
+# text = stodgier
+1	stodgier	stodgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1763
+# text = stodgiest
+1	stodgiest	stodgy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1764
+# text = stony
+1	stony	stony	ADJ	_	_	0	root	_	_
+
+# sent_id = 1765
+# text = stonier
+1	stonier	stony	ADJ	_	_	0	root	_	_
+
+# sent_id = 1766
+# text = stoniest
+1	stoniest	stony	ADJ	_	_	0	root	_	_
+
+# sent_id = 1767
+# text = stormy
+1	stormy	stormy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1768
+# text = stormier
+1	stormier	stormy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1769
+# text = stormiest
+1	stormiest	stormy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1770
+# text = stout
+1	stout	stout	ADJ	_	_	0	root	_	_
+
+# sent_id = 1771
+# text = stouter
+1	stouter	stout	ADJ	_	_	0	root	_	_
+
+# sent_id = 1772
+# text = stoutest
+1	stoutest	stout	ADJ	_	_	0	root	_	_
+
+# sent_id = 1773
+# text = straggly
+1	straggly	straggly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1774
+# text = stragglier
+1	stragglier	straggly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1775
+# text = straggliest
+1	straggliest	straggly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1776
+# text = strange
+1	strange	strange	ADJ	_	_	0	root	_	_
+
+# sent_id = 1777
+# text = stranger
+1	stranger	strange	ADJ	_	_	0	root	_	_
+
+# sent_id = 1778
+# text = strangest
+1	strangest	strange	ADJ	_	_	0	root	_	_
+
+# sent_id = 1779
+# text = streaky
+1	streaky	streaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1780
+# text = streakier
+1	streakier	streaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1781
+# text = streakiest
+1	streakiest	streaky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1782
+# text = strict
+1	strict	strict	ADJ	_	_	0	root	_	_
+
+# sent_id = 1783
+# text = stricter
+1	stricter	strict	ADJ	_	_	0	root	_	_
+
+# sent_id = 1784
+# text = strictest
+1	strictest	strict	ADJ	_	_	0	root	_	_
+
+# sent_id = 1785
+# text = stringy
+1	stringy	stringy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1786
+# text = stringier
+1	stringier	stringy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1787
+# text = stringiest
+1	stringiest	stringy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1788
+# text = stripy
+1	stripy	stripy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1789
+# text = stripier
+1	stripier	stripy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1790
+# text = stripiest
+1	stripiest	stripy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1791
+# text = strong
+1	strong	strong	ADJ	_	_	0	root	_	_
+
+# sent_id = 1792
+# text = stronger
+1	stronger	strong	ADJ	_	_	0	root	_	_
+
+# sent_id = 1793
+# text = strongest
+1	strongest	strong	ADJ	_	_	0	root	_	_
+
+# sent_id = 1794
+# text = stubbly
+1	stubbly	stubbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1795
+# text = stubblier
+1	stubblier	stubbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1796
+# text = stubbliest
+1	stubbliest	stubbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1797
+# text = stubby
+1	stubby	stubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1798
+# text = stubbier
+1	stubbier	stubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1799
+# text = stubbiest
+1	stubbiest	stubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1800
+# text = stuffy
+1	stuffy	stuffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1801
+# text = stuffier
+1	stuffier	stuffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1802
+# text = stuffiest
+1	stuffiest	stuffy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1803
+# text = stumpy
+1	stumpy	stumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1804
+# text = stumpier
+1	stumpier	stumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1805
+# text = stumpiest
+1	stumpiest	stumpy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1806
+# text = sturdy
+1	sturdy	sturdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1807
+# text = sturdier
+1	sturdier	sturdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1808
+# text = sturdiest
+1	sturdiest	sturdy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1809
+# text = subtle
+1	subtle	subtle	ADJ	_	_	0	root	_	_
+
+# sent_id = 1810
+# text = subtler
+1	subtler	subtle	ADJ	_	_	0	root	_	_
+
+# sent_id = 1811
+# text = subtlest
+1	subtlest	subtle	ADJ	_	_	0	root	_	_
+
+# sent_id = 1812
+# text = sugary
+1	sugary	sugary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1813
+# text = sugarier
+1	sugarier	sugary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1814
+# text = sugariest
+1	sugariest	sugary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1815
+# text = sulky
+1	sulky	sulky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1816
+# text = sulkier
+1	sulkier	sulky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1817
+# text = sulkiest
+1	sulkiest	sulky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1818
+# text = sultry
+1	sultry	sultry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1819
+# text = sultrier
+1	sultrier	sultry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1820
+# text = sultriest
+1	sultriest	sultry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1821
+# text = summery
+1	summery	summery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1822
+# text = summerier
+1	summerier	summery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1823
+# text = summeriest
+1	summeriest	summery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1824
+# text = sunny
+1	sunny	sunny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1825
+# text = sunnier
+1	sunnier	sunny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1826
+# text = sunniest
+1	sunniest	sunny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1827
+# text = supple
+1	supple	supple	ADJ	_	_	0	root	_	_
+
+# sent_id = 1828
+# text = suppler
+1	suppler	supple	ADJ	_	_	0	root	_	_
+
+# sent_id = 1829
+# text = supplest
+1	supplest	supple	ADJ	_	_	0	root	_	_
+
+# sent_id = 1830
+# text = sure
+1	sure	sure	ADJ	_	_	0	root	_	_
+
+# sent_id = 1831
+# text = surer
+1	surer	sure	ADJ	_	_	0	root	_	_
+
+# sent_id = 1832
+# text = surest
+1	surest	sure	ADJ	_	_	0	root	_	_
+
+# sent_id = 1833
+# text = surly
+1	surly	surly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1834
+# text = surlier
+1	surlier	surly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1835
+# text = surliest
+1	surliest	surly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1836
+# text = swampy
+1	swampy	swampy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1837
+# text = swampier
+1	swampier	swampy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1838
+# text = swampiest
+1	swampiest	swampy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1839
+# text = swanky
+1	swanky	swanky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1840
+# text = swankier
+1	swankier	swanky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1841
+# text = swankiest
+1	swankiest	swanky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1842
+# text = sweaty
+1	sweaty	sweaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1843
+# text = sweatier
+1	sweatier	sweaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1844
+# text = sweatiest
+1	sweatiest	sweaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1845
+# text = sweet
+1	sweet	sweet	ADJ	_	_	0	root	_	_
+
+# sent_id = 1846
+# text = sweeter
+1	sweeter	sweet	ADJ	_	_	0	root	_	_
+
+# sent_id = 1847
+# text = sweetest
+1	sweetest	sweet	ADJ	_	_	0	root	_	_
+
+# sent_id = 1848
+# text = swift
+1	swift	swift	ADJ	_	_	0	root	_	_
+
+# sent_id = 1849
+# text = swifter
+1	swifter	swift	ADJ	_	_	0	root	_	_
+
+# sent_id = 1850
+# text = swiftest
+1	swiftest	swift	ADJ	_	_	0	root	_	_
+
+# sent_id = 1851
+# text = tacky
+1	tacky	tacky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1852
+# text = tackier
+1	tackier	tacky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1853
+# text = tackiest
+1	tackiest	tacky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1854
+# text = tall
+1	tall	tall	ADJ	_	_	0	root	_	_
+
+# sent_id = 1855
+# text = taller
+1	taller	tall	ADJ	_	_	0	root	_	_
+
+# sent_id = 1856
+# text = tallest
+1	tallest	tall	ADJ	_	_	0	root	_	_
+
+# sent_id = 1857
+# text = tame
+1	tame	tame	ADJ	_	_	0	root	_	_
+
+# sent_id = 1858
+# text = tamer
+1	tamer	tame	ADJ	_	_	0	root	_	_
+
+# sent_id = 1859
+# text = tamest
+1	tamest	tame	ADJ	_	_	0	root	_	_
+
+# sent_id = 1860
+# text = tangy
+1	tangy	tangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1861
+# text = tangier
+1	tangier	tangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1862
+# text = tangiest
+1	tangiest	tangy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1863
+# text = tardy
+1	tardy	tardy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1864
+# text = tardier
+1	tardier	tardy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1865
+# text = tardiest
+1	tardiest	tardy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1866
+# text = tasty
+1	tasty	tasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1867
+# text = tastier
+1	tastier	tasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1868
+# text = tastiest
+1	tastiest	tasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1869
+# text = tatty
+1	tatty	tatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1870
+# text = tattier
+1	tattier	tatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1871
+# text = tattiest
+1	tattiest	tatty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1872
+# text = taut
+1	taut	taut	ADJ	_	_	0	root	_	_
+
+# sent_id = 1873
+# text = tauter
+1	tauter	taut	ADJ	_	_	0	root	_	_
+
+# sent_id = 1874
+# text = tautest
+1	tautest	taut	ADJ	_	_	0	root	_	_
+
+# sent_id = 1875
+# text = tawdry
+1	tawdry	tawdry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1876
+# text = tawdrier
+1	tawdrier	tawdry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1877
+# text = tawdriest
+1	tawdriest	tawdry	ADJ	_	_	0	root	_	_
+
+# sent_id = 1878
+# text = teeny
+1	teeny	teeny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1879
+# text = teenier
+1	teenier	teeny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1880
+# text = teeniest
+1	teeniest	teeny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1881
+# text = tender
+1	tender	tender	ADJ	_	_	0	root	_	_
+
+# sent_id = 1882
+# text = tenderer
+1	tenderer	tender	ADJ	_	_	0	root	_	_
+
+# sent_id = 1883
+# text = tenderest
+1	tenderest	tender	ADJ	_	_	0	root	_	_
+
+# sent_id = 1884
+# text = tense
+1	tense	tense	ADJ	_	_	0	root	_	_
+
+# sent_id = 1885
+# text = tenser
+1	tenser	tense	ADJ	_	_	0	root	_	_
+
+# sent_id = 1886
+# text = tensest
+1	tensest	tense	ADJ	_	_	0	root	_	_
+
+# sent_id = 1887
+# text = terse
+1	terse	terse	ADJ	_	_	0	root	_	_
+
+# sent_id = 1888
+# text = terser
+1	terser	terse	ADJ	_	_	0	root	_	_
+
+# sent_id = 1889
+# text = tersest
+1	tersest	terse	ADJ	_	_	0	root	_	_
+
+# sent_id = 1890
+# text = testy
+1	testy	testy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1891
+# text = testier
+1	testier	testy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1892
+# text = testiest
+1	testiest	testy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1893
+# text = tetchy
+1	tetchy	tetchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1894
+# text = tetchier
+1	tetchier	tetchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1895
+# text = tetchiest
+1	tetchiest	tetchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1896
+# text = thick
+1	thick	thick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1897
+# text = thicker
+1	thicker	thick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1898
+# text = thickest
+1	thickest	thick	ADJ	_	_	0	root	_	_
+
+# sent_id = 1899
+# text = thin
+1	thin	thin	ADJ	_	_	0	root	_	_
+
+# sent_id = 1900
+# text = thinner
+1	thinner	thin	ADJ	_	_	0	root	_	_
+
+# sent_id = 1901
+# text = thinnest
+1	thinnest	thin	ADJ	_	_	0	root	_	_
+
+# sent_id = 1902
+# text = thirsty
+1	thirsty	thirsty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1903
+# text = thirstier
+1	thirstier	thirsty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1904
+# text = thirstiest
+1	thirstiest	thirsty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1905
+# text = thorny
+1	thorny	thorny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1906
+# text = thornier
+1	thornier	thorny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1907
+# text = thorniest
+1	thorniest	thorny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1908
+# text = thrifty
+1	thrifty	thrifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1909
+# text = thriftier
+1	thriftier	thrifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1910
+# text = thriftiest
+1	thriftiest	thrifty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1911
+# text = throaty
+1	throaty	throaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1912
+# text = throatier
+1	throatier	throaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1913
+# text = throatiest
+1	throatiest	throaty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1914
+# text = tidy
+1	tidy	tidy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1915
+# text = tidier
+1	tidier	tidy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1916
+# text = tidiest
+1	tidiest	tidy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1917
+# text = tight
+1	tight	tight	ADJ	_	_	0	root	_	_
+
+# sent_id = 1918
+# text = tighter
+1	tighter	tight	ADJ	_	_	0	root	_	_
+
+# sent_id = 1919
+# text = tightest
+1	tightest	tight	ADJ	_	_	0	root	_	_
+
+# sent_id = 1920
+# text = timely
+1	timely	timely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1921
+# text = timelier
+1	timelier	timely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1922
+# text = timeliest
+1	timeliest	timely	ADJ	_	_	0	root	_	_
+
+# sent_id = 1923
+# text = tinny
+1	tinny	tinny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1924
+# text = tinnier
+1	tinnier	tinny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1925
+# text = tinniest
+1	tinniest	tinny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1926
+# text = tiny
+1	tiny	tiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1927
+# text = tinier
+1	tinier	tiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1928
+# text = tiniest
+1	tiniest	tiny	ADJ	_	_	0	root	_	_
+
+# sent_id = 1929
+# text = touchy
+1	touchy	touchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1930
+# text = touchier
+1	touchier	touchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1931
+# text = touchiest
+1	touchiest	touchy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1932
+# text = tough
+1	tough	tough	ADJ	_	_	0	root	_	_
+
+# sent_id = 1933
+# text = tougher
+1	tougher	tough	ADJ	_	_	0	root	_	_
+
+# sent_id = 1934
+# text = toughest
+1	toughest	tough	ADJ	_	_	0	root	_	_
+
+# sent_id = 1935
+# text = trashy
+1	trashy	trashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1936
+# text = trashier
+1	trashier	trashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1937
+# text = trashiest
+1	trashiest	trashy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1938
+# text = trendy
+1	trendy	trendy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1939
+# text = trendier
+1	trendier	trendy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1940
+# text = trendiest
+1	trendiest	trendy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1941
+# text = tricky
+1	tricky	tricky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1942
+# text = trickier
+1	trickier	tricky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1943
+# text = trickiest
+1	trickiest	tricky	ADJ	_	_	0	root	_	_
+
+# sent_id = 1944
+# text = trim
+1	trim	trim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1945
+# text = trimmer
+1	trimmer	trim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1946
+# text = trimmest
+1	trimmest	trim	ADJ	_	_	0	root	_	_
+
+# sent_id = 1947
+# text = true
+1	true	true	ADJ	_	_	0	root	_	_
+
+# sent_id = 1948
+# text = truer
+1	truer	true	ADJ	_	_	0	root	_	_
+
+# sent_id = 1949
+# text = truest
+1	truest	true	ADJ	_	_	0	root	_	_
+
+# sent_id = 1950
+# text = trusty
+1	trusty	trusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1951
+# text = trustier
+1	trustier	trusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1952
+# text = trustiest
+1	trustiest	trusty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1953
+# text = tubby
+1	tubby	tubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1954
+# text = tubbier
+1	tubbier	tubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1955
+# text = tubbiest
+1	tubbiest	tubby	ADJ	_	_	0	root	_	_
+
+# sent_id = 1956
+# text = twiggy
+1	twiggy	twiggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1957
+# text = twiggier
+1	twiggier	twiggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1958
+# text = twiggiest
+1	twiggiest	twiggy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1959
+# text = twisty
+1	twisty	twisty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1960
+# text = twistier
+1	twistier	twisty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1961
+# text = twistiest
+1	twistiest	twisty	ADJ	_	_	0	root	_	_
+
+# sent_id = 1962
+# text = ugly
+1	ugly	ugly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1963
+# text = uglier
+1	uglier	ugly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1964
+# text = ugliest
+1	ugliest	ugly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1965
+# text = unhappy
+1	unhappy	unhappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1966
+# text = unhappier
+1	unhappier	unhappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1967
+# text = unhappiest
+1	unhappiest	unhappy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1968
+# text = unruly
+1	unruly	unruly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1969
+# text = unrulier
+1	unrulier	unruly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1970
+# text = unruliest
+1	unruliest	unruly	ADJ	_	_	0	root	_	_
+
+# sent_id = 1971
+# text = untidy
+1	untidy	untidy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1972
+# text = untidier
+1	untidier	untidy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1973
+# text = untidiest
+1	untidiest	untidy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1974
+# text = vague
+1	vague	vague	ADJ	_	_	0	root	_	_
+
+# sent_id = 1975
+# text = vaguer
+1	vaguer	vague	ADJ	_	_	0	root	_	_
+
+# sent_id = 1976
+# text = vaguest
+1	vaguest	vague	ADJ	_	_	0	root	_	_
+
+# sent_id = 1977
+# text = vain
+1	vain	vain	ADJ	_	_	0	root	_	_
+
+# sent_id = 1978
+# text = vainer
+1	vainer	vain	ADJ	_	_	0	root	_	_
+
+# sent_id = 1979
+# text = vainest
+1	vainest	vain	ADJ	_	_	0	root	_	_
+
+# sent_id = 1980
+# text = vile
+1	vile	vile	ADJ	_	_	0	root	_	_
+
+# sent_id = 1981
+# text = viler
+1	viler	vile	ADJ	_	_	0	root	_	_
+
+# sent_id = 1982
+# text = vilest
+1	vilest	vile	ADJ	_	_	0	root	_	_
+
+# sent_id = 1983
+# text = wan
+1	wan	wan	ADJ	_	_	0	root	_	_
+
+# sent_id = 1984
+# text = wanner
+1	wanner	wan	ADJ	_	_	0	root	_	_
+
+# sent_id = 1985
+# text = wannest
+1	wannest	wan	ADJ	_	_	0	root	_	_
+
+# sent_id = 1986
+# text = warm
+1	warm	warm	ADJ	_	_	0	root	_	_
+
+# sent_id = 1987
+# text = warmer
+1	warmer	warm	ADJ	_	_	0	root	_	_
+
+# sent_id = 1988
+# text = warmest
+1	warmest	warm	ADJ	_	_	0	root	_	_
+
+# sent_id = 1989
+# text = wary
+1	wary	wary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1990
+# text = warier
+1	warier	wary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1991
+# text = wariest
+1	wariest	wary	ADJ	_	_	0	root	_	_
+
+# sent_id = 1992
+# text = watery
+1	watery	watery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1993
+# text = waterier
+1	waterier	watery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1994
+# text = wateriest
+1	wateriest	watery	ADJ	_	_	0	root	_	_
+
+# sent_id = 1995
+# text = wavy
+1	wavy	wavy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1996
+# text = wavier
+1	wavier	wavy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1997
+# text = waviest
+1	waviest	wavy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1998
+# text = waxy
+1	waxy	waxy	ADJ	_	_	0	root	_	_
+
+# sent_id = 1999
+# text = waxier
+1	waxier	waxy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2000
+# text = waxiest
+1	waxiest	waxy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2001
+# text = weak
+1	weak	weak	ADJ	_	_	0	root	_	_
+
+# sent_id = 2002
+# text = weaker
+1	weaker	weak	ADJ	_	_	0	root	_	_
+
+# sent_id = 2003
+# text = weakest
+1	weakest	weak	ADJ	_	_	0	root	_	_
+
+# sent_id = 2004
+# text = weakly
+1	weakly	weakly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2005
+# text = weaklier
+1	weaklier	weakly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2006
+# text = weakliest
+1	weakliest	weakly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2007
+# text = wealthy
+1	wealthy	wealthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2008
+# text = wealthier
+1	wealthier	wealthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2009
+# text = wealthiest
+1	wealthiest	wealthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2010
+# text = weary
+1	weary	weary	ADJ	_	_	0	root	_	_
+
+# sent_id = 2011
+# text = wearier
+1	wearier	weary	ADJ	_	_	0	root	_	_
+
+# sent_id = 2012
+# text = weariest
+1	weariest	weary	ADJ	_	_	0	root	_	_
+
+# sent_id = 2013
+# text = weedy
+1	weedy	weedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2014
+# text = weedier
+1	weedier	weedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2015
+# text = weediest
+1	weediest	weedy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2016
+# text = weeny
+1	weeny	weeny	ADJ	_	_	0	root	_	_
+
+# sent_id = 2017
+# text = weenier
+1	weenier	weeny	ADJ	_	_	0	root	_	_
+
+# sent_id = 2018
+# text = weeniest
+1	weeniest	weeny	ADJ	_	_	0	root	_	_
+
+# sent_id = 2019
+# text = weighty
+1	weighty	weighty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2020
+# text = weightier
+1	weightier	weighty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2021
+# text = weightiest
+1	weightiest	weighty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2022
+# text = weird
+1	weird	weird	ADJ	_	_	0	root	_	_
+
+# sent_id = 2023
+# text = weirder
+1	weirder	weird	ADJ	_	_	0	root	_	_
+
+# sent_id = 2024
+# text = weirdest
+1	weirdest	weird	ADJ	_	_	0	root	_	_
+
+# sent_id = 2025
+# text = well
+1	well	well	ADJ	_	_	0	root	_	_
+
+# sent_id = 2026
+# text = better
+1	better	well	ADJ	_	_	0	root	_	_
+
+# sent_id = 2027
+# text = best
+1	best	well	ADJ	_	_	0	root	_	_
+
+# sent_id = 2028
+# text = wet
+1	wet	wet	ADJ	_	_	0	root	_	_
+
+# sent_id = 2029
+# text = wetter
+1	wetter	wet	ADJ	_	_	0	root	_	_
+
+# sent_id = 2030
+# text = wettest
+1	wettest	wet	ADJ	_	_	0	root	_	_
+
+# sent_id = 2031
+# text = wheezy
+1	wheezy	wheezy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2032
+# text = wheezier
+1	wheezier	wheezy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2033
+# text = wheeziest
+1	wheeziest	wheezy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2034
+# text = whippy
+1	whippy	whippy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2035
+# text = whippier
+1	whippier	whippy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2036
+# text = whippiest
+1	whippiest	whippy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2037
+# text = white
+1	white	white	ADJ	_	_	0	root	_	_
+
+# sent_id = 2038
+# text = whiter
+1	whiter	white	ADJ	_	_	0	root	_	_
+
+# sent_id = 2039
+# text = whitest
+1	whitest	white	ADJ	_	_	0	root	_	_
+
+# sent_id = 2040
+# text = wide
+1	wide	wide	ADJ	_	_	0	root	_	_
+
+# sent_id = 2041
+# text = wider
+1	wider	wide	ADJ	_	_	0	root	_	_
+
+# sent_id = 2042
+# text = widest
+1	widest	wide	ADJ	_	_	0	root	_	_
+
+# sent_id = 2043
+# text = wifely
+1	wifely	wifely	ADJ	_	_	0	root	_	_
+
+# sent_id = 2044
+# text = wifelier
+1	wifelier	wifely	ADJ	_	_	0	root	_	_
+
+# sent_id = 2045
+# text = wifeliest
+1	wifeliest	wifely	ADJ	_	_	0	root	_	_
+
+# sent_id = 2046
+# text = wild
+1	wild	wild	ADJ	_	_	0	root	_	_
+
+# sent_id = 2047
+# text = wilder
+1	wilder	wild	ADJ	_	_	0	root	_	_
+
+# sent_id = 2048
+# text = wildest
+1	wildest	wild	ADJ	_	_	0	root	_	_
+
+# sent_id = 2049
+# text = wily
+1	wily	wily	ADJ	_	_	0	root	_	_
+
+# sent_id = 2050
+# text = wilier
+1	wilier	wily	ADJ	_	_	0	root	_	_
+
+# sent_id = 2051
+# text = wiliest
+1	wiliest	wily	ADJ	_	_	0	root	_	_
+
+# sent_id = 2052
+# text = windy
+1	windy	windy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2053
+# text = windier
+1	windier	windy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2054
+# text = windiest
+1	windiest	windy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2055
+# text = wintery
+1	wintery	wintery	ADJ	_	_	0	root	_	_
+
+# sent_id = 2056
+# text = winterier
+1	winterier	wintery	ADJ	_	_	0	root	_	_
+
+# sent_id = 2057
+# text = winteriest
+1	winteriest	wintery	ADJ	_	_	0	root	_	_
+
+# sent_id = 2058
+# text = wintry
+1	wintry	wintry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2059
+# text = wintrier
+1	wintrier	wintry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2060
+# text = wintriest
+1	wintriest	wintry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2061
+# text = wiry
+1	wiry	wiry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2062
+# text = wirier
+1	wirier	wiry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2063
+# text = wiriest
+1	wiriest	wiry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2064
+# text = wise
+1	wise	wise	ADJ	_	_	0	root	_	_
+
+# sent_id = 2065
+# text = wiser
+1	wiser	wise	ADJ	_	_	0	root	_	_
+
+# sent_id = 2066
+# text = wisest
+1	wisest	wise	ADJ	_	_	0	root	_	_
+
+# sent_id = 2067
+# text = wispy
+1	wispy	wispy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2068
+# text = wispier
+1	wispier	wispy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2069
+# text = wispiest
+1	wispiest	wispy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2070
+# text = witty
+1	witty	witty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2071
+# text = wittier
+1	wittier	witty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2072
+# text = wittiest
+1	wittiest	witty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2073
+# text = wobbly
+1	wobbly	wobbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2074
+# text = wobblier
+1	wobblier	wobbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2075
+# text = wobbliest
+1	wobbliest	wobbly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2076
+# text = womanly
+1	womanly	womanly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2077
+# text = womanlier
+1	womanlier	womanly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2078
+# text = womanliest
+1	womanliest	womanly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2079
+# text = woody
+1	woody	woody	ADJ	_	_	0	root	_	_
+
+# sent_id = 2080
+# text = woodier
+1	woodier	woody	ADJ	_	_	0	root	_	_
+
+# sent_id = 2081
+# text = woodiest
+1	woodiest	woody	ADJ	_	_	0	root	_	_
+
+# sent_id = 2082
+# text = woolly
+1	woolly	woolly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2083
+# text = woollier
+1	woollier	woolly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2084
+# text = woolliest
+1	woolliest	woolly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2085
+# text = wooly
+1	wooly	wooly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2086
+# text = woolier
+1	woolier	wooly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2087
+# text = wooliest
+1	wooliest	wooly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2088
+# text = wordy
+1	wordy	wordy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2089
+# text = wordier
+1	wordier	wordy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2090
+# text = wordiest
+1	wordiest	wordy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2091
+# text = worldly
+1	worldly	worldly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2092
+# text = worldlier
+1	worldlier	worldly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2093
+# text = worldliest
+1	worldliest	worldly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2094
+# text = wormy
+1	wormy	wormy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2095
+# text = wormier
+1	wormier	wormy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2096
+# text = wormiest
+1	wormiest	wormy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2097
+# text = worthy
+1	worthy	worthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2098
+# text = worthier
+1	worthier	worthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2099
+# text = worthiest
+1	worthiest	worthy	ADJ	_	_	0	root	_	_
+
+# sent_id = 2100
+# text = wrinkly
+1	wrinkly	wrinkly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2101
+# text = wrinklier
+1	wrinklier	wrinkly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2102
+# text = wrinkliest
+1	wrinkliest	wrinkly	ADJ	_	_	0	root	_	_
+
+# sent_id = 2103
+# text = wrong
+1	wrong	wrong	ADJ	_	_	0	root	_	_
+
+# sent_id = 2104
+# text = wronger
+1	wronger	wrong	ADJ	_	_	0	root	_	_
+
+# sent_id = 2105
+# text = wrongest
+1	wrongest	wrong	ADJ	_	_	0	root	_	_
+
+# sent_id = 2106
+# text = wry
+1	wry	wry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2107
+# text = wrier
+1	wrier	wry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2108
+# text = wriest
+1	wriest	wry	ADJ	_	_	0	root	_	_
+
+# sent_id = 2109
+# text = yeasty
+1	yeasty	yeasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2110
+# text = yeastier
+1	yeastier	yeasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2111
+# text = yeastiest
+1	yeastiest	yeasty	ADJ	_	_	0	root	_	_
+
+# sent_id = 2112
+# text = yellow
+1	yellow	yellow	ADJ	_	_	0	root	_	_
+
+# sent_id = 2113
+# text = yellower
+1	yellower	yellow	ADJ	_	_	0	root	_	_
+
+# sent_id = 2114
+# text = yellowest
+1	yellowest	yellow	ADJ	_	_	0	root	_	_
+
+# sent_id = 2115
+# text = young
+1	young	young	ADJ	_	_	0	root	_	_
+
+# sent_id = 2116
+# text = younger
+1	younger	young	ADJ	_	_	0	root	_	_
+
+# sent_id = 2117
+# text = youngest
+1	youngest	young	ADJ	_	_	0	root	_	_
+
+# sent_id = 2118
+# text = zany
+1	zany	zany	ADJ	_	_	0	root	_	_
+
+# sent_id = 2119
+# text = zanier
+1	zanier	zany	ADJ	_	_	0	root	_	_
+
+# sent_id = 2120
+# text = zaniest
+1	zaniest	zany	ADJ	_	_	0	root	_	_
+
