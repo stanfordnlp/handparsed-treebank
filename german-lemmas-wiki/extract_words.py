@@ -121,7 +121,7 @@ for key in sorted(lemma_to_form):
         lemma, pos = key
         processed.append((lemma, form, pos))
 
-with open("extracted.conllu", "w", encoding="utf-8") as fout:
+with open("de_wiki_lemmas.conllu", "w", encoding="utf-8") as fout:
     for idx, (lemma, form, pos) in tqdm(enumerate(processed)):
         fout.write("# sent_id = %d\n" % idx)
         fout.write("# text = %s\n" % form)
