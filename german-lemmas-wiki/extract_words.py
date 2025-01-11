@@ -60,42 +60,45 @@ for record in tqdm(Parser(bz_file)):
         continue
     if len(record['pos']) == 0:
         empty_pos += 1
-    elif len(record['pos']) > 1:
+        continue
+
+    if len(record['pos']) > 1:
         multi_pos += 1
+        continue
+
+    lemma = record['lemma']
+    if ' ' in lemma:
+        continue
+
+    if record['inflected']:
+        continue
+
+    for pos in record['pos']:
+        # will be exactly one
+        break
+    known_pos.add(pos)
+    if pos not in POS_MAP:
+        continue
+    pos = POS_MAP[pos]
+
+    if 'flexion' not in record:
+        flexion = [lemma]
     else:
-        lemma = record['lemma']
-        if ' ' in lemma:
+        flexion = set(record['flexion'][x] for x in record['flexion']
+                      if (not x.startswith('Hilfsverb') and not x.startswith('Genus') and
+                          not x.startswith("Kein") and not x.startswith("kein") and not x in ("unpersönlich",)))
+
+    if 'sein' in flexion:
+        raise ValueError("Missing an auxiliary in this record:\n{}".format(record))
+
+    if any(x in ('n', 'f', 'ja') for x in flexion):
+        raise ValueError("Weird lemma in:\n{}".format(record))
+
+    for form in flexion:
+        if ' ' in form:
             continue
-
-        if record['inflected']:
-            continue
-
-        for pos in record['pos']:
-            # will be exactly one
-            break
-        known_pos.add(pos)
-        if pos not in POS_MAP:
-            continue
-        pos = POS_MAP[pos]
-
-        if 'flexion' not in record:
-            flexion = [lemma]
-        else:
-            flexion = set(record['flexion'][x] for x in record['flexion']
-                          if (not x.startswith('Hilfsverb') and not x.startswith('Genus') and
-                              not x.startswith("Kein") and not x.startswith("kein") and not x in ("unpersönlich",)))
-
-        if 'sein' in flexion:
-            raise ValueError("Missing an auxiliary in this record:\n{}".format(record))
-
-        if any(x in ('n', 'f', 'ja') for x in flexion):
-            raise ValueError("Weird lemma in:\n{}".format(record))
-
-        for form in flexion:
-            if ' ' in form:
-                continue
-            form_to_lemma[(form, pos)].append(lemma)
-            lemma_to_form[(lemma, pos)].append(form)
+        form_to_lemma[(form, pos)].append(lemma)
+        lemma_to_form[(lemma, pos)].append(form)
 
 #print(empty_pos)
 #print(multi_pos)
