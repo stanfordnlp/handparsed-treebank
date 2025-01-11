@@ -23,8 +23,8 @@ POS_MAP = {"Adjektiv":   "ADJ",
            "Substantiv": "NOUN",
            "Verb":       "VERB"}
 
-form_to_lemma = defaultdict(list)
-lemma_to_form = defaultdict(list)
+form_to_lemma = defaultdict(set)
+lemma_to_form = defaultdict(set)
 
 # example verb:
 # {'title': 'lieben', 'lemma': 'lieben', 'inflected': False,
@@ -97,8 +97,8 @@ for record in tqdm(Parser(bz_file)):
     for form in flexion:
         if ' ' in form:
             continue
-        form_to_lemma[(form, pos)].append(lemma)
-        lemma_to_form[(lemma, pos)].append(form)
+        form_to_lemma[(form, pos)].add(lemma)
+        lemma_to_form[(lemma, pos)].add(form)
 
 #print(empty_pos)
 #print(multi_pos)
