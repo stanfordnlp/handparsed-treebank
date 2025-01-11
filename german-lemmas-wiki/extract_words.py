@@ -111,10 +111,9 @@ print("Found %d lemma/pos combinations to consider" % len(lemma_to_form))
 # This way, the lemmatizer will not be confused.
 for key in tqdm(form_to_lemma):
     if len(form_to_lemma[key]) > 1:
-        key = form, pos
+        form, pos = key
         for lemma in form_to_lemma[key]:
-            if (lemma, pos) in lemma_to_form:
-                del lemma_to_form[(lemma, pos)]
+            lemma_to_form[(lemma, pos)].discard(form)
 
 print("Filtered to %d lemma/pos combinations to consider" % len(lemma_to_form))
 
