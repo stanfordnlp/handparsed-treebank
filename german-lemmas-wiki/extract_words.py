@@ -53,6 +53,11 @@ lemma_to_form = defaultdict(set)
 #  'ipa': ['ˌpɪtoˈʁɛsk'], 'rhymes': ['ɛsk'], 'lang': 'Deutsch', 'lang_code': 'de',
 #  'pos': {'Adjektiv': []}, 'syllables': ['pit', 'to', 'resk']}
 
+# example inflected verb we want to keep:
+# {'title': 'möchtest', 'lemma': 'mögen', 'inflected': True,
+#  'ipa': ['ˈmœçtəst'], 'rhymes': ['œçtəst'], 'lang': 'Deutsch', 'lang_code': 'de',
+#  'pos': {'Verb': ['Konjugierte Form']}, 'syllables': ['möch', 'test']}
+
 for record in tqdm(Parser(bz_file)):
     if 'lang_code' not in record or record['lang_code'] != 'de':
         continue
@@ -70,9 +75,6 @@ for record in tqdm(Parser(bz_file)):
     if ' ' in lemma:
         continue
 
-    if record['inflected']:
-        continue
-
     for pos in record['pos']:
         # will be exactly one
         break
@@ -80,6 +82,18 @@ for record in tqdm(Parser(bz_file)):
     if pos not in POS_MAP:
         continue
     pos = POS_MAP[pos]
+
+    # keep the inflected verbs
+    if record['inflected']:
+        if pos == 'VERB':
+            form = record['title']
+            if ' ' in form:
+                continue
+            #if form == 'möchtest':
+            #    print(record)
+            form_to_lemma[(form, pos)].add(lemma)
+            lemma_to_form[(lemma, pos)].add(form)
+        continue
 
     if 'flexion' not in record:
         flexion = [lemma]
@@ -102,7 +116,7 @@ for record in tqdm(Parser(bz_file)):
 
 #print(empty_pos)
 #print(multi_pos)
-#print(sorted(known_pos))
+print("Found the following POS: %s" % sorted(known_pos))
 
 print("Found %d lemma/pos combinations to consider" % len(lemma_to_form))
 
@@ -115,13 +129,13 @@ for key in tqdm(form_to_lemma):
         for lemma in form_to_lemma[key]:
             lemma_to_form[(lemma, pos)].discard(form)
 
-print("Filtered to %d lemma/pos combinations to consider" % len(lemma_to_form))
-
 processed = []
 for key in sorted(lemma_to_form):
     for form in sorted(set(lemma_to_form[key])):
         lemma, pos = key
         processed.append((lemma, form, pos))
+
+print("Found %d total form / lemma / pos combinations to use as lemma training data")
 
 with open("de_wiki_lemmas.conllu", "w", encoding="utf-8") as fout:
     for idx, (lemma, form, pos) in tqdm(enumerate(processed)):
