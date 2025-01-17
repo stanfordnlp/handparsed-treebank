@@ -139,7 +139,7 @@ print("Found %d total form / lemma / pos combinations to use as lemma training d
 
 with open("de_wiki_lemmas.conllu", "w", encoding="utf-8") as fout:
     for idx, (lemma, form, pos) in tqdm(enumerate(processed)):
-        fout.write("# sent_id = %d\n" % idx)
+        fout.write("# sent_id = %s_%s_%s\n" % (form, lemma, pos))
         fout.write("# text = %s\n" % form)
         fout.write("1\t%s\t%s\t%s\t_\t_\t0\troot\t_\t_\n" % (form, lemma, pos))
         fout.write("\n")
