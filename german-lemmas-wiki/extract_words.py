@@ -137,9 +137,16 @@ for key in sorted(lemma_to_form):
 
 print("Found %d total form / lemma / pos combinations to use as lemma training data")
 
+def write_lemma(fout, lemma, form, pos):
+    fout.write("# sent_id = %s_%s_%s\n" % (form, lemma, pos))
+    fout.write("# text = %s\n" % form)
+    fout.write("1\t%s\t%s\t%s\t_\t_\t0\troot\t_\t_\n" % (form, lemma, pos))
+    fout.write("\n")
+
 with open("de_wiki_lemmas.conllu", "w", encoding="utf-8") as fout:
     for idx, (lemma, form, pos) in tqdm(enumerate(processed)):
-        fout.write("# sent_id = %s_%s_%s\n" % (form, lemma, pos))
-        fout.write("# text = %s\n" % form)
-        fout.write("1\t%s\t%s\t%s\t_\t_\t0\troot\t_\t_\n" % (form, lemma, pos))
-        fout.write("\n")
+        write_lemma(fout, lemma, form, pos)
+
+        if "ß" in form:
+            form = form.replace("ß", "ss")
+            write_lemma(fout, lemma, form, pos)
