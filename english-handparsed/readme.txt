@@ -9,6 +9,7 @@
 9006: headlines/short statements
 9007: headlines
 9008: imperatives
+9009: possessives at the end of sentences
 9010: sentences starting with conjunctions
 9011: imperatives
 9012: SQ questions
