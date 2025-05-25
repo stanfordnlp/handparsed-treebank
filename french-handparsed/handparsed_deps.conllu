@@ -173,3 +173,68 @@
 12	tes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	13	det	_	_
 13	enfants	enfant	NOUN	_	Number=Plur	4	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = Tes amis: sont très sympathiques.
+# sent_id = 12
+1	Tes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	2	det	_	start_char=0|end_char=3
+2	amis	ami	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	start_char=4|end_char=8|SpaceAfter=No
+3	:	:	PUNCT	_	_	6	punct	_	start_char=8|end_char=9
+4	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=10|end_char=14
+5	très	très	ADV	_	_	6	advmod	_	start_char=15|end_char=19
+6	sympathiques	sympathique	ADJ	_	Gender=Masc|Number=Plur	0	root	_	start_char=20|end_char=32|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	start_char=32|end_char=33|SpacesAfter=\n
+
+# text = Je peux voir tes dessins plus tard?
+# sent_id = 13
+1	Je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	voir	voir	VERB	_	VerbForm=Inf	2	xcomp	_	start_char=8|end_char=12
+4	tes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	5	det	_	start_char=13|end_char=16
+5	dessins	dessin	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	start_char=17|end_char=24
+6	plus	plus	ADV	_	_	7	advmod	_	start_char=25|end_char=29
+7	tard	tard	ADV	_	_	3	advmod	_	start_char=30|end_char=34|SpaceAfter=No
+8	?	?	PUNCT	_	_	2	punct	_	start_char=34|end_char=35|SpacesAfter=\n
+
+# text = Je vais vous prêter tes livres quand tu seras prêt.
+# sent_id = 14
+1	Je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	4	iobj	_	start_char=8|end_char=12
+4	prêter	prêter	VERB	_	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=19
+5	tes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	6	det	_	start_char=20|end_char=23
+6	livres	livre	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	start_char=24|end_char=30
+7	quand	quand	SCONJ	_	_	10	mark	_	start_char=31|end_char=36
+8	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=37|end_char=39
+9	seras	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	10	cop	_	start_char=40|end_char=45
+10	prêt	prêt	ADJ	_	Gender=Masc|Number=Sing	4	advcl	_	start_char=46|end_char=50|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	start_char=50|end_char=51|SpacesAfter=\n
+
+# text = Il est bien connu que tes parents sont très attachés à la culture locale.
+# sent_id = 15
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	start_char=0|end_char=2
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=3|end_char=6
+3	bien	bien	ADV	_	_	4	advmod	_	start_char=7|end_char=11
+4	connu	connaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=12|end_char=17
+5	que	que	SCONJ	_	_	10	mark	_	start_char=18|end_char=21
+6	tes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	7	det	_	start_char=22|end_char=25
+7	parents	parent	NOUN	_	Gender=Masc|Number=Plur	10	nsubj:pass	_	start_char=26|end_char=33
+8	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=34|end_char=38
+9	très	très	ADV	_	_	10	advmod	_	start_char=39|end_char=43
+10	attachés	attacher	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	csubj:pass	_	start_char=44|end_char=52
+11	à	à	ADP	_	_	13	case	_	start_char=53|end_char=54
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=55|end_char=57
+13	culture	culture	NOUN	_	Gender=Fem|Number=Sing	10	obl:arg	_	start_char=58|end_char=65
+14	locale	local	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	start_char=66|end_char=72|SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	start_char=72|end_char=73|SpacesAfter=\n
+
+# text = Quand vas-tu aller dans tes cours?
+# sent_id = 16
+1	Quand	quand	SCONJ	_	_	2	mark	_	start_char=0|end_char=5
+2	vas	aller	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=9|SpaceAfter=No
+3	-tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=9|end_char=12
+4	aller	aller	VERB	_	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=18
+5	dans	dans	ADP	_	_	7	case	_	start_char=19|end_char=23
+6	tes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	7	det	_	start_char=24|end_char=27
+7	cours	cours	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	start_char=28|end_char=33|SpaceAfter=No
+8	?	?	PUNCT	_	_	2	punct	_	start_char=33|end_char=34|SpacesAfter=\n
+
