@@ -1,0 +1,2548 @@
+# sent_id = it-capito-001
+# text = Ho capito tutto quello che hai detto durante la riunione.
+# correction = capito: lemma capitare -> capire
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=9
+3	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	4	det	_	start_char=10|end_char=15
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	start_char=16|end_char=22
+5	che	che	PRON	PR	PronType=Rel	7	obj	_	start_char=23|end_char=26
+6	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=27|end_char=30
+7	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	start_char=31|end_char=36
+8	durante	durante	ADP	E	_	10	case	_	start_char=37|end_char=44
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=45|end_char=47
+10	riunione	riunione	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|start_char=48|end_char=56
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-capito-002
+# text = Non hai capito niente della spiegazione del professore ieri.
+# correction = capito: lemma capitare -> capire
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=7
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+4	niente	niente	PRON	PN	PronType=Neg	3	obj	_	start_char=15|end_char=21
+5-6	della	_	_	_	_	_	_	_	start_char=22|end_char=27
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	spiegazione	spiegazione	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	start_char=28|end_char=39
+8-9	del	_	_	_	_	_	_	_	start_char=40|end_char=43
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	professore	professore	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	start_char=44|end_char=54
+11	ieri	ieri	ADV	B	_	3	advmod	_	SpaceAfter=No|start_char=55|end_char=59
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-capito-003
+# text = Abbiamo capito il problema solo dopo una lunga discussione.
+# correction = capito: lemma capitare -> capire
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=7
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=15|end_char=17
+4	problema	problema	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	start_char=18|end_char=26
+5	solo	solo	ADV	B	_	9	advmod	_	start_char=27|end_char=31
+6	dopo	dopo	ADP	E	_	9	case	_	start_char=32|end_char=36
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=37|end_char=40
+8	lunga	lungo	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	start_char=41|end_char=46
+9	discussione	discussione	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No|start_char=47|end_char=58
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-capito-004
+# text = Lei ha capito subito la situazione e ha agito con prontezza.
+# correction = capito: lemma capitare -> capire
+1	Lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	subito	subito	ADV	B	_	3	advmod	_	start_char=14|end_char=20
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=21|end_char=23
+6	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	start_char=24|end_char=34
+7	e	e	CCONJ	CC	_	9	cc	_	start_char=35|end_char=36
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=37|end_char=39
+9	agito	agire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	start_char=40|end_char=45
+10	con	con	ADP	E	_	11	case	_	start_char=46|end_char=49
+11	prontezza	prontezza	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No|start_char=50|end_char=59
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-capito-005
+# text = Avete capito le istruzioni che vi ho dato stamattina?
+# correction = capito: lemma capitare -> capire
+1	Avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=5
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=12
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	start_char=13|end_char=15
+4	istruzioni	istruzione	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	start_char=16|end_char=26
+5	che	che	PRON	PR	PronType=Rel	8	obj	_	start_char=27|end_char=30
+6	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	8	iobj	_	start_char=31|end_char=33
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=34|end_char=36
+8	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	start_char=37|end_char=41
+9	stamattina	stamattina	ADV	B	_	8	advmod	_	SpaceAfter=No|start_char=42|end_char=52
+10	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-capito-006
+# text = I bambini hanno capito la lezione più velocemente degli adulti.
+# correction = capito: lemma capitare -> capire
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=1
+2	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	start_char=2|end_char=9
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=10|end_char=15
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=16|end_char=22
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=23|end_char=25
+6	lezione	lezione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	start_char=26|end_char=33
+7	più	più	ADV	B	_	8	advmod	_	start_char=34|end_char=37
+8	velocemente	velocemente	ADV	B	_	4	advmod	_	start_char=38|end_char=49
+9-10	degli	_	_	_	_	_	_	_	start_char=50|end_char=55
+9	di	di	ADP	E	_	11	case	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	adulti	adulto	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No|start_char=56|end_char=62
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=62|end_char=63
+
+# sent_id = it-capito-007
+# text = Non ho capito perché hai preso quella decisione così strana.
+# correction = capito: lemma capitare -> capire
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	perché	perché	SCONJ	CS	_	6	mark	_	start_char=14|end_char=20
+5	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=21|end_char=24
+6	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	start_char=25|end_char=30
+7	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=31|end_char=37
+8	decisione	decisione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	start_char=38|end_char=47
+9	così	così	ADV	B	_	10	advmod	_	start_char=48|end_char=52
+10	strana	strano	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No|start_char=53|end_char=59
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-capito-008
+# text = Aveva capito fin dall'inizio che qualcosa non andava bene.
+# correction = capito: lemma capitare -> capire
+1	Aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	start_char=0|end_char=5
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=12
+3	fin	fino	ADP	E	_	6	case	_	start_char=13|end_char=16
+4-5	dall'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=17|end_char=22
+4	da	da	ADP	E	_	3	fixed	_	_
+5	l'	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	start_char=22|end_char=28
+7	che	che	SCONJ	CS	_	10	mark	_	start_char=29|end_char=32
+8	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	10	nsubj	_	start_char=33|end_char=41
+9	non	non	ADV	BN	Polarity=Neg	10	advmod	_	start_char=42|end_char=45
+10	andava	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	start_char=46|end_char=52
+11	bene	bene	ADV	B	_	10	advmod	_	SpaceAfter=No|start_char=53|end_char=57
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-capito-009
+# text = Hai capito finalmente come funziona questo nuovo programma?
+# correction = capito: lemma capitare -> capire
+1	Hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=3
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=4|end_char=10
+3	finalmente	finalmente	ADV	B	_	2	advmod	_	start_char=11|end_char=21
+4	come	come	SCONJ	CS	_	5	mark	_	start_char=22|end_char=26
+5	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=27|end_char=35
+6	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=36|end_char=42
+7	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	start_char=43|end_char=48
+8	programma	programma	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No|start_char=49|end_char=58
+9	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-capito-010
+# text = Non abbiamo capito nulla di quello spettacolo sperimentale.
+# correction = capito: lemma capitare -> capire
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=11
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=18
+4	nulla	nulla	PRON	PN	PronType=Neg	3	obj	_	start_char=19|end_char=24
+5	di	di	ADP	E	_	7	case	_	start_char=25|end_char=27
+6	quello	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=28|end_char=34
+7	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	start_char=35|end_char=45
+8	sperimentale	sperimentale	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No|start_char=46|end_char=58
+9	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-capito-011
+# text = Avrebbe capito meglio se avesse ascoltato con più attenzione.
+# correction = capito: lemma capitare -> capire
+1	Avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=7
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+3	meglio	meglio	ADV	B	_	2	advmod	_	start_char=15|end_char=21
+4	se	se	SCONJ	CS	_	6	mark	_	start_char=22|end_char=24
+5	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	start_char=25|end_char=31
+6	ascoltato	ascoltare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	start_char=32|end_char=41
+7	con	con	ADP	E	_	9	case	_	start_char=42|end_char=45
+8	più	più	ADV	B	_	9	advmod	_	start_char=46|end_char=49
+9	attenzione	attenzione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No|start_char=50|end_char=60
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-capito-012
+# text = Non ho mai capito come faccia a lavorare così velocemente.
+# correction = capito: lemma capitare -> capire
+1	Non	non	ADV	BN	Polarity=Neg	4	advmod	_	start_char=0|end_char=3
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	mai	mai	ADV	B	_	4	advmod	_	start_char=7|end_char=10
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=11|end_char=17
+5	come	come	SCONJ	CS	_	6	mark	_	start_char=18|end_char=22
+6	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=23|end_char=29
+7	a	a	ADP	E	_	8	mark	_	start_char=30|end_char=31
+8	lavorare	lavorare	VERB	V	VerbForm=Inf	6	xcomp	_	start_char=32|end_char=40
+9	così	così	ADV	B	_	8	advmod	_	start_char=41|end_char=45
+10	velocemente	velocemente	ADV	B	_	8	advmod	_	SpaceAfter=No|start_char=46|end_char=57
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-capito-013
+# text = Hanno capito che era meglio aspettare un momento più adatto.
+# correction = capito: lemma capitare -> capire
+1	Hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=5
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=12
+3	che	che	SCONJ	CS	_	5	mark	_	start_char=13|end_char=16
+4	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	start_char=17|end_char=20
+5	meglio	meglio	ADV	B	_	2	ccomp	_	start_char=21|end_char=27
+6	aspettare	aspettare	VERB	V	VerbForm=Inf	5	csubj	_	start_char=28|end_char=37
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=38|end_char=40
+8	momento	momento	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	start_char=41|end_char=48
+9	più	più	ADV	B	_	10	advmod	_	start_char=49|end_char=52
+10	adatto	adatto	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No|start_char=53|end_char=59
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-capito-014
+# text = Non avevo capito che dovevamo arrivare così presto stamattina.
+# correction = capito: lemma capitare -> capire
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	start_char=4|end_char=9
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=10|end_char=16
+4	che	che	SCONJ	CS	_	6	mark	_	start_char=17|end_char=20
+5	dovevamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	start_char=21|end_char=29
+6	arrivare	arrivare	VERB	V	VerbForm=Inf	3	ccomp	_	start_char=30|end_char=38
+7	così	così	ADV	B	_	8	advmod	_	start_char=39|end_char=43
+8	presto	presto	ADV	B	_	6	advmod	_	start_char=44|end_char=50
+9	stamattina	stamattina	ADV	B	_	6	advmod	_	SpaceAfter=No|start_char=51|end_char=61
+10	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-capito-015
+# text = Il messaggio è capito da pochi a causa del linguaggio tecnico.
+# correction = capito: lemma capitare -> capire
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	messaggio	messaggio	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=3|end_char=12
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=13|end_char=14
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=15|end_char=21
+5	da	da	ADP	E	_	6	case	_	start_char=22|end_char=24
+6	pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obl	_	start_char=25|end_char=30
+7	a	a	ADP	E	_	8	case	_	start_char=31|end_char=32
+8	causa	causa	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=33|end_char=38
+9-10	del	_	_	_	_	_	_	_	start_char=39|end_char=42
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	linguaggio	linguaggio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	start_char=43|end_char=53
+12	tecnico	tecnico	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No|start_char=54|end_char=61
+13	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-capito-016
+# text = Questo concetto è capito da tutti gli studenti del primo anno.
+# correction = capito: lemma capitare -> capire
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=6
+2	concetto	concetto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=7|end_char=15
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=16|end_char=17
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=18|end_char=24
+5	da	da	ADP	E	_	8	case	_	start_char=25|end_char=27
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	start_char=28|end_char=33
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=34|end_char=37
+8	studenti	studente	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	start_char=38|end_char=46
+9-10	del	_	_	_	_	_	_	_	start_char=47|end_char=50
+9	di	di	ADP	E	_	12	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	start_char=51|end_char=56
+12	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No|start_char=57|end_char=61
+13	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-capito-017
+# text = Il testo antico è capito da pochissimi studiosi al mondo.
+# correction = capito: lemma capitare -> capire
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	testo	testo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=3|end_char=8
+3	antico	antico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	start_char=9|end_char=15
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=16|end_char=17
+5	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=18|end_char=24
+6	da	da	ADP	E	_	8	case	_	start_char=25|end_char=27
+7	pochissimi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	start_char=28|end_char=38
+8	studiosi	studioso	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	start_char=39|end_char=47
+9-10	al	_	_	_	_	_	_	_	start_char=48|end_char=50
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No|start_char=51|end_char=56
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-capito-018
+# text = L'avviso è capito da chiunque legga attentamente le istruzioni.
+# correction = capito: lemma capitare -> capire
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|start_char=0|end_char=2
+2	avviso	avviso	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=2|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=9|end_char=10
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=11|end_char=17
+5	da	da	ADP	E	_	6	case	_	start_char=18|end_char=20
+6	chiunque	chiunque	PRON	PR	Number=Sing|PronType=Ind	4	obl	_	start_char=21|end_char=29
+7	legga	leggere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=30|end_char=35
+8	attentamente	attentamente	ADV	B	_	7	advmod	_	start_char=36|end_char=48
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	start_char=49|end_char=51
+10	istruzioni	istruzione	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No|start_char=52|end_char=62
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=62|end_char=63
+
+# sent_id = it-capito-019
+# text = Il segnale è capito da tutti i marinai esperti senza eccezione.
+# correction = capito: lemma capitare -> capire
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	segnale	segnale	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=3|end_char=10
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=11|end_char=12
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=13|end_char=19
+5	da	da	ADP	E	_	8	case	_	start_char=20|end_char=22
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	start_char=23|end_char=28
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=29|end_char=30
+8	marinai	marinaio	NOUN	S	Gender=Masc|Number=Plur	4	obl:agent	_	start_char=31|end_char=38
+9	esperti	esperto	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	start_char=39|end_char=46
+10	senza	senza	ADP	E	_	11	case	_	start_char=47|end_char=52
+11	eccezione	eccezione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|start_char=53|end_char=62
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=62|end_char=63
+
+# sent_id = it-capito-020
+# text = Quel dialetto è capito da poche persone fuori dalla regione.
+# correction = capito: lemma capitare -> capire
+1	Quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	dialetto	dialetto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=5|end_char=13
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=14|end_char=15
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=16|end_char=22
+5	da	da	ADP	E	_	7	case	_	start_char=23|end_char=25
+6	poche	poco	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	start_char=26|end_char=31
+7	persone	persona	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	start_char=32|end_char=39
+8	fuori	fuori	ADP	E	_	11	case	_	start_char=40|end_char=45
+9-10	dalla	_	_	_	_	_	_	_	start_char=46|end_char=51
+9	da	da	ADP	E	_	8	fixed	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	regione	regione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|start_char=52|end_char=59
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-capito-021
+# text = Mi è capitato un incidente terribile durante il viaggio in montagna.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=0|end_char=2
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=4
+3	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=5|end_char=13
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=14|end_char=16
+5	incidente	incidente	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=17|end_char=26
+6	terribile	terribile	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	start_char=27|end_char=36
+7	durante	durante	ADP	E	_	9	case	_	start_char=37|end_char=44
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=45|end_char=47
+9	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=48|end_char=55
+10	in	in	ADP	E	_	11	case	_	start_char=56|end_char=58
+11	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=59|end_char=67
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=67|end_char=68
+
+# sent_id = it-capito-022
+# text = Le è capitata una fortuna inaspettata alla lotteria di beneficenza.
+1	Le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=0|end_char=2
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=4
+3	capitata	capitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=5|end_char=13
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=14|end_char=17
+5	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	start_char=18|end_char=25
+6	inaspettata	inaspettato	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	start_char=26|end_char=37
+7-8	alla	_	_	_	_	_	_	_	start_char=38|end_char=42
+7	a	a	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	lotteria	lotteria	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=43|end_char=51
+10	di	di	ADP	E	_	11	case	_	start_char=52|end_char=54
+11	beneficenza	beneficenza	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=55|end_char=66
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=66|end_char=67
+
+# sent_id = it-capito-023
+# text = Ci è capitato di incontrare il sindaco per caso al mercato.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	start_char=0|end_char=2
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=4
+3	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=5|end_char=13
+4	di	di	ADP	E	_	5	mark	_	start_char=14|end_char=16
+5	incontrare	incontrare	VERB	V	VerbForm=Inf	3	ccomp	_	start_char=17|end_char=27
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=28|end_char=30
+7	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	start_char=31|end_char=38
+8	per	per	ADP	E	_	9	case	_	start_char=39|end_char=42
+9	caso	caso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	start_char=43|end_char=47
+10-11	al	_	_	_	_	_	_	_	start_char=48|end_char=50
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No|start_char=51|end_char=58
+13	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-capito-024
+# text = Gli è capitato di perdere il treno proprio stamattina alle otto.
+1	Gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=0|end_char=3
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=5
+3	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=14
+4	di	di	ADP	E	_	5	mark	_	start_char=15|end_char=17
+5	perdere	perdere	VERB	V	VerbForm=Inf	3	ccomp	_	start_char=18|end_char=25
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=26|end_char=28
+7	treno	treno	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	start_char=29|end_char=34
+8	proprio	proprio	ADV	B	_	9	advmod	_	start_char=35|end_char=42
+9	stamattina	stamattina	ADV	B	_	5	advmod	_	start_char=43|end_char=53
+10-11	alle	_	_	_	_	_	_	_	start_char=54|end_char=58
+10	a	a	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	otto	otto	NUM	N	NumType=Card	5	obl	_	SpaceAfter=No|start_char=59|end_char=63
+13	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=63|end_char=64
+
+# sent_id = it-capito-025
+# text = Non mi era mai capitato niente di simile in tutta la vita.
+1	Non	non	ADV	BN	Polarity=Neg	5	advmod	_	start_char=0|end_char=3
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=4|end_char=6
+3	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	start_char=7|end_char=10
+4	mai	mai	ADV	B	_	5	advmod	_	start_char=11|end_char=14
+5	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=15|end_char=23
+6	niente	niente	PRON	PN	PronType=Neg	5	nsubj	_	start_char=24|end_char=30
+7	di	di	ADP	E	_	8	case	_	start_char=31|end_char=33
+8	simile	simile	ADJ	A	Number=Sing	6	nmod	_	start_char=34|end_char=40
+9	in	in	ADP	E	_	12	case	_	start_char=41|end_char=43
+10	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	12	det:predet	_	start_char=44|end_char=49
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	start_char=50|end_char=52
+12	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No|start_char=53|end_char=57
+13	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-stato_stare-001
+# text = È stato male per tutta la notte dopo la cena abbondante.
+# correction = stato: lemma essere -> stare
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=1
+2	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	start_char=2|end_char=7
+3	male	male	ADV	B	_	0	root	_	start_char=8|end_char=12
+4	per	per	ADP	E	_	7	case	_	start_char=13|end_char=16
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	start_char=17|end_char=22
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=23|end_char=25
+7	notte	notte	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=26|end_char=31
+8	dopo	dopo	ADP	E	_	10	case	_	start_char=32|end_char=36
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=37|end_char=39
+10	cena	cena	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=40|end_char=44
+11	abbondante	abbondante	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No|start_char=45|end_char=55
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=55|end_char=56
+
+# sent_id = it-stato_stare-002
+# text = Dopo il viaggio in mare è stato male per ore intere.
+# correction = stato: lemma essere -> stare
+1	Dopo	dopo	ADP	E	_	3	case	_	start_char=0|end_char=4
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=5|end_char=7
+3	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	start_char=8|end_char=15
+4	in	in	ADP	E	_	5	case	_	start_char=16|end_char=18
+5	mare	mare	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	start_char=19|end_char=23
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=24|end_char=25
+7	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	start_char=26|end_char=31
+8	male	male	ADV	B	_	0	root	_	start_char=32|end_char=36
+9	per	per	ADP	E	_	10	case	_	start_char=37|end_char=40
+10	ore	ora	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	start_char=41|end_char=44
+11	intere	intero	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No|start_char=45|end_char=51
+12	.	.	PUNCT	FS	_	8	punct	_	SpaceAfter=No|start_char=51|end_char=52
+
+# sent_id = it-stato_stare-003
+# text = Il paziente è stato bene per due settimane dopo la cura.
+# correction = stato: lemma essere -> stare
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	paziente	paziente	NOUN	S	Number=Sing	5	nsubj	_	start_char=3|end_char=11
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=13
+4	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=14|end_char=19
+5	bene	bene	ADV	B	_	0	root	_	start_char=20|end_char=24
+6	per	per	ADP	E	_	8	case	_	start_char=25|end_char=28
+7	due	due	NUM	N	NumType=Card	8	nummod	_	start_char=29|end_char=32
+8	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	start_char=33|end_char=42
+9	dopo	dopo	ADP	E	_	11	case	_	start_char=43|end_char=47
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	start_char=48|end_char=50
+11	cura	cura	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No|start_char=51|end_char=55
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=55|end_char=56
+
+# sent_id = it-stato_stare-004
+# text = Dopo la terapia è stato meglio di quanto si aspettasse.
+# correction = stato: lemma essere -> stare
+1	Dopo	dopo	ADP	E	_	3	case	_	start_char=0|end_char=4
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=5|end_char=7
+3	terapia	terapia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	start_char=8|end_char=15
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=16|end_char=17
+5	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	start_char=18|end_char=23
+6	meglio	meglio	ADV	B	_	0	root	_	start_char=24|end_char=30
+7	di	di	ADP	E	_	8	case	_	start_char=31|end_char=33
+8	quanto	quanto	PRON	PR	PronType=Rel	6	obl	_	start_char=34|end_char=40
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	start_char=41|end_char=43
+10	aspettasse	aspettare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No|start_char=44|end_char=54
+11	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-stato_stare-005
+# text = Senza le medicine sarebbe stato peggio per tutta la famiglia.
+# correction = stato: lemma essere -> stare
+1	Senza	senza	ADP	E	_	3	case	_	start_char=0|end_char=5
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	start_char=6|end_char=8
+3	medicine	medicina	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	start_char=9|end_char=17
+4	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=18|end_char=25
+5	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	start_char=26|end_char=31
+6	peggio	peggio	ADV	B	_	0	root	_	start_char=32|end_char=38
+7	per	per	ADP	E	_	10	case	_	start_char=39|end_char=42
+8	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	10	det:predet	_	start_char=43|end_char=48
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=49|end_char=51
+10	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No|start_char=52|end_char=60
+11	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-stato_stare-006
+# text = Il bambino è stato male a scuola e lo hanno mandato a casa.
+# correction = stato: lemma essere -> stare
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3|end_char=10
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=11|end_char=12
+4	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=13|end_char=18
+5	male	male	ADV	B	_	0	root	_	start_char=19|end_char=23
+6	a	a	ADP	E	_	7	case	_	start_char=24|end_char=25
+7	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=26|end_char=32
+8	e	e	CCONJ	CC	_	11	cc	_	start_char=33|end_char=34
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=35|end_char=37
+10	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=38|end_char=43
+11	mandato	mandare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	start_char=44|end_char=51
+12	a	a	ADP	E	_	13	case	_	start_char=52|end_char=53
+13	casa	casa	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No|start_char=54|end_char=58
+14	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-stato_stare-007
+# text = Dopo l'intervento è stato bene e ha ripreso le forze rapidamente.
+# correction = stato: lemma essere -> stare
+1	Dopo	dopo	ADP	E	_	3	case	_	start_char=0|end_char=4
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|start_char=5|end_char=7
+3	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=7|end_char=17
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=18|end_char=19
+5	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	start_char=20|end_char=25
+6	bene	bene	ADV	B	_	0	root	_	start_char=26|end_char=30
+7	e	e	CCONJ	CC	_	9	cc	_	start_char=31|end_char=32
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=33|end_char=35
+9	ripreso	riprendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	start_char=36|end_char=43
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	start_char=44|end_char=46
+11	forze	forza	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	start_char=47|end_char=52
+12	rapidamente	rapidamente	ADV	B	_	9	advmod	_	SpaceAfter=No|start_char=53|end_char=64
+13	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=64|end_char=65
+
+# sent_id = it-stato_stare-008
+# text = Con quella dieta è stato meglio in poche settimane soltanto.
+# correction = stato: lemma essere -> stare
+1	Con	con	ADP	E	_	3	case	_	start_char=0|end_char=3
+2	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	start_char=4|end_char=10
+3	dieta	dieta	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	start_char=11|end_char=16
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=17|end_char=18
+5	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	start_char=19|end_char=24
+6	meglio	meglio	ADV	B	_	0	root	_	start_char=25|end_char=31
+7	in	in	ADP	E	_	9	case	_	start_char=32|end_char=34
+8	poche	poco	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	start_char=35|end_char=40
+9	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	start_char=41|end_char=50
+10	soltanto	soltanto	ADV	B	_	6	advmod	_	SpaceAfter=No|start_char=51|end_char=59
+11	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-stato_stare-009
+# text = Senza riposo sarebbe stato peggio e avrebbe dovuto restare a letto.
+# correction = stato: lemma essere -> stare
+1	Senza	senza	ADP	E	_	2	case	_	start_char=0|end_char=5
+2	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	start_char=6|end_char=12
+3	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=13|end_char=20
+4	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=21|end_char=26
+5	peggio	peggio	ADV	B	_	0	root	_	start_char=27|end_char=33
+6	e	e	CCONJ	CC	_	9	cc	_	start_char=34|end_char=35
+7	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=36|end_char=43
+8	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	aux	_	start_char=44|end_char=50
+9	restare	restare	VERB	V	VerbForm=Inf	5	conj	_	start_char=51|end_char=58
+10	a	a	ADP	E	_	11	case	_	start_char=59|end_char=60
+11	letto	letto	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No|start_char=61|end_char=66
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=66|end_char=67
+
+# sent_id = it-stato_stare-010
+# text = Il nonno è stato male dopo aver mangiato troppo a pranzo.
+# correction = stato: lemma essere -> stare
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	nonno	nonno	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=9|end_char=10
+4	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=11|end_char=16
+5	male	male	ADV	B	_	0	root	_	start_char=17|end_char=21
+6	dopo	dopo	ADP	E	_	8	mark	_	start_char=22|end_char=26
+7	aver	avere	AUX	VA	VerbForm=Inf	8	aux	_	start_char=27|end_char=31
+8	mangiato	mangiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	start_char=32|end_char=40
+9	troppo	troppo	ADV	B	_	8	advmod	_	start_char=41|end_char=47
+10	a	a	ADP	E	_	11	case	_	start_char=48|end_char=49
+11	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No|start_char=50|end_char=56
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-stato_stare-011
+# text = Sarebbe stato meglio restare in silenzio durante tutta la discussione.
+# correction = stato: lemma essere -> stare
+1	Sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=7
+2	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	start_char=8|end_char=13
+3	meglio	meglio	ADV	B	_	0	root	_	start_char=14|end_char=20
+4	restare	restare	VERB	V	VerbForm=Inf	3	csubj	_	start_char=21|end_char=28
+5	in	in	ADP	E	_	6	case	_	start_char=29|end_char=31
+6	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	start_char=32|end_char=40
+7	durante	durante	ADP	E	_	10	case	_	start_char=41|end_char=48
+8	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	10	det:predet	_	start_char=49|end_char=54
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=55|end_char=57
+10	discussione	discussione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|start_char=58|end_char=69
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=69|end_char=70
+
+# sent_id = it-stato_stare-012
+# text = Dopo il vaccino è stato male solo per un giorno intero.
+# correction = stato: lemma essere -> stare
+1	Dopo	dopo	ADP	E	_	3	case	_	start_char=0|end_char=4
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=5|end_char=7
+3	vaccino	vaccino	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=8|end_char=15
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=16|end_char=17
+5	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	start_char=18|end_char=23
+6	male	male	ADV	B	_	0	root	_	start_char=24|end_char=28
+7	solo	solo	ADV	B	_	10	advmod	_	start_char=29|end_char=33
+8	per	per	ADP	E	_	10	case	_	start_char=34|end_char=37
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=38|end_char=40
+10	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=41|end_char=47
+11	intero	intero	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No|start_char=48|end_char=54
+12	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-stato_stare-013
+# text = Con le nuove pastiglie è stato bene quasi immediatamente.
+# correction = stato: lemma essere -> stare
+1	Con	con	ADP	E	_	4	case	_	start_char=0|end_char=3
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	start_char=4|end_char=6
+3	nuove	nuovo	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	start_char=7|end_char=12
+4	pastiglie	pastiglia	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	start_char=13|end_char=22
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=23|end_char=24
+6	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	cop	_	start_char=25|end_char=30
+7	bene	bene	ADV	B	_	0	root	_	start_char=31|end_char=35
+8	quasi	quasi	ADV	B	_	9	advmod	_	start_char=36|end_char=41
+9	immediatamente	immediatamente	ADV	B	_	7	advmod	_	SpaceAfter=No|start_char=42|end_char=56
+10	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-stato_stare-014
+# text = Sarebbe stato meglio non dire nulla in quella situazione delicata.
+# correction = stato: lemma essere -> stare
+1	Sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=7
+2	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	start_char=8|end_char=13
+3	meglio	meglio	ADV	B	_	0	root	_	start_char=14|end_char=20
+4	non	non	ADV	BN	Polarity=Neg	5	advmod	_	start_char=21|end_char=24
+5	dire	dire	VERB	V	VerbForm=Inf	3	csubj	_	start_char=25|end_char=29
+6	nulla	nulla	PRON	PN	PronType=Neg	5	obj	_	start_char=30|end_char=35
+7	in	in	ADP	E	_	9	case	_	start_char=36|end_char=38
+8	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=39|end_char=45
+9	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=46|end_char=56
+10	delicata	delicato	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|start_char=57|end_char=65
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=65|end_char=66
+
+# sent_id = it-stato_stare-015
+# text = Senza quell'operazione sarebbe stato peggio di mese in mese.
+# correction = stato: lemma essere -> stare
+1	Senza	senza	ADP	E	_	3	case	_	start_char=0|end_char=5
+2	quell'	quello	DET	DD	Number=Sing|PronType=Dem	3	det	_	SpaceAfter=No|start_char=6|end_char=12
+3	operazione	operazione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	start_char=12|end_char=22
+4	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=23|end_char=30
+5	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	start_char=31|end_char=36
+6	peggio	peggio	ADV	B	_	0	root	_	start_char=37|end_char=43
+7	di	di	ADP	E	_	8	case	_	start_char=44|end_char=46
+8	mese	mese	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=47|end_char=51
+9	in	in	ADP	E	_	10	case	_	start_char=52|end_char=54
+10	mese	mese	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|start_char=55|end_char=59
+11	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-stato_stare-016
+# text = Lo studente è stato male durante l'esame e ha dovuto uscire.
+# correction = stato: lemma essere -> stare
+1	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	studente	studente	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3|end_char=11
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=13
+4	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=14|end_char=19
+5	male	male	ADV	B	_	0	root	_	start_char=20|end_char=24
+6	durante	durante	ADP	E	_	8	case	_	start_char=25|end_char=32
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|start_char=33|end_char=35
+8	esame	esame	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	start_char=35|end_char=40
+9	e	e	CCONJ	CC	_	12	cc	_	start_char=41|end_char=42
+10	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=43|end_char=45
+11	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux	_	start_char=46|end_char=52
+12	uscire	uscire	VERB	V	VerbForm=Inf	5	conj	_	SpaceAfter=No|start_char=53|end_char=59
+13	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-stato_stare-017
+# text = Dopo lo shock iniziale è stato meglio con il passare dei giorni.
+# correction = stato: lemma essere -> stare
+1	Dopo	dopo	ADP	E	_	3	case	_	start_char=0|end_char=4
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=5|end_char=7
+3	shock	shock	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	start_char=8|end_char=13
+4	iniziale	iniziale	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	start_char=14|end_char=22
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=23|end_char=24
+6	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	cop	_	start_char=25|end_char=30
+7	meglio	meglio	ADV	B	_	0	root	_	start_char=31|end_char=37
+8	con	con	ADP	E	_	10	case	_	start_char=38|end_char=41
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=42|end_char=44
+10	passare	passare	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	start_char=45|end_char=52
+11-12	dei	_	_	_	_	_	_	_	start_char=53|end_char=56
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|start_char=57|end_char=63
+14	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=No|start_char=63|end_char=64
+
+# sent_id = it-stato_stare-018
+# text = Il gatto è stato male dopo aver mangiato qualcosa di strano.
+# correction = stato: lemma essere -> stare
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=9|end_char=10
+4	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=11|end_char=16
+5	male	male	ADV	B	_	0	root	_	start_char=17|end_char=21
+6	dopo	dopo	ADP	E	_	8	mark	_	start_char=22|end_char=26
+7	aver	avere	AUX	VA	VerbForm=Inf	8	aux	_	start_char=27|end_char=31
+8	mangiato	mangiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	start_char=32|end_char=40
+9	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	8	obj	_	start_char=41|end_char=49
+10	di	di	ADP	E	_	11	case	_	start_char=50|end_char=52
+11	strano	strano	ADJ	A	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=53|end_char=59
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-stato_stare-019
+# text = Sarebbe stato meglio partire prima dell'alba per evitare il traffico.
+# correction = stato: lemma essere -> stare
+1	Sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=7
+2	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	start_char=8|end_char=13
+3	meglio	meglio	ADV	B	_	0	root	_	start_char=14|end_char=20
+4	partire	partire	VERB	V	VerbForm=Inf	3	csubj	_	start_char=21|end_char=28
+5	prima	prima	ADP	E	_	8	case	_	start_char=29|end_char=34
+6-7	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=35|end_char=40
+6	di	di	ADP	E	_	5	fixed	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	alba	alba	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=40|end_char=44
+9	per	per	ADP	E	_	10	mark	_	start_char=45|end_char=48
+10	evitare	evitare	VERB	V	VerbForm=Inf	4	advcl	_	start_char=49|end_char=56
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=57|end_char=59
+12	traffico	traffico	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No|start_char=60|end_char=68
+13	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=68|end_char=69
+
+# sent_id = it-stato_stare-020
+# text = Con più riposo sarebbe stato bene in tempo per la partita.
+# correction = stato: lemma essere -> stare
+1	Con	con	ADP	E	_	3	case	_	start_char=0|end_char=3
+2	più	più	ADV	B	_	3	advmod	_	start_char=4|end_char=7
+3	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=8|end_char=14
+4	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=15|end_char=22
+5	stato	stare	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	start_char=23|end_char=28
+6	bene	bene	ADV	B	_	0	root	_	start_char=29|end_char=33
+7	in	in	ADP	E	_	8	case	_	start_char=34|end_char=36
+8	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=37|end_char=42
+9	per	per	ADP	E	_	11	case	_	start_char=43|end_char=46
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	start_char=47|end_char=49
+11	partita	partita	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No|start_char=50|end_char=57
+12	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-stato_stare-021
+# text = Il problema è stato risolto rapidamente dai tecnici esperti.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=3|end_char=11
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=12|end_char=13
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=14|end_char=19
+5	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=20|end_char=27
+6	rapidamente	rapidamente	ADV	B	_	5	advmod	_	start_char=28|end_char=39
+7-8	dai	_	_	_	_	_	_	_	start_char=40|end_char=43
+7	da	da	ADP	E	_	9	case	_	start_char=40|end_char=42
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	start_char=42|end_char=43
+9	tecnici	tecnico	NOUN	S	Gender=Masc|Number=Plur	5	obl:agent	_	start_char=44|end_char=51
+10	esperti	esperto	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No|start_char=52|end_char=59
+11	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-stato_stare-022
+# text = Il tempo è stato bellissimo durante tutte le vacanze estive.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=9|end_char=10
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=11|end_char=16
+5	bellissimo	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	start_char=17|end_char=27
+6	durante	durante	ADP	E	_	9	case	_	start_char=28|end_char=35
+7	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	9	det:predet	_	start_char=36|end_char=41
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	start_char=42|end_char=44
+9	vacanze	vacanza	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	start_char=45|end_char=52
+10	estive	estivo	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No|start_char=53|end_char=59
+11	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-stato_stare-023
+# text = È stato molto gentile ad aiutarci con il trasloco sabato.
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=0|end_char=1
+2	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	cop	_	start_char=2|end_char=7
+3	molto	molto	ADV	B	_	4	advmod	_	start_char=8|end_char=13
+4	gentile	gentile	ADJ	A	Gender=Masc|Number=Sing	0	root	_	start_char=14|end_char=21
+5	ad	a	ADP	E	_	6	mark	_	start_char=22|end_char=24
+6-7	aiutarci	_	_	_	_	_	_	_	start_char=25|end_char=33
+6	aiutar	aiutare	VERB	V	VerbForm=Inf	4	advcl	_	start_char=25|end_char=31
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	start_char=31|end_char=33
+8	con	con	ADP	E	_	10	case	_	start_char=34|end_char=37
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=38|end_char=40
+10	trasloco	trasloco	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=41|end_char=49
+11	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No|start_char=50|end_char=56
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-stato_stare-024
+# text = Il discorso è stato interessante e ha coinvolto tutto il pubblico.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3|end_char=11
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=13
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	start_char=14|end_char=19
+5	interessante	interessante	ADJ	A	Gender=Masc|Number=Sing	0	root	_	start_char=20|end_char=32
+6	e	e	CCONJ	CC	_	8	cc	_	start_char=33|end_char=34
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=35|end_char=37
+8	coinvolto	coinvolgere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	start_char=38|end_char=47
+9	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	11	det:predet	_	start_char=48|end_char=53
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=54|end_char=56
+11	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No|start_char=57|end_char=65
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=65|end_char=66
+
+# sent_id = it-stato_stare-025
+# text = Sono stato a Roma tre volte negli ultimi dieci anni.
+1	Sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=4
+2	stato	stare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=5|end_char=10
+3	a	a	ADP	E	_	4	case	_	start_char=11|end_char=12
+4	Roma	Roma	PROPN	SP	_	2	obl	_	start_char=13|end_char=17
+5	tre	tre	NUM	N	NumType=Card	6	nummod	_	start_char=18|end_char=21
+6	volte	volta	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	start_char=22|end_char=27
+7-8	negli	_	_	_	_	_	_	_	start_char=28|end_char=33
+7	in	in	ADP	E	_	11	case	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+9	ultimi	ultimo	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	start_char=34|end_char=40
+10	dieci	dieci	NUM	N	NumType=Card	11	nummod	_	start_char=41|end_char=46
+11	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No|start_char=47|end_char=51
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=51|end_char=52
+
+# sent_id = it-stato_stare-026
+# text = Il contratto è stato firmato da entrambe le parti ieri sera.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	contratto	contratto	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=3|end_char=12
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=13|end_char=14
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=15|end_char=20
+5	firmato	firmare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=21|end_char=28
+6	da	da	ADP	E	_	9	case	_	start_char=29|end_char=31
+7	entrambe	entrambi	DET	T	Gender=Fem|Number=Plur|PronType=Tot	9	det:predet	_	start_char=32|end_char=40
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	start_char=41|end_char=43
+9	parti	parte	NOUN	S	Gender=Fem|Number=Plur	5	obl:agent	_	start_char=44|end_char=49
+10	ieri	ieri	ADV	B	_	11	advmod	_	start_char=50|end_char=54
+11	sera	sera	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No|start_char=55|end_char=59
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-stato_stare-027
+# text = Sono stato molto felice di rivederti dopo tanto tempo lontano.
+1	Sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=0|end_char=4
+2	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	cop	_	start_char=5|end_char=10
+3	molto	molto	ADV	B	_	4	advmod	_	start_char=11|end_char=16
+4	felice	felice	ADJ	A	Gender=Masc|Number=Sing	0	root	_	start_char=17|end_char=23
+5	di	di	ADP	E	_	6	mark	_	start_char=24|end_char=26
+6	rivederti	rivedere	VERB	V	VerbForm=Inf	4	advcl	_	start_char=27|end_char=36
+7	dopo	dopo	ADP	E	_	9	case	_	start_char=37|end_char=41
+8	tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	start_char=42|end_char=47
+9	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	start_char=48|end_char=53
+10	lontano	lontano	ADV	B	_	6	advmod	_	SpaceAfter=No|start_char=54|end_char=61
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-stato_stare-028
+# text = L'edificio è stato costruito nel milleottocento e restaurato di recente.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|start_char=0|end_char=2
+2	edificio	edificio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=2|end_char=10
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=11|end_char=12
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=13|end_char=18
+5	costruito	costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=19|end_char=28
+6-7	nel	_	_	_	_	_	_	_	start_char=29|end_char=32
+6	in	in	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	milleottocento	milleottocento	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	start_char=33|end_char=47
+9	e	e	CCONJ	CC	_	10	cc	_	start_char=48|end_char=49
+10	restaurato	restaurare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	start_char=50|end_char=60
+11	di	di	ADP	E	_	12	case	_	start_char=61|end_char=63
+12	recente	recente	ADJ	A	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No|start_char=64|end_char=71
+13	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=71|end_char=72
+
+# sent_id = it-pianto_verb-001
+# text = Ha pianto a lungo dopo aver ricevuto quella terribile notizia.
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=9
+3	a	a	ADP	E	_	4	case	_	start_char=10|end_char=11
+4	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	2	obl	_	start_char=12|end_char=17
+5	dopo	dopo	ADP	E	_	7	mark	_	start_char=18|end_char=22
+6	aver	avere	AUX	VA	VerbForm=Inf	7	aux	_	start_char=23|end_char=27
+7	ricevuto	ricevere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	start_char=28|end_char=36
+8	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	start_char=37|end_char=43
+9	terribile	terribile	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	start_char=44|end_char=53
+10	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No|start_char=54|end_char=61
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-pianto_verb-002
+# text = Il bambino ha pianto tutta la notte senza sosta alcuna.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=10
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=13
+4	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=20
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	start_char=21|end_char=26
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=27|end_char=29
+7	notte	notte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=30|end_char=35
+8	senza	senza	ADP	E	_	9	case	_	start_char=36|end_char=41
+9	sosta	sosta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=42|end_char=47
+10	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	SpaceAfter=No|start_char=48|end_char=54
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-pianto_verb-003
+# text = Lei ha pianto di gioia quando ha saputo della promozione.
+# correction = pianto: lemma pianto -> piangere; pianto: upos NOUN -> VERB; pianto: feats VerbForm=<missing> -> VerbForm=Part; pianto: feats Tense=<missing> -> Tense=Past
+1	Lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	di	di	ADP	E	_	5	case	_	start_char=14|end_char=16
+5	gioia	gioia	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=17|end_char=22
+6	quando	quando	SCONJ	CS	_	8	mark	_	start_char=23|end_char=29
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=30|end_char=32
+8	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	start_char=33|end_char=39
+9-10	della	_	_	_	_	_	_	_	start_char=40|end_char=45
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	promozione	promozione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No|start_char=46|end_char=56
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-pianto_verb-004
+# text = Hanno pianto tutti durante il funerale del vecchio maestro.
+1	Hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=5
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=12
+3	tutti	tutto	PRON	T	Gender=Masc|Number=Plur|PronType=Tot	2	nsubj	_	start_char=13|end_char=18
+4	durante	durante	ADP	E	_	6	case	_	start_char=19|end_char=26
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=27|end_char=29
+6	funerale	funerale	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	start_char=30|end_char=38
+7-8	del	_	_	_	_	_	_	_	start_char=39|end_char=42
+7	di	di	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	start_char=43|end_char=50
+10	maestro	maestro	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No|start_char=51|end_char=58
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-pianto_verb-005
+# text = Non ha pianto nemmeno una volta durante tutto il film triste.
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	nemmeno	nemmeno	ADV	BN	Polarity=Neg	3	advmod	_	start_char=14|end_char=21
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=22|end_char=25
+6	volta	volta	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=26|end_char=31
+7	durante	durante	ADP	E	_	10	case	_	start_char=32|end_char=39
+8	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	start_char=40|end_char=45
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=46|end_char=48
+10	film	film	NOUN	S	Gender=Masc	3	obl	_	start_char=49|end_char=53
+11	triste	triste	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No|start_char=54|end_char=60
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-pianto_verb-006
+# text = Avrebbe pianto se non fosse stato così orgoglioso e testardo.
+1	Avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=7
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+3	se	se	SCONJ	CS	_	8	mark	_	start_char=15|end_char=17
+4	non	non	ADV	BN	Polarity=Neg	8	advmod	_	start_char=18|end_char=21
+5	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	start_char=22|end_char=27
+6	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	start_char=28|end_char=33
+7	così	così	ADV	B	_	8	advmod	_	start_char=34|end_char=38
+8	orgoglioso	orgoglioso	ADJ	A	Gender=Masc|Number=Sing	2	advcl	_	start_char=39|end_char=49
+9	e	e	CCONJ	CC	_	10	cc	_	start_char=50|end_char=51
+10	testardo	testardo	ADJ	A	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No|start_char=52|end_char=60
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-pianto_verb-007
+# text = La ragazza ha pianto per ore nella sua stanza da sola.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	start_char=3|end_char=10
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=13
+4	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=20
+5	per	per	ADP	E	_	6	case	_	start_char=21|end_char=24
+6	ore	ora	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	start_char=25|end_char=28
+7-8	nella	_	_	_	_	_	_	_	start_char=29|end_char=34
+7	in	in	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	start_char=35|end_char=38
+10	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=39|end_char=45
+11	da	da	ADP	E	_	12	case	_	start_char=46|end_char=48
+12	sola	solo	ADJ	A	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|start_char=49|end_char=53
+13	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-pianto_verb-008
+# text = Abbiamo pianto insieme guardando quel documentario sulla guerra civile.
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=7
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+3	insieme	insieme	ADV	B	_	2	advmod	_	start_char=15|end_char=22
+4	guardando	guardare	VERB	V	VerbForm=Ger	2	advcl	_	start_char=23|end_char=32
+5	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	start_char=33|end_char=37
+6	documentario	documentario	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	start_char=38|end_char=50
+7-8	sulla	_	_	_	_	_	_	_	start_char=51|end_char=56
+7	su	su	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	start_char=57|end_char=63
+10	civile	civile	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|start_char=64|end_char=70
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=70|end_char=71
+
+# sent_id = it-pianto_verb-009
+# text = Ha pianto così tanto che gli occhi erano rossi e gonfi.
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=9
+3	così	così	ADV	B	_	2	advmod	_	start_char=10|end_char=14
+4	tanto	tanto	ADV	B	_	2	advmod	_	start_char=15|end_char=20
+5	che	che	SCONJ	CS	_	9	mark	_	start_char=21|end_char=24
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	start_char=25|end_char=28
+7	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	start_char=29|end_char=34
+8	erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	start_char=35|end_char=40
+9	rossi	rosso	ADJ	A	Gender=Masc|Number=Plur	2	ccomp	_	start_char=41|end_char=46
+10	e	e	CCONJ	CC	_	11	cc	_	start_char=47|end_char=48
+11	gonfi	gonfio	ADJ	A	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No|start_char=49|end_char=54
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-pianto_verb-010
+# text = Non avrei mai pianto davanti a tutti quei colleghi di lavoro.
+1	Non	non	ADV	BN	Polarity=Neg	4	advmod	_	start_char=0|end_char=3
+2	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=9
+3	mai	mai	ADV	B	_	4	advmod	_	start_char=10|end_char=13
+4	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=20
+5	davanti	davanti	ADP	E	_	9	case	_	start_char=21|end_char=28
+6	a	a	ADP	E	_	5	fixed	_	start_char=29|end_char=30
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	9	det:predet	_	start_char=31|end_char=36
+8	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	9	det	_	start_char=37|end_char=41
+9	colleghi	collega	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	start_char=42|end_char=50
+10	di	di	ADP	E	_	11	case	_	start_char=51|end_char=53
+11	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=54|end_char=60
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-pianto_verb-011
+# text = Il vecchio ha pianto rivedendo la casa dove era cresciuto.
+# correction = pianto: lemma pianto -> piangere; pianto: upos NOUN -> VERB; pianto: feats VerbForm=<missing> -> VerbForm=Part; pianto: feats Tense=<missing> -> Tense=Past
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	vecchio	vecchio	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=10
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=13
+4	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=20
+5	rivedendo	rivedere	VERB	V	VerbForm=Ger	4	advcl	_	start_char=21|end_char=30
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=31|end_char=33
+7	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	start_char=34|end_char=38
+8	dove	dove	ADV	B	_	10	advmod	_	start_char=39|end_char=43
+9	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	start_char=44|end_char=47
+10	cresciuto	crescere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	SpaceAfter=No|start_char=48|end_char=57
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-pianto_verb-012
+# text = Avevano pianto lacrime amare per la perdita del loro amico.
+1	Avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	start_char=0|end_char=7
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+3	lacrime	lacrima	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	start_char=15|end_char=22
+4	amare	amaro	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	start_char=23|end_char=28
+5	per	per	ADP	E	_	7	case	_	start_char=29|end_char=32
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=33|end_char=35
+7	perdita	perdita	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	start_char=36|end_char=43
+8-9	del	_	_	_	_	_	_	_	start_char=44|end_char=47
+8	di	di	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	loro	loro	DET	AP	Poss=Yes|PronType=Prs	11	det:poss	_	start_char=48|end_char=52
+11	amico	amico	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No|start_char=53|end_char=58
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-pianto_verb-013
+# text = La madre ha pianto stringendo tra le braccia il figlio ritrovato.
+# correction = pianto: lemma pianto -> piangere; pianto: upos NOUN -> VERB; pianto: feats VerbForm=<missing> -> VerbForm=Part; pianto: feats Tense=<missing> -> Tense=Past
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	madre	madre	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	start_char=3|end_char=8
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=9|end_char=11
+4	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=18
+5	stringendo	stringere	VERB	V	VerbForm=Ger	4	advcl	_	start_char=19|end_char=29
+6	tra	tra	ADP	E	_	8	case	_	start_char=30|end_char=33
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	start_char=34|end_char=36
+8	braccia	braccio	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	start_char=37|end_char=44
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=45|end_char=47
+10	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	start_char=48|end_char=54
+11	ritrovato	ritrovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	SpaceAfter=No|start_char=55|end_char=64
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=64|end_char=65
+
+# sent_id = it-pianto_verb-014
+# text = Hai pianto quando hai letto la lettera del tuo nonno?
+1	Hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=3
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=4|end_char=10
+3	quando	quando	SCONJ	CS	_	5	mark	_	start_char=11|end_char=17
+4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=18|end_char=21
+5	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	start_char=22|end_char=27
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=28|end_char=30
+7	lettera	lettera	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	start_char=31|end_char=38
+8-9	del	_	_	_	_	_	_	_	start_char=39|end_char=42
+8	di	di	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	start_char=43|end_char=46
+11	nonno	nonno	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No|start_char=47|end_char=52
+12	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-pianto_verb-015
+# text = Ho pianto di rabbia dopo quella discussione ingiusta con il capo.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=9
+3	di	di	ADP	E	_	4	case	_	start_char=10|end_char=12
+4	rabbia	rabbia	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	start_char=13|end_char=19
+5	dopo	dopo	ADP	E	_	7	case	_	start_char=20|end_char=24
+6	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=25|end_char=31
+7	discussione	discussione	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	start_char=32|end_char=43
+8	ingiusta	ingiusto	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	start_char=44|end_char=52
+9	con	con	ADP	E	_	11	case	_	start_char=53|end_char=56
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=57|end_char=59
+11	capo	capo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No|start_char=60|end_char=64
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=64|end_char=65
+
+# sent_id = it-pianto_verb-016
+# text = La sposa ha pianto di felicità durante la cerimonia in chiesa.
+# correction = pianto: lemma pianto -> piangere; pianto: upos NOUN -> VERB; pianto: feats VerbForm=<missing> -> VerbForm=Part; pianto: feats Tense=<missing> -> Tense=Past
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	sposa	sposo	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	start_char=3|end_char=8
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=9|end_char=11
+4	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=18
+5	di	di	ADP	E	_	6	case	_	start_char=19|end_char=21
+6	felicità	felicità	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=22|end_char=30
+7	durante	durante	ADP	E	_	9	case	_	start_char=31|end_char=38
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=39|end_char=41
+9	cerimonia	cerimonia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=42|end_char=51
+10	in	in	ADP	E	_	11	case	_	start_char=52|end_char=54
+11	chiesa	chiesa	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=55|end_char=61
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-pianto_verb-017
+# text = Avremmo pianto se avessimo saputo quello che stava succedendo laggiù.
+1	Avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=7
+2	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+3	se	se	SCONJ	CS	_	5	mark	_	start_char=15|end_char=17
+4	avessimo	avere	AUX	VA	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	start_char=18|end_char=26
+5	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	start_char=27|end_char=33
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	start_char=34|end_char=40
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	start_char=41|end_char=44
+8	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	start_char=45|end_char=50
+9	succedendo	succedere	VERB	V	VerbForm=Ger	6	acl:relcl	_	start_char=51|end_char=61
+10	laggiù	laggiù	ADV	B	_	9	advmod	_	SpaceAfter=No|start_char=62|end_char=68
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=68|end_char=69
+
+# sent_id = it-pianto_verb-018
+# text = Il pubblico ha pianto alla fine dello spettacolo teatrale commovente.
+# correction = pianto: lemma pianto -> piangere; pianto: upos NOUN -> VERB; pianto: feats VerbForm=<missing> -> VerbForm=Part; pianto: feats Tense=<missing> -> Tense=Past
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=11
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=12|end_char=14
+4	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=15|end_char=21
+5-6	alla	_	_	_	_	_	_	_	start_char=22|end_char=26
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	fine	fine	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=27|end_char=31
+8-9	dello	_	_	_	_	_	_	_	start_char=32|end_char=37
+8	di	di	ADP	E	_	10	case	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	start_char=38|end_char=48
+11	teatrale	teatrale	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	start_char=49|end_char=57
+12	commovente	commovente	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No|start_char=58|end_char=68
+13	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=68|end_char=69
+
+# sent_id = it-pianto_verb-019
+# text = Non ha pianto davanti a nessuno per non mostrare debolezza.
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	davanti	davanti	ADP	E	_	6	case	_	start_char=14|end_char=21
+5	a	a	ADP	E	_	4	fixed	_	start_char=22|end_char=23
+6	nessuno	nessuno	PRON	PN	Gender=Masc|Number=Sing|PronType=Neg	3	obl	_	start_char=24|end_char=31
+7	per	per	ADP	E	_	9	mark	_	start_char=32|end_char=35
+8	non	non	ADV	BN	Polarity=Neg	9	advmod	_	start_char=36|end_char=39
+9	mostrare	mostrare	VERB	V	VerbForm=Inf	3	advcl	_	start_char=40|end_char=48
+10	debolezza	debolezza	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No|start_char=49|end_char=58
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-pianto_verb-020
+# text = Lei ha pianto in silenzio mentre guardava fuori dalla finestra.
+1	Lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	pianto	piangere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	in	in	ADP	E	_	5	case	_	start_char=14|end_char=16
+5	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=17|end_char=25
+6	mentre	mentre	SCONJ	CS	_	7	mark	_	start_char=26|end_char=32
+7	guardava	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	start_char=33|end_char=41
+8	fuori	fuori	ADP	E	_	11	case	_	start_char=42|end_char=47
+9-10	dalla	_	_	_	_	_	_	_	start_char=48|end_char=53
+9	da	da	ADP	E	_	8	fixed	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	finestra	finestra	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|start_char=54|end_char=62
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=62|end_char=63
+
+# sent_id = it-pianto_verb-021
+# text = Il pianto del bambino si sentiva da tutto il corridoio.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	pianto	pianto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	start_char=3|end_char=9
+3-4	del	_	_	_	_	_	_	_	start_char=10|end_char=13
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	start_char=14|end_char=21
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	start_char=22|end_char=24
+7	sentiva	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=25|end_char=32
+8	da	da	ADP	E	_	11	case	_	start_char=33|end_char=35
+9	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	11	det:predet	_	start_char=36|end_char=41
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=42|end_char=44
+11	corridoio	corridoio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No|start_char=45|end_char=54
+12	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-pianto_verb-022
+# text = Un pianto disperato riempiva la stanza vuota e fredda.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	pianto	pianto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=9
+3	disperato	disperato	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	start_char=10|end_char=19
+4	riempiva	riempire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=20|end_char=28
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=29|end_char=31
+6	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	start_char=32|end_char=38
+7	vuota	vuoto	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	start_char=39|end_char=44
+8	e	e	CCONJ	CC	_	9	cc	_	start_char=45|end_char=46
+9	fredda	freddo	ADJ	A	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No|start_char=47|end_char=53
+10	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-pianto_verb-023
+# text = Il suo pianto era inconsolabile dopo la perdita del gatto.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=0|end_char=2
+2	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	start_char=3|end_char=6
+3	pianto	pianto	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=7|end_char=13
+4	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	start_char=14|end_char=17
+5	inconsolabile	inconsolabile	ADJ	A	Gender=Masc|Number=Sing	0	root	_	start_char=18|end_char=31
+6	dopo	dopo	ADP	E	_	8	case	_	start_char=32|end_char=36
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=37|end_char=39
+8	perdita	perdita	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=40|end_char=47
+9-10	del	_	_	_	_	_	_	_	start_char=48|end_char=51
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No|start_char=52|end_char=57
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-pianto_verb-024
+# text = Si udiva un pianto sommesso provenire dalla stanza accanto.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	start_char=0|end_char=2
+2	udiva	udire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=3|end_char=8
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=9|end_char=11
+4	pianto	pianto	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	start_char=12|end_char=18
+5	sommesso	sommesso	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	start_char=19|end_char=27
+6	provenire	provenire	VERB	V	VerbForm=Inf	4	acl	_	start_char=28|end_char=37
+7-8	dalla	_	_	_	_	_	_	_	start_char=38|end_char=43
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	start_char=44|end_char=50
+10	accanto	accanto	ADV	B	_	9	advmod	_	SpaceAfter=No|start_char=51|end_char=58
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-pianto_verb-025
+# text = Il pianto dei neonati è del tutto normale nelle prime settimane.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	pianto	pianto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	start_char=3|end_char=9
+3-4	dei	_	_	_	_	_	_	_	start_char=10|end_char=13
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	neonati	neonato	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	start_char=14|end_char=21
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=22|end_char=23
+7-8	del	_	_	_	_	_	_	_	start_char=24|end_char=27
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tutto	tutto	PRON	T	Gender=Masc|Number=Sing|PronType=Tot	10	obl	_	start_char=28|end_char=33
+10	normale	normale	ADJ	A	Gender=Masc|Number=Sing	0	root	_	start_char=34|end_char=41
+11-12	nelle	_	_	_	_	_	_	_	start_char=42|end_char=47
+11	in	in	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	prime	primo	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	14	amod	_	start_char=48|end_char=53
+14	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No|start_char=54|end_char=63
+15	.	.	PUNCT	FS	_	10	punct	_	SpaceAfter=No|start_char=63|end_char=64
+
+# sent_id = it-it_aux_avere-001
+# text = Maria ha parlato con il direttore stamattina in ufficio.
+1	Maria	Maria	PROPN	SP	_	3	nsubj	_	start_char=0|end_char=5
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=6|end_char=8
+3	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=9|end_char=16
+4	con	con	ADP	E	_	6	case	_	start_char=17|end_char=20
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=21|end_char=23
+6	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=24|end_char=33
+7	stamattina	stamattina	ADV	B	_	3	advmod	_	start_char=34|end_char=44
+8	in	in	ADP	E	_	9	case	_	start_char=45|end_char=47
+9	ufficio	ufficio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No|start_char=48|end_char=55
+10	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=55|end_char=56
+
+# sent_id = it-it_aux_avere-002
+# text = I ragazzi hanno studiato tutta la notte per l'esame finale.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=1
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	start_char=2|end_char=9
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=10|end_char=15
+4	studiato	studiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=16|end_char=24
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	start_char=25|end_char=30
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=31|end_char=33
+7	notte	notte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=34|end_char=39
+8	per	per	ADP	E	_	10	case	_	start_char=40|end_char=43
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No|start_char=44|end_char=46
+10	esame	esame	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	start_char=46|end_char=51
+11	finale	finale	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No|start_char=52|end_char=58
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-it_aux_avere-003
+# text = Ho mangiato troppo a pranzo e mi sento molto pesante.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	mangiato	mangiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=11
+3	troppo	troppo	ADV	B	_	2	advmod	_	start_char=12|end_char=18
+4	a	a	ADP	E	_	5	case	_	start_char=19|end_char=20
+5	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	start_char=21|end_char=27
+6	e	e	CCONJ	CC	_	8	cc	_	start_char=28|end_char=29
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	start_char=30|end_char=32
+8	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=33|end_char=38
+9	molto	molto	ADV	B	_	10	advmod	_	start_char=39|end_char=44
+10	pesante	pesante	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No|start_char=45|end_char=52
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_aux_avere-004
+# text = Hai visto il nuovo film che è uscito al cinema venerdì?
+1	Hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=3
+2	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=4|end_char=9
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=10|end_char=12
+4	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	start_char=13|end_char=18
+5	film	film	NOUN	S	Gender=Masc	2	obj	_	start_char=19|end_char=23
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	start_char=24|end_char=27
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=28|end_char=29
+8	uscito	uscire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	start_char=30|end_char=36
+9-10	al	_	_	_	_	_	_	_	start_char=37|end_char=39
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	cinema	cinema	NOUN	S	Gender=Masc	8	obl	_	start_char=40|end_char=46
+12	venerdì	venerdì	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No|start_char=47|end_char=54
+13	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_aux_avere-005
+# text = Abbiamo finito il lavoro prima del previsto e siamo contenti.
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=7
+2	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=14
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=15|end_char=17
+4	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	start_char=18|end_char=24
+5	prima	prima	ADP	E	_	8	case	_	start_char=25|end_char=30
+6-7	del	_	_	_	_	_	_	_	start_char=31|end_char=34
+6	di	di	ADP	E	_	5	fixed	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	previsto	previsto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	start_char=35|end_char=43
+9	e	e	CCONJ	CC	_	11	cc	_	start_char=44|end_char=45
+10	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=46|end_char=51
+11	contenti	contento	ADJ	A	Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No|start_char=52|end_char=60
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-it_aux_avere-006
+# text = Il professore ha spiegato la lezione con molta chiarezza.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	professore	professore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=13
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=14|end_char=16
+4	spiegato	spiegare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=17|end_char=25
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=26|end_char=28
+6	lezione	lezione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	start_char=29|end_char=36
+7	con	con	ADP	E	_	9	case	_	start_char=37|end_char=40
+8	molta	molto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	start_char=41|end_char=46
+9	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|start_char=47|end_char=56
+10	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-it_aux_avere-007
+# text = Non hanno capito niente della presentazione di ieri sera.
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=9
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=10|end_char=16
+4	niente	niente	PRON	PN	PronType=Neg	3	obj	_	start_char=17|end_char=23
+5-6	della	_	_	_	_	_	_	_	start_char=24|end_char=29
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	presentazione	presentazione	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	start_char=30|end_char=43
+8	di	di	ADP	E	_	9	case	_	start_char=44|end_char=46
+9	ieri	ieri	ADV	B	_	10	advmod	_	start_char=47|end_char=51
+10	sera	sera	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No|start_char=52|end_char=56
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-it_aux_avere-008
+# text = Ha dormito tutto il pomeriggio perché era molto stanco.
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	dormito	dormire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=10
+3	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	5	det:predet	_	start_char=11|end_char=16
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=17|end_char=19
+5	pomeriggio	pomeriggio	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	start_char=20|end_char=30
+6	perché	perché	SCONJ	CS	_	9	mark	_	start_char=31|end_char=37
+7	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	start_char=38|end_char=41
+8	molto	molto	ADV	B	_	9	advmod	_	start_char=42|end_char=47
+9	stanco	stanco	ADJ	A	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No|start_char=48|end_char=54
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_aux_avere-009
+# text = Avete letto il libro che vi ho consigliato la settimana scorsa?
+1	Avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=5
+2	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=11
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=12|end_char=14
+4	libro	libro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	start_char=15|end_char=20
+5	che	che	PRON	PR	PronType=Rel	8	obj	_	start_char=21|end_char=24
+6	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	8	iobj	_	start_char=25|end_char=27
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=28|end_char=30
+8	consigliato	consigliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	start_char=31|end_char=42
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=43|end_char=45
+10	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	start_char=46|end_char=55
+11	scorsa	scorso	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No|start_char=56|end_char=62
+12	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=62|end_char=63
+
+# sent_id = it-it_aux_avere-010
+# text = Il gatto ha bevuto tutta l'acqua dalla ciotola sul balcone.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=8
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=9|end_char=11
+4	bevuto	bere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=18
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	start_char=19|end_char=24
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|start_char=25|end_char=27
+7	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	start_char=27|end_char=32
+8-9	dalla	_	_	_	_	_	_	_	start_char=33|end_char=38
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ciotola	ciotola	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=39|end_char=46
+11-12	sul	_	_	_	_	_	_	_	start_char=47|end_char=50
+11	su	su	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	balcone	balcone	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No|start_char=51|end_char=58
+14	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-it_aux_avere-011
+# text = Ho una casa grande con un bellissimo giardino in campagna.
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=2
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=3|end_char=6
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	start_char=7|end_char=11
+4	grande	grande	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	start_char=12|end_char=18
+5	con	con	ADP	E	_	8	case	_	start_char=19|end_char=22
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=23|end_char=25
+7	bellissimo	bello	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	start_char=26|end_char=36
+8	giardino	giardino	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	start_char=37|end_char=45
+9	in	in	ADP	E	_	10	case	_	start_char=46|end_char=48
+10	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No|start_char=49|end_char=57
+11	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_aux_avere-012
+# text = Maria ha due fratelli e una sorella più piccola di lei.
+1	Maria	Maria	PROPN	SP	_	2	nsubj	_	start_char=0|end_char=5
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	due	due	NUM	N	NumType=Card	4	nummod	_	start_char=9|end_char=12
+4	fratelli	fratello	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	start_char=13|end_char=21
+5	e	e	CCONJ	CC	_	7	cc	_	start_char=22|end_char=23
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=24|end_char=27
+7	sorella	sorella	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	start_char=28|end_char=35
+8	più	più	ADV	B	_	9	advmod	_	start_char=36|end_char=39
+9	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	start_char=40|end_char=47
+10	di	di	ADP	E	_	11	case	_	start_char=48|end_char=50
+11	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	_	SpaceAfter=No|start_char=51|end_char=54
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_aux_avere-013
+# text = Non abbiamo abbastanza tempo per finire tutto il lavoro.
+1	Non	non	ADV	BN	Polarity=Neg	2	advmod	_	start_char=0|end_char=3
+2	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=11
+3	abbastanza	abbastanza	ADV	B	_	2	advmod	_	start_char=12|end_char=22
+4	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	start_char=23|end_char=28
+5	per	per	ADP	E	_	6	mark	_	start_char=29|end_char=32
+6	finire	finire	VERB	V	VerbForm=Inf	2	advcl	_	start_char=33|end_char=39
+7	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	9	det:predet	_	start_char=40|end_char=45
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=46|end_char=48
+9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No|start_char=49|end_char=55
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=55|end_char=56
+
+# sent_id = it-it_nulla_pron-001
+# text = Non ho capito nulla di quello che hai detto ieri.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	nulla	nulla	PRON	PN	PronType=Neg	3	obj	_	start_char=14|end_char=19
+5	di	di	ADP	E	_	6	case	_	start_char=20|end_char=22
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	start_char=23|end_char=29
+7	che	che	PRON	PR	PronType=Rel	9	obj	_	start_char=30|end_char=33
+8	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=34|end_char=37
+9	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	start_char=38|end_char=43
+10	ieri	ieri	ADV	B	_	9	advmod	_	SpaceAfter=No|start_char=44|end_char=48
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=48|end_char=49
+
+# sent_id = it-it_nulla_pron-002
+# text = Nulla è impossibile se ci si impegna con determinazione.
+# correction = WARNING: target 'Nulla' occurrence 0 not found!
+1	Nulla	nulla	PRON	PN	PronType=Neg	3	nsubj	_	start_char=0|end_char=5
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=6|end_char=7
+3	impossibile	impossibile	ADJ	A	Number=Sing	0	root	_	start_char=8|end_char=19
+4	se	se	SCONJ	CS	_	7	mark	_	start_char=20|end_char=22
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	start_char=23|end_char=25
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	start_char=26|end_char=28
+7	impegna	impegnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=29|end_char=36
+8	con	con	ADP	E	_	9	case	_	start_char=37|end_char=40
+9	determinazione	determinazione	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|start_char=41|end_char=55
+10	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=55|end_char=56
+
+# sent_id = it-it_nulla_pron-003
+# text = Non c'è nulla di strano in questa situazione particolare.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No|start_char=4|end_char=6
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=7
+4	nulla	nulla	PRON	PN	PronType=Neg	3	nsubj	_	start_char=8|end_char=13
+5	di	di	ADP	E	_	6	case	_	start_char=14|end_char=16
+6	strano	strano	ADJ	A	Gender=Masc|Number=Sing	4	nmod	_	start_char=17|end_char=23
+7	in	in	ADP	E	_	9	case	_	start_char=24|end_char=26
+8	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=27|end_char=33
+9	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=34|end_char=44
+10	particolare	particolare	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|start_char=45|end_char=56
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-it_nulla_pron-004
+# text = Senza dire nulla se ne andò dalla stanza in silenzio.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Senza	senza	ADP	E	_	2	mark	_	start_char=0|end_char=5
+2	dire	dire	VERB	V	VerbForm=Inf	6	advcl	_	start_char=6|end_char=10
+3	nulla	nulla	PRON	PN	PronType=Neg	2	obj	_	start_char=11|end_char=16
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	start_char=17|end_char=19
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	start_char=20|end_char=22
+6	andò	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=23|end_char=27
+7-8	dalla	_	_	_	_	_	_	_	start_char=28|end_char=33
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	start_char=34|end_char=40
+10	in	in	ADP	E	_	11	case	_	start_char=41|end_char=43
+11	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|start_char=44|end_char=52
+12	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_nulla_pron-005
+# text = Nulla poteva fermarlo quando aveva deciso qualcosa di importante.
+# correction = WARNING: target 'Nulla' occurrence 0 not found!
+1	Nulla	nulla	PRON	PN	PronType=Neg	3	nsubj	_	start_char=0|end_char=5
+2	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	start_char=6|end_char=12
+3-4	fermarlo	_	_	_	_	_	_	_	start_char=13|end_char=21
+3	fermar	fermare	VERB	V	VerbForm=Inf	0	root	_	start_char=13|end_char=19
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=19|end_char=21
+5	quando	quando	SCONJ	CS	_	7	mark	_	start_char=22|end_char=28
+6	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	start_char=29|end_char=34
+7	deciso	decidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	start_char=35|end_char=41
+8	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	start_char=42|end_char=50
+9	di	di	ADP	E	_	10	case	_	start_char=51|end_char=53
+10	importante	importante	ADJ	A	Number=Sing	8	nmod	_	SpaceAfter=No|start_char=54|end_char=64
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=64|end_char=65
+
+# sent_id = it-it_nulla_pron-006
+# text = Non sapeva nulla della sorpresa che gli avevano preparato.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Non	non	ADV	BN	Polarity=Neg	2	advmod	_	start_char=0|end_char=3
+2	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=10
+3	nulla	nulla	PRON	PN	PronType=Neg	2	obj	_	start_char=11|end_char=16
+4-5	della	_	_	_	_	_	_	_	start_char=17|end_char=22
+4	di	di	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	sorpresa	sorpresa	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	start_char=23|end_char=31
+7	che	che	PRON	PR	PronType=Rel	10	obj	_	start_char=32|end_char=35
+8	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	start_char=36|end_char=39
+9	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	start_char=40|end_char=47
+10	preparato	preparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	SpaceAfter=No|start_char=48|end_char=57
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_nulla_pron-007
+# text = Di tutto ciò non resta nulla se non un vago ricordo.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Di	di	ADP	E	_	3	case	_	start_char=0|end_char=2
+2	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	start_char=3|end_char=8
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	start_char=9|end_char=12
+4	non	non	ADV	BN	Polarity=Neg	5	advmod	_	start_char=13|end_char=16
+5	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=22
+6	nulla	nulla	PRON	PN	PronType=Neg	5	nsubj	_	start_char=23|end_char=28
+7	se	se	SCONJ	CS	_	11	mark	_	start_char=29|end_char=31
+8	non	non	ADV	BN	Polarity=Neg	11	advmod	_	start_char=32|end_char=35
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=36|end_char=38
+10	vago	vago	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	start_char=39|end_char=43
+11	ricordo	ricordo	NOUN	S	Gender=Masc|Number=Sing	6	orphan	_	SpaceAfter=No|start_char=44|end_char=51
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=51|end_char=52
+
+# sent_id = it-it_nulla_pron-008
+# text = Aveva provato di tutto ma nulla aveva funzionato fino ad ora.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	start_char=0|end_char=5
+2	provato	provare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=13
+3	di	di	ADP	E	_	4	case	_	start_char=14|end_char=16
+4	tutto	tutto	PRON	T	Gender=Masc|Number=Sing|PronType=Tot	2	obl	_	start_char=17|end_char=22
+5	ma	ma	CCONJ	CC	_	8	cc	_	start_char=23|end_char=25
+6	nulla	nulla	PRON	PN	PronType=Neg	8	nsubj	_	start_char=26|end_char=31
+7	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	start_char=32|end_char=37
+8	funzionato	funzionare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	start_char=38|end_char=48
+9	fino	fino	ADP	E	_	11	case	_	start_char=49|end_char=53
+10	ad	a	ADP	E	_	9	fixed	_	start_char=54|end_char=56
+11	ora	ora	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No|start_char=57|end_char=60
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-it_nulla_pron-009
+# text = Non ho trovato nulla nel cassetto dove tenevo i documenti.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=14
+4	nulla	nulla	PRON	PN	PronType=Neg	3	obj	_	start_char=15|end_char=20
+5-6	nel	_	_	_	_	_	_	_	start_char=21|end_char=24
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cassetto	cassetto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=25|end_char=33
+8	dove	dove	ADV	B	_	9	advmod	_	start_char=34|end_char=38
+9	tenevo	tenere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	start_char=39|end_char=45
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	start_char=46|end_char=47
+11	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No|start_char=48|end_char=57
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_nulla_pron-010
+# text = Nulla lo spaventava quando era giovane e pieno di energia.
+# correction = WARNING: target 'Nulla' occurrence 0 not found!
+1	Nulla	nulla	PRON	PN	PronType=Neg	3	nsubj	_	start_char=0|end_char=5
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=6|end_char=8
+3	spaventava	spaventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=9|end_char=19
+4	quando	quando	SCONJ	CS	_	6	mark	_	start_char=20|end_char=26
+5	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	start_char=27|end_char=30
+6	giovane	giovane	ADJ	A	Gender=Masc|Number=Sing	3	ccomp	_	start_char=31|end_char=38
+7	e	e	CCONJ	CC	_	8	cc	_	start_char=39|end_char=40
+8	pieno	pieno	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	start_char=41|end_char=46
+9	di	di	ADP	E	_	10	case	_	start_char=47|end_char=49
+10	energia	energia	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No|start_char=50|end_char=57
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_nulla_pron-011
+# text = Ha perso tutto e non gli è rimasto nulla di quel patrimonio.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=8
+3	tutto	tutto	PRON	T	Gender=Masc|Number=Sing|PronType=Tot	2	obj	_	start_char=9|end_char=14
+4	e	e	CCONJ	CC	_	8	cc	_	start_char=15|end_char=16
+5	non	non	ADV	BN	Polarity=Neg	8	advmod	_	start_char=17|end_char=20
+6	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	start_char=21|end_char=24
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=25|end_char=26
+8	rimasto	rimanere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	start_char=27|end_char=34
+9	nulla	nulla	PRON	PN	PronType=Neg	8	nsubj	_	start_char=35|end_char=40
+10	di	di	ADP	E	_	12	case	_	start_char=41|end_char=43
+11	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	start_char=44|end_char=48
+12	patrimonio	patrimonio	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=49|end_char=59
+13	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_nulla_pron-012
+# text = Non cambierebbe nulla se potesse tornare indietro nel tempo.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Non	non	ADV	BN	Polarity=Neg	2	advmod	_	start_char=0|end_char=3
+2	cambierebbe	cambiare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=15
+3	nulla	nulla	PRON	PN	PronType=Neg	2	obj	_	start_char=16|end_char=21
+4	se	se	SCONJ	CS	_	6	mark	_	start_char=22|end_char=24
+5	potesse	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	start_char=25|end_char=32
+6	tornare	tornare	VERB	V	VerbForm=Inf	2	advcl	_	start_char=33|end_char=40
+7	indietro	indietro	ADV	B	_	6	advmod	_	start_char=41|end_char=49
+8-9	nel	_	_	_	_	_	_	_	start_char=50|end_char=53
+8	in	in	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|start_char=54|end_char=59
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_nulla_pron-013
+# text = Nulla sembrava andare per il verso giusto quella settimana.
+# correction = WARNING: target 'Nulla' occurrence 0 not found!
+1	Nulla	nulla	PRON	PN	PronType=Neg	2	nsubj	_	start_char=0|end_char=5
+2	sembrava	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=6|end_char=14
+3	andare	andare	VERB	V	VerbForm=Inf	2	xcomp	_	start_char=15|end_char=21
+4	per	per	ADP	E	_	6	case	_	start_char=22|end_char=25
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=26|end_char=28
+6	verso	verso	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=29|end_char=34
+7	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	start_char=35|end_char=41
+8	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=42|end_char=48
+9	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No|start_char=49|end_char=58
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-it_nulla_pron-014
+# text = Non serve a nulla lamentarsi senza proporre una soluzione.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Non	non	ADV	BN	Polarity=Neg	2	advmod	_	start_char=0|end_char=3
+2	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	a	a	ADP	E	_	4	case	_	start_char=10|end_char=11
+4	nulla	nulla	PRON	PN	PronType=Neg	2	obl	_	start_char=12|end_char=17
+5-6	lamentarsi	_	_	_	_	_	_	_	start_char=18|end_char=28
+5	lamentar	lamentare	VERB	V	VerbForm=Inf	2	csubj	_	start_char=18|end_char=26
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	start_char=26|end_char=28
+7	senza	senza	ADP	E	_	8	mark	_	start_char=29|end_char=34
+8	proporre	proporre	VERB	V	VerbForm=Inf	5	advcl	_	start_char=35|end_char=43
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=44|end_char=47
+10	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No|start_char=48|end_char=57
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_nulla_pron-015
+# text = Di nulla aveva bisogno perché era abituato a vivere con poco.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Di	di	ADP	E	_	2	case	_	start_char=0|end_char=2
+2	nulla	nulla	PRON	PN	PronType=Neg	4	nmod	_	start_char=3|end_char=8
+3	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=9|end_char=14
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	start_char=15|end_char=22
+5	perché	perché	SCONJ	CS	_	7	mark	_	start_char=23|end_char=29
+6	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	start_char=30|end_char=33
+7	abituato	abituare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	start_char=34|end_char=42
+8	a	a	ADP	E	_	9	mark	_	start_char=43|end_char=44
+9	vivere	vivere	VERB	V	VerbForm=Inf	7	xcomp	_	start_char=45|end_char=51
+10	con	con	ADP	E	_	11	case	_	start_char=52|end_char=55
+11	poco	poco	ADV	B	_	9	advmod	_	SpaceAfter=No|start_char=56|end_char=60
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-it_nulla_pron-016
+# text = Nulla può fermare chi ha davvero voglia di cambiare vita.
+# correction = WARNING: target 'Nulla' occurrence 0 not found!
+1	Nulla	nulla	PRON	PN	PronType=Neg	3	nsubj	_	start_char=0|end_char=5
+2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=6|end_char=9
+3	fermare	fermare	VERB	V	VerbForm=Inf	0	root	_	start_char=10|end_char=17
+4	chi	chi	PRON	PR	PronType=Rel	3	obj	_	start_char=18|end_char=21
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=22|end_char=24
+6	davvero	davvero	ADV	B	_	5	advmod	_	start_char=25|end_char=32
+7	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	start_char=33|end_char=39
+8	di	di	ADP	E	_	9	mark	_	start_char=40|end_char=42
+9	cambiare	cambiare	VERB	V	VerbForm=Inf	7	acl	_	start_char=43|end_char=51
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No|start_char=52|end_char=56
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-it_nulla_pron-017
+# text = Non disse nulla e uscì dalla stanza chiudendo la porta.
+# correction = WARNING: target 'nulla' occurrence 0 not found!
+1	Non	non	ADV	BN	Polarity=Neg	2	advmod	_	start_char=0|end_char=3
+2	disse	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	nulla	nulla	PRON	PN	PronType=Neg	2	obj	_	start_char=10|end_char=15
+4	e	e	CCONJ	CC	_	5	cc	_	start_char=16|end_char=17
+5	uscì	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	start_char=18|end_char=22
+6-7	dalla	_	_	_	_	_	_	_	start_char=23|end_char=28
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=29|end_char=35
+9	chiudendo	chiudere	VERB	V	VerbForm=Ger	5	advcl	_	start_char=36|end_char=45
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	start_char=46|end_char=48
+11	porta	porta	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No|start_char=49|end_char=54
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_nulla_pron-018
+# text = Nella stanza c'era un tavolo grande con sedie antiche.
+1-2	Nella	_	_	_	_	_	_	_	start_char=0|end_char=5
+1	In	in	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=6|end_char=12
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No|start_char=13|end_char=15
+5	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=15|end_char=18
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=19|end_char=21
+7	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=22|end_char=28
+8	grande	grande	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	start_char=29|end_char=35
+9	con	con	ADP	E	_	10	case	_	start_char=36|end_char=39
+10	sedie	sedia	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	start_char=40|end_char=45
+11	antiche	antico	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No|start_char=46|end_char=53
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-it_nulla_pron-019
+# text = Il gatto dormiva nella cesta accanto al camino acceso.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=3|end_char=8
+3	dormiva	dormire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=9|end_char=16
+4-5	nella	_	_	_	_	_	_	_	start_char=17|end_char=22
+4	in	in	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cesta	cesta	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=23|end_char=28
+7	accanto	accanto	ADP	E	_	10	case	_	start_char=29|end_char=36
+8-9	al	_	_	_	_	_	_	_	start_char=37|end_char=39
+8	a	a	ADP	E	_	7	fixed	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	camino	camino	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=40|end_char=46
+11	acceso	accendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	SpaceAfter=No|start_char=47|end_char=53
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-it_aux_diag-001
+# text = Lui aveva già mangiato quando siamo arrivati a casa.
+1	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	start_char=4|end_char=9
+3	già	già	ADV	B	_	4	advmod	_	start_char=10|end_char=13
+4	mangiato	mangiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=22
+5	quando	quando	SCONJ	CS	_	7	mark	_	start_char=23|end_char=29
+6	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=30|end_char=35
+7	arrivati	arrivare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	start_char=36|end_char=44
+8	a	a	ADP	E	_	9	case	_	start_char=45|end_char=46
+9	casa	casa	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|start_char=47|end_char=51
+10	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=51|end_char=52
+
+# sent_id = it-it_aux_diag-002
+# text = Domani avrà finito il progetto e potrà riposarsi finalmente.
+1	Domani	domani	ADV	B	_	3	advmod	_	start_char=0|end_char=6
+2	avrà	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	start_char=7|end_char=11
+3	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=18
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=19|end_char=21
+5	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	start_char=22|end_char=30
+6	e	e	CCONJ	CC	_	8	cc	_	start_char=31|end_char=32
+7	potrà	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	start_char=33|end_char=38
+8-9	riposarsi	_	_	_	_	_	_	_	start_char=39|end_char=48
+8	riposar	riposare	VERB	V	VerbForm=Inf	3	conj	_	start_char=39|end_char=46
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	start_char=46|end_char=48
+10	finalmente	finalmente	ADV	B	_	8	advmod	_	SpaceAfter=No|start_char=49|end_char=59
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_aux_diag-003
+# text = Lei avrebbe detto la verità se qualcuno glielo avesse chiesto.
+1	Lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=11
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=17
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=18|end_char=20
+5	verità	verità	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	start_char=21|end_char=27
+6	se	se	SCONJ	CS	_	10	mark	_	start_char=28|end_char=30
+7	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	start_char=31|end_char=39
+8	glielo	glielo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=40|end_char=46
+9	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	start_char=47|end_char=53
+10	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No|start_char=54|end_char=61
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-it_aux_diag-004
+# text = Maria è partita stamattina presto per andare al lavoro.
+1	Maria	Maria	PROPN	SP	_	3	nsubj	_	start_char=0|end_char=5
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=6|end_char=7
+3	partita	partire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=15
+4	stamattina	stamattina	ADV	B	_	3	advmod	_	start_char=16|end_char=26
+5	presto	presto	ADV	B	_	3	advmod	_	start_char=27|end_char=33
+6	per	per	ADP	E	_	7	mark	_	start_char=34|end_char=37
+7	andare	andare	VERB	V	VerbForm=Inf	3	advcl	_	start_char=38|end_char=44
+8-9	al	_	_	_	_	_	_	_	start_char=45|end_char=47
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No|start_char=48|end_char=54
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_aux_diag-005
+# text = Il treno è arrivato in ritardo di quasi venti minuti.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	treno	treno	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=9|end_char=10
+4	arrivato	arrivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=11|end_char=19
+5	in	in	ADP	E	_	6	case	_	start_char=20|end_char=22
+6	ritardo	ritardo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	start_char=23|end_char=30
+7	di	di	ADP	E	_	10	case	_	start_char=31|end_char=33
+8	quasi	quasi	ADV	B	_	10	advmod	_	start_char=34|end_char=39
+9	venti	venti	NUM	N	NumType=Card	10	nummod	_	start_char=40|end_char=45
+10	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No|start_char=46|end_char=52
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_aux_diag-006
+# text = Si è svegliata alle sei e ha fatto colazione in fretta.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=4
+3	svegliata	svegliare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=5|end_char=14
+4-5	alle	_	_	_	_	_	_	_	start_char=15|end_char=19
+4	a	a	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	sei	sei	NUM	N	NumType=Card	3	obl	_	start_char=20|end_char=23
+7	e	e	CCONJ	CC	_	9	cc	_	start_char=24|end_char=25
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=26|end_char=28
+9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	start_char=29|end_char=34
+10	colazione	colazione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	start_char=35|end_char=44
+11	in	in	ADP	E	_	12	case	_	start_char=45|end_char=47
+12	fretta	fretta	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No|start_char=48|end_char=54
+13	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_aux_diag-007
+# text = Il bambino ha gridato tutta la notte per il mal di denti.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=10
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=13
+4	gridato	gridare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=21
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	start_char=22|end_char=27
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=28|end_char=30
+7	notte	notte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=31|end_char=36
+8	per	per	ADP	E	_	10	case	_	start_char=37|end_char=40
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=41|end_char=43
+10	mal	male	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	start_char=44|end_char=47
+11	di	di	ADP	E	_	12	case	_	start_char=48|end_char=50
+12	denti	dente	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|start_char=51|end_char=56
+13	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-it_aux_diag-008
+# text = La nonna ha sofferto molto durante la lunga malattia.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	nonna	nonno	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	start_char=3|end_char=8
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=9|end_char=11
+4	sofferto	soffrire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=20
+5	molto	molto	ADV	B	_	4	advmod	_	start_char=21|end_char=26
+6	durante	durante	ADP	E	_	9	case	_	start_char=27|end_char=34
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=35|end_char=37
+8	lunga	lungo	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	start_char=38|end_char=43
+9	malattia	malattia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|start_char=44|end_char=52
+10	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_aux_diag-009
+# text = Quella famiglia ha tre cani e due gatti nel giardino.
+1	Quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=6
+2	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	start_char=7|end_char=15
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=18
+4	tre	tre	NUM	N	NumType=Card	5	nummod	_	start_char=19|end_char=22
+5	cani	cane	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	start_char=23|end_char=27
+6	e	e	CCONJ	CC	_	8	cc	_	start_char=28|end_char=29
+7	due	due	NUM	N	NumType=Card	8	nummod	_	start_char=30|end_char=33
+8	gatti	gatto	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	start_char=34|end_char=39
+9-10	nel	_	_	_	_	_	_	_	start_char=40|end_char=43
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	giardino	giardino	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No|start_char=44|end_char=52
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_aux_diag-010
+# text = Non aveva nessuna intenzione di cambiare lavoro quest'anno.
+1	Non	non	ADV	BN	Polarity=Neg	2	advmod	_	start_char=0|end_char=3
+2	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Neg	4	det	_	start_char=10|end_char=17
+4	intenzione	intenzione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	start_char=18|end_char=28
+5	di	di	ADP	E	_	6	mark	_	start_char=29|end_char=31
+6	cambiare	cambiare	VERB	V	VerbForm=Inf	4	acl	_	start_char=32|end_char=40
+7	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	start_char=41|end_char=47
+8	quest'	questo	DET	DD	Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No|start_char=48|end_char=54
+9	anno	anno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|start_char=54|end_char=58
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-it_xpos-001
+# text = Il ragazzo pianse a lungo dopo aver ricevuto la notizia.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=3|end_char=10
+3	pianse	piangere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=11|end_char=17
+4	a	a	ADP	E	_	5	case	_	start_char=18|end_char=19
+5	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	3	obl	_	start_char=20|end_char=25
+6	dopo	dopo	ADP	E	_	8	mark	_	start_char=26|end_char=30
+7	aver	avere	AUX	VA	VerbForm=Inf	8	aux	_	start_char=31|end_char=35
+8	ricevuto	ricevere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	start_char=36|end_char=44
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=45|end_char=47
+10	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No|start_char=48|end_char=55
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=55|end_char=56
+
+# sent_id = it-it_xpos-002
+# text = La donna rise di cuore quando sentì quella battuta divertente.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	donna	donna	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	start_char=3|end_char=8
+3	rise	ridere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+4	di	di	ADP	E	_	5	case	_	start_char=14|end_char=16
+5	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=17|end_char=22
+6	quando	quando	SCONJ	CS	_	7	mark	_	start_char=23|end_char=29
+7	sentì	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=30|end_char=35
+8	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=36|end_char=42
+9	battuta	battuta	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	start_char=43|end_char=50
+10	divertente	divertente	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|start_char=51|end_char=61
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-it_xpos-003
+# text = Il vecchio soffriva di solitudine nella sua casa vuota.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	vecchio	vecchio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=3|end_char=10
+3	soffriva	soffrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=11|end_char=19
+4	di	di	ADP	E	_	5	case	_	start_char=20|end_char=22
+5	solitudine	solitudine	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=23|end_char=33
+6-7	nella	_	_	_	_	_	_	_	start_char=34|end_char=39
+6	in	in	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	start_char=40|end_char=43
+9	casa	casa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=44|end_char=48
+10	vuota	vuoto	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|start_char=49|end_char=54
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_xpos-004
+# text = L'atleta corse velocemente verso il traguardo sotto la pioggia.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|start_char=0|end_char=2
+2	atleta	atleta	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=2|end_char=8
+3	corse	correre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=14
+4	velocemente	velocemente	ADV	B	_	3	advmod	_	start_char=15|end_char=26
+5	verso	verso	ADP	E	_	7	case	_	start_char=27|end_char=32
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=33|end_char=35
+7	traguardo	traguardo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=36|end_char=45
+8	sotto	sotto	ADP	E	_	10	case	_	start_char=46|end_char=51
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=52|end_char=54
+10	pioggia	pioggia	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No|start_char=55|end_char=62
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=62|end_char=63
+
+# sent_id = it-it_xpos-005
+# text = La bambina gridò forte quando vide il ragno sul muro.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	bambina	bambino	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	start_char=3|end_char=10
+3	gridò	gridare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+4	forte	forte	ADV	B	_	3	advmod	_	start_char=17|end_char=22
+5	quando	quando	SCONJ	CS	_	6	mark	_	start_char=23|end_char=29
+6	vide	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=30|end_char=34
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=35|end_char=37
+8	ragno	ragno	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	start_char=38|end_char=43
+9-10	sul	_	_	_	_	_	_	_	start_char=44|end_char=47
+9	su	su	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	muro	muro	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|start_char=48|end_char=52
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_aux_adversarial-001
+# text = Mio fratello ha una macchina rossa molto veloce e sportiva.
+1	Mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	start_char=0|end_char=3
+2	fratello	fratello	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=4|end_char=12
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=15
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=16|end_char=19
+5	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	start_char=20|end_char=28
+6	rossa	rosso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	start_char=29|end_char=34
+7	molto	molto	ADV	B	_	8	advmod	_	start_char=35|end_char=40
+8	veloce	veloce	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	start_char=41|end_char=47
+9	e	e	CCONJ	CC	_	10	cc	_	start_char=48|end_char=49
+10	sportiva	sportivo	ADJ	A	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No|start_char=50|end_char=58
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=58|end_char=59
+
+# sent_id = it-it_aux_adversarial-002
+# text = I miei genitori hanno una casa grande in campagna vicino al lago.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	start_char=0|end_char=1
+2	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	start_char=2|end_char=6
+3	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	start_char=7|end_char=15
+4	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=21
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=22|end_char=25
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	start_char=26|end_char=30
+7	grande	grande	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	start_char=31|end_char=37
+8	in	in	ADP	E	_	9	case	_	start_char=38|end_char=40
+9	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	start_char=41|end_char=49
+10	vicino	vicino	ADP	E	_	13	case	_	start_char=50|end_char=56
+11-12	al	_	_	_	_	_	_	_	start_char=57|end_char=59
+11	a	a	ADP	E	_	10	fixed	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	lago	lago	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No|start_char=60|end_char=64
+14	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=64|end_char=65
+
+# sent_id = it-it_aux_adversarial-003
+# text = Lei ha molta pazienza con i bambini piccoli del quartiere.
+1	Lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=6
+3	molta	molto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	start_char=7|end_char=12
+4	pazienza	pazienza	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	start_char=13|end_char=21
+5	con	con	ADP	E	_	7	case	_	start_char=22|end_char=25
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	start_char=26|end_char=27
+7	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	start_char=28|end_char=35
+8	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	start_char=36|end_char=43
+9-10	del	_	_	_	_	_	_	_	start_char=44|end_char=47
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	quartiere	quartiere	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No|start_char=48|end_char=57
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_aux_adversarial-004
+# text = Noi abbiamo tre settimane di vacanza quest'estate in montagna.
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=11
+3	tre	tre	NUM	N	NumType=Card	4	nummod	_	start_char=12|end_char=15
+4	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	start_char=16|end_char=25
+5	di	di	ADP	E	_	6	case	_	start_char=26|end_char=28
+6	vacanza	vacanza	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	start_char=29|end_char=36
+7	quest'	questo	DET	DD	Number=Sing|PronType=Dem	8	det	_	SpaceAfter=No|start_char=37|end_char=43
+8	estate	estate	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	start_char=43|end_char=49
+9	in	in	ADP	E	_	10	case	_	start_char=50|end_char=52
+10	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No|start_char=53|end_char=61
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=61|end_char=62
+
+# sent_id = it-it_aux_adversarial-005
+# text = Questo ristorante ha un menù eccellente con piatti regionali.
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=6
+2	ristorante	ristorante	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=7|end_char=17
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=18|end_char=20
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=21|end_char=23
+5	menù	menù	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	start_char=24|end_char=28
+6	eccellente	eccellente	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	start_char=29|end_char=39
+7	con	con	ADP	E	_	8	case	_	start_char=40|end_char=43
+8	piatti	piatto	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	start_char=44|end_char=50
+9	regionali	regionale	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No|start_char=51|end_char=60
+10	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-it_expl_ne-001
+# text = Se ne andò senza dire una parola a nessuno quella sera.
+# correction = ne: deprel iobj -> expl
+1	Se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	start_char=3|end_char=5
+3	andò	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+4	senza	senza	ADP	E	_	5	mark	_	start_char=11|end_char=16
+5	dire	dire	VERB	V	VerbForm=Inf	3	advcl	_	start_char=17|end_char=21
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=22|end_char=25
+7	parola	parola	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	start_char=26|end_char=32
+8	a	a	ADP	E	_	9	case	_	start_char=33|end_char=34
+9	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obl	_	start_char=35|end_char=42
+10	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	start_char=43|end_char=49
+11	sera	sera	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No|start_char=50|end_char=54
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_expl_ne-002
+# text = Me ne sono andato prima della fine della riunione.
+1	Me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	start_char=0|end_char=2
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	start_char=3|end_char=5
+3	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=6|end_char=10
+4	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=11|end_char=17
+5	prima	prima	ADP	E	_	8	case	_	start_char=18|end_char=23
+6-7	della	_	_	_	_	_	_	_	start_char=24|end_char=29
+6	di	di	ADP	E	_	5	fixed	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	fine	fine	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=30|end_char=34
+9-10	della	_	_	_	_	_	_	_	start_char=35|end_char=40
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	riunione	riunione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No|start_char=41|end_char=49
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=49|end_char=50
+
+# sent_id = it-it_expl_ne-003
+# text = Non se ne frega niente di quello che pensano gli altri.
+# correction = ne: deprel iobj -> expl
+1	Non	non	ADV	BN	Polarity=Neg	4	advmod	_	start_char=0|end_char=3
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	start_char=4|end_char=6
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	start_char=7|end_char=9
+4	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=15
+5	niente	niente	PRON	PN	PronType=Neg	4	obj	_	start_char=16|end_char=22
+6	di	di	ADP	E	_	7	case	_	start_char=23|end_char=25
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	nmod	_	start_char=26|end_char=32
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	start_char=33|end_char=36
+9	pensano	pensare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=37|end_char=44
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	start_char=45|end_char=48
+11	altri	altro	NOUN	S	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	SpaceAfter=No|start_char=49|end_char=54
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_expl_ne-004
+# text = Ce ne siamo accorti troppo tardi del problema con il motore.
+1	Ce	ce	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	4	expl	_	start_char=0|end_char=2
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	start_char=3|end_char=5
+3	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=6|end_char=11
+4	accorti	accorgere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=19
+5	troppo	troppo	ADV	B	_	6	advmod	_	start_char=20|end_char=26
+6	tardi	tardi	ADV	B	_	4	advmod	_	start_char=27|end_char=32
+7-8	del	_	_	_	_	_	_	_	start_char=33|end_char=36
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	problema	problema	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	start_char=37|end_char=45
+10	con	con	ADP	E	_	12	case	_	start_char=46|end_char=49
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=50|end_char=52
+12	motore	motore	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=53|end_char=59
+13	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_expl_ne-005
+# text = Se ne stava seduto in silenzio nell’angolo della stanza.
+# correction = ne: deprel iobj -> expl
+1	Se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	start_char=0|end_char=2
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	start_char=3|end_char=5
+3	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	start_char=6|end_char=11
+4	seduto	sedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=18
+5	in	in	ADP	E	_	6	case	_	start_char=19|end_char=21
+6	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	start_char=22|end_char=30
+7-8	nell’	_	_	_	_	_	_	_	SpaceAfter=No|start_char=31|end_char=36
+7	in	in	ADP	E	_	9	case	_	_
+8	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	angolo	angolo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	start_char=36|end_char=42
+10-11	della	_	_	_	_	_	_	_	start_char=43|end_char=48
+10	di	di	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=49|end_char=55
+13	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=55|end_char=56
+
+# sent_id = it-it_expl_ne-006
+# text = I turisti se ne sono andati tutti prima del temporale.
+# correction = ne: deprel iobj -> expl
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=1
+2	turisti	turista	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	start_char=2|end_char=9
+3	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	start_char=10|end_char=12
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	start_char=13|end_char=15
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=16|end_char=20
+6	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	start_char=21|end_char=27
+7	tutti	tutto	PRON	T	Gender=Masc|Number=Plur|PronType=Tot	6	nsubj	_	start_char=28|end_char=33
+8	prima	prima	ADP	E	_	11	case	_	start_char=34|end_char=39
+9-10	del	_	_	_	_	_	_	_	start_char=40|end_char=43
+9	di	di	ADP	E	_	8	fixed	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	temporale	temporale	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|start_char=44|end_char=53
+12	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-it_expl_ne-007
+# text = Di mele ne ho mangiate tre stamattina prima di uscire.
+1	Di	di	ADP	E	_	2	case	_	start_char=0|end_char=2
+2	mele	mela	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	start_char=3|end_char=7
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	start_char=8|end_char=10
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=11|end_char=13
+5	mangiate	mangiare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=22
+6	tre	tre	NUM	N	NumType=Card	7	nummod	_	start_char=23|end_char=26
+7	stamattina	stamattina	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=27|end_char=37
+8	prima	prima	ADV	B	_	10	mark	_	start_char=38|end_char=43
+9	di	di	ADP	E	_	8	fixed	_	start_char=44|end_char=46
+10	uscire	uscire	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No|start_char=47|end_char=53
+11	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-it_expl_ne-008
+# text = Ne ho comprati due al mercato vicino alla stazione centrale.
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=5
+3	comprati	comprare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=14
+4	due	due	NUM	N	NumType=Card	3	obj	_	start_char=15|end_char=18
+5-6	al	_	_	_	_	_	_	_	start_char=19|end_char=21
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	start_char=22|end_char=29
+8	vicino	vicino	ADP	E	_	11	case	_	start_char=30|end_char=36
+9-10	alla	_	_	_	_	_	_	_	start_char=37|end_char=41
+9	a	a	ADP	E	_	8	fixed	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	stazione	stazione	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=42|end_char=50
+12	centrale	centrale	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No|start_char=51|end_char=59
+13	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_expl_ne-009
+# text = Di vino ne abbiamo bevuto troppo alla festa di sabato.
+1	Di	di	ADP	E	_	2	case	_	start_char=0|end_char=2
+2	vino	vino	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	start_char=3|end_char=7
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	start_char=8|end_char=10
+4	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=11|end_char=18
+5	bevuto	bere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=19|end_char=25
+6	troppo	troppo	ADV	B	_	5	advmod	_	start_char=26|end_char=32
+7-8	alla	_	_	_	_	_	_	_	start_char=33|end_char=37
+7	a	a	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	festa	festa	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=38|end_char=43
+10	di	di	ADP	E	_	11	case	_	start_char=44|end_char=46
+11	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=47|end_char=53
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-it_expl_ne-010
+# text = Ne restano solo cinque nella scatola sopra il tavolo.
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	start_char=0|end_char=2
+2	restano	restare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=10
+3	solo	solo	ADV	B	_	4	advmod	_	start_char=11|end_char=15
+4	cinque	cinque	NUM	N	NumType=Card	2	nsubj	_	start_char=16|end_char=22
+5-6	nella	_	_	_	_	_	_	_	start_char=23|end_char=28
+5	in	in	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	scatola	scatola	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	start_char=29|end_char=36
+8	sopra	sopra	ADP	E	_	10	case	_	start_char=37|end_char=42
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=43|end_char=45
+10	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No|start_char=46|end_char=52
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_participle_adj-001
+# text = Il corpo è stato ritrovato dai vigili nella zona industriale.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	corpo	corpo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=3|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=9|end_char=10
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=11|end_char=16
+5	ritrovato	ritrovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=17|end_char=26
+6-7	dai	_	_	_	_	_	_	_	start_char=27|end_char=30
+6	da	da	ADP	E	_	8	case	_	start_char=27|end_char=29
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=29|end_char=30
+8	vigili	vigile	NOUN	S	Gender=Masc|Number=Plur	5	obl:agent	_	start_char=31|end_char=37
+9-10	nella	_	_	_	_	_	_	_	start_char=38|end_char=43
+9	in	in	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	zona	zona	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=44|end_char=48
+12	industriale	industriale	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No|start_char=49|end_char=60
+13	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-it_participle_adj-002
+# text = Il negozio è rimasto chiuso per tutta la settimana scorsa.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	negozio	negozio	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	start_char=3|end_char=10
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=12
+4	rimasto	rimanere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=13|end_char=20
+5	chiuso	chiudere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	start_char=21|end_char=27
+6	per	per	ADP	E	_	9	case	_	start_char=28|end_char=31
+7	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	9	det:predet	_	start_char=32|end_char=37
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=38|end_char=40
+9	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=41|end_char=50
+10	scorsa	scorso	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|start_char=51|end_char=57
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_participle_adj-003
+# text = La strada è stata bloccata dalla polizia dopo l’incidente.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	strada	strada	NOUN	S	Gender=Fem|Number=Sing	5	nsubj:pass	_	start_char=3|end_char=9
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=10|end_char=11
+4	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=12|end_char=17
+5	bloccata	bloccare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=18|end_char=26
+6-7	dalla	_	_	_	_	_	_	_	start_char=27|end_char=32
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	5	obl:agent	_	start_char=33|end_char=40
+9	dopo	dopo	ADP	E	_	11	case	_	start_char=41|end_char=45
+10	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|start_char=46|end_char=48
+11	incidente	incidente	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No|start_char=48|end_char=57
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_participle_adj-004
+# text = I documenti sono stati firmati dal direttore ieri pomeriggio.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=1
+2	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	5	nsubj:pass	_	start_char=2|end_char=11
+3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=12|end_char=16
+4	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=17|end_char=22
+5	firmati	firmare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	start_char=23|end_char=30
+6-7	dal	_	_	_	_	_	_	_	start_char=31|end_char=34
+6	da	da	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	5	obl:agent	_	start_char=35|end_char=44
+9	ieri	ieri	ADV	B	_	5	advmod	_	start_char=45|end_char=49
+10	pomeriggio	pomeriggio	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No|start_char=50|end_char=60
+11	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-it_participle_adj-005
+# text = La finestra era rimasta aperta tutta la notte per errore.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	finestra	finestra	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	start_char=3|end_char=11
+3	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	start_char=12|end_char=15
+4	rimasta	rimanere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=16|end_char=23
+5	aperta	aprire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	start_char=24|end_char=30
+6	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	8	det:predet	_	start_char=31|end_char=36
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=37|end_char=39
+8	notte	notte	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	start_char=40|end_char=45
+9	per	per	ADP	E	_	10	case	_	start_char=46|end_char=49
+10	errore	errore	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No|start_char=50|end_char=56
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-it_participle_adj-006
+# text = Il pacco è stato consegnato al portiere del palazzo stamattina.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	pacco	pacco	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=3|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=9|end_char=10
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=11|end_char=16
+5	consegnato	consegnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=17|end_char=27
+6-7	al	_	_	_	_	_	_	_	start_char=28|end_char=30
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	portiere	portiere	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	start_char=31|end_char=39
+9-10	del	_	_	_	_	_	_	_	start_char=40|end_char=43
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	palazzo	palazzo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	start_char=44|end_char=51
+12	stamattina	stamattina	ADV	B	_	5	advmod	_	SpaceAfter=No|start_char=52|end_char=62
+13	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=62|end_char=63
+
+# sent_id = it-it_participle_adj-007
+# text = Le prove sono state raccolte dagli investigatori sulla scena.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=2
+2	prove	prova	NOUN	S	Gender=Fem|Number=Plur	5	nsubj:pass	_	start_char=3|end_char=8
+3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=9|end_char=13
+4	state	essere	AUX	VA	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=14|end_char=19
+5	raccolte	raccogliere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	start_char=20|end_char=28
+6-7	dagli	_	_	_	_	_	_	_	start_char=29|end_char=34
+6	da	da	ADP	E	_	8	case	_	start_char=29|end_char=31
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=31|end_char=34
+8	investigatori	investigatore	NOUN	S	Gender=Masc|Number=Plur	5	obl:agent	_	start_char=35|end_char=48
+9-10	sulla	_	_	_	_	_	_	_	start_char=49|end_char=54
+9	su	su	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	scena	scena	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No|start_char=55|end_char=60
+12	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=60|end_char=61
+
+# sent_id = it-it_participle_adj-008
+# text = Il ponte è stato costruito negli anni sessanta dal comune.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	ponte	ponte	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=3|end_char=8
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=9|end_char=10
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=11|end_char=16
+5	costruito	costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=17|end_char=26
+6-7	negli	_	_	_	_	_	_	_	start_char=27|end_char=32
+6	in	in	ADP	E	_	8	case	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	start_char=33|end_char=37
+9	sessanta	sessanta	NUM	N	NumType=Card	8	nummod	_	start_char=38|end_char=46
+10-11	dal	_	_	_	_	_	_	_	start_char=47|end_char=50
+10	da	da	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	comune	comune	NOUN	S	Gender=Masc|Number=Sing	5	obl:agent	_	SpaceAfter=No|start_char=51|end_char=57
+13	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_participle_adj-009
+# text = Ho trovato il libro aperto sul tavolo della cucina.
+# correction = aperto: upos VERB -> ADJ
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	start_char=0|end_char=2
+2	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=3|end_char=10
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=11|end_char=13
+4	libro	libro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	start_char=14|end_char=19
+5	aperto	aperto	ADJ	A	Gender=Masc|Number=Sing	4	acl	_	start_char=20|end_char=26
+6-7	sul	_	_	_	_	_	_	_	start_char=27|end_char=30
+6	su	su	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	start_char=31|end_char=37
+9-10	della	_	_	_	_	_	_	_	start_char=38|end_char=43
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	cucina	cucina	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No|start_char=44|end_char=50
+12	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=50|end_char=51
+
+# sent_id = it-it_participle_adj-010
+# text = La porta chiusa impediva di sentire le voci nel corridoio.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	porta	porta	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	start_char=3|end_char=8
+3	chiusa	chiuso	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	start_char=9|end_char=15
+4	impediva	impedire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=16|end_char=24
+5	di	di	ADP	E	_	6	mark	_	start_char=25|end_char=27
+6	sentire	sentire	VERB	V	VerbForm=Inf	4	xcomp	_	start_char=28|end_char=35
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	start_char=36|end_char=38
+8	voci	voce	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	start_char=39|end_char=43
+9-10	nel	_	_	_	_	_	_	_	start_char=44|end_char=47
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	corridoio	corridoio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|start_char=48|end_char=57
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_participle_adj-011
+# text = Le finestre rotte lasciavano entrare il freddo nella stanza.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=2
+2	finestre	finestra	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	start_char=3|end_char=11
+3	rotte	rotto	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	start_char=12|end_char=17
+4	lasciavano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=18|end_char=28
+5	entrare	entrare	VERB	V	VerbForm=Inf	4	ccomp	_	start_char=29|end_char=36
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=37|end_char=39
+7	freddo	freddo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	start_char=40|end_char=46
+8-9	nella	_	_	_	_	_	_	_	start_char=47|end_char=52
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No|start_char=53|end_char=59
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_participle_adj-012
+# text = I piatti lavati erano già tutti nello scaffale in alto.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=1
+2	piatti	piatto	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	start_char=2|end_char=8
+3	lavati	lavato	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	start_char=9|end_char=15
+4	erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	start_char=16|end_char=21
+5	già	già	ADV	B	_	6	advmod	_	start_char=22|end_char=25
+6	tutti	tutto	PRON	T	Gender=Masc|Number=Plur|PronType=Tot	0	root	_	start_char=26|end_char=31
+7-8	nello	_	_	_	_	_	_	_	start_char=32|end_char=37
+7	in	in	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	scaffale	scaffale	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	start_char=38|end_char=46
+10	in	in	ADP	E	_	11	case	_	start_char=47|end_char=49
+11	alto	alto	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|start_char=50|end_char=54
+12	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No|start_char=54|end_char=55
+
+# sent_id = it-it_xcomp_raising-001
+# text = Il problema sembra essere più grave di quanto pensassimo.
+# correction = essere: deprel cop -> xcomp
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=3|end_char=11
+3	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=18
+4	essere	essere	AUX	VA	VerbForm=Inf	6	cop	_	start_char=19|end_char=25
+5	più	più	ADV	B	_	6	advmod	_	start_char=26|end_char=29
+6	grave	grave	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	start_char=30|end_char=35
+7	di	di	ADP	E	_	8	case	_	start_char=36|end_char=38
+8	quanto	quanto	PRON	PR	PronType=Rel	6	obl	_	start_char=39|end_char=45
+9	pensassimo	pensare	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No|start_char=46|end_char=56
+10	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=56|end_char=57
+
+# sent_id = it-it_xcomp_raising-002
+# text = Maria vuole partire domani mattina presto per la montagna.
+# correction = partire: deprel root -> xcomp
+1	Maria	Maria	PROPN	SP	_	3	nsubj	_	start_char=0|end_char=5
+2	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=11
+3	partire	partire	VERB	V	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=19
+4	domani	domani	ADV	B	_	3	advmod	_	start_char=20|end_char=26
+5	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=27|end_char=34
+6	presto	presto	ADV	B	_	3	advmod	_	start_char=35|end_char=41
+7	per	per	ADP	E	_	9	case	_	start_char=42|end_char=45
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=46|end_char=48
+9	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No|start_char=49|end_char=57
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_xcomp_raising-003
+# text = I ragazzi devono studiare di più per superare l’esame.
+# correction = studiare: deprel root -> xcomp
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=0|end_char=1
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	start_char=2|end_char=9
+3	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=16
+4	studiare	studiare	VERB	V	VerbForm=Inf	3	xcomp	_	start_char=17|end_char=25
+5	di	di	ADP	E	_	6	case	_	start_char=26|end_char=28
+6	più	più	ADV	B	_	4	advmod	_	start_char=29|end_char=32
+7	per	per	ADP	E	_	8	mark	_	start_char=33|end_char=36
+8	superare	superare	VERB	V	VerbForm=Inf	4	advcl	_	start_char=37|end_char=45
+9	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No|start_char=46|end_char=48
+10	esame	esame	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No|start_char=48|end_char=53
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=53|end_char=54
+
+# sent_id = it-it_xcomp_raising-004
+# text = Non possiamo restare qui tutta la notte ad aspettare.
+# correction = restare: deprel root -> xcomp
+1	Non	non	ADV	BN	Polarity=Neg	3	advmod	_	start_char=0|end_char=3
+2	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=12
+3	restare	restare	VERB	V	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=20
+4	qui	qui	ADV	B	_	3	advmod	_	start_char=21|end_char=24
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	start_char=25|end_char=30
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=31|end_char=33
+7	notte	notte	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	start_char=34|end_char=39
+8	ad	a	ADP	E	_	9	mark	_	start_char=40|end_char=42
+9	aspettare	aspettare	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No|start_char=43|end_char=52
+10	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_xcomp_raising-005
+# text = La situazione pare migliorare lentamente con il passare dei giorni.
+# correction = migliorare: deprel ccomp -> xcomp
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	start_char=3|end_char=13
+3	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=18
+4	migliorare	migliorare	VERB	V	VerbForm=Inf	3	xcomp	_	start_char=19|end_char=29
+5	lentamente	lentamente	ADV	B	_	4	advmod	_	start_char=30|end_char=40
+6	con	con	ADP	E	_	8	case	_	start_char=41|end_char=44
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=45|end_char=47
+8	passare	passare	VERB	V	VerbForm=Inf	4	obl	_	start_char=48|end_char=55
+9-10	dei	_	_	_	_	_	_	_	start_char=56|end_char=59
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No|start_char=60|end_char=66
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=66|end_char=67
+
+# sent_id = it-it_xcomp_raising-006
+# text = Lui voleva comprare una macchina nuova ma non aveva soldi.
+# correction = comprare: deprel root -> xcomp
+1	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	voleva	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=10
+3	comprare	comprare	VERB	V	VerbForm=Inf	2	xcomp	_	start_char=11|end_char=19
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=20|end_char=23
+5	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	start_char=24|end_char=32
+6	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	start_char=33|end_char=38
+7	ma	ma	CCONJ	CC	_	9	cc	_	start_char=39|end_char=41
+8	non	non	ADV	BN	Polarity=Neg	9	advmod	_	start_char=42|end_char=45
+9	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	start_char=46|end_char=51
+10	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No|start_char=52|end_char=57
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=57|end_char=58
+
+# sent_id = it-it_xcomp_raising-007
+# text = Dovremmo finire questo lavoro prima di andare a cena.
+# correction = finire: deprel root -> xcomp
+1	Dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=8
+2	finire	finire	VERB	V	VerbForm=Inf	1	xcomp	_	start_char=9|end_char=15
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=16|end_char=22
+4	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	start_char=23|end_char=29
+5	prima	prima	ADV	B	_	7	mark	_	start_char=30|end_char=35
+6	di	di	ADP	E	_	5	fixed	_	start_char=36|end_char=38
+7	andare	andare	VERB	V	VerbForm=Inf	2	advcl	_	start_char=39|end_char=45
+8	a	a	ADP	E	_	9	case	_	start_char=46|end_char=47
+9	cena	cena	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|start_char=48|end_char=52
+10	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No|start_char=52|end_char=53
+
+# sent_id = it-it_xcomp_raising-008
+# text = Il tempo sembra cambiare rapidamente in questa zona di montagna.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2
+2	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	start_char=3|end_char=8
+3	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=15
+4	cambiare	cambiare	VERB	V	VerbForm=Inf	3	xcomp	_	start_char=16|end_char=24
+5	rapidamente	rapidamente	ADV	B	_	4	advmod	_	start_char=25|end_char=36
+6	in	in	ADP	E	_	8	case	_	start_char=37|end_char=39
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=40|end_char=46
+8	zona	zona	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=47|end_char=51
+9	di	di	ADP	E	_	10	case	_	start_char=52|end_char=54
+10	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No|start_char=55|end_char=63
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No|start_char=63|end_char=64
+
+# sent_id = it-it_xcomp_raising-009
+# text = Penso che Marco abbia ragione sulla questione del contratto.
+1	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	che	che	SCONJ	CS	_	4	mark	_	start_char=6|end_char=9
+3	Marco	Marco	PROPN	SP	_	4	nsubj	_	start_char=10|end_char=15
+4	abbia	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=16|end_char=21
+5	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	start_char=22|end_char=29
+6-7	sulla	_	_	_	_	_	_	_	start_char=30|end_char=35
+6	su	su	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	questione	questione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	start_char=36|end_char=45
+9-10	del	_	_	_	_	_	_	_	start_char=46|end_char=49
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	contratto	contratto	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No|start_char=50|end_char=59
+12	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_xcomp_raising-010
+# text = Credo che la situazione migliorerà nelle prossime settimane.
+1	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	che	che	SCONJ	CS	_	5	mark	_	start_char=6|end_char=9
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=10|end_char=12
+4	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	start_char=13|end_char=23
+5	migliorerà	migliorare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	ccomp	_	start_char=24|end_char=34
+6-7	nelle	_	_	_	_	_	_	_	start_char=35|end_char=40
+6	in	in	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	prossime	prossimo	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	start_char=41|end_char=49
+9	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No|start_char=50|end_char=59
+10	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No|start_char=59|end_char=60
+
+# sent_id = it-it_xcomp_raising-011
+# text = Tutti sapevano che il progetto sarebbe stato difficile da completare.
+# correction = sarebbe: deprel aux -> ccomp
+1	Tutti	tutto	PRON	T	Gender=Masc|Number=Plur|PronType=Tot	2	nsubj	_	start_char=0|end_char=5
+2	sapevano	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=6|end_char=14
+3	che	che	SCONJ	CS	_	8	mark	_	start_char=15|end_char=18
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=19|end_char=21
+5	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	start_char=22|end_char=30
+6	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=31|end_char=38
+7	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	start_char=39|end_char=44
+8	difficile	difficile	ADJ	A	Gender=Masc|Number=Sing	2	ccomp	_	start_char=45|end_char=54
+9	da	da	ADP	E	_	10	mark	_	start_char=55|end_char=57
+10	completare	completare	VERB	V	VerbForm=Inf	8	advcl	_	SpaceAfter=No|start_char=58|end_char=68
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=68|end_char=69
+
+# sent_id = it-it_xcomp_raising-012
+# text = Mi sembra che tu non abbia capito bene il problema.
+# correction = abbia: deprel aux -> ccomp
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	start_char=0|end_char=2
+2	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=9
+3	che	che	SCONJ	CS	_	7	mark	_	start_char=10|end_char=13
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=14|end_char=16
+5	non	non	ADV	BN	Polarity=Neg	7	advmod	_	start_char=17|end_char=20
+6	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=21|end_char=26
+7	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	start_char=27|end_char=33
+8	bene	bene	ADV	B	_	7	advmod	_	start_char=34|end_char=38
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=39|end_char=41
+10	problema	problema	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No|start_char=42|end_char=50
+11	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|start_char=50|end_char=51
