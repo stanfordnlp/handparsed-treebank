@@ -1,0 +1,109 @@
+# text = Älä tee tollei.
+# sent_id = 0
+1	Älä	_	_	_	_	0	_	_	start_char=0|end_char=3
+2	tee	_	_	_	_	1	_	_	start_char=4|end_char=7
+3	tollei	_	_	_	_	2	_	_	SpaceAfter=No|start_char=8|end_char=14
+4	.	_	_	_	_	3	_	_	SpacesAfter=\n\n|start_char=14|end_char=15
+
+# text = Ne toimii tollei nyt.
+# sent_id = 1
+1	Ne	_	_	_	_	0	_	_	start_char=17|end_char=19
+2	toimii	_	_	_	_	1	_	_	start_char=20|end_char=26
+3	tollei	_	_	_	_	2	_	_	start_char=27|end_char=33
+4	nyt	_	_	_	_	3	_	_	SpaceAfter=No|start_char=34|end_char=37
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n\n|start_char=37|end_char=38
+
+# text = Mä en tarkoittanut sitä tollei.
+# sent_id = 2
+1	Mä	_	_	_	_	0	_	_	start_char=40|end_char=42
+2	en	_	_	_	_	1	_	_	start_char=43|end_char=45
+3	tarkoittanut	_	_	_	_	2	_	_	start_char=46|end_char=58
+4	sitä	_	_	_	_	3	_	_	start_char=59|end_char=63
+5	tollei	_	_	_	_	4	_	_	SpaceAfter=No|start_char=64|end_char=70
+6	.	_	_	_	_	5	_	_	SpacesAfter=\n\n|start_char=70|end_char=71
+
+# text = Ei sitä kannata tehdä tollei.
+# sent_id = 3
+1	Ei	_	_	_	_	0	_	_	start_char=73|end_char=75
+2	sitä	_	_	_	_	1	_	_	start_char=76|end_char=80
+3	kannata	_	_	_	_	2	_	_	start_char=81|end_char=88
+4	tehdä	_	_	_	_	3	_	_	start_char=89|end_char=94
+5	tollei	_	_	_	_	4	_	_	SpaceAfter=No|start_char=95|end_char=101
+6	.	_	_	_	_	5	_	_	SpacesAfter=\n\n|start_char=101|end_char=102
+
+# text = Tällei tämä onnistuu paremmin.
+# sent_id = 4
+1	Tällei	_	_	_	_	0	_	_	start_char=104|end_char=110
+2	tämä	_	_	_	_	1	_	_	start_char=111|end_char=115
+3	onnistuu	_	_	_	_	2	_	_	start_char=116|end_char=124
+4	paremmin	_	_	_	_	3	_	_	SpaceAfter=No|start_char=125|end_char=133
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n\n|start_char=133|end_char=134
+
+# text = Ei sitä tollei tehdä.
+# sent_id = 5
+1	Ei	_	_	_	_	0	_	_	start_char=136|end_char=138
+2	sitä	_	_	_	_	1	_	_	start_char=139|end_char=143
+3	tollei	_	_	_	_	2	_	_	start_char=144|end_char=150
+4	tehdä	_	_	_	_	3	_	_	SpaceAfter=No|start_char=151|end_char=156
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n\n|start_char=156|end_char=157
+
+# text = Älä sano sillei.
+# sent_id = 6
+1	Älä	_	_	_	_	0	_	_	start_char=159|end_char=162
+2	sano	_	_	_	_	1	_	_	start_char=163|end_char=167
+3	sillei	_	_	_	_	2	_	_	SpaceAfter=No|start_char=168|end_char=174
+4	.	_	_	_	_	3	_	_	SpacesAfter=\n\n|start_char=174|end_char=175
+
+# text = Miksi teet sillei?
+# sent_id = 7
+1	Miksi	_	_	_	_	0	_	_	start_char=177|end_char=182
+2	teet	_	_	_	_	1	_	_	start_char=183|end_char=187
+3	sillei	_	_	_	_	2	_	_	SpaceAfter=No|start_char=188|end_char=194
+4	?	_	_	_	_	3	_	_	SpacesAfter=\n\n|start_char=194|end_char=195
+
+# text = Ei sitä tehdä sillei.
+# sent_id = 8
+1	Ei	_	_	_	_	0	_	_	start_char=197|end_char=199
+2	sitä	_	_	_	_	1	_	_	start_char=200|end_char=204
+3	tehdä	_	_	_	_	2	_	_	start_char=205|end_char=210
+4	sillei	_	_	_	_	3	_	_	SpaceAfter=No|start_char=211|end_char=217
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n\n|start_char=217|end_char=218
+
+# text = Älä tee tolleen.
+# sent_id = 9
+1	Älä	_	_	_	_	0	_	_	start_char=220|end_char=223
+2	tee	_	_	_	_	1	_	_	start_char=224|end_char=227
+3	tolleen	_	_	_	_	2	_	_	SpaceAfter=No|start_char=228|end_char=235
+4	.	_	_	_	_	3	_	_	SpacesAfter=\n\n|start_char=235|end_char=236
+
+# text = Se näyttää tolleen paremmalta.
+# sent_id = 10
+1	Se	_	_	_	_	0	_	_	start_char=238|end_char=240
+2	näyttää	_	_	_	_	1	_	_	start_char=241|end_char=248
+3	tolleen	_	_	_	_	2	_	_	start_char=249|end_char=256
+4	paremmalta	_	_	_	_	3	_	_	SpaceAfter=No|start_char=257|end_char=267
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n\n|start_char=267|end_char=268
+
+# text = Ei tarvitse puhua tolleen.
+# sent_id = 11
+1	Ei	_	_	_	_	0	_	_	start_char=270|end_char=272
+2	tarvitse	_	_	_	_	1	_	_	start_char=273|end_char=281
+3	puhua	_	_	_	_	2	_	_	start_char=282|end_char=287
+4	tolleen	_	_	_	_	3	_	_	SpaceAfter=No|start_char=288|end_char=295
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n\n|start_char=295|end_char=296
+
+# text = Ne toimii tollei nyt.
+# sent_id = 12
+1	Ne	_	_	_	_	0	_	_	start_char=298|end_char=300
+2	toimii	_	_	_	_	1	_	_	start_char=301|end_char=307
+3	tollei	_	_	_	_	2	_	_	start_char=308|end_char=314
+4	nyt	_	_	_	_	3	_	_	SpaceAfter=No|start_char=315|end_char=318
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n\n|start_char=318|end_char=319
+
+# text = Kaikki meni tollei taas.
+# sent_id = 13
+1	Kaikki	_	_	_	_	0	_	_	start_char=321|end_char=327
+2	meni	_	_	_	_	1	_	_	start_char=328|end_char=332
+3	tollei	_	_	_	_	2	_	_	start_char=333|end_char=339
+4	taas	_	_	_	_	3	_	_	SpaceAfter=No|start_char=340|end_char=344
+5	.	_	_	_	_	4	_	_	SpacesAfter=\n|start_char=344|end_char=345
