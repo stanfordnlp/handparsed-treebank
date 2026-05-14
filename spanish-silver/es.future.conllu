@@ -4171,17 +4171,19 @@
 # sent_id = es-es_antes_de-001
 # text = Llámame antes de salir del trabajo esta tarde.
 # correction = antes de + INF: restructured to Pattern A (antes=2→advmod→1, de=3→mark→4, INF=4→advcl→2)
-1	Llámame	Llámame	PROPN	np00000	_	0	root	_	_
-2	antes	antes	ADV	rg	_	1	advmod	_	_
-3	de	de	ADP	sps00	_	4	mark	_	_
-4	salir	salir	VERB	vmn0000	VerbForm=Inf	2	advcl	_	_
-5-6	del	_	_	_	_	_	_	_	_
-5	de	de	ADP	spcms	_	7	case	_	_
-6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	_
-8	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	tarde	tarde	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+1-2	Llámame	_	_	_	_	_	_	_	_
+1	Llama	llamar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+3	antes	antes	ADV	rg	_	1	advmod	_	_
+4	de	de	ADP	sps00	_	5	mark	_	_
+5	salir	salir	VERB	vmn0000	VerbForm=Inf	3	advcl	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	de	de	ADP	spcms	_	8	case	_	_
+7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	5	obl	_	_
+9	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	tarde	tarde	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_antes_de-002
 # text = Piénsalo bien antes de tomar una decisión tan importante.
