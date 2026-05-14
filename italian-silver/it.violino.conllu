@@ -1,0 +1,11 @@
+# text = Il violino è uno strumento musicale molto popolare.
+# sent_id = 0
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2|ner=O
+2	violino	violino	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3|end_char=10|ner=O
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=12|ner=O
+4	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=13|end_char=16|ner=O
+5	strumento	strumento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	start_char=17|end_char=26|ner=O
+6	musicale	musicale	ADJ	A	Number=Sing	5	amod	_	start_char=27|end_char=35|ner=O
+7	molto	molto	ADV	B	_	8	advmod	_	start_char=36|end_char=41|ner=O
+8	popolare	popolare	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No|start_char=42|end_char=50|ner=O
+9	.	.	PUNCT	FS	_	5	punct	_	start_char=50|end_char=51|ner=O
