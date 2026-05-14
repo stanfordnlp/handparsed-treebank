@@ -1,7 +1,7 @@
 # sent_id = es-cnd_tense-001
 # text = Nosotros comeríamos en ese restaurante si tuviera mejor servicio.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	comeríamos	comer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	comeríamos	comer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
 4	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	restaurante	restaurante	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
@@ -15,7 +15,7 @@
 # text = Ellos vivirían mejor si ganaran un poco más de dinero.
 # correction = vivirían: feats Tense=<missing> -> Tense=Pres
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	vivirían	vivir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vivirían	vivir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	ganaran	ganar	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -30,7 +30,7 @@
 # text = Yo trabajaría desde casa si me lo permitieran mis jefes.
 # correction = trabajaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	trabajaría	trabajar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	trabajaría	trabajar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	desde	desde	ADP	sps00	_	4	case	_	_
 4	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
 5	si	si	SCONJ	cs	_	8	mark	_	_
@@ -45,7 +45,7 @@
 # text = Ella estudiaría medicina si tuviera más tiempo y recursos.
 # correction = estudiaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	estudiaría	estudiar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	estudiaría	estudiar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	medicina	medicina	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	tuviera	tener	VERB	vmsi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -58,7 +58,7 @@
 # sent_id = es-cnd_tense-005
 # text = Nosotros viajaríamos a Japón si ahorráramos lo suficiente.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	viajaríamos	viajar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	viajaríamos	viajar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	_	4	case	_	_
 4	Japón	Japón	PROPN	np00000	_	2	obl	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -71,7 +71,7 @@
 # text = Tú comprarías esa casa si el banco te diera el préstamo.
 # correction = comprarías: feats Tense=Fut -> Tense=Pres
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	comprarías	comprar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	comprarías	comprar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	esa	ese	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	9	mark	_	_
@@ -87,7 +87,7 @@
 # text = Ellas cantarían en el coro si les dieran la oportunidad.
 # correction = cantarían: feats Tense=Imp -> Tense=Pres
 1	Ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	cantarían	cantar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cantarían	cantar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	coro	coro	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
@@ -101,7 +101,7 @@
 # sent_id = es-cnd_tense-008
 # text = Nosotros correríamos la maratón si entrenáramos con disciplina.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	correríamos	correr	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	correríamos	correr	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	maratón	maratón	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -114,7 +114,7 @@
 # text = Él escribiría un libro si encontrara la inspiración necesaria.
 # correction = escribiría: feats Tense=<missing> -> Tense=Pres
 1	Él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	escribiría	escribir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	escribiría	escribir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	libro	libro	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -128,7 +128,7 @@
 # text = Ustedes llegarían a tiempo si salieran un poco más temprano.
 # correction = llegarían: feats Tense=<missing> -> Tense=Pres
 1	Ustedes	usted	PRON	pp2cp00p	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
-2	llegarían	llegar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	llegarían	llegar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	ExtPos=ADV	2	advmod	_	_
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	3	fixed	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -142,7 +142,7 @@
 # sent_id = es-cnd_tense-011
 # text = Nosotros aprenderíamos más rápido con un mejor profesor.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	aprenderíamos	aprender	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	aprenderíamos	aprender	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	rápido	rápido	ADV	rg	_	2	advmod	_	_
 5	con	con	ADP	sps00	_	8	case	_	_
@@ -155,7 +155,7 @@
 # text = Ella hablaría con él si no estuviera tan enojada.
 # correction = hablaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	hablaría	hablar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hablaría	hablar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	sps00	_	4	case	_	_
 4	él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 5	si	si	SCONJ	cs	_	9	mark	_	_
@@ -170,7 +170,7 @@
 # correction = jugarían: feats Tense=<missing> -> Tense=Pres
 1	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	niños	niño	NOUN	ncmp000	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	jugarían	jugar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	jugarían	jugar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 4	afuera	afuera	ADV	rg	_	3	advmod	_	_
 5	si	si	SCONJ	cs	_	7	mark	_	_
 6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	_
@@ -183,7 +183,7 @@
 # text = Yo leería más si tuviera menos trabajo en la oficina.
 # correction = leería: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	leería	leer	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	leería	leer	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	tuviera	tener	VERB	vmsi1s0	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -197,7 +197,7 @@
 # sent_id = es-cnd_tense-015
 # text = Nosotros dormiríamos mejor sin tanto ruido por la noche.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	dormiríamos	dormir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dormiríamos	dormir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	sin	sin	ADP	sps00	_	6	case	_	_
 5	tanto	tanto	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
@@ -211,7 +211,7 @@
 # text = Ella cocinaría algo especial si vinieran los invitados esta noche.
 # correction = cocinaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	cocinaría	cocinar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cocinaría	cocinar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	2	obj	_	_
 4	especial	especial	ADJ	aq0cs0	Number=Sing	3	amod	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -225,7 +225,7 @@
 # sent_id = es-cnd_tense-017
 # text = Tú entenderías la situación si conocieras todos los detalles.
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	entenderías	entender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	entenderías	entender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	situación	situación	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -239,7 +239,7 @@
 # text = Ellos construirían una casa si compraran el terreno primero.
 # correction = construirían: feats Tense=<missing> -> Tense=Pres
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	construirían	construir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	construirían	construir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -252,7 +252,7 @@
 # sent_id = es-cnd_tense-019
 # text = Nosotros nadaríamos en el lago si el agua estuviera más limpia.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	nadaríamos	nadar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	nadaríamos	nadar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	lago	lago	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
@@ -268,7 +268,7 @@
 # text = Yo cambiaría de trabajo si encontrara algo mejor cerca de casa.
 # correction = cambiaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	cambiaría	cambiar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cambiaría	cambiar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -372,7 +372,7 @@
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	terminaríamos	terminar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	terminaríamos	terminar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	proyecto	proyecto	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
@@ -386,7 +386,7 @@
 3	ayudar	ayudar	VERB	vmn0000	VerbForm=Inf	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 5	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
-6	haríamos	hacer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	haríamos	hacer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	con	con	ADP	sps00	_	9	case	_	_
 8	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	9	det	_	_
 9	gusto	gusto	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
@@ -400,7 +400,7 @@
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	dirección	dirección	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	iríamos	ir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	iríamos	ir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	sps00	_	8	mark	_	_
 8-9	visitarlos	_	_	_	_	_	_	_	_
 8	visitar	visitar	VERB	vmn0000	VerbForm=Inf	6	xcomp	_	_
@@ -418,7 +418,7 @@
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	días	día	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-8	estaríamos	estar	AUX	vscc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	estaríamos	estar	AUX	vscc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	10	cop	_	_
 9	más	más	ADV	rg	Degree=Cmp	10	advmod	_	_
 10	sanos	sano	ADJ	aq0mp0	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	SpaceAfter=No
@@ -433,7 +433,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	nadie	nadie	PRON	pi0cs000	Number=Sing|PronType=Neg	8	nsubj	_	_
 7	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
-8	creería	creer	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	creería	creer	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	sps00	ExtPos=ADV	8	advmod	_	_
 10	absoluto	absoluto	NOUN	ncms000	Gender=Masc|Number=Sing	9	fixed	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	SpaceAfter=No
@@ -446,7 +446,7 @@
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	costa	costa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-7	iríamos	ir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	iríamos	ir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 8	a	a	ADP	sps00	_	10	case	_	_
 9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	playa	playa	NOUN	ncfs000	Gender=Fem|Number=Sing	7	obl	_	_
@@ -461,7 +461,7 @@
 2	quisiéramos	querer	VERB	vmsi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 3	participar	participar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-5	tendríamos	tener	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tendríamos	tener	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	cs	_	7	mark	_	_
 7-8	inscribirnos	_	_	_	_	_	_	_	_
 7	inscribir	inscribir	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	_
@@ -483,7 +483,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	resultados	resultado	NOUN	ncmp000	Gender=Masc|Number=Plur	10	nsubj	_	_
-8	serían	ser	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	serían	ser	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	10	cop	_	_
 9	mucho	mucho	ADV	rg	_	10	advmod	_	_
 10	mejores	mejor	ADJ	aq0cp0	Degree=Cmp|Number=Plur	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	SpaceAfter=No
@@ -495,7 +495,7 @@
 2	viniéramos	venir	VERB	vmsi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 3	antes	antes	ADV	rg	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-5	encontraríamos	encontrar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	encontraríamos	encontrar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 6	mejores	mejor	ADJ	aq0cp0	Degree=Cmp|Number=Plur	7	amod	_	_
 7	asientos	asiento	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obj	_	_
 8	en	en	ADP	sps00	_	10	case	_	_
@@ -512,7 +512,7 @@
 4	comida	comida	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
-7	prepararían	preparar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	prepararían	preparar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	bebidas	bebida	NOUN	ncfp000	Gender=Fem|Number=Plur	7	obj	_	_
 10	para	para	ADP	sps00	_	11	case	_	_
@@ -530,7 +530,7 @@
 6	coche	coche	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 8	no	no	ADV	rn	Polarity=Neg	9	advmod	_	_
-9	necesitaríamos	necesitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	necesitaríamos	necesitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 10	otro	otro	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
 11	vehículo	vehículo	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	SpaceAfter=No
@@ -543,7 +543,7 @@
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	horas	hora	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	rendiríamos	rendir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	rendiríamos	rendir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
 8	en	en	ADP	sps00	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -559,7 +559,7 @@
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	confianza	confianza	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	hablaríamos	hablar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	hablaríamos	hablar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	sps00	_	8	case	_	_
 8	público	público	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	_
 9	sin	sin	ADP	sps00	_	10	case	_	_
@@ -574,7 +574,7 @@
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	libros	libro	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	tendríamos	tener	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tendríamos	tener	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	vocabulario	vocabulario	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	mucho	mucho	ADV	rg	_	10	advmod	_	_
@@ -590,7 +590,7 @@
 3	esa	ese	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	música	música	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	recordaríamos	recordar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	recordaríamos	recordar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 8	buenos	bueno	ADJ	aq0mp0	Gender=Masc|Number=Plur	9	amod	_	_
 9	tiempos	tiempo	NOUN	ncmp000	Gender=Masc|Number=Plur	6	obj	_	_
@@ -606,7 +606,7 @@
 3	con	con	ADP	sps00	_	4	case	_	_
 4	cuidado	cuidado	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	evitaríamos	evitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	evitaríamos	evitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	accidentes	accidente	NOUN	ncmp000	Gender=Masc|Number=Plur	6	obj	_	_
 8	en	en	ADP	sps00	_	10	case	_	_
 9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -621,7 +621,7 @@
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	calma	calma	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	resolveríamos	resolver	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	resolveríamos	resolver	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	sin	sin	ADP	sps00	_	10	case	_	_
@@ -636,7 +636,7 @@
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	permiso	permiso	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	empezaríamos	empezar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	empezaríamos	empezar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	construcción	construcción	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	_	_
 9	de	de	ADP	sps00	_	10	case	_	_
@@ -654,7 +654,7 @@
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	jefe	jefe	NOUN	ncms000	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
-9	escucharía	escuchar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	escucharía	escuchar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 10	con	con	ADP	sps00	_	11	case	_	_
 11	atención	atención	NOUN	ncfs000	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	SpaceAfter=No
@@ -669,7 +669,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	nuestra	nuestro	DET	dp1fsp	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
 7	salud	salud	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nsubj	_	_
-8	mejoraría	mejorar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	mejoraría	mejorar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 9	notablemente	notablemente	ADV	rg	_	8	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	SpaceAfter=No
 
@@ -683,7 +683,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	comunicación	comunicación	NOUN	ncfs000	Gender=Fem|Number=Sing	10	nsubj	_	_
-8	sería	ser	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	sería	ser	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	_
 9	más	más	ADV	rg	Degree=Cmp	10	advmod	_	_
 10	personal	personal	ADJ	aq0cs0	Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	SpaceAfter=No
@@ -696,7 +696,7 @@
 3	cada	cada	DET	di0cs0	Number=Sing|PronType=Tot	4	det	_	_
 4	mañana	mañana	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	perderíamos	perder	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	perderíamos	perder	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	peso	peso	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 8	en	en	ADP	sps00	_	10	case	_	_
 9	pocas	poco	DET	di0fp0	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
@@ -711,7 +711,7 @@
 3	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	ventanas	ventana	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	entraría	entrar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	entraría	entrar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 7	aire	aire	NOUN	ncms000	Gender=Masc|Number=Sing	6	nsubj	_	_
 8	fresco	fresco	ADJ	aq0ms0	Gender=Masc|Number=Sing	7	amod	_	_
 9	a	a	ADP	sps00	_	11	case	_	_
@@ -729,7 +729,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	jardín	jardín	NOUN	ncms000	Gender=Masc|Number=Sing	10	nsubj	_	_
-8	estaría	estar	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	estaría	estar	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	_
 9	mejor	mejor	ADV	rg	Degree=Cmp	10	advmod	_	_
 10	protegido	protegido	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 11-12	del	_	_	_	_	_	_	_	_
@@ -746,7 +746,7 @@
 3	otro	otro	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
 4	camino	camino	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	llegaríamos	llegar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	llegaríamos	llegar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	más	más	ADV	rg	Degree=Cmp	8	advmod	_	_
 8	rápido	rápido	ADV	rg	_	6	advmod	_	_
 9-10	al	_	_	_	_	_	_	_	_
@@ -765,7 +765,7 @@
 4	instrucciones	instrucción	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	7	nsubj	_	_
-7	saldría	salir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	saldría	salir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 8	bien	bien	ADV	rg	_	7	advmod	_	_
 9-10	al	_	_	_	_	_	_	_	_
 9	a	a	ADP	sps00	_	11	case	_	_
@@ -781,7 +781,7 @@
 3	ayuda	ayuda	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 5	alguien	alguien	PRON	pi0cs000	Number=Sing|PronType=Ind	6	nsubj	_	_
-6	vendría	venir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	vendría	venir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	sps00	_	8	mark	_	_
 8-9	echarnos	_	_	_	_	_	_	_	_
 8	echar	echar	VERB	vmn0000	VerbForm=Inf	6	xcomp	_	_
@@ -803,7 +803,7 @@
 7	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	niños	niño	NOUN	ncmp000	Gender=Masc|Number=Plur	10	nsubj	_	_
 9	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
-10	dormirían	dormir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	dormirían	dormir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 11	antes	antes	ADV	rg	_	10	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	SpaceAfter=No
 
@@ -817,7 +817,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	nadie	nadie	PRON	pi0cs000	Number=Sing|PronType=Neg	8	nsubj	_	_
 7	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
-8	daría	dar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	daría	dar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 9	cuenta	cuenta	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obj	_	_
 10	en	en	ADP	sps00	_	12	case	_	_
 11	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
@@ -832,7 +832,7 @@
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	tren	tren	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	ahorraríamos	ahorrar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ahorraríamos	ahorrar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	dinero	dinero	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 8	en	en	ADP	sps00	_	9	case	_	_
 9	gasolina	gasolina	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obl	_	_
@@ -849,7 +849,7 @@
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 5	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	consecuencias	consecuencia	NOUN	ncfp000	Gender=Fem|Number=Plur	8	nsubj	_	_
-7	serían	ser	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	serían	ser	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	8	cop	_	_
 8	peores	peor	ADJ	aq0cp0	Degree=Cmp|Number=Plur	0	root	_	_
 9	más	más	ADV	rg	Degree=Cmp	10	advmod	_	_
 10	adelante	adelante	ADV	rg	_	8	advmod	_	SpaceAfter=No
@@ -866,7 +866,7 @@
 6	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 7	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	profesores	profesor	NOUN	ncmp000	Gender=Masc|Number=Plur	11	nsubj	_	_
-9	estarían	estar	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	estarían	estar	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	11	cop	_	_
 10	más	más	ADV	rg	Degree=Cmp	11	advmod	_	_
 11	contentos	contento	ADJ	aq0mp0	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	11	punct	_	SpaceAfter=No
@@ -879,7 +879,7 @@
 3	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	entradas	entrada	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	iríamos	ir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	iríamos	ir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	sps00	_	9	case	_	_
 8	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -895,7 +895,7 @@
 3	terminado	terminar	VERB	vmp0000	Tense=Past|VerbForm=Part	7	advcl	_	_
 4	antes	antes	ADV	rg	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-6	habríamos	haber	AUX	vacc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	habríamos	haber	AUX	vacc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	7	aux	_	_
 7	ido	ir	VERB	vmp0000	Tense=Past|VerbForm=Part	0	root	_	_
 8-9	al	_	_	_	_	_	_	_	_
 8	a	a	ADP	sps00	_	10	case	_	_
@@ -912,7 +912,7 @@
 3	de	de	ADP	sps00	_	4	case	_	_
 4	acuerdo	acuerdo	NOUN	ncms000	Gender=Masc|Number=Sing	6	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	4	punct	_	_
-6	firmaríamos	firmar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	firmaríamos	firmar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	contrato	contrato	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
@@ -928,7 +928,7 @@
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	experiencia	experiencia	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-7	conseguirían	conseguir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	conseguirían	conseguir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	mejores	mejor	ADJ	aq0cp0	Degree=Cmp|Number=Plur	9	amod	_	_
 9	puestos	puesto	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
@@ -943,7 +943,7 @@
 5	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
 6	,	,	PUNCT	fc	PunctType=Comm	4	punct	_	_
 7	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
-8	harían	hacer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	harían	hacer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 9	sin	sin	ADP	sps00	_	10	mark	_	_
 10-11	pensarlo	_	_	_	_	_	_	_	_
 10	pensar	pensar	VERB	vmn0000	VerbForm=Inf	8	advcl	_	_
@@ -960,7 +960,7 @@
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-7	reaccionarían	reaccionar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	reaccionarían	reaccionar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	sps00	_	10	case	_	_
 9	otra	otro	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
 10	manera	manera	NOUN	ncfs000	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
@@ -974,7 +974,7 @@
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	deporte	deporte	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-7	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	mejor	mejor	ADJ	aq0cs0	Degree=Cmp|Number=Sing	9	amod	_	_
 9	condición	condición	NOUN	ncfs000	Gender=Fem|Number=Sing	7	obj	_	_
 10	física	físico	ADJ	aq0fs0	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
@@ -989,7 +989,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 6	nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 7	los	él	PRON	pp3mpa00	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
-8	escucharíamos	escuchar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	escucharíamos	escuchar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 9	con	con	ADP	sps00	_	10	case	_	_
 10	respeto	respeto	NOUN	ncms000	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	SpaceAfter=No
@@ -1001,7 +1001,7 @@
 3	vivieran	vivir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	aquí	aquí	ADV	rg	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-6	entenderían	entender	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	entenderían	entender	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
 8	nuestros	nuestro	DET	dp1mpp	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	problemas	problema	NOUN	ncmp000	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
@@ -1014,7 +1014,7 @@
 3	quisieran	querer	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
 4	participar	participar	VERB	vmn0000	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-6	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	cs	_	8	mark	_	_
 8-9	registrarse	_	_	_	_	_	_	_	_
 8	registrar	registrar	VERB	vmn0000	VerbForm=Inf	6	xcomp	_	_
@@ -1030,7 +1030,7 @@
 4	a	a	ADP	sps00	ExtPos=ADV	3	advmod	_	_
 5	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-7	empezaríamos	empezar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	empezaríamos	empezar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	reunión	reunión	NOUN	ncfs000	Gender=Fem|Number=Sing	7	obj	_	_
 10	puntualmente	puntualmente	ADV	rg	_	7	advmod	_	SpaceAfter=No
@@ -1044,7 +1044,7 @@
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	atención	atención	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-7	cometerían	cometer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	cometerían	cometer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	menos	menos	ADV	rg	Degree=Cmp	9	advmod	_	_
 9	errores	error	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obj	_	_
 10	graves	grave	ADJ	aq0cp0	Number=Plur	9	amod	_	SpaceAfter=No
@@ -1057,7 +1057,7 @@
 3	salieran	salir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	más	más	ADV	rg	Degree=Cmp	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-6	conocerían	conocer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	conocerían	conocer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	personas	persona	NOUN	ncfp000	Gender=Fem|Number=Plur	6	obj	_	_
 8	nuevas	nuevo	ADJ	aq0fp0	Gender=Fem|Number=Plur	7	amod	_	_
 9	e	e	CCONJ	cc	_	10	cc	_	_
@@ -1068,7 +1068,7 @@
 # text = Nosotros comeríamos juntos si el restaurante estuviera abierto hoy.
 # correction = comeríamos: feats Mood=Ind -> Mood=Cnd
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	comeríamos	comer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	comeríamos	comer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	juntos	junto	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	8	mark	_	_
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -1082,7 +1082,7 @@
 # text = Ellos vivirían más tranquilos si mudaran al campo pronto.
 # correction = vivirían: feats Tense=<missing> -> Tense=Pres
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	vivirían	vivir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vivirían	vivir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	tranquilos	tranquilo	ADJ	aq0mp0	Gender=Masc|Number=Plur	2	xcomp	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -1098,7 +1098,7 @@
 # text = Tú entenderías mejor si prestaras más atención en clase.
 # correction = entenderías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	entenderías	entender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	entenderías	entender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	prestaras	prestar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -1112,7 +1112,7 @@
 # text = Yo cambiaría de opinión si alguien me presentara datos nuevos.
 # correction = cambiaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	cambiaría	cambiar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cambiaría	cambiar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	opinión	opinión	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl:arg	_	_
 5	si	si	SCONJ	cs	_	8	mark	_	_
@@ -1127,7 +1127,7 @@
 # text = Ella estudiaría toda la noche si el examen fuera mañana.
 # correction = estudiaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	estudiaría	estudiar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	estudiaría	estudiar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	toda	todo	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	noche	noche	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
@@ -1186,7 +1186,7 @@
 # text = Él diría la verdad si no tuviera miedo de las consecuencias.
 # correction = diría: feats Tense=<missing> -> Tense=Pres
 1	Él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	diría	decir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	diría	decir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	7	mark	_	_
@@ -1202,7 +1202,7 @@
 # text = Nosotros saldríamos temprano si el jefe nos lo permitiera.
 # correction = saldríamos: feats Mood=Ind -> Mood=Cnd; saldríamos: feats Tense=<missing> -> Tense=Pres
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	saldríamos	salir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	saldríamos	salir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	temprano	temprano	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	9	mark	_	_
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -1217,7 +1217,7 @@
 # correction = harías: feats Person=1 -> Person=2
 1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-3	harías	hacer	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	harías	hacer	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 4	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
 5	mismo	mismo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
 6	en	en	ADP	sps00	_	8	case	_	_
@@ -1235,7 +1235,7 @@
 # text = Ellas pondrían más esfuerzo si vieran resultados concretos.
 # correction = pondrían: feats Tense=<missing> -> Tense=Pres
 1	Ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	pondrían	poner	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pondrían	poner	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	esfuerzo	esfuerzo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -1248,7 +1248,7 @@
 # text = Yo tendría más paciencia si me explicaran la situación completa.
 # correction = tendría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	tendría	tener	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tendría	tener	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	paciencia	paciencia	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	7	mark	_	_
@@ -1335,7 +1335,7 @@
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-6	visitaríamos	visitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	visitaríamos	visitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	museo	museo	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	de	de	ADP	sps00	_	10	case	_	_
@@ -1381,7 +1381,7 @@
 4	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	juntos	junto	ADV	rg	_	2	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-7	terminaríamos	terminar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	terminaríamos	terminar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 8	mucho	mucho	ADV	rg	_	9	advmod	_	_
 9	antes	antes	ADV	rg	_	7	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
@@ -1409,7 +1409,7 @@
 2	saliéramos	salir	VERB	vmsi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 3	temprano	temprano	ADV	rg	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-5	llegaríamos	llegar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	llegaríamos	llegar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 6	a	a	ADP	sps00	ExtPos=ADV	5	advmod	_	_
 7	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	6	fixed	_	_
 8	para	para	ADP	sps00	_	10	case	_	_
@@ -1456,7 +1456,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	resultados	resultado	NOUN	ncmp000	Gender=Masc|Number=Plur	9	nsubj	_	_
-8	serían	ser	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	serían	ser	AUX	vscc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	9	cop	_	_
 9	mejores	mejor	ADJ	aq0cp0	Degree=Cmp|Number=Plur	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	SpaceAfter=No
 
@@ -1485,7 +1485,7 @@
 6	coche	coche	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 8	no	no	ADV	rn	Polarity=Neg	9	advmod	_	_
-9	necesitaríamos	necesitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	necesitaríamos	necesitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 10	otro	otro	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
 11	vehículo	vehículo	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	SpaceAfter=No
@@ -1500,7 +1500,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	viaje	viaje	NOUN	ncms000	Gender=Masc|Number=Sing	10	nsubj	_	_
-8	sería	ser	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	sería	ser	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	_
 9	más	más	ADV	rg	Degree=Cmp	10	advmod	_	_
 10	seguro	seguro	ADJ	aq0ms0	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	SpaceAfter=No
@@ -1553,7 +1553,7 @@
 # sent_id = es-es_cnd_extra-001
 # text = Yo sabría la respuesta si hubiera estudiado más anoche.
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	sabría	saber	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sabría	saber	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	respuesta	respuesta	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	7	mark	_	_
@@ -1566,7 +1566,7 @@
 # sent_id = es-es_cnd_extra-002
 # text = Ellos querrían participar pero no tienen tiempo suficiente.
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	querrían	querer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	querrían	querer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	participar	participar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
 4	pero	pero	CCONJ	cc	_	6	cc	_	_
 5	no	no	ADV	rn	Polarity=Neg	6	advmod	_	_
@@ -1579,7 +1579,7 @@
 # text = ¿Podrías ayudarme con esta tarea tan difícil por favor?
 # correction = Podrías: feats Mood=Ind -> Mood=Cnd
 1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
-2	Podrías	poder	AUX	vacc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	Podrías	poder	AUX	vacc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	3	aux	_	_
 3-4	ayudarme	_	_	_	_	_	_	_	_
 3	ayudar	ayudar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
@@ -1595,7 +1595,7 @@
 # sent_id = es-es_cnd_extra-004
 # text = Yo diría que este problema necesita una solución urgente.
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	diría	decir	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	diría	decir	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	cs	_	6	mark	_	_
 4	este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -1608,7 +1608,7 @@
 # sent_id = es-es_cnd_extra-005
 # text = Nosotros haríamos cualquier cosa por nuestra familia querida.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	haríamos	hacer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	haríamos	hacer	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	cualquier	cualquiera	DET	di0cs0	Number=Sing|PronType=Ind	4	det	_	_
 4	cosa	cosa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	por	por	ADP	sps00	_	7	case	_	_
@@ -1850,7 +1850,7 @@
 # text = Creo que deberíamos salir temprano para evitar el tráfico.
 1	Creo	creer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	cs	_	4	mark	_	_
-3	deberíamos	deber	AUX	vacc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	deberíamos	deber	AUX	vacc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	4	aux	_	_
 4	salir	salir	VERB	vmn0000	VerbForm=Inf	1	ccomp	_	_
 5	temprano	temprano	ADV	rg	_	4	advmod	_	_
 6	para	para	ADP	sps00	_	7	mark	_	_
@@ -1952,7 +1952,7 @@
 # text = Dijo que vendría antes de las ocho de la noche.
 1	Dijo	decir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	cs	_	3	mark	_	_
-3	vendría	venir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+3	vendría	venir	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	ccomp	_	_
 4	antes	antes	ADV	rg	_	3	advmod	_	_
 5	de	de	ADP	sps00	_	7	case	_	_
 6	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
@@ -2025,7 +2025,7 @@
 # text = Tú ganarías más dinero si trabajaras en otra empresa.
 # correction = ganarías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	ganarías	ganar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ganarías	ganar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	dinero	dinero	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2039,7 +2039,7 @@
 # text = Tú sabrías la respuesta si hubieras estudiado anoche.
 # correction = sabrías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	sabrías	saber	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sabrías	saber	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	respuesta	respuesta	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	7	mark	_	_
@@ -2052,7 +2052,7 @@
 # text = Tú cocinarías mejor si siguieras la receta paso a paso.
 # correction = cocinarías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	cocinarías	cocinar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cocinarías	cocinar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	siguieras	seguir	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -2067,7 +2067,7 @@
 # text = Tú dormirías más tranquilo si apagaras el teléfono antes.
 # correction = dormirías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	dormirías	dormir	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dormirías	dormir	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	tranquilo	tranquilo	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	xcomp	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2081,7 +2081,7 @@
 # text = Tú vivirías mejor si te mudaras a un barrio más tranquilo.
 # correction = vivirías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	vivirías	vivir	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vivirías	vivir	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	si	si	SCONJ	cs	_	6	mark	_	_
 5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	expl:pv	_	_
@@ -2097,7 +2097,7 @@
 # text = Tú escribirías un buen ensayo si te concentraras un poco más.
 # correction = escribirías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	escribirías	escribir	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	escribirías	escribir	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	buen	bueno	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	_	_
 5	ensayo	ensayo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
@@ -2113,7 +2113,7 @@
 # text = Tú correrías más rápido si entrenaras todos los días por la mañana.
 # correction = correrías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	correrías	correr	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	correrías	correr	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	rápido	rápido	ADV	rg	_	2	advmod	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2130,7 +2130,7 @@
 # text = Tú llegarías a tiempo si salieras de casa media hora antes.
 # correction = llegarías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	llegarías	llegar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	llegarías	llegar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	ExtPos=ADV	2	advmod	_	_
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	3	fixed	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2146,7 +2146,7 @@
 # text = Tú leerías más libros si dejaras de mirar el teléfono.
 # correction = leerías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	leerías	leer	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	leerías	leer	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	libros	libro	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2161,7 +2161,7 @@
 # text = Tú aprenderías más rápido si practicaras con hablantes nativos.
 # correction = aprenderías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	aprenderías	aprender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	aprenderías	aprender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	rápido	rápido	ADV	rg	_	2	advmod	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2175,7 +2175,7 @@
 # text = Tú venderías más productos si mejoraras la presentación.
 # correction = venderías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	venderías	vender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	venderías	vender	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	productos	producto	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2188,7 +2188,7 @@
 # text = Tú necesitarías menos ayuda si leyeras las instrucciones completas.
 # correction = necesitarías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	necesitarías	necesitar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	necesitarías	necesitar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	menos	menos	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	ayuda	ayuda	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2202,7 +2202,7 @@
 # text = Tú encontrarías trabajo más fácil si hablaras otro idioma.
 # correction = encontrarías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	encontrarías	encontrar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	encontrarías	encontrar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	fácil	fácil	ADJ	aq0cs0	Number=Sing	3	amod	_	_
@@ -2216,7 +2216,7 @@
 # text = Tú cambiarías de opinión si conocieras toda la historia.
 # correction = cambiarías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	cambiarías	cambiar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cambiarías	cambiar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	opinión	opinión	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl:arg	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2230,7 +2230,7 @@
 # text = Tú resolverías el problema si pensaras con más calma.
 # correction = resolverías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	resolverías	resolver	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	resolverías	resolver	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2259,7 +2259,7 @@
 # sent_id = es-es_person_2sg-017
 # text = Deberías revisar tu correo antes de salir de la oficina.
 # correction = tu: feats Person=1 -> Person=2
-1	Deberías	deber	AUX	vacc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+1	Deberías	deber	AUX	vacc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	2	aux	_	_
 2	revisar	revisar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 3	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
 4	correo	correo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
@@ -2392,7 +2392,7 @@
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	_
-7	actuarían	actuar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	actuarían	actuar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	sps00	_	10	case	_	_
 9	esa	ese	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
 10	manera	manera	NOUN	ncfs000	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
@@ -2404,7 +2404,7 @@
 2	ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 3	pudieran	poder	AUX	vasi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
 4	elegir	elegir	VERB	vmn0000	VerbForm=Inf	5	advcl	_	_
-5	vivirían	vivir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	vivirían	vivir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 6	cerca	cerca	ADV	rg	_	5	advmod	_	_
 7	de	de	ADP	sps00	_	9	case	_	_
 8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -2418,7 +2418,7 @@
 3	tuvieran	tener	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	recursos	recurso	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	_	_
-6	completarían	completar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	completarían	completar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	proyecto	proyecto	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	a	a	ADP	sps00	ExtPos=ADV	6	advmod	_	_
@@ -2435,7 +2435,7 @@
 6	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	días	día	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obl	_	_
 8	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
-9	sentirían	sentir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	sentirían	sentir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 10	mejor	mejor	ADV	rg	Degree=Cmp	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	SpaceAfter=No
 
@@ -2447,7 +2447,7 @@
 4	a	a	ADP	sps00	_	6	case	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	fiesta	fiesta	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
-7	conocerían	conocer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	conocerían	conocer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	a	a	ADP	sps00	_	9	case	_	_
 9	gente	gente	NOUN	ncfs000	Gender=Fem|Number=Sing	7	obj	_	_
 10	interesante	interesante	ADJ	aq0cs0	Number=Sing	9	amod	_	SpaceAfter=No
@@ -2459,7 +2459,7 @@
 2	ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	quisieran	querer	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
 4	participar	participar	VERB	vmn0000	VerbForm=Inf	3	xcomp	_	_
-5	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	cs	_	7	mark	_	_
 7-8	registrarse	_	_	_	_	_	_	_	_
 7	registrar	registrar	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	_
@@ -2474,7 +2474,7 @@
 3	salieran	salir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	temprano	temprano	ADV	rg	_	3	advmod	_	_
-6	evitarían	evitar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	evitarían	evitar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	tráfico	tráfico	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	pesado	pesado	ADJ	aq0ms0	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
@@ -2488,7 +2488,7 @@
 4	en	en	ADP	sps00	_	6	case	_	_
 5	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
 6	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
-7	entenderían	entender	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	entenderían	entender	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	nuestros	nuestro	DET	dp1mpp	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	problemas	problema	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
@@ -2501,7 +2501,7 @@
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	atención	atención	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	_
-7	cometerían	cometer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	cometerían	cometer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	tantos	tanto	DET	di0mp0	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
 9	errores	error	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
@@ -2513,7 +2513,7 @@
 3	trajeran	traer	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	documentos	documento	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	_	_
-6	resolveríamos	resolver	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	resolveríamos	resolver	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	6	obj	_	_
 8	hoy	hoy	ADV	rg	_	6	advmod	_	_
 9	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	8	fixed	_	SpaceAfter=No
@@ -2527,7 +2527,7 @@
 3	dijeran	decir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	3	obj	_	_
 5	diferente	diferente	ADJ	aq0cs0	Number=Sing	4	amod	_	_
-6	cambiaríamos	cambiar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	cambiaríamos	cambiar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	nuestra	nuestro	DET	dp1fsp	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
 8	decisión	decisión	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	SpaceAfter=No
@@ -2539,7 +2539,7 @@
 3	durmieran	dormir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	horas	hora	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	_	_
-6	rendirían	rendir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	rendirían	rendir	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
 8	en	en	ADP	sps00	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -2554,7 +2554,7 @@
 4	ayuda	ayuda	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 5	nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 6	las	él	PRON	pp3fpa00	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
-7	ayudaríamos	ayudar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ayudaríamos	ayudar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 8	sin	sin	ADP	sps00	_	9	mark	_	_
 9-10	dudarlo	_	_	_	_	_	_	_	SpaceAfter=No
 9	dudar	dudar	VERB	vmn0000	VerbForm=Inf	7	advcl	_	_
@@ -2570,7 +2570,7 @@
 5	mismo	mismo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
 6	que	que	SCONJ	cs	_	7	mark	_	_
 7	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
-8	entenderían	entender	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	entenderían	entender	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 9	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	frustración	frustración	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	SpaceAfter=No
@@ -2583,7 +2583,7 @@
 4	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	instrucciones	instrucción	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	_	_
 6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	_
-7	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	ningún	ninguno	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Neg	9	det	_	_
 9	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
@@ -2595,7 +2595,7 @@
 3	mantuvieran	mantener	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	calma	calma	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
-6	resolverían	resolver	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	resolverían	resolver	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	situación	situación	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	_	_
 9	rápidamente	rápidamente	ADV	rg	_	6	advmod	_	SpaceAfter=No
@@ -2609,7 +2609,7 @@
 4	con	con	ADP	sps00	_	6	case	_	_
 5	más	más	ADV	rg	Degree=Cmp	6	advmod	_	_
 6	cuidado	cuidado	NOUN	ncms000	Gender=Masc|Number=Sing	3	obl	_	_
-7	habría	haber	VERB	vacc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	habría	haber	VERB	vacc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 8	menos	menos	ADV	rg	Degree=Cmp	9	advmod	_	_
 9	accidentes	accidente	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
@@ -2622,7 +2622,7 @@
 4	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	solución	solución	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
-7	consideraríamos	considerar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	consideraríamos	considerar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 8	seriamente	seriamente	ADV	rg	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
 
@@ -2634,7 +2634,7 @@
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	canción	canción	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	juntas	junto	ADJ	aq0fp0	Gender=Fem|Number=Plur	3	xcomp	_	_
-7	sonaría	sonar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sonaría	sonar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 8	mucho	mucho	ADV	rg	_	9	advmod	_	_
 9	mejor	mejor	ADV	rg	Degree=Cmp	7	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpaceAfter=No
@@ -2648,7 +2648,7 @@
 5	costos	costo	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	_	_
 6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	empresa	empresa	NOUN	ncfs000	Gender=Fem|Number=Sing	10	nsubj	_	_
-8	sería	ser	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	sería	ser	AUX	vscc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	_
 9	más	más	ADV	rg	Degree=Cmp	10	advmod	_	_
 10	rentable	rentable	ADJ	aq0cs0	Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	SpaceAfter=No
@@ -2657,7 +2657,7 @@
 # text = María bailaría toda la noche si pusieran su canción favorita.
 # correction = bailaría: feats Tense=<missing> -> Tense=Pres
 1	María	María	PROPN	np00000	_	2	nsubj	_	_
-2	bailaría	bailar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	bailaría	bailar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	toda	todo	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	noche	noche	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
@@ -2673,7 +2673,7 @@
 # correction = explicaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	profesor	profesor	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	explicaría	explicar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	explicaría	explicar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tema	tema	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 6	otra	otro	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
@@ -2689,7 +2689,7 @@
 # correction = pintaría: feats Tense=<missing> -> Tense=Pres
 1	Mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	hermano	hermano	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	pintaría	pintar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pintaría	pintar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	si	si	SCONJ	cs	_	8	mark	_	_
@@ -2703,7 +2703,7 @@
 # text = La empresa contrataría más personal si creciera la demanda.
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	empresa	empresa	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	contrataría	contratar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	contrataría	contratar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	personal	personal	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 6	si	si	SCONJ	cs	_	7	mark	_	_
@@ -2717,7 +2717,7 @@
 # correction = recomendaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	doctor	doctor	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	recomendaría	recomendar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	recomendaría	recomendar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	descanso	descanso	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 5	si	si	SCONJ	cs	_	9	mark	_	_
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -2730,7 +2730,7 @@
 # text = Ana aceptaría la oferta si incluyera mejores condiciones.
 # correction = aceptaría: feats Tense=<missing> -> Tense=Pres
 1	Ana	Ana	PROPN	np00000	_	2	nsubj	_	_
-2	aceptaría	aceptar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	aceptaría	aceptar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	oferta	oferta	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2743,7 +2743,7 @@
 # text = Pablo abandonaría el proyecto si nadie lo apoyara.
 # correction = abandonaría: feats Tense=<missing> -> Tense=Pres
 1	Pablo	Pablo	PROPN	np00000	_	2	nsubj	_	_
-2	abandonaría	abandonar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	abandonaría	abandonar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	proyecto	proyecto	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	8	mark	_	_
@@ -2757,7 +2757,7 @@
 # correction = cerraría: feats Tense=<missing> -> Tense=Pres
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	tienda	tienda	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	cerraría	cerrar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cerraría	cerrar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	temprano	temprano	ADV	rg	_	3	advmod	_	_
 6	si	si	SCONJ	cs	_	8	mark	_	_
@@ -2771,7 +2771,7 @@
 # correction = escaparía: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	gato	gato	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	escaparía	escapar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escaparía	escapar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	por	por	ADP	sps00	_	6	case	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	ventana	ventana	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
@@ -2787,7 +2787,7 @@
 # correction = prepararía: feats Tense=<missing> -> Tense=Pres
 1	Mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	madre	madre	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	prepararía	preparar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	prepararía	preparar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	cena	cena	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	si	si	SCONJ	cs	_	7	mark	_	_
@@ -2804,7 +2804,7 @@
 # correction = ganaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	equipo	equipo	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	ganaría	ganar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ganaría	ganar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	campeonato	campeonato	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 6	si	si	SCONJ	cs	_	7	mark	_	_
@@ -2818,7 +2818,7 @@
 # text = Laura organizaría la reunión si supiera la fecha exacta.
 # correction = organizaría: feats Tense=<missing> -> Tense=Pres
 1	Laura	Laura	PROPN	np00000	_	2	nsubj	_	_
-2	organizaría	organizar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	organizaría	organizar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	reunión	reunión	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2833,7 +2833,7 @@
 # correction = aprobaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	banco	banco	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	aprobaría	aprobar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aprobaría	aprobar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	préstamo	préstamo	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 6	si	si	SCONJ	cs	_	7	mark	_	_
@@ -2846,7 +2846,7 @@
 # sent_id = es-es_cnd_tense_extra-014
 # text = Carlos vendería su coche si encontrara uno mejor a buen precio.
 1	Carlos	Carlos	PROPN	np00000	_	2	nsubj	_	_
-2	vendería	vender	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vendería	vender	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	coche	coche	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2863,7 +2863,7 @@
 # correction = cancelaría: feats Tense=<missing> -> Tense=Pres
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	directora	directora	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	cancelaría	cancelar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cancelaría	cancelar	VERB	vmcc3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	excursión	excursión	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	si	si	SCONJ	cs	_	7	mark	_	_
@@ -2875,7 +2875,7 @@
 # sent_id = es-es_cnd_tense_extra-016
 # text = Yo caminaría hasta el trabajo si viviera más cerca del centro.
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	caminaría	caminar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	caminaría	caminar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	hasta	hasta	ADP	sps00	_	5	case	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
@@ -2893,7 +2893,7 @@
 # text = Yo llamaría al médico si me sintiera peor mañana por la mañana.
 # correction = llamaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	llamaría	llamar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	llamaría	llamar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	sps00	_	5	case	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -2911,7 +2911,7 @@
 # sent_id = es-es_cnd_tense_extra-018
 # text = Yo donaría más dinero si tuviera un salario más alto.
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	donaría	donar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	donaría	donar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	dinero	dinero	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2925,7 +2925,7 @@
 # sent_id = es-es_cnd_tense_extra-019
 # text = Yo renunciaría a ese puesto si encontrara algo mejor.
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	renunciaría	renunciar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	renunciaría	renunciar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	_	5	case	_	_
 4	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	puesto	puesto	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
@@ -2938,7 +2938,7 @@
 # sent_id = es-es_cnd_tense_extra-020
 # text = Yo plantaría un jardín enorme si tuviera una casa con patio.
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	plantaría	plantar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	plantaría	plantar	VERB	vmcc1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	jardín	jardín	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	enorme	enorme	ADJ	aq0cs0	Number=Sing	4	amod	_	_
@@ -2953,7 +2953,7 @@
 # sent_id = es-es_cnd_tense_extra-021
 # text = Tú ahorrarías mucho tiempo si usaras el transporte público.
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	ahorrarías	ahorrar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ahorrarías	ahorrar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2966,7 +2966,7 @@
 # sent_id = es-es_cnd_tense_extra-022
 # text = Tú disfrutarías más la película si leyeras el libro primero.
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	disfrutarías	disfrutar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	disfrutarías	disfrutar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	película	película	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
@@ -2980,7 +2980,7 @@
 # sent_id = es-es_cnd_tense_extra-023
 # text = Tú mejorarías tu español si hablaras con nativos cada día.
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	mejorarías	mejorar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mejorarías	mejorar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
 4	español	español	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -2994,7 +2994,7 @@
 # sent_id = es-es_cnd_tense_extra-024
 # text = Tú evitarías problemas si siguieras las normas establecidas.
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	evitarías	evitar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	evitarías	evitar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	problemas	problema	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	siguieras	seguir	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -3006,7 +3006,7 @@
 # sent_id = es-es_cnd_tense_extra-025
 # text = Tú terminarías antes si te organizaras mejor desde el principio.
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	terminarías	terminar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	terminarías	terminar	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	antes	antes	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	6	mark	_	_
 5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	expl:pv	_	_
@@ -3020,7 +3020,7 @@
 # sent_id = es-es_cnd_tense_extra-026
 # text = Nosotros celebraríamos con una cena si ganáramos el concurso.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	celebraríamos	celebrar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	celebraríamos	celebrar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	sps00	_	5	case	_	_
 4	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	cena	cena	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
@@ -3033,7 +3033,7 @@
 # sent_id = es-es_cnd_tense_extra-027
 # text = Nosotros protestaríamos si nos quitaran ese derecho fundamental.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	protestaríamos	protestar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	protestaríamos	protestar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	si	si	SCONJ	cs	_	5	mark	_	_
 4	nos	yo	PRON	pp1cp000	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
 5	quitaran	quitar	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -3045,7 +3045,7 @@
 # sent_id = es-es_cnd_tense_extra-028
 # text = Nosotros adoptaríamos un perro si el edificio lo permitiera.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	adoptaríamos	adoptar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	adoptaríamos	adoptar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	perro	perro	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	9	mark	_	_
@@ -3058,7 +3058,7 @@
 # sent_id = es-es_cnd_tense_extra-029
 # text = Nosotros invertiríamos en ese negocio si viéramos potencial.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	invertiríamos	invertir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	invertiríamos	invertir	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
 4	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	negocio	negocio	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
@@ -3070,7 +3070,7 @@
 # sent_id = es-es_cnd_tense_extra-030
 # text = Nosotros mudaríamos de ciudad si consiguiéramos trabajo allá.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	mudaríamos	mudar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mudaríamos	mudar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -3082,7 +3082,7 @@
 # sent_id = es-es_cnd_tense_extra-031
 # text = Ellos participarían en la carrera si estuvieran en forma.
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	participarían	participar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	participarían	participar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	carrera	carrera	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
@@ -3095,7 +3095,7 @@
 # sent_id = es-es_cnd_tense_extra-032
 # text = Ellas donarían ropa si supieran dónde llevarla esta semana.
 1	Ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	donarían	donar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	donarían	donar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	ropa	ropa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	supieran	saber	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -3110,7 +3110,7 @@
 # sent_id = es-es_cnd_tense_extra-033
 # text = Ellos repararían la cerca si tuvieran las herramientas necesarias.
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	repararían	reparar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	repararían	reparar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	cerca	cerca	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -3123,7 +3123,7 @@
 # sent_id = es-es_cnd_tense_extra-034
 # text = Ellas reservarían una mesa si decidieran venir a la cena.
 1	Ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	reservarían	reservar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	reservarían	reservar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	mesa	mesa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -3137,7 +3137,7 @@
 # sent_id = es-es_cnd_tense_extra-035
 # text = Ellos completarían el formulario si entendieran las instrucciones.
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	completarían	completar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	completarían	completar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	formulario	formulario	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
@@ -4595,7 +4595,7 @@
 # sent_id = es-es_tener_que-009
 # text = Tendrías que hablar con el director sobre ese problema.
 # correction = que: deprel cc -> mark
-1	Tendrías	tener	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Tendrías	tener	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	cs	_	3	mark	_	_
 3	hablar	hablar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
 4	con	con	ADP	sps00	_	6	case	_	_
@@ -4608,7 +4608,7 @@
 
 # sent_id = es-es_tener_que-010
 # text = Tendríamos que reservar los billetes con antelación.
-1	Tendríamos	tener	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Tendríamos	tener	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	cs	_	3	mark	_	_
 3	reservar	reservar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
 4	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
