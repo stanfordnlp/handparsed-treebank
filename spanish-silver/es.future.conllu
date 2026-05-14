@@ -63,7 +63,7 @@
 4	Japón	Japón	PROPN	np00000	_	2	obl	_	start_char=23|end_char=28
 5	si	si	SCONJ	cs	_	6	mark	_	start_char=29|end_char=31
 6	ahorráramos	ahorrar	VERB	vmsi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	start_char=32|end_char=43
-7	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	start_char=44|end_char=46
+7	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	start_char=44|end_char=46
 8	suficiente	suficiente	ADJ	aq0cs0	Number=Sing	6	obj	_	SpaceAfter=No|start_char=47|end_char=57
 9	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpaceAfter=No|start_char=57|end_char=58
 
@@ -159,7 +159,7 @@
 3	con	con	ADP	sps00	_	4	case	_	start_char=14|end_char=17
 4	él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=18|end_char=20
 5	si	si	SCONJ	cs	_	9	mark	_	start_char=21|end_char=23
-6	no	no	ADV	rg	Polarity=Neg	9	advmod	_	start_char=24|end_char=26
+6	no	no	ADV	rn	Polarity=Neg	9	advmod	_	start_char=24|end_char=26
 7	estuviera	estar	AUX	vssi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	start_char=27|end_char=36
 8	tan	tanto	ADV	rg	_	9	advmod	_	start_char=37|end_char=40
 9	enojada	enojado	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	2	advcl	_	SpaceAfter=No|start_char=41|end_char=48
@@ -173,7 +173,7 @@
 3	jugarían	jugar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=18
 4	afuera	afuera	ADV	rg	_	3	advmod	_	start_char=19|end_char=25
 5	si	si	SCONJ	cs	_	7	mark	_	start_char=26|end_char=28
-6	no	no	ADV	rg	Polarity=Neg	7	advmod	_	start_char=29|end_char=31
+6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	start_char=29|end_char=31
 7	lloviera	llover	VERB	vmsi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	start_char=32|end_char=40
 8	tanto	tanto	ADV	rg	_	7	advmod	_	start_char=41|end_char=46
 9	hoy	hoy	ADV	rg	_	7	advmod	_	SpaceAfter=No|start_char=47|end_char=50
@@ -529,7 +529,7 @@
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=23|end_char=25
 6	coche	coche	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No|start_char=26|end_char=31
 7	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	start_char=31|end_char=32
-8	no	no	ADV	rg	Polarity=Neg	9	advmod	_	start_char=33|end_char=35
+8	no	no	ADV	rn	Polarity=Neg	9	advmod	_	start_char=33|end_char=35
 9	necesitaríamos	necesitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=36|end_char=50
 10	otro	otro	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	start_char=51|end_char=55
 11	vehículo	vehículo	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No|start_char=56|end_char=64
@@ -1190,7 +1190,7 @@
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=9|end_char=11
 4	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	start_char=12|end_char=18
 5	si	si	SCONJ	cs	_	7	mark	_	start_char=19|end_char=21
-6	no	no	ADV	rg	Polarity=Neg	7	advmod	_	start_char=22|end_char=24
+6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	start_char=22|end_char=24
 7	tuviera	tener	VERB	vmsi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	start_char=25|end_char=32
 8	miedo	miedo	NOUN	ncms000	Gender=Masc|Number=Sing	7	obj	_	start_char=33|end_char=38
 9	de	de	ADP	sps00	_	11	case	_	start_char=39|end_char=41
@@ -1218,7 +1218,7 @@
 1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No|start_char=0|end_char=1
 2	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=1|end_char=3
 3	harías	hacer	VERB	vmcc2s0	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=10
-4	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	start_char=11|end_char=13
+4	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	start_char=11|end_char=13
 5	mismo	mismo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	start_char=14|end_char=19
 6	en	en	ADP	sps00	_	8	case	_	start_char=20|end_char=22
 7	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	start_char=23|end_char=25
@@ -1274,7 +1274,7 @@
 
 # sent_id = es-es_mood_diag-007
 # text = No creía que él supiera hablar japonés tan bien.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	creía	creer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=3|end_char=8
 3	que	que	SCONJ	cs	_	5	mark	_	start_char=9|end_char=12
 4	él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=13|end_char=15
@@ -1395,7 +1395,7 @@
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=22|end_char=24
 5	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	start_char=25|end_char=31
 6	sobre	sobre	ADP	sps00	_	5	case	_	start_char=32|end_char=37
-7	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	start_char=38|end_char=40
+7	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	start_char=38|end_char=40
 8	que	que	PRON	pr0cn000	PronType=Rel	9	nsubj	_	start_char=41|end_char=44
 9	pasó	pasar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=45|end_char=49
 10	aquella	aquel	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	start_char=50|end_char=57
@@ -1433,7 +1433,7 @@
 # sent_id = es-es_lemma_irr-008
 # text = No creían que viniéramos tan lejos solo para verlos.
 # correction = viniéramos: lemma viniér -> venir; viniéramos: feats Person=3 -> Person=1
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	creían	creer	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	start_char=3|end_char=9
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=10|end_char=13
 4	viniéramos	venir	VERB	vmsi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	ccomp	_	start_char=14|end_char=24
@@ -1484,7 +1484,7 @@
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=23|end_char=25
 6	coche	coche	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No|start_char=26|end_char=31
 7	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	start_char=31|end_char=32
-8	no	no	ADV	rg	Polarity=Neg	9	advmod	_	start_char=33|end_char=35
+8	no	no	ADV	rn	Polarity=Neg	9	advmod	_	start_char=33|end_char=35
 9	necesitaríamos	necesitar	VERB	vmcc1p0	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=36|end_char=50
 10	otro	otro	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	start_char=51|end_char=55
 11	vehículo	vehículo	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No|start_char=56|end_char=64
@@ -1569,7 +1569,7 @@
 2	querrían	querer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=14
 3	participar	participar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	start_char=15|end_char=25
 4	pero	pero	CCONJ	cc	_	6	cc	_	start_char=26|end_char=30
-5	no	no	ADV	rg	Polarity=Neg	6	advmod	_	start_char=31|end_char=33
+5	no	no	ADV	rn	Polarity=Neg	6	advmod	_	start_char=31|end_char=33
 6	tienen	tener	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=34|end_char=40
 7	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	start_char=41|end_char=47
 8	suficiente	suficiente	ADJ	aq0cs0	Number=Sing	7	amod	_	SpaceAfter=No|start_char=48|end_char=58
@@ -1861,7 +1861,7 @@
 
 # sent_id = es-es_mark_subord-002
 # text = No sé si vendrán a la cena del próximo viernes.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	sé	saber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=5
 3	si	si	SCONJ	cs	_	4	mark	_	start_char=6|end_char=8
 4	vendrán	venir	VERB	vmif3p0	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	start_char=9|end_char=16
@@ -1935,7 +1935,7 @@
 # sent_id = es-es_mark_subord-007
 # text = Como no tenía dinero decidió quedarse en casa esa noche.
 1	Como	como	SCONJ	cs	_	3	mark	_	start_char=0|end_char=4
-2	no	no	ADV	rg	Polarity=Neg	3	advmod	_	start_char=5|end_char=7
+2	no	no	ADV	rn	Polarity=Neg	3	advmod	_	start_char=5|end_char=7
 3	tenía	tener	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	start_char=8|end_char=13
 4	dinero	dinero	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	start_char=14|end_char=20
 5	decidió	decidir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=21|end_char=28
@@ -1999,7 +1999,7 @@
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	cine	cine	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	start_char=13|end_char=17
 6	pero	pero	CCONJ	cc	_	8	cc	_	start_char=18|end_char=22
-7	no	no	ADV	rg	Polarity=Neg	8	advmod	_	start_char=23|end_char=25
+7	no	no	ADV	rn	Polarity=Neg	8	advmod	_	start_char=23|end_char=25
 8	encontró	encontrar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	start_char=26|end_char=34
 9	entradas	entrada	NOUN	ncfp000	Gender=Fem|Number=Plur	8	obj	_	start_char=35|end_char=43
 10	disponibles	disponible	ADJ	aq0cp0	Number=Plur	9	amod	_	SpaceAfter=No|start_char=44|end_char=55
@@ -2007,7 +2007,7 @@
 
 # sent_id = es-es_mark_subord-012
 # text = No trajo agua ni comida para la excursión del domingo.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	trajo	traer	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=8
 3	agua	agua	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	start_char=9|end_char=13
 4	ni	ni	CCONJ	cc	_	5	cc	_	start_char=14|end_char=16
@@ -2287,7 +2287,7 @@
 # sent_id = es-es_person_2sg-019
 # text = No olvides traer tu pasaporte para el viaje del viernes.
 # correction = tu: feats Person=1 -> Person=2
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	olvides	olvidar	VERB	vmsp2s0	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=10
 3	traer	traer	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	start_char=11|end_char=16
 4	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	start_char=17|end_char=19
@@ -2391,7 +2391,7 @@
 3	supieran	saber	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	start_char=9|end_char=17
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=18|end_char=20
 5	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	start_char=21|end_char=27
-6	no	no	ADV	rg	Polarity=Neg	7	advmod	_	start_char=28|end_char=30
+6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	start_char=28|end_char=30
 7	actuarían	actuar	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=40
 8	de	de	ADP	sps00	_	10	case	_	start_char=41|end_char=43
 9	esa	ese	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	start_char=44|end_char=47
@@ -2500,7 +2500,7 @@
 3	pusieran	poner	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	start_char=9|end_char=17
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	start_char=18|end_char=21
 5	atención	atención	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	start_char=22|end_char=30
-6	no	no	ADV	rg	Polarity=Neg	7	advmod	_	start_char=31|end_char=33
+6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	start_char=31|end_char=33
 7	cometerían	cometer	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=44
 8	tantos	tanto	DET	di0mp0	Gender=Masc|NumType=Card|Number=Plur|PronType=Ind	9	det	_	start_char=45|end_char=51
 9	errores	error	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No|start_char=52|end_char=59
@@ -2566,7 +2566,7 @@
 1	Si	si	SCONJ	cs	_	3	mark	_	start_char=0|end_char=2
 2	ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=3|end_char=8
 3	sintieran	sentir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	start_char=9|end_char=18
-4	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	start_char=19|end_char=21
+4	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	start_char=19|end_char=21
 5	mismo	mismo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	start_char=22|end_char=27
 6	que	que	SCONJ	cs	_	7	mark	_	start_char=28|end_char=31
 7	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nmod	_	start_char=32|end_char=34
@@ -2582,7 +2582,7 @@
 3	siguieran	seguir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	start_char=9|end_char=18
 4	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	start_char=19|end_char=22
 5	instrucciones	instrucción	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	_	start_char=23|end_char=36
-6	no	no	ADV	rg	Polarity=Neg	7	advmod	_	start_char=37|end_char=39
+6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	start_char=37|end_char=39
 7	tendrían	tener	VERB	vmcc3p0	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=40|end_char=48
 8	ningún	ninguno	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Neg	9	det	_	start_char=49|end_char=55
 9	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No|start_char=56|end_char=64
@@ -2761,7 +2761,7 @@
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	start_char=19|end_char=22
 5	temprano	temprano	ADV	rg	_	3	advmod	_	start_char=23|end_char=31
 6	si	si	SCONJ	cs	_	8	mark	_	start_char=32|end_char=34
-7	no	no	ADV	rg	Polarity=Neg	8	advmod	_	start_char=35|end_char=37
+7	no	no	ADV	rn	Polarity=Neg	8	advmod	_	start_char=35|end_char=37
 8	hubiera	haber	VERB	vasi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	start_char=38|end_char=45
 9	clientes	cliente	NOUN	nccp000	Gender=Masc|Number=Plur	8	obj	_	SpaceAfter=No|start_char=46|end_char=54
 10	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	SpaceAfter=No|start_char=54|end_char=55
@@ -3273,7 +3273,7 @@
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=6|end_char=8
 4	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	_	start_char=9|end_char=15
 5	sobre	sobre	ADP	sps00	_	8	mark	_	start_char=16|end_char=21
-6	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	start_char=22|end_char=24
+6	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	start_char=22|end_char=24
 7	que	que	PRON	pr0cn000	PronType=Rel	8	nsubj	_	start_char=25|end_char=28
 8	ocurrió	ocurrir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=29|end_char=36
 9	anoche	anoche	ADV	rg	_	8	advmod	_	SpaceAfter=No|start_char=37|end_char=43
@@ -3411,7 +3411,7 @@
 2	los	él	PRON	pp3mp000	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	SpaceAfter=No|start_char=5|end_char=8
 3	si	si	SCONJ	cs	_	7	mark	_	start_char=9|end_char=11
 4	ya	ya	ADV	rg	_	7	advmod	_	start_char=12|end_char=14
-5	no	no	ADV	rg	Polarity=Neg	7	advmod	_	start_char=15|end_char=17
+5	no	no	ADV	rn	Polarity=Neg	7	advmod	_	start_char=15|end_char=17
 6	los	él	PRON	pp3mp000	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	start_char=18|end_char=21
 7	necesitas	necesitar	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No|start_char=22|end_char=31
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	SpaceAfter=No|start_char=31|end_char=32
@@ -4620,7 +4620,7 @@
 # sent_id = es-es_tener_que-011
 # text = No tienes que preocuparte por nada esta noche.
 # correction = que: deprel cc -> mark
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	tienes	tener	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=9
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=10|end_char=13
 4-5	preocuparte	_	_	_	_	_	_	_	_
@@ -4711,7 +4711,7 @@
 # sent_id = es-es_tener_que-017
 # text = No tuve que explicar nada porque todos entendieron rápido.
 # correction = que: deprel cc -> mark
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	tuve	tener	VERB	vmis1s0	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=7
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=8|end_char=11
 4	explicar	explicar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=20
@@ -4823,7 +4823,7 @@
 # sent_id = es-es_tener_que-025
 # text = No tengo que justificarme ante nadie por mis decisiones.
 # correction = que: deprel cc -> mark
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=9|end_char=12
 4-5	justificarme	_	_	_	_	_	_	_	_
@@ -4899,7 +4899,7 @@
 
 # sent_id = es-es_tener_que-030
 # text = No tuvieron que esperar mucho porque el tren llegó puntual.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	tuvieron	tener	VERB	vmis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=11
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=12|end_char=15
 4	esperar	esperar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	start_char=16|end_char=23
@@ -4979,7 +4979,7 @@
 
 # sent_id = es-es_tener_que-035
 # text = No tenías que traer nada, ya habíamos comprado todo.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	tenías	tener	VERB	vmii2s0	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	start_char=3|end_char=9
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=10|end_char=13
 4	traer	traer	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	start_char=14|end_char=19
@@ -5031,7 +5031,7 @@
 4	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=21|end_char=23
 5	hotel	hotel	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	start_char=24|end_char=29
 6	porque	porque	SCONJ	cs	_	8	mark	_	start_char=30|end_char=36
-7	no	no	ADV	rg	Polarity=Neg	8	advmod	_	start_char=37|end_char=39
+7	no	no	ADV	rn	Polarity=Neg	8	advmod	_	start_char=37|end_char=39
 8	hay	haber	VERB	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=40|end_char=43
 9	sitio	sitio	NOUN	ncms000	Gender=Masc|Number=Sing	8	obj	_	start_char=44|end_char=49
 10	en	en	ADP	sps00	_	11	case	_	start_char=50|end_char=52
@@ -5053,7 +5053,7 @@
 
 # sent_id = es-es_tener_que-040
 # text = No tendrás que preocuparte más cuando termines este proyecto.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	tendrás	tener	VERB	vmif2s0	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	start_char=3|end_char=10
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=11|end_char=14
 4-5	preocuparte	_	_	_	_	_	_	_	_
@@ -5096,7 +5096,7 @@
 
 # sent_id = es-es_hay_que-003
 # text = No hay que preocuparse tanto por cosas que no podemos controlar.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	hay	haber	VERB	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=6
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=7|end_char=10
 4-5	preocuparse	_	_	_	_	_	_	_	_
@@ -5106,7 +5106,7 @@
 7	por	por	ADP	sps00	_	8	case	_	start_char=29|end_char=32
 8	cosas	cosa	NOUN	ncfp000	Gender=Fem|Number=Plur	4	obl	_	start_char=33|end_char=38
 9	que	que	PRON	pr0cn000	PronType=Rel	12	obj	_	start_char=39|end_char=42
-10	no	no	ADV	rg	Polarity=Neg	12	advmod	_	start_char=43|end_char=45
+10	no	no	ADV	rn	Polarity=Neg	12	advmod	_	start_char=43|end_char=45
 11	podemos	poder	AUX	vaip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=46|end_char=53
 12	controlar	controlar	VERB	vmn0000	VerbForm=Inf	8	acl:relcl	_	SpaceAfter=No|start_char=54|end_char=63
 13	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpaceAfter=No|start_char=63|end_char=64
@@ -5174,7 +5174,7 @@
 
 # sent_id = es-es_hay_que-008
 # text = No hay que olvidar las llaves cuando sales de la oficina.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	hay	haber	VERB	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=6
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=7|end_char=10
 4	olvidar	olvidar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	start_char=11|end_char=18
@@ -5265,7 +5265,7 @@
 
 # sent_id = es-es_hay_que-014
 # text = No hay que subestimar a los rivales en ninguna competición.
-1	No	no	ADV	rg	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	start_char=0|end_char=2
 2	hay	haber	VERB	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=6
 3	que	que	SCONJ	cs	_	4	mark	_	start_char=7|end_char=10
 4	subestimar	subestimar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	start_char=11|end_char=21
@@ -5521,7 +5521,7 @@
 5	tarde	tarde	ADV	rg	_	0	root	_	start_char=16|end_char=21
 6	porque	porque	SCONJ	cs	_	10	mark	_	start_char=22|end_char=28
 7	ya	ya	ADV	rg	_	10	advmod	_	start_char=29|end_char=31
-8	no	no	ADV	rg	Polarity=Neg	10	advmod	_	start_char=32|end_char=34
+8	no	no	ADV	rn	Polarity=Neg	10	advmod	_	start_char=32|end_char=34
 9	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	start_char=35|end_char=37
 10	oye	oír	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=38|end_char=41
 11	ningún	ninguno	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Neg	12	det	_	start_char=42|end_char=48
@@ -5596,7 +5596,7 @@
 5	sabido	saber	VERB	vmp0000	Tense=Past|VerbForm=Part	0	root	_	start_char=17|end_char=23
 6	antes	antes	ADV	rg	_	5	advmod	_	start_char=24|end_char=29
 7	porque	porque	SCONJ	cs	_	9	mark	_	start_char=30|end_char=36
-8	no	no	ADV	rg	Polarity=Neg	9	advmod	_	start_char=37|end_char=39
+8	no	no	ADV	rn	Polarity=Neg	9	advmod	_	start_char=37|end_char=39
 9	parecían	parecer	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	start_char=40|end_char=48
 10	sorprendidos	sorprendido	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	9	xcomp	_	SpaceAfter=No|start_char=49|end_char=61
 11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	SpaceAfter=No|start_char=61|end_char=62
@@ -5677,7 +5677,7 @@
 7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=29|end_char=31
 8	nevera	nevera	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	start_char=32|end_char=38
 9	porque	porque	SCONJ	cs	_	12	mark	_	start_char=39|end_char=45
-10	no	no	ADV	rg	Polarity=Neg	12	advmod	_	start_char=46|end_char=48
+10	no	no	ADV	rn	Polarity=Neg	12	advmod	_	start_char=46|end_char=48
 11	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	start_char=49|end_char=51
 12	encuentro	encontrar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No|start_char=52|end_char=61
 13	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	SpaceAfter=No|start_char=61|end_char=62
