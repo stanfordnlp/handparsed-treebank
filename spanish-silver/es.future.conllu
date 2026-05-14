@@ -4185,7 +4185,7 @@
 
 # sent_id = es-es_antes_de-002
 # text = Piénsalo bien antes de tomar una decisión tan importante.
-1	Piénsalo	piénsalo	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Piénsalo	pensar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	bien	bien	ADV	rg	_	1	advmod	_	_
 3	antes	antes	ADV	rg	_	1	advmod	_	_
 4	de	de	ADP	sps00	_	5	mark	_	_
@@ -4198,7 +4198,7 @@
 
 # sent_id = es-es_antes_de-003
 # text = Revisa el contrato antes de firmarlo ante el notario.
-1	Revisa	revesar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Revisa	revisar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	contrato	contrato	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4213,7 +4213,7 @@
 
 # sent_id = es-es_antes_de-004
 # text = Descansa un poco antes de continuar con el siguiente ejercicio.
-1	Descansa	descansa	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Descansa	descansar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	rg	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	advmod	_	_
 3	poco	poco	PRON	pi0ms000	Gender=Masc|NumType=Card|PronType=Ind	2	fixed	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4243,7 +4243,7 @@
 
 # sent_id = es-es_antes_de-006
 # text = Guarda los cambios antes de cerrar el programa del ordenador.
-1	Guarda	guarda	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Guarda	guardar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	cambios	cambio	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4260,7 +4260,7 @@
 # sent_id = es-es_antes_de-007
 # text = Habla con tus padres antes de comprometerte con ese proyecto.
 # correction = antes de + INF: restructured to Pattern A (antes=5→advmod→1, de=6→mark→7, INF=7→advcl→5)
-1	Habla	hablar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Habla	hablar	VERB	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	con	con	ADP	sps00	_	4	case	_	_
 3	tus	tu	DET	dp1cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	padres	padre	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	_
@@ -4275,7 +4275,7 @@
 # sent_id = es-es_antes_de-008
 # text = Lee las instrucciones antes de instalar el software en tu equipo.
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
-1	Lee	lee	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Lee	leer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	instrucciones	instrucción	NOUN	ncfp000	Gender=Fem|Number=Plur	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4291,7 +4291,7 @@
 # sent_id = es-es_antes_de-009
 # text = Practica en casa antes de presentarte al examen oficial mañana.
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
-1	Practica	practicar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Practica	practicar	VERB	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	sps00	_	3	case	_	_
 3	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4310,7 +4310,7 @@
 # sent_id = es-es_antes_de-010
 # text = Escríbelo en papel antes de olvidarte de los detalles importantes.
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
-1	Escríbelo	escríber	VERB	vmip1s0	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Escríbelo	escribir	VERB	vmip1s0	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	sps00	_	3	case	_	_
 3	papel	papel	NOUN	ncms000	Gender=Masc|Number=Sing	1	obl	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4326,7 +4326,7 @@
 
 # sent_id = es-es_antes_de-011
 # text = Confirma la reserva antes de hacer las maletas para el viaje.
-1	Confirma	confirmar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Confirma	confirmar	VERB	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	reserva	reserva	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4341,7 +4341,7 @@
 
 # sent_id = es-es_antes_de-012
 # text = Comprueba el horario antes de ir a la estación de autobuses.
-1	Comprueba	compruer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Comprueba	comprobar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	horario	horario	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4356,7 +4356,7 @@
 
 # sent_id = es-es_antes_de-013
 # text = Avisa a todos antes de empezar la reunión en la sala grande.
-1	Avisa	avisa	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Avisa	avisar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	sps00	_	3	case	_	_
 3	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4373,7 +4373,7 @@
 # sent_id = es-es_antes_de-014
 # text = Asegúrate de todo antes de enviar el correo al cliente principal.
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
-1	Asegúrate	asegúrate	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Asegúrate	asegurar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	sps00	_	3	case	_	_
 3	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	1	obl	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4390,7 +4390,7 @@
 
 # sent_id = es-es_antes_de-015
 # text = Considera las consecuencias antes de actuar de forma precipitada.
-1	Considera	considerar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Considera	considerar	VERB	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	consecuencias	consecuencia	NOUN	ncfp000	Gender=Fem|Number=Plur	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4403,7 +4403,7 @@
 
 # sent_id = es-es_antes_de-016
 # text = Pide permiso antes de usar el material del laboratorio mañana.
-1	Pide	pedir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Pide	pedir	VERB	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	permiso	permiso	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
 3	antes	antes	ADV	rg	_	1	advmod	_	_
 4	de	de	ADP	sps00	_	5	mark	_	_
@@ -4420,7 +4420,7 @@
 # sent_id = es-es_antes_de-017
 # text = Organiza tus ideas antes de comenzar a escribir el ensayo final.
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
-1	Organiza	organizar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Organiza	organizar	VERB	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	tus	tu	DET	dp1cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	ideas	idea	NOUN	ncfp000	Gender=Fem|Number=Plur	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4436,7 +4436,7 @@
 # sent_id = es-es_antes_de-018
 # text = Verifica los datos antes de publicar el artículo en la revista.
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
-1	Verifica	verificar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Verifica	verificar	VERB	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	datos	dato	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4471,7 +4471,7 @@
 # sent_id = es-es_antes_de-020
 # text = Estudia el tema antes de debatir en clase sobre ese asunto.
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
-1	Estudia	estudia	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Estudia	estudiar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	tema	tema	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
