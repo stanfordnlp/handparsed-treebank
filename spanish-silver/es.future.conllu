@@ -4272,11 +4272,13 @@
 4	padres	padre	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	_
 5	antes	antes	ADV	rg	_	1	advmod	_	_
 6	de	de	ADP	sps00	_	7	mark	_	_
-7	comprometerte	comprometer	VERB	vmn0000	VerbForm=Inf	5	advcl	_	_
-8	con	con	ADP	sps00	_	10	case	_	_
-9	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
-10	proyecto	proyecto	NOUN	ncms000	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+7-8	comprometerte	_	_	_	_	_	_	_	_
+7	comprometer	comprometer	VERB	vmn0000	VerbForm=Inf	5	advcl	_	_
+8	te	_	_	_	_	7	expl	_	_
+9	con	con	ADP	sps00	_	11	case	_	_
+10	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	proyecto	proyecto	NOUN	ncms000	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_antes_de-008
 # text = Lee las instrucciones antes de instalar el software en tu equipo.
