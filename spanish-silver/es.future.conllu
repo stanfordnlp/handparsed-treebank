@@ -1229,7 +1229,7 @@
 11	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
 12	dos	dos	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	13	nummod	_	_
 13	veces	vez	NOUN	ncfp000	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
-14	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	SpaceAfter=No
+14	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = es-es_mood_diag-004
 # text = Ellas pondrían más esfuerzo si vieran resultados concretos.
@@ -1590,7 +1590,7 @@
 9	difícil	difícil	ADJ	aq0cs0	Number=Sing	7	amod	_	_
 10	por	por	ADP	sps00	_	3	discourse	_	_
 11	favor	favor	NOUN	ncms000	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
-12	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	SpaceAfter=No
+12	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = es-es_cnd_extra-004
 # text = Yo diría que este problema necesita una solución urgente.
@@ -2254,7 +2254,7 @@
 9	clase	clase	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obl	_	_
 10	de	de	ADP	sps00	_	11	case	_	_
 11	ayer	ayer	ADV	rg	_	9	advmod	_	SpaceAfter=No
-12	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	SpaceAfter=No
+12	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = es-es_person_2sg-017
 # text = Deberías revisar tu correo antes de salir de la oficina.
@@ -4958,7 +4958,7 @@
 11	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	rato	rato	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	_
 13	más	más	ADV	rg	Degree=Cmp	12	advmod	_	SpaceAfter=No
-14	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	2	punct	_	SpaceAfter=No
+14	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
 # sent_id = es-es_tener_que-033
 # text = Tuvo que aprender a conducir porque se mudó al campo.
