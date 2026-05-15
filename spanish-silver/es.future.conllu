@@ -892,11 +892,11 @@
 # text = Si hubiéramos terminado antes, habríamos ido al cine con ellos.
 1	Si	si	SCONJ	cs	_	3	mark	_	_
 2	hubiéramos	haber	AUX	vasi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
-3	terminado	terminar	VERB	vmp0000	Tense=Past|VerbForm=Part	7	advcl	_	_
+3	terminado	terminar	VERB	vmp00sm	Tense=Past|VerbForm=Part	7	advcl	_	_
 4	antes	antes	ADV	rg	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 6	habríamos	haber	AUX	vaic1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	7	aux	_	_
-7	ido	ir	VERB	vmp0000	Tense=Past|VerbForm=Part	0	root	_	_
+7	ido	ir	VERB	vmp00sm	Tense=Past|VerbForm=Part	0	root	_	_
 8-9	al	_	_	_	_	_	_	_	_
 8	a	a	ADP	sps00	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -1558,7 +1558,7 @@
 4	respuesta	respuesta	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	7	mark	_	_
 6	hubiera	haber	AUX	vasi1s0	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
-7	estudiado	estudiar	VERB	vmp0000	Tense=Past|VerbForm=Part	2	advcl	_	_
+7	estudiado	estudiar	VERB	vmp00sm	Tense=Past|VerbForm=Part	2	advcl	_	_
 8	más	más	ADV	rg	Degree=Cmp	7	advmod	_	_
 9	anoche	anoche	ADV	rg	_	7	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpaceAfter=No
@@ -2044,7 +2044,7 @@
 4	respuesta	respuesta	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 5	si	si	SCONJ	cs	_	7	mark	_	_
 6	hubieras	haber	AUX	vasi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	7	aux	_	_
-7	estudiado	estudiar	VERB	vmp0000	Tense=Past|VerbForm=Part	2	advcl	_	_
+7	estudiado	estudiar	VERB	vmp00sm	Tense=Past|VerbForm=Part	2	advcl	_	_
 8	anoche	anoche	ADV	rg	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpaceAfter=No
 
@@ -4805,7 +4805,7 @@
 # text = Hemos tenido que cambiar los planes por culpa de la lluvia.
 # correction = que: deprel cc -> mark
 1	Hemos	haber	AUX	vaip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	tenido	tener	VERB	vmp0000	Tense=Past|VerbForm=Part	0	root	_	_
+2	tenido	tener	VERB	vmp00sm	Tense=Past|VerbForm=Part	0	root	_	_
 3	que	que	SCONJ	cs	_	4	mark	_	_
 4	cambiar	cambiar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
@@ -4997,7 +4997,7 @@
 6	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	_
 7	ya	ya	ADV	rg	_	9	advmod	_	_
 8	habíamos	haber	AUX	vaii1p0	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
-9	comprado	comprar	VERB	vmp0000	Tense=Past|VerbForm=Part	2	parataxis	_	_
+9	comprado	comprar	VERB	vmp00sm	Tense=Past|VerbForm=Part	2	parataxis	_	_
 10	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpaceAfter=No
 
@@ -5005,7 +5005,7 @@
 # text = Han tenido que cerrar la carretera por la nieve acumulada.
 # correction = que: deprel cc -> mark
 1	Han	haber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	tenido	tener	VERB	vmp0000	Tense=Past|VerbForm=Part	0	root	_	_
+2	tenido	tener	VERB	vmp00sm	Tense=Past|VerbForm=Part	0	root	_	_
 3	que	que	SCONJ	cs	_	4	mark	_	_
 4	cerrar	cerrar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -5487,7 +5487,7 @@
 7	ya	ya	ADV	rg	_	10	advmod	_	_
 8	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
 9	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	cubierto	cubrir	VERB	vmp0000	Tense=Past|VerbForm=Part	1	conj	_	_
+10	cubierto	cubrir	VERB	vmp00sm	Tense=Past|VerbForm=Part	1	conj	_	_
 11	todo	todo	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Tot	13	det	_	_
 12	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	jardín	jardín	NOUN	ncms000	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
@@ -5557,7 +5557,7 @@
 1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 2	de	de	ADP	sps00	_	4	mark	_	_
 3	haber	haber	AUX	van0000	VerbForm=Inf	4	aux	_	_
-4	llovido	llover	VERB	vmp0000	Tense=Past|VerbForm=Part	0	root	_	_
+4	llovido	llover	VERB	vmp00sm	Tense=Past|VerbForm=Part	0	root	_	_
 5	porque	porque	SCONJ	cs	_	9	mark	_	_
 6	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	calles	calle	NOUN	ncfp000	Gender=Fem|Number=Plur	9	nsubj	_	_
@@ -5603,7 +5603,7 @@
 3-4	haberlo	_	_	_	_	_	_	_	_
 3	haber	haber	AUX	van0000	VerbForm=Inf	5	aux	_	_
 4	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
-5	sabido	saber	VERB	vmp0000	Tense=Past|VerbForm=Part	0	root	_	_
+5	sabido	saber	VERB	vmp00sm	Tense=Past|VerbForm=Part	0	root	_	_
 6	antes	antes	ADV	rg	_	5	advmod	_	_
 7	porque	porque	SCONJ	cs	_	9	mark	_	_
 8	no	no	ADV	rn	Polarity=Neg	9	advmod	_	_
