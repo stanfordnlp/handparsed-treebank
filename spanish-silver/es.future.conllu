@@ -127,7 +127,7 @@
 # sent_id = es-cnd_tense-010
 # text = Ustedes llegarían a tiempo si salieran un poco más temprano.
 # correction = llegarían: feats Tense=<missing> -> Tense=Pres
-1	Ustedes	usted	PRON	pp2cp00p	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+1	Ustedes	tú	PRON	pp2cp00p	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	llegarían	llegar	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	ExtPos=ADV	2	advmod	_	_
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	3	fixed	_	_
@@ -592,7 +592,7 @@
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	recordaríamos	recordar	VERB	vmic1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-8	buenos	bueno	ADJ	aq0mp0	Gender=Masc|Number=Plur	9	amod	_	_
+8	buenos	buen	ADJ	aq0mp0	Gender=Masc|Number=Plur	9	amod	_	_
 9	tiempos	tiempo	NOUN	ncmp000	Gender=Masc|Number=Plur	6	obj	_	_
 10	de	de	ADP	sps00	_	11	case	_	_
 11	juventud	juventud	NOUN	ncfs000	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
@@ -2099,7 +2099,7 @@
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	escribirías	escribir	VERB	vmic2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	buen	bueno	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	_	_
+4	buen	buen	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	_	_
 5	ensayo	ensayo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 6	si	si	SCONJ	cs	_	8	mark	_	_
 7	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
@@ -2856,7 +2856,7 @@
 7	uno	uno	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	_
 8	mejor	mejor	ADJ	aq0cs0	Degree=Cmp|Number=Sing	7	amod	_	_
 9	a	a	ADP	sps00	_	11	case	_	_
-10	buen	bueno	ADJ	aq0ms0	Gender=Masc|Number=Sing	11	amod	_	_
+10	buen	buen	ADJ	aq0ms0	Gender=Masc|Number=Sing	11	amod	_	_
 11	precio	precio	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
@@ -3826,7 +3826,7 @@
 1	Recomienda	recomendar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	algún	alguno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
-4	buen	bueno	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	_	_
+4	buen	buen	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	_	_
 5	libro	libro	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
 6	de	de	ADP	sps00	_	7	case	_	_
 7	historia	historia	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
