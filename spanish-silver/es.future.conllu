@@ -1431,7 +1431,7 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_lemma_irr-008
-# text = No creían que viniéramos tan lejos solo para verlos.
+# text = No creían que viniéramos tan lejos sólo para verlos.
 # correction = viniéramos: lemma viniér -> venir; viniéramos: feats Person=3 -> Person=1
 1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	_
 2	creían	creer	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -1439,7 +1439,7 @@
 4	viniéramos	venir	VERB	vmsi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 5	tan	tanto	ADV	rg	_	6	advmod	_	_
 6	lejos	lejos	ADV	rg	_	4	advmod	_	_
-7	solo	sólo	ADV	rg	_	9	advmod	_	_
+7	sólo	sólo	ADV	rg	_	9	advmod	_	_
 8	para	para	ADP	sps00	_	9	mark	_	_
 9-10	verlos	_	_	_	_	_	_	_	SpaceAfter=No
 9	ver	ver	VERB	vmn0000	VerbForm=Inf	4	advcl	_	_
@@ -3663,12 +3663,12 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-040
-# text = Préstamelo solo por un día.
+# text = Préstamelo sólo por un día.
 1-3	Préstamelo	_	_	_	_	_	_	_	_
 1	Presta	prestar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
-4	solo	sólo	ADV	rg	_	1	advmod	_	_
+4	sólo	sólo	ADV	rg	_	1	advmod	_	_
 5	por	por	ADP	sps00	_	7	case	_	_
 6	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	día	día	NOUN	ncms000	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
