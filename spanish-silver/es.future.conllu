@@ -465,7 +465,7 @@
 6	que	que	SCONJ	cs	_	7	mark	_	_
 7-8	inscribirnos	_	_	_	_	_	_	_	_
 7	inscribir	inscribir	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	_
-8	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	7	expl:pv	_	_
+8	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 9	antes	antes	ADV	rg	_	7	advmod	_	_
 10-11	del	_	_	_	_	_	_	_	_
 10	de	de	ADP	sps00	_	12	case	_	_
@@ -2084,7 +2084,7 @@
 2	vivirías	vivir	VERB	vmic2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
 4	si	si	SCONJ	cs	_	6	mark	_	_
-5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	expl:pv	_	_
+5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 6	mudaras	mudar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 7	a	a	ADP	sps00	_	9	case	_	_
 8	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -2102,7 +2102,7 @@
 4	buen	bueno	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	_	_
 5	ensayo	ensayo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 6	si	si	SCONJ	cs	_	8	mark	_	_
-7	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	expl:pv	_	_
+7	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	concentraras	concentrar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 9	un	uno	ADV	rg	_	10	advmod	_	_
 10	poco	poco	PRON	pi0ms000	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	11	nmod	_	_
@@ -3011,7 +3011,7 @@
 2	terminarías	terminar	VERB	vmic2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	antes	antes	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	6	mark	_	_
-5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	expl:pv	_	_
+5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 6	organizaras	organizar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
 8	desde	desde	ADP	sps00	_	10	case	_	_
@@ -3493,7 +3493,7 @@
 # text = Siéntateaquí y espera un momento.
 1-2	Siéntate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Sienta	sentar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	aquí	aquí	ADV	rg	_	1	advmod	_	_
 4	y	y	CCONJ	cc	_	5	cc	_	_
 5	espera	esperar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
@@ -3505,7 +3505,7 @@
 # text = Levántatetemprano si quieres llegar a tiempo.
 1-2	Levántate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Levanta	levantar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	temprano	temprano	ADV	rg	_	1	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	quieres	querer	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
@@ -3518,7 +3518,7 @@
 # text = Cálmatey dimequé pasó.
 1-2	Cálmate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Calma	calmar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	y	y	CCONJ	cc	_	4	cc	_	_
 4-5	dime	_	_	_	_	_	_	_	SpaceAfter=No
 4	di	decir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
@@ -3531,7 +3531,7 @@
 # text = Vísteterápido, ya es tarde.
 1-2	Vístete	_	_	_	_	_	_	_	SpaceAfter=No
 1	Viste	vestir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	rápido	rápido	ADV	rg	_	1	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
 5	ya	ya	ADV	rg	_	7	advmod	_	_
@@ -3543,11 +3543,11 @@
 # text = Quédateen casa si te sientes mal.
 1-2	Quédate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Queda	quedar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	en	en	ADP	sps00	_	4	case	_	_
 4	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
-6	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	expl:pv	_	_
+6	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	sientes	sentir	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 8	mal	mal	ADV	rg	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	SpaceAfter=No
@@ -3556,21 +3556,21 @@
 # text = Despídetede todos antes de irte.
 1-2	Despídete	_	_	_	_	_	_	_	SpaceAfter=No
 1	Despide	despedir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	1	obl	_	_
 5	antes	antes	ADV	rg	_	1	advmod	_	_
 6	de	de	ADP	sps00	_	7	mark	_	_
 7-8	irte	_	_	_	_	_	_	_	SpaceAfter=No
 7	ir	ir	VERB	vmn0000	VerbForm=Inf	5	advcl	_	_
-8	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	expl:pv	_	_
+8	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	SpaceAfter=No
 
 # sent_id = es-es_imp_clitic-032
 # text = Acuérdatede apagar las luces.
 1-2	Acuérdate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Acuerda	acordar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	de	de	ADP	sps00	_	4	mark	_	_
 4	apagar	apagar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
 5	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
@@ -3581,7 +3581,7 @@
 # text = Alégrate, hoy es tu cumpleaños.
 1-2	Alégrate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Alegra	alegrar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	,	,	PUNCT	fc	PunctType=Comm	6	punct	_	_
 4	hoy	hoy	ADV	rg	_	6	advmod	_	_
 5	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -3593,7 +3593,7 @@
 # text = Anímate, todavía hay tiempo para lograrlo.
 1-2	Anímate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Anima	animar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	,	,	PUNCT	fc	PunctType=Comm	5	punct	_	_
 4	todavía	todavía	ADV	rg	_	5	advmod	_	_
 5	hay	haber	VERB	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
@@ -3608,7 +3608,7 @@
 # text = Prepáratebien para la entrevista.
 1-2	Prepárate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Prepara	preparar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	bien	bien	ADV	rg	_	1	advmod	_	_
 4	para	para	ADP	sps00	_	6	case	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -4268,7 +4268,7 @@
 # correction = antes de + INF: restructured to Pattern A (antes=5→advmod→1, de=6→mark→7, INF=7→advcl→5)
 1	Habla	hablar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	con	con	ADP	sps00	_	4	case	_	_
-3	tus	tu	DET	dp2cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+3	tus	tu	DET	dp1cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	padres	padre	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	_
 5	antes	antes	ADV	rg	_	1	advmod	_	_
 6	de	de	ADP	sps00	_	7	mark	_	_
@@ -4385,7 +4385,7 @@
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
 1-2	Asegúrate	_	_	_	_	_	_	_	_
 1	Asegura	asegurar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	1	obl	_	_
 5	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4466,7 +4466,7 @@
 # correction = antes de + INF: restructured to Pattern A (antes=4→advmod→1, de=5→mark→6, INF=6→advcl→4)
 1-2	Despídete	_	_	_	_	_	_	_	_
 1	Despide	despedir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	expl:pv	_	_
+2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	1	obl	_	_
 5	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -4639,7 +4639,7 @@
 3	que	que	SCONJ	cs	_	4	mark	_	_
 4-5	preocuparte	_	_	_	_	_	_	_	_
 4	preocupar	preocupar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
-5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	expl:pv	_	_
+5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	por	por	ADP	sps00	_	7	case	_	_
 7	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	4	obl	_	_
 8	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
@@ -4684,7 +4684,7 @@
 4	que	que	SCONJ	cs	_	5	mark	_	_
 5-6	mudarnos	_	_	_	_	_	_	_	_
 5	mudar	mudar	VERB	vmn0000	VerbForm=Inf	3	xcomp	_	_
-6	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	expl:pv	_	_
+6	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 7	a	a	ADP	sps00	_	9	case	_	_
 8	otra	otro	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
 9	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obl	_	_
@@ -4842,7 +4842,7 @@
 3	que	que	SCONJ	cs	_	4	mark	_	_
 4-5	justificarme	_	_	_	_	_	_	_	_
 4	justificar	justificar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
-5	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	expl:pv	_	_
+5	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	ante	ante	ADP	sps00	_	7	case	_	_
 7	nadie	nadie	PRON	pi0cs000	Number=Sing|PronType=Neg	4	obl	_	_
 8	por	por	ADP	sps00	_	10	case	_	_
@@ -4931,7 +4931,7 @@
 2	que	que	SCONJ	cs	_	3	mark	_	_
 3-4	levantarme	_	_	_	_	_	_	_	_
 3	levantar	levantar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
-4	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	expl:pv	_	_
+4	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 5	a	a	ADP	sps00	_	7	case	_	_
 6	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	cinco	cinco	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	3	obl	_	_
@@ -4954,7 +4954,7 @@
 8	podéis	poder	AUX	vaip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9-10	quedaros	_	_	_	_	_	_	_	_
 9	quedar	quedar	VERB	vmn0000	VerbForm=Inf	2	conj	_	_
-10	os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	9	expl:pv	_	_
+10	os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 11	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	rato	rato	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	_
 13	más	más	ADV	rg	Degree=Cmp	12	advmod	_	SpaceAfter=No
@@ -5072,7 +5072,7 @@
 3	que	que	SCONJ	cs	_	4	mark	_	_
 4-5	preocuparte	_	_	_	_	_	_	_	_
 4	preocupar	preocupar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
-5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	expl:pv	_	_
+5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 7	cuando	cuando	SCONJ	cs	_	8	mark	_	_
 8	termines	terminar	VERB	vmsp2s0	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
@@ -5327,7 +5327,7 @@
 2	de	de	ADP	sps00	_	3	mark	_	_
 3-4	enterarnos	_	_	_	_	_	_	_	_
 3	enterar	enterar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
-4	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	3	expl:pv	_	_
+4	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 5	de	de	ADP	sps00	_	7	case	_	_
 6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	noticia	noticia	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl:arg	_	_
@@ -5426,7 +5426,7 @@
 2	de	de	ADP	sps00	_	3	mark	_	_
 3-4	sentarnos	_	_	_	_	_	_	_	_
 3	sentar	sentar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
-4	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	3	expl:pv	_	_
+4	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 5	cuando	cuando	SCONJ	cs	_	6	mark	_	_
 6	sonó	sonar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
