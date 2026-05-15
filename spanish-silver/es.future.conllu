@@ -3149,8 +3149,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-es_imp_clitic-001
-# text = Cuéntamequé pasó en la reunión de esta mañana.
-1-2	Cuéntame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Cuéntame qué pasó en la reunión de esta mañana.
+1-2	Cuéntame	_	_	_	_	_	_	_	_
 1	Cuenta	contar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	qué	qué	PRON	pt0cs000	Number=Sing|PronType=Int	4	nsubj	_	_
@@ -3164,8 +3164,8 @@
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-002
-# text = Dilea tu hermano que venga a cenar con nosotros.
-1-2	Dile	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Dile a tu hermano que venga a cenar con nosotros.
+1-2	Dile	_	_	_	_	_	_	_	_
 1	Di	decir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3	a	a	ADP	sps00	_	5	case	_	_
@@ -3180,8 +3180,8 @@
 12	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-003
-# text = Pregúntaleal profesor si hay examen mañana.
-1-2	Pregúntale	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Pregúntale al profesor si hay examen mañana.
+1-2	Pregúntale	_	_	_	_	_	_	_	_
 1	Pregunta	preguntar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3-4	al	_	_	_	_	_	_	_	_
@@ -3195,8 +3195,8 @@
 10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-004
-# text = Escríbemecuando llegues al aeropuerto.
-1-2	Escríbeme	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Escríbeme cuando llegues al aeropuerto.
+1-2	Escríbeme	_	_	_	_	_	_	_	_
 1	Escribe	escribir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	cuando	cuando	SCONJ	cs	_	4	mark	_	_
@@ -3208,8 +3208,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-005
-# text = Llámanossi necesitas ayuda con la mudanza.
-1-2	Llámanos	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Llámanos si necesitas ayuda con la mudanza.
+1-2	Llámanos	_	_	_	_	_	_	_	_
 1	Llama	llamar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	si	si	SCONJ	cs	_	4	mark	_	_
@@ -3221,8 +3221,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-006
-# text = Pásamela sal que está al lado del pan.
-1-2	Pásame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Pásame la sal que está al lado del pan.
+1-2	Pásame	_	_	_	_	_	_	_	_
 1	Pasa	pasar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -3240,8 +3240,8 @@
 13	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-007
-# text = Explícalebien las instrucciones antes de empezar.
-1-2	Explícale	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Explícale bien las instrucciones antes de empezar.
+1-2	Explícale	_	_	_	_	_	_	_	_
 1	Explica	explicar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3	bien	bien	ADV	rg	_	1	advmod	_	_
@@ -3253,8 +3253,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-008
-# text = Tráemeun vaso de agua fría de la cocina.
-1-2	Tráeme	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Tráeme un vaso de agua fría de la cocina.
+1-2	Tráeme	_	_	_	_	_	_	_	_
 1	Trae	traer	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -3268,8 +3268,8 @@
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-009
-# text = Dinosla verdad sobre lo que ocurrió anoche.
-1-2	Dinos	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Dinos la verdad sobre lo que ocurrió anoche.
+1-2	Dinos	_	_	_	_	_	_	_	_
 1	Di	decir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	nos	yo	PRON	pp1cp000	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -3282,8 +3282,8 @@
 10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-010
-# text = Muéstralelas fotos del viaje a tu madre.
-1-2	Muéstrale	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Muéstrale las fotos del viaje a tu madre.
+1-2	Muéstrale	_	_	_	_	_	_	_	_
 1	Muestra	mostrar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -3298,8 +3298,8 @@
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-011
-# text = Cómpraleun regalo bonito para su cumpleaños.
-1-2	Cómprale	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Cómprale un regalo bonito para su cumpleaños.
+1-2	Cómprale	_	_	_	_	_	_	_	_
 1	Compra	comprar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -3311,8 +3311,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-012
-# text = Mándameel documento por correo electrónico.
-1-2	Mándame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Mándame el documento por correo electrónico.
+1-2	Mándame	_	_	_	_	_	_	_	_
 1	Manda	mandar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -3323,8 +3323,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-013
-# text = Sírvelemás sopa al niño que tiene hambre.
-1-2	Sírvele	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Sírvele más sopa al niño que tiene hambre.
+1-2	Sírvele	_	_	_	_	_	_	_	_
 1	Sirve	servir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
@@ -3339,8 +3339,8 @@
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-014
-# text = Avísalesque la reunión se canceló esta tarde.
-1-2	Avísales	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Avísales que la reunión se canceló esta tarde.
+1-2	Avísales	_	_	_	_	_	_	_	_
 1	Avisa	avisar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	les	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	obl:arg	_	_
 3	que	que	SCONJ	cs	_	7	mark	_	_
@@ -3353,8 +3353,8 @@
 10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-015
-# text = Enséñamea cocinar esa receta tan deliciosa.
-1-2	Enséñame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Enséñame a cocinar esa receta tan deliciosa.
+1-2	Enséñame	_	_	_	_	_	_	_	_
 1	Enseña	enseñar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	a	a	ADP	sps00	_	4	mark	_	_
@@ -3366,8 +3366,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-016
-# text = Cómpraloantes de que se agoten las entradas.
-1-2	Cómpralo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Cómpralo antes de que se agoten las entradas.
+1-2	Cómpralo	_	_	_	_	_	_	_	_
 1	Compra	comprar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	antes	antes	ADV	rg	_	1	advmod	_	_
@@ -3380,8 +3380,8 @@
 10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-017
-# text = Léelocon atención antes de firmarlo.
-1-2	Léelo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Léelo con atención antes de firmarlo.
+1-2	Léelo	_	_	_	_	_	_	_	_
 1	Lee	leer	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	con	con	ADP	sps00	_	4	case	_	_
@@ -3394,8 +3394,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-018
-# text = Búscalaen el cajón de la derecha.
-1-2	Búscala	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Búscala en el cajón de la derecha.
+1-2	Búscala	_	_	_	_	_	_	_	_
 1	Busca	buscar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
@@ -3407,8 +3407,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-019
-# text = Véndelossi ya no los necesitas.
-1-2	Véndelos	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Véndelos si ya no los necesitas.
+1-2	Véndelos	_	_	_	_	_	_	_	_
 1	Vende	vender	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	los	él	PRON	pp3mp000	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	si	si	SCONJ	cs	_	7	mark	_	_
@@ -3419,8 +3419,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-020
-# text = Guárdalaen un lugar seguro.
-1-2	Guárdala	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Guárdala en un lugar seguro.
+1-2	Guárdala	_	_	_	_	_	_	_	_
 1	Guarda	guardar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
@@ -3442,8 +3442,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-022
-# text = Ciérralacon llave cuando salgas.
-1-2	Ciérrala	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Ciérrala con llave cuando salgas.
+1-2	Ciérrala	_	_	_	_	_	_	_	_
 1	Cierra	cerrar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	con	con	ADP	sps00	_	4	case	_	_
@@ -3453,8 +3453,8 @@
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-023
-# text = Repáralotú mismo si puedes.
-1-2	Repáralo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Repáralo tú mismo si puedes.
+1-2	Repáralo	_	_	_	_	_	_	_	_
 1	Repara	reparar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	tú	tú	PRON	pp2cs000	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
@@ -3464,8 +3464,8 @@
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-024
-# text = Recógelasdel suelo, por favor.
-1-2	Recógelas	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Recógelas del suelo, por favor.
+1-2	Recógelas	_	_	_	_	_	_	_	_
 1	Recoge	recoger	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	las	él	PRON	pp3fp000	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3-4	del	_	_	_	_	_	_	_	_
@@ -3478,8 +3478,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-025
-# text = Úsalacon cuidado que es frágil.
-1-2	Úsala	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Úsala con cuidado que es frágil.
+1-2	Úsala	_	_	_	_	_	_	_	_
 1	Usa	usar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	con	con	ADP	sps00	_	4	case	_	_
@@ -3490,8 +3490,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-026
-# text = Siéntateaquí y espera un momento.
-1-2	Siéntate	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Siéntate aquí y espera un momento.
+1-2	Siéntate	_	_	_	_	_	_	_	_
 1	Sienta	sentar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	aquí	aquí	ADV	rg	_	1	advmod	_	_
@@ -3502,8 +3502,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-027
-# text = Levántatetemprano si quieres llegar a tiempo.
-1-2	Levántate	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Levántate temprano si quieres llegar a tiempo.
+1-2	Levántate	_	_	_	_	_	_	_	_
 1	Levanta	levantar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	temprano	temprano	ADV	rg	_	1	advmod	_	_
@@ -3515,12 +3515,12 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-028
-# text = Cálmatey dimequé pasó.
-1-2	Cálmate	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Cálmate y dime qué pasó.
+1-2	Cálmate	_	_	_	_	_	_	_	_
 1	Calma	calmar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	y	y	CCONJ	cc	_	4	cc	_	_
-4-5	dime	_	_	_	_	_	_	_	SpaceAfter=No
+4-5	dime	_	_	_	_	_	_	_	_
 4	di	decir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
 5	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
 6	qué	qué	PRON	pt0cs000	Number=Sing|PronType=Int	7	nsubj	_	_
@@ -3528,8 +3528,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-029
-# text = Vísteterápido, ya es tarde.
-1-2	Vístete	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Vístete rápido, ya es tarde.
+1-2	Vístete	_	_	_	_	_	_	_	_
 1	Viste	vestir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	rápido	rápido	ADV	rg	_	1	advmod	_	SpaceAfter=No
@@ -3540,8 +3540,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-030
-# text = Quédateen casa si te sientes mal.
-1-2	Quédate	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Quédate en casa si te sientes mal.
+1-2	Quédate	_	_	_	_	_	_	_	_
 1	Queda	quedar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	en	en	ADP	sps00	_	4	case	_	_
@@ -3553,8 +3553,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-031
-# text = Despídetede todos antes de irte.
-1-2	Despídete	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Despídete de todos antes de irte.
+1-2	Despídete	_	_	_	_	_	_	_	_
 1	Despide	despedir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
@@ -3567,8 +3567,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-032
-# text = Acuérdatede apagar las luces.
-1-2	Acuérdate	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Acuérdate de apagar las luces.
+1-2	Acuérdate	_	_	_	_	_	_	_	_
 1	Acuerda	acordar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	de	de	ADP	sps00	_	4	mark	_	_
@@ -3605,8 +3605,8 @@
 10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-035
-# text = Prepáratebien para la entrevista.
-1-2	Prepárate	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Prepárate bien para la entrevista.
+1-2	Prepárate	_	_	_	_	_	_	_	_
 1	Prepara	preparar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	bien	bien	ADV	rg	_	1	advmod	_	_
@@ -3616,8 +3616,8 @@
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-036
-# text = Dámelocuando puedas.
-1-3	Dámelo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Dámelo cuando puedas.
+1-3	Dámelo	_	_	_	_	_	_	_	_
 1	Da	dar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3626,8 +3626,8 @@
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-037
-# text = Cuéntamelotodo desde el principio.
-1-3	Cuéntamelo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Cuéntamelo todo desde el principio.
+1-3	Cuéntamelo	_	_	_	_	_	_	_	_
 1	Cuenta	contar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3638,8 +3638,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-038
-# text = Mándaselopor correo electrónico.
-1-3	Mándaselo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Mándaselo por correo electrónico.
+1-3	Mándaselo	_	_	_	_	_	_	_	_
 1	Manda	mandar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	se	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3649,8 +3649,8 @@
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-039
-# text = Tráemelacuando vengas a verme.
-1-3	Tráemela	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Tráemela cuando vengas a verme.
+1-3	Tráemela	_	_	_	_	_	_	_	_
 1	Trae	traer	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3663,8 +3663,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-040
-# text = Préstamelosolo por un día.
-1-3	Préstamelo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Préstamelo solo por un día.
+1-3	Préstamelo	_	_	_	_	_	_	_	_
 1	Presta	prestar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3675,8 +3675,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-041
-# text = Cómpramelasi está en oferta.
-1-3	Cómpramela	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Cómpramela si está en oferta.
+1-3	Cómpramela	_	_	_	_	_	_	_	_
 1	Compra	comprar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3687,8 +3687,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-042
-# text = Díseloa tu jefe directamente.
-1-3	Díselo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Díselo a tu jefe directamente.
+1-3	Díselo	_	_	_	_	_	_	_	_
 1	Di	decir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	se	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3699,8 +3699,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-043
-# text = Enséñaselaa los estudiantes.
-1-3	Enséñasela	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Enséñasela a los estudiantes.
+1-3	Enséñasela	_	_	_	_	_	_	_	_
 1	Enseña	enseñar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	se	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	obl:arg	_	_
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3710,8 +3710,8 @@
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-044
-# text = Muéstraseloa tus padres esta noche.
-1-3	Muéstraselo	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Muéstraselo a tus padres esta noche.
+1-3	Muéstraselo	_	_	_	_	_	_	_	_
 1	Muestra	mostrar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	se	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	obl:arg	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3723,8 +3723,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-045
-# text = Léemelaen voz alta para que todos oigan.
-1-3	Léemela	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Léemela en voz alta para que todos oigan.
+1-3	Léemela	_	_	_	_	_	_	_	_
 1	Lee	leer	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
@@ -3738,8 +3738,8 @@
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-046
-# text = Ayúdamecon este problema, por favor.
-1-2	Ayúdame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Ayúdame con este problema, por favor.
+1-2	Ayúdame	_	_	_	_	_	_	_	_
 1	Ayuda	ayudar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	con	con	ADP	sps00	_	5	case	_	_
@@ -3774,8 +3774,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-049
-# text = Prométemeque volverás pronto.
-1-2	Prométeme	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Prométeme que volverás pronto.
+1-2	Prométeme	_	_	_	_	_	_	_	_
 1	Promete	prometer	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	que	que	SCONJ	cs	_	4	mark	_	_
@@ -3784,8 +3784,8 @@
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-050
-# text = Llámameen cuanto llegues al hotel.
-1-2	Llámame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Llámame en cuanto llegues al hotel.
+1-2	Llámame	_	_	_	_	_	_	_	_
 1	Llama	llamar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	en	en	ADP	sps00	_	4	mark	_	_
@@ -3798,8 +3798,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-051
-# text = Discúlpamepor llegar tarde a la reunión.
-1-2	Discúlpame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Discúlpame por llegar tarde a la reunión.
+1-2	Discúlpame	_	_	_	_	_	_	_	_
 1	Disculpa	disculpar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	por	por	ADP	sps00	_	4	mark	_	_
@@ -3811,8 +3811,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-052
-# text = Sálvamede este aburrimiento.
-1-2	Sálvame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Sálvame de este aburrimiento.
+1-2	Sálvame	_	_	_	_	_	_	_	_
 1	Salva	salvar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	de	de	ADP	sps00	_	5	case	_	_
@@ -3821,8 +3821,8 @@
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-053
-# text = Recomiéndamealgún buen libro de historia.
-1-2	Recomiéndame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Recomiéndame algún buen libro de historia.
+1-2	Recomiéndame	_	_	_	_	_	_	_	_
 1	Recomienda	recomendar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	algún	alguno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
@@ -3833,8 +3833,8 @@
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-054
-# text = Háblamede tus planes para el verano.
-1-2	Háblame	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Háblame de tus planes para el verano.
+1-2	Háblame	_	_	_	_	_	_	_	_
 1	Habla	hablar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	de	de	ADP	sps00	_	5	case	_	_
@@ -3846,8 +3846,8 @@
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-055
-# text = Devuélvemeel libro cuando lo termines.
-1-2	Devuélveme	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Devuélveme el libro cuando lo termines.
+1-2	Devuélveme	_	_	_	_	_	_	_	_
 1	Devuelve	devolver	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
