@@ -415,7 +415,7 @@
 
 # text = Eso no lo bebo nunca.
 # sent_id = 40
-1	Eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	4	nsubj	_	_
+1	Eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	4	obj	_	_
 2	no	no	ADV	rn	Polarity=Neg	4	advmod	_	_
 3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 4	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
