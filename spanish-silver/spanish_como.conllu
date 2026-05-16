@@ -1,94 +1,94 @@
-# text = Yo bebo pizza todos los días.
+# text = Yo como pizza todos los días.
 # sent_id = 0
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	pizza	pizza	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 4	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	días	día	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo tomo frutas por la mañana.
+# text = Yo como frutas por la mañana.
 # sent_id = 1
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	frutas	fruta	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	_
 4	por	por	ADP	sps00	_	6	case	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	mañana	mañana	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo pido carne en ese restaurante.
+# text = Yo como carne en ese restaurante.
 # sent_id = 2
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	carne	carne	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 4	en	en	ADP	sps00	_	6	case	_	_
 5	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 6	restaurante	restaurante	NOUN	nccs000	Number=Sing	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo bebo arroz con frijoles.
+# text = Yo como arroz con frijoles.
 # sent_id = 3
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	arroz	arroz	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 4	con	con	ADP	sps00	_	5	case	_	_
 5	frijoles	frijol	NOUN	ncmp000	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo tomo sopa cuando hace frío.
+# text = Yo como sopa cuando hace frío.
 # sent_id = 4
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sopa	sopa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 4	cuando	cuando	SCONJ	cs	_	5	mark	_	_
 5	hace	hacer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 6	frío	frío	NOUN	ncms000	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo bebo ensalada en el almuerzo.
+# text = Yo como ensalada en el almuerzo.
 # sent_id = 5
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ensalada	ensalada	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 4	en	en	ADP	sps00	_	6	case	_	_
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	almuerzo	almuerzo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo pido tacos los viernes.
+# text = Yo como tacos los viernes.
 # sent_id = 6
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	tacos	taco	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	_
 4	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	viernes	viernes	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo tomo cereal cada mañana.
+# text = Yo como cereal cada mañana.
 # sent_id = 7
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cereal	cereal	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 4	cada	cada	DET	di0cs0	Number=Sing|PronType=Tot	5	det	_	_
 5	mañana	mañana	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo bebo pollo asado los domingos.
+# text = Yo como pollo asado los domingos.
 # sent_id = 8
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	pollo	pollo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 4	asado	asado	ADJ	aq0msp	Gender=Masc|Number=Sing	3	amod	_	_
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	domingos	domingo	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Yo tomo huevos revueltos por las mañanas.
+# text = Yo como huevos revueltos por las mañanas.
 # sent_id = 9
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	huevos	huevo	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	_
 4	revueltos	revuelto	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	3	amod	_	_
 5	por	por	ADP	sps00	_	7	case	_	_
@@ -96,18 +96,18 @@
 7	mañanas	mañana	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Bebo pizza con mis amigos.
+# text = Como pizza con mis amigos.
 # sent_id = 10
-1	Bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	pizza	pizza	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	_	_
 3	con	con	ADP	sps00	_	5	case	_	_
 4	mis	mi	DET	dp1cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	amigos	amigo	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Tomo fruta fresca todos los días.
+# text = Como fruta fresca todos los días.
 # sent_id = 11
-1	Tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	fruta	fruta	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	_	_
 3	fresca	fresca	ADJ	aq0fs0	Gender=Fem|Number=Sing	2	amod	_	_
 4	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
@@ -115,27 +115,27 @@
 6	días	día	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Pido lo mismo de siempre.
+# text = Como lo mismo de siempre.
 # sent_id = 12
-1	Pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	da0ns0	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
 3	mismo	mismo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
 4	de	de	ADP	sps00	_	5	case	_	_
 5	siempre	siempre	ADV	rg	_	3	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Bebo mucho cuando tengo hambre.
+# text = Como mucho cuando tengo hambre.
 # sent_id = 13
-1	Bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	mucho	mucho	ADV	rg	_	1	advmod	_	_
 3	cuando	cuando	SCONJ	cs	_	4	mark	_	_
 4	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 5	hambre	hambre	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Tomo poco porque estoy a dieta.
+# text = Como poco porque estoy a dieta.
 # sent_id = 14
-1	Tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	poco	poco	ADV	rg	_	1	advmod	_	_
 3	porque	porque	SCONJ	cs	_	6	mark	_	_
 4	estoy	estar	AUX	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -143,45 +143,45 @@
 6	dieta	dieta	NOUN	ncfs000	Gender=Fem|Number=Sing	1	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Bebo bien en ese restaurante.
+# text = Como bien en ese restaurante.
 # sent_id = 15
-1	Bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	bien	bien	ADV	rg	_	1	advmod	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
 4	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	restaurante	restaurante	NOUN	nccs000	Number=Sing	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Pido rápido porque tengo prisa.
+# text = Como rápido porque tengo prisa.
 # sent_id = 16
-1	Pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	rápido	rápido	ADV	rg	_	1	advmod	_	_
 3	porque	porque	SCONJ	cs	_	4	mark	_	_
 4	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 5	prisa	prisa	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Tomo aquí todos los lunes.
+# text = Como aquí todos los lunes.
 # sent_id = 17
-1	Tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	aquí	aquí	ADV	rg	_	1	advmod	_	_
 3	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
 4	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	lunes	lunes	NOUN	_	_	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Bebo lo que me dan.
+# text = Como lo que me dan.
 # sent_id = 18
-1	Bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	5	nsubj	_	_
 4	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
 5	dan	dar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Tomo todo lo que encuentro en la nevera.
+# text = Como todo lo que encuentro en la nevera.
 # sent_id = 19
-1	Tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	todo	todo	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	_
 3	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 4	que	que	PRON	pr0cn000	PronType=Rel	5	nsubj	_	_
@@ -191,9 +191,9 @@
 8	nevera	nevera	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Bebo antes de salir al trabajo.
+# text = Como antes de salir al trabajo.
 # sent_id = 20
-1	Bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	antes	antes	ADV	rg	_	1	advmod	_	_
 3	de	de	ADP	sps00	_	4	mark	_	_
 4	salir	salir	VERB	vmn0000	VerbForm=Inf	2	advcl	_	_
@@ -203,27 +203,27 @@
 7	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Tomo después de hacer ejercicio.
+# text = Como después de hacer ejercicio.
 # sent_id = 21
-1	Tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	después	después	ADV	rg	_	1	advmod	_	_
 3	de	de	ADP	sps00	_	4	mark	_	_
 4	hacer	hacer	VERB	vmn0000	VerbForm=Inf	2	advcl	_	_
 5	ejercicio	ejercicio	NOUN	ncms000	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Pido cuando tengo mucha hambre.
+# text = Como cuando tengo mucha hambre.
 # sent_id = 22
-1	Pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	cuando	cuando	SCONJ	cs	_	3	mark	_	_
 3	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 4	mucha	mucho	DET	di0fs0	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
 5	hambre	hambre	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Bebo sano para mantenerme en forma.
+# text = Como sano para mantenerme en forma.
 # sent_id = 23
-1	Bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	sano	sano	ADJ	aq0ms0	Gender=Masc|Number=Sing	1	xcomp	_	_
 3	para	para	ADP	sps00	_	4	mark	_	_
 4-5	mantenerme	_	_	_	_	_	_	_	_
@@ -233,9 +233,9 @@
 7	forma	forma	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Tomo despacio para disfrutar la comida.
+# text = Como despacio para disfrutar la comida.
 # sent_id = 24
-1	Tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	despacio	despacio	ADV	rg	_	1	advmod	_	_
 3	para	para	ADP	sps00	_	4	mark	_	_
 4	disfrutar	disfrutar	VERB	vmn0000	VerbForm=Inf	1	advcl	_	_
@@ -243,68 +243,68 @@
 6	comida	comida	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
-# text = Siempre bebo verduras con la cena.
+# text = Siempre como verduras con la cena.
 # sent_id = 25
 1	Siempre	siempre	ADV	rg	_	2	advmod	_	_
-2	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	verduras	verdura	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	_
 4	con	con	ADP	sps00	_	6	case	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	cena	cena	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Nunca tomo carne roja.
+# text = Nunca como carne roja.
 # sent_id = 26
 1	Nunca	nunca	ADV	rg	Polarity=Neg	2	advmod	_	_
-2	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	carne	carne	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
 4	roja	rojo	ADJ	aq0fs0	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 5	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = A veces pido comida a domicilio.
+# text = A veces como comida a domicilio.
 # sent_id = 27
 1	A	a	ADP	rg	ExtPos=ADV	3	advmod	_	MWE=a_veces|MWEPOS=ADV
 2	veces	veces	NOUN	_	_	1	fixed	_	_
-3	pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	comida	comida	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 5	a	a	ADP	sps00	_	6	case	_	_
 6	domicilio	domicilio	NOUN	ncms000	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
-# text = Hoy bebo algo ligero.
+# text = Hoy como algo ligero.
 # sent_id = 28
 1	Hoy	hoy	ADV	rg	_	2	advmod	_	_
-2	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	2	obj	_	_
 4	ligero	ligero	ADJ	aq0ms0	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
 5	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
-# text = Esta noche tomo pasta con salsa.
+# text = Esta noche como pasta con salsa.
 # sent_id = 29
 1	Esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	noche	noche	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
-3	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	pasta	pasta	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 5	con	con	ADP	sps00	_	6	case	_	_
 6	salsa	salsa	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
-# text = Los lunes siempre bebo algo caliente.
+# text = Los lunes siempre como algo caliente.
 # sent_id = 30
 1	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	lunes	lunes	NOUN	_	_	4	obl	_	_
 3	siempre	siempre	ADV	rg	_	4	advmod	_	_
-4	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	4	obj	_	_
 6	caliente	caliente	ADJ	aq0cs0	Number=Sing	5	amod	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
 
-# text = Por las noches tomo lo que sobra del día.
+# text = Por las noches como lo que sobra del día.
 # sent_id = 31
 1	Por	por	ADP	sps00	_	3	case	_	_
 2	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	noches	noche	NOUN	ncfp000	Gender=Fem|Number=Plur	4	obl	_	_
-4	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	det	_	_
 6	que	que	PRON	pr0cn000	PronType=Rel	7	nsubj	_	_
 7	sobra	sobrar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
@@ -314,47 +314,47 @@
 10	día	día	NOUN	ncms000	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
 
-# text = Cada semana pido comida de ese restaurante.
+# text = Cada semana como comida de ese restaurante.
 # sent_id = 32
 1	Cada	cada	DET	di0cs0	Number=Sing|PronType=Tot	2	det	_	_
 2	semana	semana	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
-3	pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	comida	comida	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 5	de	de	ADP	sps00	_	7	case	_	_
 6	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	restaurante	restaurante	NOUN	nccs000	Number=Sing	4	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
-# text = De vez en cuando bebo cosas que no debería.
+# text = De vez en cuando como cosas que no debería.
 # sent_id = 33
 1	De	de	ADP	rg	ExtPos=ADV	5	advmod	_	MWE=de_vez_en_cuando|MWEPOS=ADV
 2	vez	vez	NOUN	_	_	1	fixed	_	_
 3	en	en	ADP	_	_	1	fixed	_	_
 4	cuando	cuando	ADV	_	_	1	fixed	_	_
-5	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	cosas	cosa	NOUN	ncfp000	Gender=Fem|Number=Plur	5	obj	_	_
 7	que	que	PRON	pr0cn000	PronType=Rel	9	obj	_	_
 8	no	no	ADV	rn	Polarity=Neg	9	advmod	_	_
 9	debería	deber	AUX	vmic1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	6	acl	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
 
-# text = En casa tomo más verduras que fuera.
+# text = En casa como más verduras que fuera.
 # sent_id = 34
 1	En	en	ADP	sps00	_	2	case	_	_
 2	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
-3	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	verduras	verdura	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	_	_
 6	que	que	SCONJ	cs	_	7	mark	_	_
 7	fuera	fuera	ADV	rg	_	3	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
-# text = En el trabajo bebo rápido porque no tengo mucho tiempo.
+# text = En el trabajo como rápido porque no tengo mucho tiempo.
 # sent_id = 35
 1	En	en	ADP	sps00	_	3	case	_	_
 2	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	_
-4	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	rápido	rápido	ADV	rg	_	4	advmod	_	_
 6	porque	porque	SCONJ	cs	_	8	mark	_	_
 7	no	no	ADV	rn	Polarity=Neg	8	advmod	_	_
@@ -363,34 +363,34 @@
 10	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
 
-# text = Con mis amigos siempre pido demasiado.
+# text = Con mis amigos siempre como demasiado.
 # sent_id = 36
 1	Con	con	ADP	sps00	_	3	case	_	_
 2	mis	mi	DET	dp1cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	amigos	amigo	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obl	_	_
 4	siempre	siempre	ADV	rg	_	5	advmod	_	_
-5	pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	demasiado	demasiado	ADV	rg	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
 
-# text = Cuando tengo prisa, bebo cualquier cosa.
+# text = Cuando tengo prisa, como cualquier cosa.
 # sent_id = 37
 1	Cuando	cuando	SCONJ	cs	_	2	mark	_	_
 2	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 3	prisa	prisa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-5	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	cualquier	cualquiera	DET	di0cs0	Number=Sing|PronType=Ind	7	det	_	_
 7	cosa	cosa	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
 
-# text = Si tengo dinero, pido en ese restaurante tan bueno.
+# text = Si tengo dinero, como en ese restaurante tan bueno.
 # sent_id = 38
 1	Si	si	SCONJ	cs	_	2	mark	_	_
 2	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 3	dinero	dinero	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
-5	pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	sps00	_	8	case	_	_
 7	ese	ese	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 8	restaurante	restaurante	NOUN	nccs000	Number=Sing	5	obl	_	_
@@ -398,14 +398,14 @@
 10	bueno	buen	ADJ	aq0ms0	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
 
-# text = Aunque estoy lleno, siempre tomo un poco más de postre.
+# text = Aunque estoy lleno, siempre como un poco más de postre.
 # sent_id = 39
 1	Aunque	aunque	SCONJ	cs	_	3	mark	_	_
 2	estoy	estar	AUX	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	lleno	lleno	ADJ	aq0ms0	Gender=Masc|Number=Sing	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 5	siempre	siempre	ADV	rg	_	6	advmod	_	_
-6	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	un	uno	DET	rg	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	advmod	_	_
 8	poco	poco	PRON	pi0ms000	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	7	fixed	_	_
 9	más	más	ADV	rg	Degree=Cmp	6	advmod	_	_
@@ -413,21 +413,21 @@
 11	postre	postre	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	_
 
-# text = Eso no lo bebo nunca.
+# text = Eso no lo como nunca.
 # sent_id = 40
 1	Eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	4	obj	_	_
 2	no	no	ADV	rn	Polarity=Neg	4	advmod	_	_
 3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
-4	bebo	beber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	nunca	nunca	ADV	rg	_	4	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
 
-# text = La pasta la tomo con mucho queso.
+# text = La pasta la como con mucho queso.
 # sent_id = 41
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	pasta	pasta	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	_
 3	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
-4	tomo	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	con	con	ADP	sps00	_	7	case	_	_
 6	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
 7	queso	queso	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
