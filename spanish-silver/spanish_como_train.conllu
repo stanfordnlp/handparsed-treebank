@@ -608,3 +608,135 @@
 13	hambre	hambre	NOUN	ncfs000	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	SpacesAfter=\n\n\n
 
+# text = Como siempre, llegó tarde a la reunión.
+# sent_id = silver_neg_como_0
+1	Como	como	SCONJ	cs	_	2	mark	_	_
+2	siempre	siempre	ADV	rg	_	4	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+4	llegó	llegar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	tarde	tarde	ADV	rg	_	4	advmod	_	_
+6	a	a	ADP	sps00	_	8	case	_	_
+7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	reunión	reunión	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	SpacesAfter=\n
+
+# text = Como antes, todo salió bien al final.
+# sent_id = silver_neg_como_1
+1	Como	como	SCONJ	cs	_	2	mark	_	_
+2	antes	antes	ADV	rg	_	5	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+4	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	5	nsubj	_	_
+5	salió	salir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	bien	bien	ADV	rg	_	5	advmod	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	sps00	_	9	case	_	_
+8	el	el	DET	ams	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	final	final	NOUN	ncms000	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	SpacesAfter=\n
+
+# text = Como ahora, también había mucha incertidumbre en aquel momento.
+# sent_id = silver_neg_como_2
+1	Como	como	SCONJ	cs	_	2	mark	_	_
+2	ahora	ahora	ADV	rg	_	5	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+4	también	también	ADV	rg	_	5	advmod	_	_
+5	había	haber	VERB	vaii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	mucha	mucho	DET	di0fs0	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
+7	incertidumbre	incertidumbre	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obj	_	_
+8	en	en	ADP	sps00	_	10	case	_	_
+9	aquel	aquel	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	momento	momento	NOUN	ncms000	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	SpacesAfter=\n
+
+# text = Como de costumbre, abrió la tienda a las nueve.
+# sent_id = silver_neg_como_3
+1	Como	como	SCONJ	cs	_	5	mark	_	_
+2	de	de	ADP	rg	ExtPos=ADV	5	advmod	_	MWE=de_costumbre|MWEPOS=ADV
+3	costumbre	costumbre	NOUN	_	_	2	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+5	abrió	abrir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	tienda	tienda	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obj	_	_
+8	a	a	ADP	sps00	_	10	case	_	_
+9	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	nueve	nueve	NUM	pn0cp000	Number=Plur|NumForm=Word|NumType=Card	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	SpacesAfter=\n
+
+# text = Como era de esperar, nadie dijo nada.
+# sent_id = silver_neg_como_4
+1	Como	como	SCONJ	cs	_	2	mark	_	_
+2	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+3	de	de	ADP	sps00	_	4	mark	_	_
+4	esperar	esperar	VERB	vmn0000	VerbForm=Inf	2	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+6	nadie	nadie	PRON	pi0cs000	Number=Sing|PronType=Neg	7	nsubj	_	_
+7	dijo	decir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpacesAfter=\n
+
+# text = Como bien sabes, esto no es fácil.
+# sent_id = silver_neg_como_5
+1	Como	como	SCONJ	cs	_	3	mark	_	_
+2	bien	bien	ADV	rg	_	3	advmod	_	_
+3	sabes	saber	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
+5	esto	este	PRON	pd0ns000	Number=Sing|PronType=Dem	8	nsubj	_	_
+6	no	no	ADV	rn	Polarity=Neg	8	advmod	_	_
+7	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	fácil	fácil	ADJ	aq0cs0	Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	SpacesAfter=\n
+
+# text = Como ya te dije, no tengo tiempo para eso.
+# sent_id = silver_neg_como_6
+1	Como	como	SCONJ	cs	_	4	mark	_	_
+2	ya	ya	ADV	rg	_	4	advmod	_	_
+3	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
+4	dije	decir	VERB	vmis1s0	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	fc	PunctType=Comm	4	punct	_	_
+6	no	no	ADV	rn	Polarity=Neg	7	advmod	_	_
+7	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	7	obj	_	_
+9	para	para	ADP	sps00	_	10	case	_	_
+10	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	SpacesAfter=\n
+
+# text = Como ocurre en estos casos, la decisión no fue fácil.
+# sent_id = silver_neg_como_7
+1	Como	como	SCONJ	cs	_	2	mark	_	_
+2	ocurre	ocurrir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+3	en	en	ADP	sps00	_	5	case	_	_
+4	estos	este	DET	dd0mp0	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	casos	caso	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	decisión	decisión	NOUN	ncfs000	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	no	no	ADV	rn	Polarity=Neg	11	advmod	_	_
+10	fue	ser	AUX	vsis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
+11	fácil	fácil	ADJ	aq0cs0	Number=Sing	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	fp	PunctType=Peri	11	punct	_	SpacesAfter=\n
+
+# text = Como suele pasar, llegaron justo cuando acabábamos.
+# sent_id = silver_neg_como_8
+1	Como	como	SCONJ	cs	_	2	mark	_	_
+2	suele	soler	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+3	pasar	pasar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+5	llegaron	llegar	VERB	vmis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	justo	justo	ADV	rg	_	5	advmod	_	_
+7	cuando	cuando	SCONJ	cs	_	8	mark	_	_
+8	acabábamos	acabar	VERB	vmii1p0	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	SpacesAfter=\n
+
+# text = Como indica el informe, los resultados son positivos.
+# sent_id = silver_neg_como_9
+1	Como	como	SCONJ	cs	_	2	mark	_	_
+2	indica	indicar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	informe	informe	NOUN	ncms000	Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+6	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	resultados	resultado	NOUN	ncmp000	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	son	ser	AUX	vsip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	positivos	positivo	ADJ	aq0mp0	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	SpacesAfter=\n
+
