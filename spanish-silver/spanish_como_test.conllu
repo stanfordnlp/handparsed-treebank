@@ -1,0 +1,112 @@
+# text = Yo como arroz todos los días.
+# sent_id = silver_como_test_0
+1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	arroz	arroz	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
+4	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	días	día	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpacesAfter=\n
+
+# text = Yo como bien cuando tengo tiempo.
+# sent_id = silver_como_test_1
+1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bien	bien	ADV	rg	_	2	advmod	_	_
+4	cuando	cuando	SCONJ	cs	_	5	mark	_	_
+5	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpacesAfter=\n
+
+# text = Como fruta cada mañana.
+# sent_id = silver_como_test_2
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	fruta	fruta	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	_	_
+3	cada	cada	DET	di0cs0	Number=Sing|PronType=Tot	4	det	_	_
+4	mañana	mañana	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	SpacesAfter=\n
+
+# text = Como poco por las noches.
+# sent_id = silver_como_test_3
+1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	poco	poco	ADV	rg	_	1	advmod	_	_
+3	por	por	ADP	sps00	_	5	case	_	_
+4	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	noches	noche	NOUN	ncfp000	Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	SpacesAfter=\n
+
+# text = Nunca como carne cuando estoy a dieta.
+# sent_id = silver_como_test_4
+1	Nunca	nunca	ADV	rg	Polarity=Neg	2	advmod	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	carne	carne	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
+4	cuando	cuando	SCONJ	cs	_	7	mark	_	_
+5	estoy	estar	AUX	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	a	a	ADP	sps00	_	7	case	_	_
+7	dieta	dieta	NOUN	ncfs000	Gender=Fem|Number=Sing	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpacesAfter=\n
+
+# text = Siempre como algo antes de salir.
+# sent_id = silver_como_test_5
+1	Siempre	siempre	ADV	rg	_	2	advmod	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	2	obj	_	_
+4	antes	antes	ADV	rg	_	2	advmod	_	_
+5	de	de	ADP	sps00	_	6	mark	_	_
+6	salir	salir	VERB	vmn0000	VerbForm=Inf	4	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpacesAfter=\n
+
+# text = Hoy como en casa porque tengo mucho trabajo.
+# sent_id = silver_como_test_6
+1	Hoy	hoy	ADV	rg	_	2	advmod	_	_
+2	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	sps00	_	4	case	_	_
+4	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
+5	porque	porque	SCONJ	cs	_	6	mark	_	_
+6	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	SpacesAfter=\n
+
+# text = Esta semana como más verduras para cuidarme.
+# sent_id = silver_como_test_7
+1	Esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	semana	semana	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
+3	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
+5	verduras	verdura	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	_	_
+6	para	para	ADP	sps00	_	7	mark	_	_
+7-8	cuidarme	_	_	_	_	_	_	_	SpaceAfter=No
+7	cuidar	cuidar	VERB	vmn0000	VerbForm=Inf	3	advcl	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obj	_	_
+9	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	SpacesAfter=\n
+
+# text = El postre lo como solo cuando es especial.
+# sent_id = silver_como_test_8
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	postre	postre	NOUN	ncms000	Gender=Masc|Number=Sing	4	obj	_	_
+3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	solo	sólo	ADV	rg	_	4	advmod	_	_
+6	cuando	cuando	SCONJ	cs	_	8	mark	_	_
+7	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	especial	especial	ADJ	aq0cs0	Number=Sing	4	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	SpacesAfter=\n
+
+# text = Lo que encuentro en la nevera lo como sin pensarlo mucho.
+# sent_id = silver_como_test_9
+1	Lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
+2	que	que	PRON	pr0cn000	PronType=Rel	3	obj	_	_
+3	encuentro	encontrar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	csubj	_	_
+4	en	en	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	nevera	nevera	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
+7	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	sin	sin	ADP	sps00	_	10	mark	_	_
+10-11	pensarlo	_	_	_	_	_	_	_	_
+10	pensar	pensar	VERB	vmn0000	VerbForm=Inf	8	advcl	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+12	mucho	mucho	ADV	rg	_	10	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	SpacesAfter=\n
+
