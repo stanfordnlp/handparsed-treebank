@@ -417,7 +417,7 @@
 # sent_id = silver_como_train_40
 1	Eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	4	obj	_	_
 2	no	no	ADV	rn	Polarity=Neg	4	advmod	_	_
-3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	expl	_	_
 4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	nunca	nunca	ADV	rg	_	4	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
@@ -426,7 +426,7 @@
 # sent_id = silver_como_train_41
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	pasta	pasta	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	_
-3	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+3	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	expl	_	_
 4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	con	con	ADP	sps00	_	7	case	_	_
 6	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
@@ -551,7 +551,7 @@
 2	sopa	sopa	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	_	_
 3	tan	tanto	ADV	rg	_	4	advmod	_	_
 4	rica	rico	ADJ	aq0fs0	Gender=Fem|Number=Sing	2	amod	_	_
-5	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+5	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	expl	_	_
 6	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	siempre	siempre	ADV	rg	_	6	advmod	_	_
 8	que	que	SCONJ	cs	_	9	mark	_	_
@@ -580,7 +580,7 @@
 1	Las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	verduras	verdura	NOUN	ncfp000	Gender=Fem|Number=Plur	5	obj	_	_
 3	no	no	ADV	rn	Polarity=Neg	5	advmod	_	_
-4	las	él	PRON	pp3fpa00	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+4	las	él	PRON	pp3fpa00	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	expl	_	_
 5	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	con	con	ADP	sps00	_	8	case	_	_
 7	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_

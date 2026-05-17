@@ -85,7 +85,7 @@
 # sent_id = silver_como_test_8
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	postre	postre	NOUN	ncms000	Gender=Masc|Number=Sing	4	obj	_	_
-3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	expl	_	_
 4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	solo	sólo	ADV	rg	_	4	advmod	_	_
 6	cuando	cuando	SCONJ	cs	_	8	mark	_	_
