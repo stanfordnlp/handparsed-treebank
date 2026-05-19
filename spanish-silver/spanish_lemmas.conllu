@@ -1,0 +1,411 @@
+# text = El pueblo quedó aislado tras la tormenta.
+# sent_id = 0
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pueblo	pueblo	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	quedó	quedar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	aislado	aislado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	3	xcomp	_	_
+5	tras	tras	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	tormenta	tormenta	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# text = El gobierno ha aislado la zona de conflicto.
+# sent_id = 1
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	gobierno	gobierno	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	aislado	aislar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	zona	zona	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	sps00	_	8	case	_	_
+8	conflicto	conflicto	NOUN	ncms000	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = Un hombre armado entró en el banco.
+# sent_id = 2
+1	Un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	hombre	hombre	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	armado	armado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+4	entró	entrar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	sps00	_	7	case	_	_
+6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	banco	banco	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = El ejército ha armado a los rebeldes.
+# sent_id = 3
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ejército	ejército	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	armado	armar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	sps00	_	7	case	_	_
+6	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	rebeldes	rebelde	NOUN	nccp000	Number=Plur	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = El sistema sanitario quedó colapsado por la pandemia.
+# sent_id = 4
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sistema	sistema	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	sanitario	sanitario	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	amod	_	_
+4	quedó	quedar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	colapsado	colapsado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	4	xcomp	_	_
+6	por	por	ADP	sps00	_	8	case	_	_
+7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	pandemia	pandemia	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = El tráfico ha colapsado el centro de la ciudad.
+# sent_id = 5
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	tráfico	tráfico	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	colapsado	colapsar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	centro	centro	NOUN	ncms000	Gender=Masc|Number=Sing	4	obj	_	_
+7	de	de	ADP	sps00	_	9	case	_	_
+8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = Era un convencido defensor de la democracia.
+# sent_id = 6
+1	Era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+2	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	convencido	convencido	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	4	amod	_	_
+4	defensor	defensor	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	democracia	democracia	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = El abogado ha convencido al jurado.
+# sent_id = 7
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	abogado	abogado	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	convencido	convencer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	spcms	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	jurado	jurado	NOUN	ncms000	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = El jardín estaba descuidado y lleno de malas hierbas.
+# sent_id = 8
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	jardín	jardín	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	estaba	estar	AUX	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	descuidado	descuidado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	y	y	CCONJ	cc	_	6	cc	_	_
+6	lleno	lleno	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	conj	_	_
+7	de	de	ADP	sps00	_	9	case	_	_
+8	malas	mal	ADJ	aq0fp0	Gender=Fem|Number=Plur	9	amod	_	_
+9	hierbas	hierba	NOUN	ncfp000	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = La empresa ha descuidado la seguridad de sus empleados.
+# sent_id = 9
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	empresa	empresa	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	descuidado	descuidar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	seguridad	seguridad	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	sps00	_	9	case	_	_
+8	sus	su	DET	dp3cp0	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	empleados	empleado	NOUN	ncmp000	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = Su sonrisa parecía forzada y poco natural.
+# sent_id = 10
+1	Su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	sonrisa	sonrisa	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	parecía	parecer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	forzada	forzado	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	3	xcomp	_	_
+5	y	y	CCONJ	cc	_	7	cc	_	_
+6	poco	poco	ADV	rg	_	7	advmod	_	_
+7	natural	natural	ADJ	aq0cs0	Number=Sing	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# text = El ladrón ha forzado la cerradura de la puerta.
+# sent_id = 11
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ladrón	ladrón	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	forzado	forzar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cerradura	cerradura	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	sps00	_	9	case	_	_
+8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	puerta	puerta	NOUN	ncfs000	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = El vídeo manipulado circuló por las redes sociales.
+# sent_id = 12
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vídeo	vídeo	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	manipulado	manipulado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+4	circuló	circular	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	sps00	_	7	case	_	_
+6	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	redes	red	NOUN	ncfp000	Gender=Fem|Number=Plur	4	obl	_	_
+8	sociales	social	ADJ	aq0cp0	Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = Un operario ha manipulado los controles de la central.
+# sent_id = 13
+1	Un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	operario	operario	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	manipulado	manipular	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	controles	control	NOUN	ncmp000	Gender=Masc|Number=Plur	4	obj	_	_
+7	de	de	ADP	sps00	_	9	case	_	_
+8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	central	central	NOUN	ncfs000	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = El sector más perjudicado fue el turismo.
+# sent_id = 14
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sector	sector	NOUN	ncms000	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
+4	perjudicado	perjudicado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+5	fue	ser	AUX	vsis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	turismo	turismo	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	_
+
+# text = La sequía ha perjudicado gravemente la cosecha.
+# sent_id = 15
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	sequía	sequía	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	perjudicado	perjudicar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	gravemente	gravemente	ADV	rg	_	4	advmod	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	cosecha	cosecha	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = Pidió un plato de queso picado con nueces.
+# sent_id = 16
+1	Pidió	pedir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	plato	plato	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
+4	de	de	ADP	sps00	_	5	case	_	_
+5	queso	queso	NOUN	ncms000	Gender=Masc|Number=Sing	3	nmod	_	_
+6	picado	picado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
+7	con	con	ADP	sps00	_	8	case	_	_
+8	nueces	nuez	NOUN	ncfp000	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# text = Un mosquito le ha picado en el brazo.
+# sent_id = 17
+1	Un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mosquito	mosquito	NOUN	ncms000	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	_
+4	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	picado	picar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	en	en	ADP	sps00	_	8	case	_	_
+7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	brazo	brazo	NOUN	ncms000	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+# text = El debate televisado atrajo a millones de espectadores.
+# sent_id = 18
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	debate	debate	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	televisado	televisado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+4	atrajo	atraer	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	sps00	_	8	case	_	_
+6	millones	millón	NOUN	ncmp000	Gender=Masc|Number=Plur	8	nummod	_	_
+7	de	de	ADP	sps00	_	6	case	_	_
+8	espectadores	espectador	NOUN	ncmp000	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# text = La cadena ha televisado el partido en directo.
+# sent_id = 19
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cadena	cadena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	televisado	televisar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	partido	partido	NOUN	ncms000	Gender=Masc|Number=Sing	4	obj	_	_
+7	en	en	ADP	rg	ExtPos=ADV	4	advmod	_	_
+8	directo	directo	NOUN	_	_	7	fixed	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	SpacesAfter=\n\n
+
+# text = El portero bota el balón antes de lanzarlo.
+# sent_id = 20
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	portero	portero	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	bota	botar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	balón	balón	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
+6	antes	antes	ADV	rg	_	3	advmod	_	_
+7	de	de	ADP	sps00	_	8	mark	_	_
+8-9	lanzarlo	_	_	_	_	_	_	_	SpaceAfter=No
+8	lanzar	lanzar	VERB	vmn0000	VerbForm=Inf	6	advcl	_	_
+9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+10	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# text = Una taza de té calma los nervios.
+# sent_id = 21
+1	Una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	taza	taza	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	de	de	ADP	sps00	_	4	case	_	_
+4	té	té	NOUN	ncms000	Gender=Masc|Number=Sing	2	nmod	_	_
+5	calma	calmar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	nervios	nervio	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+# text = Canto en el coro de la iglesia todos los domingos.
+# sent_id = 22
+1	Canto	cantar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	sps00	_	4	case	_	_
+3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	coro	coro	NOUN	ncms000	Gender=Masc|Number=Sing	1	obl	_	_
+5	de	de	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	iglesia	iglesia	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nmod	_	_
+8	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+9	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	domingos	domingo	NOUN	ncmp000	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# text = El médico recomendó que el paciente duerma al menos ocho horas.
+# sent_id = 23
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	médico	médico	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	recomendó	recomendar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	cs	_	7	mark	_	_
+5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	paciente	paciente	NOUN	nccs000	Number=Sing	7	nsubj	_	_
+7	duerma	dormir	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	rg	ExtPos=ADP	12	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
+10	menos	menos	ADV	_	Degree=Cmp	8	fixed	_	_
+11	ocho	ocho	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	_
+12	horas	hora	NOUN	ncfp000	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
+13	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# text = Les pido que miren a la pizarra con atención.
+# sent_id = 24
+1	Les	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	_
+2	pido	pedir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	cs	_	4	mark	_	_
+4	miren	mirar	VERB	vmsp3p0	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	a	a	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pizarra	pizarra	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	_
+8	con	con	ADP	sps00	_	9	case	_	_
+9	atención	atención	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# text = La niña miró por la ventana y vio la nieve.
+# sent_id = 25
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	niña	niña	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	miró	mirar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	por	por	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	ventana	ventana	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	cc	_	8	cc	_	_
+8	vio	ver	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	nieve	nieve	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# text = Regreso a casa después de tres años en el extranjero.
+# sent_id = 26
+1	Regreso	regresar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	sps00	_	3	case	_	_
+3	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	_
+4	después	después	ADV	rg	ExtPos=ADP	7	case	_	_
+5	de	de	ADP	sps00	_	4	fixed	_	_
+6	tres	tres	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	años	año	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	_
+8	en	en	ADP	sps00	_	10	case	_	_
+9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	extranjero	extranjero	NOUN	ncms000	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# text = No quiero que me reproches algo que ocurrió hace tanto tiempo.
+# sent_id = 27
+1	No	no	ADV	rn	Polarity=Neg	2	advmod	_	_
+2	quiero	querer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	cs	_	5	mark	_	_
+4	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
+5	reproches	reprochar	VERB	vmsp2s0	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	5	obj	_	_
+7	que	que	PRON	pr0cn000	PronType=Rel	8	nsubj	_	_
+8	ocurrió	ocurrir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
+9	hace	hacer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+10	tanto	tanto	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	11	det	_	_
+11	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# text = Saco al perro a pasear todas las mañanas.
+# sent_id = 28
+1	Saco	sacar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	spcms	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	perro	perro	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
+5	a	a	ADP	sps00	_	6	mark	_	_
+6	pasear	pasear	VERB	vmn0000	VerbForm=Inf	1	advcl	_	_
+7	todas	todo	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Tot	9	det	_	_
+8	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	mañanas	mañana	NOUN	ncfp000	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# text = Saludo a mis vecinos cada vez que los veo.
+# sent_id = 29
+1	Saludo	saludar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	sps00	_	4	case	_	_
+3	mis	mi	DET	dp1cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	vecinos	vecino	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obj	_	_
+5	cada	cada	DET	di0cs0	Number=Sing|PronType=Tot	6	det	_	_
+6	vez	vez	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	_
+7	que	que	SCONJ	cs	_	9	mark	_	_
+8	los	él	PRON	pp3mpa00	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	veo	ver	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# text = A veces sueño que vuelo sobre la ciudad.
+# sent_id = 30
+1	A	a	ADP	rg	ExtPos=ADV	3	advmod	_	_
+2	veces	vez	NOUN	_	_	1	fixed	_	_
+3	sueño	soñar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	cs	_	5	mark	_	_
+5	vuelo	volar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	sobre	sobre	ADP	sps00	_	8	case	_	_
+7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# text = Me traslado a otra ciudad por motivos de trabajo.
+# sent_id = 31
+1	Me	yo	PRON	p010s000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	expl:pv	_	_
+2	traslado	trasladar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	sps00	_	5	case	_	_
+4	otra	otro	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
+6	por	por	ADP	sps00	_	7	case	_	_
+7	motivos	motivo	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obl	_	_
+8	de	de	ADP	sps00	_	9	case	_	_
+9	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# text = Ella valía mucho cuando era joven.
+# sent_id = 32
+1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	valía	valer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	rg	_	2	advmod	_	_
+4	cuando	cuando	SCONJ	cs	_	6	mark	_	_
+5	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	joven	joven	ADJ	aq0cs0	Number=Sing	2	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
