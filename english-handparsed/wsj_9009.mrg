@@ -1,0 +1,589 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VBG Returning)
+        (PP
+          (IN to)
+          (NP (NNP Assisi)))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBD traversed)
+      (NP (DT the) (NN city))
+      (S
+        (VP
+          (VBG begging)
+          (NP
+            (NP (NNS stones))
+            (PP
+              (IN for)
+              (NP
+                (NP (DT the) (NN restoration))
+                (PP
+                  (IN of)
+                  (NP (NNP St.) (NNP Damiano) (POS 's)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Galen) (POS 's))
+        (NN work))
+      (PP
+        (IN on)
+        (NP (NNS animals))))
+    (VP
+      (VBD led)
+      (PP
+        (IN to)
+        (NP
+          (NP (DT some) (NNS inaccuracies))
+          (, ,)
+          (NP
+            (NP
+              (ADVP (RBS most) (RB notably))
+              (NP (PRP$ his) (NN anatomy))
+              (PP
+                (IN of)
+                (NP (DT the) (NN uterus))))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (ADVP (RB largely))
+                (VP
+                  (VBD resembled)
+                  (NP (DT a) (NN dog) (POS 's)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VBZ is)
+      (PP
+        (IN to)
+        (NP (NNP Bernini)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP
+            (VBZ is)
+            (VP (JJ due))
+            (NP
+              (NP
+                (NP (DT the) (NN lion) (POS 's))
+                (NN share))
+              (PP
+                (IN of)
+                (NP
+                  (NP (NN responsibility))
+                  (PP
+                    (IN for)
+                    (NP
+                      (NP
+                        (DT the)
+                        (ADJP (JJ final) (CC and) (JJ enduring))
+                        (NML
+                          (NML (JJ aesthetic) (NN appearance))
+                          (CC and)
+                          (NML (JJ emotional) (NN impact))))
+                      (PP
+                        (IN of)
+                        (NP (NNP St.) (NNP Peter) (POS 's))))))))))))
+    (. .)))
+
+# this is correct for "in charge of"
+# for example, "... is in charge of culture" from PTB
+(ROOT
+  (S
+    (PP
+      (IN In)
+      (NP (CD 1629)))
+    (, ,)
+    (NP (NNP Urban) (NNP VIII))
+    (VP
+      (VBD put)
+      (NP (PRP him))
+      (PP
+        (IN in)
+        (NP
+          (NP (NN charge))
+          (PP
+            (IN of)
+            (NP
+              (NP (PDT all) (DT the) (JJ ongoing) (JJ architectural) (NNS works))
+              (PP
+                (IN at)
+                (NP (NNP St) (NNP Peter) (POS 's))))))))
+    (. .)))
+
+
+# there was a PP combining "about Chaumpaign's service" and "how she came..."
+# UCP might be better to coordinate the PP and SBAR
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN case))
+      (VP
+        (VBD was)
+        (ADVP (RB never))
+        (VP (VBN prosecuted))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT no) (NNS details)))
+      (VP
+        (VBP survive)
+        (UCP
+          (PP
+            (IN about)
+            (NP
+              (NP (NNP Chaumpaigne) (POS 's))
+              (NN service)))
+          (CC or)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (PRP she))
+              (VP
+                (VBD came)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB leave)
+                      (NP
+                        (NP (NNP Staundon) (POS 's))
+                        (NN employ))
+                      (PP
+                        (IN for)
+                        (NP (NNP Chaucer) (POS 's))))))))))))
+    (. .)))
+
+
+# Preserving the orthodoxy ...
+# is a somewhat weird parse
+# the -ing is being used as a noun phrase
+# the standard in PTB is to parse it like this
+# consider PTB sentences "Finding him ..." and "Defining combat aircraft ..."
+(ROOT
+  (S
+    (S
+      (VP
+        (VBG Preserving)
+        (NP
+          (NP (DT the) (NN orthodoxy))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT the) (NN relationship))
+              (PP
+                (IN between)
+                (NP (NNP God) (CC and) (NN mathematics))))))
+        (, ,)
+        (SBAR
+          (IN although)
+          (RB not)
+          (PP
+            (IN in)
+            (NP
+              (NP (DT the) (JJ same) (NN form))
+              (SBAR
+                (IN as)
+                (S
+                  (VP
+                    (VBN held)
+                    (PP
+                      (IN by)
+                      (NP (PRP$ his) (NNS critics)))))))))
+        (, ,)))
+    (VP
+      (VBD was)
+      (ADVP (RB long))
+      (NP
+        (NP (DT a) (NN concern))
+        (PP
+          (IN of)
+          (NP (NNP Cantor) (POS 's)))))
+    (. .)))
+
+# Look at PTB sentence 79
+# Mr. Reich's new "Different Trains" for string quartet
+# The same parse should be used for
+# Kasparov's attacking style of play
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Kasparov) (POS 's))
+        (JJ attacking)
+        (NN style))
+      (PP
+        (IN of)
+        (NP (NN play))))
+    (VP
+      (VBZ has)
+      (VP
+        (VBN been)
+        (VP
+          (VBN compared)
+          (PP
+            (IN by)
+            (NP (JJ many)))
+          (PP
+            (IN to)
+            (NP (NNP Alekhine) (POS 's))))))
+    (. .)))
+
+
+# Distasteful though it is, x-ray does in fact get split
+(ROOT
+  (S
+    (NP
+      (DT This)
+      (ADJP (VBN screwed) (RP up))
+      (NN x)
+      (HYPH -)
+      (NN ray))
+    (VP
+      (VBZ is)
+      (NP (PRP$ my) (NN hip) (POS 's)))
+    (. .)))
+
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN proton) (POS 's))
+      (NN mass))
+    (VP
+      (VBZ is)
+      (ADJP
+        (ADJP
+          (NP
+            (QP (RB only) (RB about) (CD 0.13))
+            (NN %))
+          (JJR less))
+        (PP
+          (IN than)
+          (NP (DT the) (NN neutron) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT An) (NN avalanche))
+    (VP
+      (VBD hit)
+      (NP
+        (NP (DT a) (NN house))
+        (PP
+          (IN in)
+          (NP
+            (NP (DT The) (NNP Battery) (NN section))
+            (PP
+              (IN of)
+              (NP (NNP St.) (NNP John) (POS 's)))))))
+    (. .)))
+
+# first art school flat?
+(ROOT
+  (S
+    (NP (DT The) (NNPS Shepherds))
+    (VP
+      (VBD established)
+      (NP
+        (NP (DT the) (NN province) (POS 's))
+        (JJ first)
+        (NN art)
+        (NN school))
+      (PP
+        (IN in)
+        (NP
+          (NP (DT a) (NN home))
+          (PP
+            (IN in)
+            (NP (NN downtown) (NNP St.) (NNP John) (POS 's))))))
+    (. .)))
+
+# NML structure?
+(ROOT
+  (S
+    (NP
+      (NML
+        (NML (JJ Fine) (NNS arts))
+        (NN education))
+      (NNS programs))
+    (VP
+      (VBD were)
+      (VP
+        (VBN established)
+        (PP
+          (IN at)
+          (NP
+            (NP (JJ post-secondary) (NNS institutions))
+            (PP
+              (JJ such)
+              (IN as)
+              (NP
+                (NP
+                  (DT the)
+                  (NML (NNP Anna) (NNP Templeton))
+                  (NNP Centre))
+                (PP
+                  (IN in)
+                  (NP (NNP St.) (NNP John) (POS 's)))))))))
+    (. .)))
+
+# inspired VP attached a level higher?
+(ROOT
+  (S
+    (PP
+      (IN In)
+      (NP (CD 1969)))
+    (, ,)
+    (NP (NNP Alan) (NNP Siegel))
+    (VP
+      (VBD created)
+      (NP
+        (NP (DT the) (JJ modern) (NNP NBA) (NN logo))
+        (VP
+          (VBN inspired)
+          (PP
+            (IN by)
+            (NP (DT the) (NNP MLB) (POS 's))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Other) (NNS scholars))
+    (VP
+      (VBP have)
+      (VP
+        (VP (VBN challenged))
+        (CC and)
+        (VP
+          (VBN argued)
+          (PP (IN against)))
+        (S
+          (NP
+            (NP (DT some))
+            (PP
+              (IN of)
+              (NP (DT the) (JJ above) (NNS works))))
+          (VP
+            (VBG being)
+            (NP (NNP Nagarjuna) (POS 's))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Many) (NNS people))
+    (VP
+      (VBD began)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB question)
+            (SBAR
+              (IN whether)
+              (S
+                (NP
+                  (NP
+                    (NP (DT the) (NN body))
+                    (VP
+                      (VBN mutilated)
+                      (PP
+                        (IN at)
+                        (NP (NNP Tyburn)))))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NN head))
+                    (VP
+                      (VBN seen)
+                      (PP
+                        (IN on)
+                        (NP (NNP Westminster) (NNP Hall))))))
+                (VP
+                  (VBD were)
+                  (NP (NNP Cromwell) (POS 's)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Orcus))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT an) (NN orbit))
+        (ADJP
+          (JJ similar)
+          (PP
+            (IN in)
+            (NP (NN inclination) (CC and) (NN eccentricity)))
+          (PP
+            (IN to)
+            (NP (NNP Pluto) (POS 's))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (IN Although)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBZ has)
+          (NP (PRP$ his) (JJ own) (NN house)))))
+    (, ,)
+    (NP (NNP Obelix))
+    (VP
+      (VBZ is)
+      (ADVP (RB occasionally))
+      (VP
+        (VBN shown)
+        (S
+          (VP
+            (VBG staying)
+            (ADVP (RB overnight))
+            (PP
+              (IN at)
+              (NP (NNP Asterix) (POS 's)))))))
+    (. .)))
+
+# sevens team separate?
+# "as is" is clearly the standard treatment
+(ROOT
+  (S
+    (NP
+      (NP (NNP Fiji) (POS 's))
+      (NN sevens)
+      (NN team))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP
+          (IN of)
+          (NP
+            (NP
+              (DT the)
+              (ADJP (RBS most) (JJ successful)))
+            (PP
+              (IN in)
+              (NP (DT the) (NN world))))))
+      (, ,)
+      (SBAR
+        (IN as)
+        (SINV
+          (VP (VBZ is))
+          (NP (NNP New) (NNP Zealand) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mars) (POS 's))
+      (NN atmosphere))
+    (VP
+      (VP
+        (VBZ is)
+        (ADJP (JJ expansive)))
+      (CC and)
+      (VP
+        (VBZ does)
+        (RB not)
+        (VP
+          (VB drop)
+          (PRT (RP off))
+          (PP
+            (IN in)
+            (NP (NN density)))
+          (PP
+            (IN with)
+            (NP (NN height)))
+          (ADVP
+            (ADVP (RB as) (RB sharply))
+            (PP
+              (IN as)
+              (NP (NNP Earth) (POS 's)))))))
+    (. .)))
+
+# UCP is weird
+(ROOT
+  (S
+    (PP
+      (IN By)
+      (NP (DT the) (JJ 19th) (NN century)))
+    (, ,)
+    (NP
+      (NP (NNP Plato) (POS 's))
+      (NN reputation))
+    (VP
+      (VBD was)
+      (UCP
+        (VP (VBN restored))
+        (, ,)
+        (CC and)
+        (VP
+          (PP
+            (ADVP (IN at) (JJS least))
+            (IN on)
+            (NP
+              (NP (NN par))
+              (PP
+                (IN with)
+                (NP (NNP Aristotle) (POS 's))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN tenure))
+    (VP
+      (VBD was)
+      (ADJP
+        (ADJP (RBR more) (JJ successful))
+        (PP
+          (IN than)
+          (NP (NNP Patterson) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Germany))
+    (VP
+      (VP
+        (VBD began)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB pursue)
+              (NP
+                (NP (DT a) (NN policy))
+                (PP
+                  (IN of)
+                  (NP (JJ global) (NN prominence))))))))
+      (CC and)
+      (VP
+        (VBD began)
+        (S
+          (VP
+            (VBG building)
+            (NP
+              (NP (DT a) (NN navy))
+              (SBAR
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB compete)
+                      (PP
+                        (IN with)
+                        (NP (NNP Britain) (POS 's))))))))))))
+    (. .)))
+
