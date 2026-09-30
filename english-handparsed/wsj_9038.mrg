@@ -1,13 +1,154 @@
+( (S
+    (NP (DT The) (NNS larvae))
+    (VP
+      (VP
+        (VBP hatch)
+        (PP
+          (IN in)
+          (NP (NN spring))))
+      (CC and)
+      (VP
+        (VBP feed)
+        (PP
+          (IN on)
+          (NP
+            (NP (DT the) (NNS algae))
+            (VP
+              (VBG growing)
+              (PP
+                (IN along)
+                (NP (DT the) (NN shore))))))))
+    (. .)))
 
-( (S (NP (DT The) (NNS larvae)) (VP (VP (VBP hatch) (PP (IN in) (NP (NN spring)))) (CC and) (VP (VBP feed) (PP (IN on) (NP (NP (DT the) (NNS algae)) (VP (VBG growing) (PP (IN along) (NP (DT the) (NN shore)))))))) (. .)))
-( (S (PP (IN After) (NP (DT the) (NN game))) (NP (PRP we)) (VP (VBD shared) (NP (DT a) (JJ hot) (NN fudge) (NN sundae)) (PP (IN at) (NP (DT the) (NN diner)))) (. .)))
-( (S (S (NP (NP (DT The) (NNS antennae)) (PP (IN on) (NP (DT the) (NN roof)))) (VP (VBP are) (ADJP (JJ rusty)))) (, ,) (CC and) (S (NP (DT the) (NN picture)) (VP (VBZ is) (ADJP (JJ fuzzy)))) (. .)))
-( (S (NP (NP (DT The) (NN marae)) (PP (IN at) (NP (NP (DT the) (NN edge)) (PP (IN of) (NP (DT the) (NN bay)))))) (VP (VBD was) (VP (VBN rebuilt) (NP (JJ last) (NN year)))) (. .)))
-( (S (NP (DT The) (NN band)) (VP (VBZ plays) (NP (NN reggae)) (NP (DT every) (NNP Friday) (NN night)) (PP (IN at) (NP (DT the) (NN harbor)))) (. .)))
-( (S (NP (DT The) (NN surgeon)) (VP (VBD fused) (NP (NP (CD two) (NNS vertebrae)) (PP (IN in) (NP (PRP$ her) (JJR lower) (NN back))))) (. .)))
-( (S (NP (DT The) (NN cottage)) (VP (VBZ sits) (PP (IN at) (NP (NP (DT the) (NN foot)) (PP (IN of) (NP (DT a) (JJ steep) (NN brae)))))) (. .)))
-( (S (NP (DT These) (NNS antennae)) (VP (VBP pick) (PRT (RP up)) (NP (NP (NNS signals)) (PP (IN from) (NP (NP (DT the) (NN tower)) (PP (IN across) (NP (DT the) (NN valley))))))) (. .)))
-( (S (NP (NP (CD Three) (NNS marae)) (PP (IN in) (NP (DT the) (NN region)))) (VP (VBP have) (VP (VBN hosted) (NP (DT the) (NN festival)))) (. .)))
-( (S (NP (NNS Astronomers)) (VP (VBP have) (VP (VBN photographed) (NP (NP (JJ several) (NNS nebulae)) (PP (IN near) (NP (DT the) (JJ galactic) (NN center)))))) (. .)))
-( (S (NP (DT The) (VBG visiting) (NNS alumnae)) (VP (VBD shared) (NP (CD one) (JJ enormous) (NN sundae))) (. .)))
+( (S
+    (PP
+      (IN After)
+      (NP (DT the) (NN game)))
+    (NP (PRP we))
+    (VP
+      (VBD shared)
+      (NP (DT a) (JJ hot) (NN fudge) (NN sundae))
+      (PP
+        (IN at)
+        (NP (DT the) (NN diner))))
+    (. .)))
 
+( (S
+    (S
+      (NP
+        (NP (DT The) (NNS antennae))
+        (PP
+          (IN on)
+          (NP (DT the) (NN roof))))
+      (VP
+        (VBP are)
+        (ADJP (JJ rusty))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN picture))
+      (VP
+        (VBZ is)
+        (ADJP (JJ fuzzy))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NN marae))
+      (PP
+        (IN at)
+        (NP
+          (NP (DT the) (NN edge))
+          (PP
+            (IN of)
+            (NP (DT the) (NN bay))))))
+    (VP
+      (VBD was)
+      (VP
+        (VBN rebuilt)
+        (NP (JJ last) (NN year))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN band))
+    (VP
+      (VBZ plays)
+      (NP (NN reggae))
+      (NP (DT every) (NNP Friday) (NN night))
+      (PP
+        (IN at)
+        (NP (DT the) (NN harbor))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN surgeon))
+    (VP
+      (VBD fused)
+      (NP
+        (NP (CD two) (NNS vertebrae))
+        (PP
+          (IN in)
+          (NP (PRP$ her) (JJR lower) (NN back)))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN cottage))
+    (VP
+      (VBZ sits)
+      (PP
+        (IN at)
+        (NP
+          (NP (DT the) (NN foot))
+          (PP
+            (IN of)
+            (NP (DT a) (JJ steep) (NN brae))))))
+    (. .)))
+
+( (S
+    (NP (DT These) (NNS antennae))
+    (VP
+      (VBP pick)
+      (PRT (RP up))
+      (NP
+        (NP (NNS signals))
+        (PP
+          (IN from)
+          (NP
+            (NP (DT the) (NN tower))
+            (PP
+              (IN across)
+              (NP (DT the) (NN valley)))))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (CD Three) (NNS marae))
+      (PP
+        (IN in)
+        (NP (DT the) (NN region))))
+    (VP
+      (VBP have)
+      (VP
+        (VBN hosted)
+        (NP (DT the) (NN festival))))
+    (. .)))
+
+( (S
+    (NP (NNS Astronomers))
+    (VP
+      (VBP have)
+      (VP
+        (VBN photographed)
+        (NP
+          (NP (JJ several) (NNS nebulae))
+          (PP
+            (IN near)
+            (NP (DT the) (JJ galactic) (NN center))))))
+    (. .)))
+
+( (S
+    (NP (DT The) (VBG visiting) (NNS alumnae))
+    (VP
+      (VBD shared)
+      (NP (CD one) (JJ enormous) (NN sundae)))
+    (. .)))
