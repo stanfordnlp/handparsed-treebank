@@ -1,0 +1,149 @@
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	larvae	larva	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj|7:nsubj	_
+3	hatch	hatch	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	in	in	ADP	IN	_	5	case	5:case	_
+5	spring	spring	NOUN	NN	Number=Sing	3	obl	3:obl:in	_
+6	and	and	CCONJ	CC	_	7	cc	7:cc	_
+7	feed	feed	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	3:conj:and	_
+8	on	on	ADP	IN	_	10	case	10:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	algae	alga	NOUN	NNS	Number=Plur	7	obl	7:obl:on	_
+11	growing	grow	VERB	VBG	VerbForm=Ger	10	acl	10:acl	_
+12	along	along	ADP	IN	_	14	case	14:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	shore	shore	NOUN	NN	Number=Sing	11	obl	11:obl:along	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 1
+1	After	after	ADP	IN	_	3	case	3:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	game	game	NOUN	NN	Number=Sing	5	obl	5:obl:after	_
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+5	shared	share	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+7	hot	hot	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+8	fudge	fudge	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	sundae	sundae	NOUN	NN	Number=Sing	5	obj	5:obj	_
+10	at	at	ADP	IN	_	12	case	12:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	diner	diner	NOUN	NN	Number=Sing	5	obl	5:obl:at	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	antennae	antenna	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
+3	on	on	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	roof	roof	NOUN	NN	Number=Sing	2	nmod	2:nmod:on	_
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+7	rusty	rusty	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	and	and	CCONJ	CC	_	13	cc	13:cc	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	picture	picture	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+13	fuzzy	fuzzy	ADJ	JJ	Degree=Pos	7	conj	7:conj:and	SpaceAfter=No
+14	.	.	PUNCT	.	_	7	punct	7:punct	_
+
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	marae	marae	NOUN	NN	Number=Sing	10	nsubj:pass	10:nsubj:pass	_
+3	at	at	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	edge	edge	NOUN	NN	Number=Sing	2	nmod	2:nmod:at	_
+6	of	of	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	bay	bay	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	_
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
+10	rebuilt	rebuild	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+11	last	last	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	year	year	NOUN	NN	Number=Sing	10	obl:tmod	10:obl:tmod	SpaceAfter=No
+13	.	.	PUNCT	.	_	10	punct	10:punct	_
+
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	band	band	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	plays	play	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	reggae	reggae	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	every	every	DET	DT	_	7	det	7:det	_
+6	Friday	Friday	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+7	night	night	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	_
+8	at	at	ADP	IN	_	10	case	10:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	harbor	harbor	NOUN	NN	Number=Sing	3	obl	3:obl:at	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	surgeon	surgeon	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	fused	fuse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	two	two	NUM	CD	NumType=Card	5	nummod	5:nummod	_
+5	vertebrae	vertebra	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	in	in	ADP	IN	_	9	case	9:case	_
+7	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	lower	low	ADJ	JJR	Degree=Cmp	9	amod	9:amod	_
+9	back	back	NOUN	NN	Number=Sing	5	nmod	5:nmod:in	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	cottage	cottage	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	sits	sit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	at	at	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	foot	foot	NOUN	NN	Number=Sing	3	obl	3:obl:at	_
+7	of	of	ADP	IN	_	10	case	10:case	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+9	steep	steep	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	brae	brae	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 7
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	2:det	_
+2	antennae	antenna	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	pick	pick	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	up	up	ADP	RP	_	3	compound:prt	3:compound:prt	_
+5	signals	signal	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	from	from	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	tower	tower	NOUN	NN	Number=Sing	5	nmod	5:nmod:from	_
+9	across	across	ADP	IN	_	11	case	11:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	valley	valley	NOUN	NN	Number=Sing	8	nmod	8:nmod:across	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 8
+1	Three	three	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+2	marae	marae	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
+3	in	in	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	region	region	NOUN	NN	Number=Sing	2	nmod	2:nmod:in	_
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+7	hosted	host	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	festival	festival	NOUN	NN	Number=Sing	7	obj	7:obj	SpaceAfter=No
+10	.	.	PUNCT	.	_	7	punct	7:punct	_
+
+# sent_id = 9
+1	Astronomers	astronomer	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	photographed	photograph	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	several	several	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	nebulae	nebula	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	near	near	ADP	IN	_	9	case	9:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	galactic	galactic	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	center	center	NOUN	NN	Number=Sing	5	nmod	5:nmod:near	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	visiting	visit	VERB	VBG	VerbForm=Ger	3	amod	3:amod	_
+3	alumnae	alumna	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+4	shared	share	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	one	one	NUM	CD	NumType=Card	7	nummod	7:nummod	_
+6	enormous	enormous	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	sundae	sundae	NOUN	NN	Number=Sing	4	obj	4:obj	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+
