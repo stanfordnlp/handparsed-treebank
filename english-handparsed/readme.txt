@@ -37,6 +37,7 @@
 9035: historical usages (was formerly "historical.0001.mrg")
 9036: informal social media stuff (was formerly "informal.0001.mrg")
 9037: -nna endings for the Stanza tokenizer
+9038: -ae endings for the Stanza POS/lemmatizer
 
 
 
