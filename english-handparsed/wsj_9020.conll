@@ -15,7 +15,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	money	money	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	_
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
-7	mine	mine	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
+7	mine	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 # sent_id = 2
@@ -83,12 +83,12 @@
 
 # sent_id = 7
 1	As	as	SCONJ	IN	_	4	mark	4:mark	_
-2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	arthritis	arthritis	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:as	_
 5	worse	bad	ADJ	JJR	Degree=Cmp	4	xcomp	4:xcomp	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	9:punct	_
-7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
+7	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 8	thigh	thigh	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
 9	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 10	number	numb	ADJ	JJR	Degree=Cmp	9	xcomp	9:xcomp	_
@@ -96,7 +96,7 @@
 # sent_id = 8
 1	Cocaine	cocaine	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
 2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	lips	lip	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
 5	number	numb	ADJ	JJR	Degree=Cmp	2	xcomp	2:xcomp	_
 6	than	than	ADP	IN	_	7	case	7:case	_

@@ -7,7 +7,7 @@
 6	bargains	bargain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	dep	3:dep	_
 
 # sent_id = 1
-1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	mother	mother	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
 4	bargaining	bargain	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
@@ -140,7 +140,7 @@
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
 6	and	and	CCONJ	CC	_	10	cc	10:cc	_
 7	how	how	ADV	WRB	PronType=Int	10	advmod	10:advmod	_
-8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	choices	choice	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
 10	differ	differ	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	1:conj:and	_
 
@@ -198,7 +198,7 @@
 1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	embarked	embark	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	on	on	ADP	IN	_	7	case	7:case	_
-4	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+4	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 5	maiden	maiden	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 6	season	season	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	sailing	sailing	NOUN	NN	Number=Sing	2	obl	2:obl:on	_
@@ -212,7 +212,7 @@
 15	Yao	Yao	PROPN	NNP	Number=Sing	16	compound	16:compound	_
 16	Ming	Ming	PROPN	NNP	Number=Sing	2	obl	2:obl:with	_
 17	and	and	CCONJ	CC	_	19	cc	19:cc	_
-18	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
+18	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
 19	wife	wife	NOUN	NN	Number=Sing	16	conj	2:obl:with|16:conj:and	SpaceAfter=No
 20	,	,	PUNCT	,	_	19	punct	19:punct	_
 21	Ye	Ye	PROPN	NNP	Number=Sing	22	compound	22:compound	_
@@ -289,7 +289,7 @@
 15	continue	continue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:as	_
 16	to	to	PART	TO	_	17	mark	17:mark	_
 17	buildout	buildout	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	_
-18	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
+18	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
 19	operations	operation	NOUN	NNS	Number=Plur	17	obj	17:obj	_
 20	and	and	CCONJ	CC	_	21	cc	21:cc	_
 21	invest	invest	VERB	VB	VerbForm=Inf	17	conj	15:xcomp|17:conj:and	_
@@ -299,7 +299,7 @@
 25	,	,	PUNCT	,	_	17	punct	17:punct	_
 26	including	include	VERB	VBG	VerbForm=Ger	27	case	27:case	_
 27	leveraging	leverage	VERB	VBG	VerbForm=Ger	17	advcl	17:advcl:including	_
-28	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	31	nmod:poss	31:nmod:poss	_
+28	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	31	nmod:poss	31:nmod:poss	_
 29	local	local	ADJ	JJ	Degree=Pos	31	amod	31:amod	_
 30	brand	brand	NOUN	NN	Number=Sing	31	compound	31:compound	_
 31	ambassador	ambassador	NOUN	NN	Number=Sing	27	obj	27:obj	SpaceAfter=No

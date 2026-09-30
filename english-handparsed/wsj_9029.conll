@@ -26,7 +26,7 @@
 10	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 # sent_id = 2
-1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	3:amod	_
 3	goal	goal	NOUN	NN	Number=Sing	4	nsubj	4:nsubj|6:nsubj:xsubj	_
 4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -46,7 +46,7 @@
 3	angel	angel	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	save	save	VERB	VB	VerbForm=Inf	1	advcl	1:advcl:to	_
-6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	beast	beast	NOUN	NN	Number=Sing	5	obj	5:obj	_
 8	won	win	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	8:iobj	_

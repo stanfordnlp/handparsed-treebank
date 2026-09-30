@@ -14,7 +14,7 @@
 
 # sent_id = 1
 1	Swing	swing	VERB	VBG	VerbForm=Ger	0	root	0:root	_
-2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	partner	partner	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	round	round	ADV	RB	_	1	advmod	1:advmod	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
@@ -78,13 +78,13 @@
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	still	still	ADV	RB	_	3	advmod	3:advmod	_
 3	turn	turn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	head	head	NOUN	NN	Number=Sing	3	obj	3:obj	_
 6	every	every	DET	DT	_	7	det	7:det	_
 7	time	time	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 9	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
-10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
 11	name	name	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -116,7 +116,7 @@
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	occupants	occupant	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
 10	finished	finish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
-11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
+11	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
 12	6	6	NUM	CD	NumType=Card	13	nummod	13:nummod	_
 13	month	month	NOUN	NN	Number=Sing	14	amod	14:amod	_
 14	lease	lease	NOUN	NN	Number=Sing	10	obj	10:obj	_

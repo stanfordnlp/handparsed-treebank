@@ -300,7 +300,7 @@
 5	-	-	PUNCT	HYPH	_	6	punct	6:punct	SpaceAfter=No
 6	rock	rock	NOUN	NN	Number=Sing	7	compound	7:compound	_
 7	institution	institution	NOUN	NN	Number=Sing	1	nmod	1:nmod:of|9:nmod:poss	_
-8	whose	whose	PRON	WP$	Poss=Yes|PronType=Int	9	nmod:poss	7:ref	_
+8	whose	whose	PRON	WP$	Case=Gen|Poss=Yes|PronType=Int	9	nmod:poss	7:ref	_
 9	attitude	attitude	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
 10-11	Won't	_	_	_	_	_	_	_	_
 10	Wo	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	_

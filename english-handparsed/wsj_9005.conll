@@ -58,7 +58,7 @@
 15	all	all	ADV	RB	_	17	advmod	17:advmod	_
 16	could	could	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
 17	tighten	tighten	VERB	VB	VerbForm=Inf	5	dep	5:dep	_
-18	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
+18	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
 19	monetary	monetary	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	policies	policy	NOUN	NNS	Number=Plur	17	obj	17:obj	_
 21	simultaneously	simultaneously	ADV	RB	_	17	advmod	17:advmod	_
@@ -143,7 +143,7 @@
 6	carriage	carriage	NOUN	NN	Number=Sing	2	obj	2:obj|8:nsubj	_
 7	that	that	PRON	WDT	PronType=Rel	8	nsubj	6:ref	_
 8	frees	free	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
-9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+9	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
 10	upper	upper	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	limbs	limb	NOUN	NNS	Number=Plur	8	obj	8:obj	_
 12	for	for	SCONJ	IN	_	13	mark	13:mark	_
@@ -200,7 +200,7 @@
 6	rental	rental	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	cars	car	NOUN	NNS	Number=Plur	2	conj	1:obj|2:conj:and	_
 8	with	with	ADP	IN	_	15	case	15:case	_
-9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+9	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
 10	quick	quick	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 11	and	and	CCONJ	CC	_	12	cc	12:cc	_
 12	easy	easy	ADJ	JJ	Degree=Pos	10	conj	10:conj:and|15:amod	_

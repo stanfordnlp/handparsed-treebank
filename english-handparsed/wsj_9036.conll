@@ -1,6 +1,6 @@
 # sent_id = 0
 1	Enjoying	enjoy	VERB	VBG	VerbForm=Ger	0	root	0:root	_
-2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 3	favorite	favorite	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 4	Friday	friday	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	tradition	tradition	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
@@ -16,7 +16,7 @@
 7	Station	Station	PROPN	NNP	Number=Sing	1	obl	1:obl:in	_
 8	waiting	wait	VERB	VBG	VerbForm=Ger	1	dep	1:dep	_
 9	for	for	ADP	IN	_	13	case	13:case	_
-10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+10	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
 11	delayed	delayed	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 12	@MBTA	@MBTA	PROPN	NNP	Number=Sing	13	compound	13:compound	_
 13	train	train	NOUN	NN	Number=Sing	8	obl	8:obl:for	SpaceAfter=No
@@ -45,7 +45,7 @@
 4	thicc	thicc	ADJ	JJ	Degree=Pos	0	root	0:root	_
 
 # sent_id = 5
-1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	system	system	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	hella	hella	ADJ	JJ	Degree=Pos	5	amod	5:amod	_

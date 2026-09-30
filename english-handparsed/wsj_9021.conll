@@ -9,7 +9,7 @@
 8	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 1
-1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	cabbage	cabbage	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	crop	crop	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	_
@@ -61,7 +61,7 @@
 14	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = 5
-1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	dog	dog	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	ate	eat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
@@ -86,7 +86,7 @@
 1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
 2	groundhog	groundhog	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	destroyed	destroy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 5	broccoli	broccoli	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	crop	crop	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_

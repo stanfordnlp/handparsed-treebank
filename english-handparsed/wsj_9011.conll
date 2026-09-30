@@ -1,7 +1,7 @@
 # sent_id = 0
 1	Go	go	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	to	to	ADP	TO	_	4	case	4:case	_
-3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	room	room	NOUN	NN	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 5	!	!	PUNCT	.	_	1	punct	1:punct	_
 
@@ -18,7 +18,7 @@
 # sent_id = 2
 1	Tell	tell	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	1:iobj	_
-3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	name	name	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 

@@ -57,7 +57,7 @@
 
 # sent_id = 8
 1	unlock	unlock	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	debit	debit	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	card	card	NOUN	NN	Number=Sing	1	obj	1:obj	_
 

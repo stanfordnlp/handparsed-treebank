@@ -6,7 +6,7 @@
 5	flounder	flounder	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	3:punct	_
 7	but	but	CCONJ	CC	_	10	cc	10:cc	_
-8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	oysters	oyster	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
 10	leave	leave	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	_
 11	something	something	PRON	NN	Number=Sing	10	obj	10:obj	_
@@ -46,7 +46,7 @@
 
 # sent_id = 4
 1	Monitor	monitor	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	heart	heart	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	rate	rate	NOUN	NN	Number=Sing	1	obj	1:obj	_
 5	for	for	ADP	IN	_	7	case	7:case	_
@@ -233,7 +233,7 @@
 10	careful	careful	ADJ	JJ	Degree=Pos	4	advcl	4:advcl:if	_
 
 # sent_id = 24
-1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	daughter	daughter	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|5:nsubj:xsubj	_
 3	likes	like	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	to	to	PART	TO	_	5	mark	5:mark	_

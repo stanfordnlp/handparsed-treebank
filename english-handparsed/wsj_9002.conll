@@ -13,7 +13,7 @@
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	old	old	ADJ	JJ	Degree=Pos	3	dep	3:dep	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	cousin	cousin	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
@@ -73,7 +73,7 @@
 # sent_id = 8
 1	Where	where	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
-3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	brother	brother	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 6	on	on	ADP	IN	_	7	case	7:case	_
@@ -92,10 +92,10 @@
 # sent_id = 10
 1	When	when	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
-3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	sister	sister	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 5	call	call	VERB	VB	VerbForm=Inf	0	root	0:root	_
-6	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	boyfriend	boyfriend	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
 8	?	?	PUNCT	.	_	5	punct	5:punct	_
 
@@ -114,7 +114,7 @@
 3	n't	not	PART	RB	_	5	advmod	5:advmod	_
 4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	bring	bring	VERB	VB	VerbForm=Inf	0	root	0:root	_
-6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	dictionary	dictionary	NOUN	NN	Number=Sing	5	obj	5:obj	_
 8	today	today	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
 9	?	?	PUNCT	.	_	5	punct	5:punct	_
@@ -146,7 +146,7 @@
 # sent_id = 15
 1	What	what	PRON	WP	PronType=Int	0	root	0:root	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
-3	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+3	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 4	favorite	favorite	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	kind	kind	NOUN	NN	Number=Sing	1	nsubj	1:nsubj	_
 6	of	of	ADP	IN	_	7	case	7:case	_
@@ -166,7 +166,7 @@
 1	What	what	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
 2	lives	live	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	in	in	ADP	IN	_	5	case	5:case	_
-4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	garden	garden	NOUN	NN	Number=Sing	2	obl	2:obl:in	SpaceAfter=No
 6	?	?	PUNCT	.	_	2	punct	2:punct	_
 
@@ -191,7 +191,7 @@
 2	many	many	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	cars	car	NOUN	NNS	Number=Plur	7	obj	7:obj	_
 4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
-5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 6	parents	parent	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
 7	have	have	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 8	?	?	PUNCT	.	_	7	punct	7:punct	_
