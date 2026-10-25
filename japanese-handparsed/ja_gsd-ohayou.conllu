@@ -1,0 +1,29 @@
+# sent_id = ohayou-1
+# text = おはよう。
+1	おはよう	御早う	INTJ	感動詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=感動詞-一般|SpaceAfter=No|UnidicInfo=オハヨウ,御早う,おはよう,おはよう,オハヨー,,,オハヨウ,オハヨウ,御早う
+2	。	。	PUNCT	補助記号-句点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
+
+# sent_id = ohayou-2
+# text = おはよう、今日もいい天気ですね。
+1	おはよう	御早う	INTJ	感動詞-一般	_	6	discourse	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=感動詞-一般|SpaceAfter=No|UnidicInfo=オハヨウ,御早う,おはよう,おはよう,オハヨー,,,オハヨウ,オハヨウ,御早う
+2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
+3	今日	今日	NOUN	名詞-普通名詞-副詞可能	_	6	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=キョウ,今日,今日,今日,キョー,,,キョウ,キョウ,今日
+4	も	も	ADP	助詞-係助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=モ,も,も,も,モ,,,モ,モ,も
+5	いい	良い	ADJ	形容詞-非自立可能-形容詞	_	6	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形容詞-一般-形容詞|PrevUDLemma=よい|SpaceAfter=No|UnidicInfo=ヨイ,良い,いい,いい,イー,,,イイ,ヨイ,良い
+6	天気	天気	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=テンキ,天気,天気,天気,テンキ,,,テンキ,テンキ,天気
+7	です	です	AUX	助動詞-助動詞-デス	_	6	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-デス|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=デス,です,です,です,デス,,,デス,デス,です
+8	ね	ね	PART	助詞-終助詞	_	6	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-終助詞|SpaceAfter=No|UnidicInfo=ネ,ね,ね,ね,ネ,,,ネ,ネ,ね
+9	。	。	PUNCT	補助記号-句点	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
+
+# sent_id = ohayou-3
+# text = 「おはよう」と母が言った。
+1	「	「	PUNCT	補助記号-括弧開	_	2	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
+2	おはよう	御早う	INTJ	感動詞-一般	_	7	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=感動詞-一般|SpaceAfter=No|UnidicInfo=オハヨウ,御早う,おはよう,おはよう,オハヨー,,,オハヨウ,オハヨウ,御早う
+3	」	」	PUNCT	補助記号-括弧閉	_	2	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No|UnidicInfo=,」,」,」,,,,,,」
+4	と	と	ADP	助詞-格助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
+5	母	母	NOUN	名詞-普通名詞-一般	_	7	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ハハ,母,母,母,ハハ,,,ハハ,ハハ,母
+6	が	が	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ガ,が,が,が,ガ,,,ガ,ガ,が
+7	言っ	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ワア行|SpaceAfter=No|UnidicInfo=イウ,言う,言っ,言う,イッ,,,イウ,イウ,言う
+8	た	た	AUX	助動詞-助動詞-タ	_	7	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
+9	。	。	PUNCT	補助記号-句点	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
+
