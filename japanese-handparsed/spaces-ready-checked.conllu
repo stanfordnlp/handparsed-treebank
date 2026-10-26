@@ -553,7 +553,7 @@
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
-7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
+7	の	の	SCONJ	_	_	5	mark	_	SpaceAfter=No
 8	か	か	PART	_	_	5	mark	_	SpaceAfter=No
 9	な	な	PART	_	_	5	mark	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -566,7 +566,7 @@
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
-7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
+7	の	の	SCONJ	_	_	5	mark	_	SpaceAfter=No
 8	か	か	PART	_	_	5	mark	_	SpaceAfter=No
 9	な	な	PART	_	_	5	mark	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -578,7 +578,7 @@
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
-6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
+6	の	の	SCONJ	_	_	4	mark	_	SpaceAfter=No
 7	か	か	PART	_	_	4	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	4	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -590,7 +590,7 @@
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
-6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
+6	の	の	SCONJ	_	_	4	mark	_	SpaceAfter=No
 7	か	か	PART	_	_	4	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	4	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -601,7 +601,7 @@
 2	何	何	PRON	_	_	3	obj	_	SpaceAfter=No
 3	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
-5	の	の	PART	_	_	3	mark	_	SpaceAfter=No
+5	の	の	SCONJ	_	_	3	mark	_	SpaceAfter=No
 6	か	か	PART	_	_	3	mark	_	SpaceAfter=No
 7	な	な	PART	_	_	3	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -612,7 +612,7 @@
 2	何	何	PRON	_	_	3	obj	_	SpaceAfter=No
 3	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
-5	の	の	PART	_	_	3	mark	_	SpaceAfter=No
+5	の	の	SCONJ	_	_	3	mark	_	SpaceAfter=No
 6	か	か	PART	_	_	3	mark	_	SpaceAfter=No
 7	な	な	PART	_	_	3	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -21748,7 +21748,7 @@
 1	キャベツ	キャベツ	NOUN	_	_	2	obj	_	SpaceAfter=No
 2	切っ	切る	VERB	_	_	0	root	_	SpaceAfter=No
 3	てる	てる	AUX	_	_	2	aux	_	SpaceAfter=No
-4	の	の	PART	_	_	2	mark	_	SpaceAfter=No
+4	の	の	SCONJ	_	_	2	mark	_	SpaceAfter=No
 5	か	か	PART	_	_	2	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
