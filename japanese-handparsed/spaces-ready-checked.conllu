@@ -465,8 +465,9 @@
 4	星	星	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	さま	様	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-50
 # text = アキ君お星さま飾るかな?
@@ -476,8 +477,9 @@
 4	星	星	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	さま	様	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-51
 # text = 僕お星さま飾るかな?
@@ -486,8 +488,9 @@
 3	星	星	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	さま	様	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-52
 # text = あたしお星さま飾るかな?
@@ -496,8 +499,9 @@
 3	星	星	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	さま	様	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-53
 # text = アキ君お皿飾るかな?
@@ -506,8 +510,9 @@
 3	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	皿	皿	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-54
 # text = 歩美さんお皿飾るかな?
@@ -516,8 +521,9 @@
 3	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	皿	皿	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-55
 # text = 僕お皿飾るかな?
@@ -525,8 +531,9 @@
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	皿	皿	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-56
 # text = あたしお皿飾るかな?
@@ -534,8 +541,9 @@
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	皿	皿	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	飾る	飾る	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-57
 # text = お母さん何してるのかな?
@@ -546,8 +554,9 @@
 5	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
-8	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-9	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+9	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-58
 # text = お父さん何してるのかな?
@@ -558,8 +567,9 @@
 5	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
-8	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-9	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+9	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-59
 # text = 茉莉さん何してるのかな?
@@ -569,8 +579,9 @@
 4	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
-7	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-60
 # text = アキ君何してるのかな?
@@ -580,8 +591,9 @@
 4	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
-7	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-61
 # text = 僕何してるのかな?
@@ -590,8 +602,9 @@
 3	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	の	の	PART	_	_	3	mark	_	SpaceAfter=No
-6	かな	かな	PART	_	_	3	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	3	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	3	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-62
 # text = あたし何してるのかな?
@@ -600,8 +613,9 @@
 3	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	の	の	PART	_	_	3	mark	_	SpaceAfter=No
-6	かな	かな	PART	_	_	3	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	3	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	3	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-63
 # text = お母さん帽子被らない。
@@ -2712,8 +2726,9 @@
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	魚	魚	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-281
 # text = アサト君これ描くね。
@@ -6664,8 +6679,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	団子	団子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-695
 # text = お父さんは団子食べるかな。
@@ -6675,8 +6691,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	団子	団子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-696
 # text = 歩美さんは団子食べるかな。
@@ -6685,8 +6702,9 @@
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
 4	団子	団子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-697
 # text = トミト君は団子食べるかな。
@@ -6695,8 +6713,9 @@
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
 4	団子	団子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-698
 # text = 僕は団子食べるかな。
@@ -6704,8 +6723,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-699
 # text = あなたは団子食べるかな。
@@ -6713,8 +6733,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-700
 # text = ママは団子食べるかな。
@@ -6722,8 +6743,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-701
 # text = お母さんは人参食べるかな。
@@ -6733,8 +6755,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	人参	人参	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-702
 # text = お父さんは人参食べるかな。
@@ -6744,8 +6767,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	人参	人参	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-703
 # text = 歩美さんは人参食べるかな。
@@ -6754,8 +6778,9 @@
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
 4	人参	人参	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-704
 # text = トミト君は人参食べるかな。
@@ -6764,8 +6789,9 @@
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
 4	人参	人参	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-705
 # text = 僕は人参食べるかな。
@@ -6773,8 +6799,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-706
 # text = あなたは人参食べるかな。
@@ -6782,8 +6809,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-707
 # text = ママは人参食べるかな。
@@ -6791,8 +6819,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-708
 # text = お母さんは何食べるかな。
@@ -6802,8 +6831,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-709
 # text = お父さんは何食べるかな。
@@ -6813,8 +6843,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-710
 # text = 歩美さんは何食べるかな。
@@ -6823,8 +6854,9 @@
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-711
 # text = トミト君は何食べるかな。
@@ -6833,8 +6865,9 @@
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-712
 # text = 僕は何食べるかな。
@@ -6842,8 +6875,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-713
 # text = あなたは何食べるかな。
@@ -6851,8 +6885,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-714
 # text = ママは何食べるかな。
@@ -6860,8 +6895,9 @@
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-715
 # text = お母さんも団子食べるかな。
@@ -6871,8 +6907,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	団子	団子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-716
 # text = お父さんも団子食べるかな。
@@ -6882,8 +6919,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	団子	団子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-717
 # text = 歩美さんも団子食べるかな。
@@ -6892,8 +6930,9 @@
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
 4	団子	団子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-718
 # text = トミト君も団子食べるかな。
@@ -6902,8 +6941,9 @@
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
 4	団子	団子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-719
 # text = 僕も団子食べるかな。
@@ -6911,8 +6951,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-720
 # text = あなたも団子食べるかな。
@@ -6920,8 +6961,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-721
 # text = ママも団子食べるかな。
@@ -6929,8 +6971,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-722
 # text = お母さんも人参食べるかな。
@@ -6940,8 +6983,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	人参	人参	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-723
 # text = お父さんも人参食べるかな。
@@ -6951,8 +6995,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	人参	人参	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-724
 # text = 歩美さんも人参食べるかな。
@@ -6961,8 +7006,9 @@
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
 4	人参	人参	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-725
 # text = トミト君も人参食べるかな。
@@ -6971,8 +7017,9 @@
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
 4	人参	人参	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-726
 # text = 僕も人参食べるかな。
@@ -6980,8 +7027,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-727
 # text = あなたも人参食べるかな。
@@ -6989,8 +7037,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-728
 # text = ママも人参食べるかな。
@@ -6998,8 +7047,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-729
 # text = お母さんも何食べるかな。
@@ -7009,8 +7059,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-730
 # text = お父さんも何食べるかな。
@@ -7020,8 +7071,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-731
 # text = 歩美さんも何食べるかな。
@@ -7030,8 +7082,9 @@
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-732
 # text = トミト君も何食べるかな。
@@ -7040,8 +7093,9 @@
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-733
 # text = 僕も何食べるかな。
@@ -7049,8 +7103,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-734
 # text = あなたも何食べるかな。
@@ -7058,8 +7113,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-735
 # text = ママも何食べるかな。
@@ -7067,8 +7123,9 @@
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-736
 # text = お母さんって団子食べるかな。
@@ -7078,8 +7135,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	団子	団子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-737
 # text = お父さんって団子食べるかな。
@@ -7089,8 +7147,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	団子	団子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-738
 # text = 歩美さんって団子食べるかな。
@@ -7099,8 +7158,9 @@
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
 4	団子	団子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-739
 # text = トミト君って団子食べるかな。
@@ -7109,8 +7169,9 @@
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
 4	団子	団子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-740
 # text = 僕って団子食べるかな。
@@ -7118,8 +7179,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-741
 # text = あなたって団子食べるかな。
@@ -7127,8 +7189,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-742
 # text = ママって団子食べるかな。
@@ -7136,8 +7199,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	団子	団子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-743
 # text = お母さんって人参食べるかな。
@@ -7147,8 +7211,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	人参	人参	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-744
 # text = お父さんって人参食べるかな。
@@ -7158,8 +7223,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	人参	人参	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-745
 # text = 歩美さんって人参食べるかな。
@@ -7168,8 +7234,9 @@
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
 4	人参	人参	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-746
 # text = トミト君って人参食べるかな。
@@ -7178,8 +7245,9 @@
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
 4	人参	人参	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-747
 # text = 僕って人参食べるかな。
@@ -7187,8 +7255,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-748
 # text = あなたって人参食べるかな。
@@ -7196,8 +7265,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-749
 # text = ママって人参食べるかな。
@@ -7205,8 +7275,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	人参	人参	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-750
 # text = お母さんって何食べるかな。
@@ -7216,8 +7287,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-751
 # text = お父さんって何食べるかな。
@@ -7227,8 +7299,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	obj	_	SpaceAfter=No
 6	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-752
 # text = 歩美さんって何食べるかな。
@@ -7237,8 +7310,9 @@
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-753
 # text = トミト君って何食べるかな。
@@ -7247,8 +7321,9 @@
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
 5	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-754
 # text = 僕って何食べるかな。
@@ -7256,8 +7331,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-755
 # text = あなたって何食べるかな。
@@ -7265,8 +7341,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-756
 # text = ママって何食べるかな。
@@ -7274,8 +7351,9 @@
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
-5	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+6	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-757
 # text = お父さんはお菓子もらう。
@@ -10341,8 +10419,9 @@
 1	電車	電車	NOUN	_	_	2	nsubj	_	SpaceAfter=No
 2	来	来る	VERB	_	_	0	root	_	SpaceAfter=No
 3	た	た	AUX	_	_	2	aux	_	SpaceAfter=No
-4	かな	かな	PART	_	_	2	mark	_	SpaceAfter=No
-5	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	か	か	PART	_	_	2	mark	_	SpaceAfter=No
+5	な	な	PART	_	_	2	mark	_	SpaceAfter=No
+6	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-17
 # text = トンネルそっちにある。
@@ -10420,8 +10499,9 @@
 3	一	一	NUM	_	_	4	nummod	_	SpaceAfter=No
 4	個	個	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 5	入る	入る	VERB	_	_	0	root	_	SpaceAfter=No
-6	かな	かな	PART	_	_	5	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	5	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	5	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-27
 # text = 二つ入ったよ。
@@ -11553,8 +11633,9 @@
 3	さん	さん	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 4	待っ	待つ	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
-6	かな	かな	PART	_	_	4	mark	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	か	か	PART	_	_	4	mark	_	SpaceAfter=No
+7	な	な	PART	_	_	4	mark	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-171
 # text = プール終わったの?
@@ -12585,8 +12666,9 @@
 # text = これ治るかな。
 1	これ	此れ	PRON	_	_	2	nsubj	_	SpaceAfter=No
 2	治る	直る	VERB	_	_	0	root	_	SpaceAfter=No
-3	かな	かな	PART	_	_	2	mark	_	SpaceAfter=No
-4	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
+3	か	か	PART	_	_	2	mark	_	SpaceAfter=No
+4	な	な	PART	_	_	2	mark	_	SpaceAfter=No
+5	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-305
 # text = あっこれ新しいけど。
@@ -19667,8 +19749,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-648
 # text = ね蟻さんは何嫌いかな?
@@ -19678,8 +19761,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-649
 # text = ね蟻さんは何好きかな?
@@ -19689,8 +19773,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-650
 # text = ね蟻さんはこれ好きかな?
@@ -19700,8 +19785,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-651
 # text = ね蟻さんはこれ嫌いかな?
@@ -19711,8 +19797,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-652
 # text = ね蟻さんはこれ好きかな?
@@ -19722,8 +19809,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-653
 # text = ねキリンさんは何好きかな?
@@ -19733,8 +19821,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-654
 # text = ねキリンさんは何嫌いかな?
@@ -19744,8 +19833,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-655
 # text = ねキリンさんは何好きかな?
@@ -19755,8 +19845,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-656
 # text = ねキリンさんはこれ好きかな?
@@ -19766,8 +19857,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-657
 # text = ねキリンさんはこれ嫌いかな?
@@ -19777,8 +19869,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-658
 # text = ねキリンさんはこれ好きかな?
@@ -19788,8 +19881,9 @@
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-659
 # text = ね蟻さんも何好きかな?
@@ -19799,8 +19893,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-660
 # text = ね蟻さんも何嫌いかな?
@@ -19810,8 +19905,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-661
 # text = ね蟻さんも何好きかな?
@@ -19821,8 +19917,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-662
 # text = ね蟻さんもこれ好きかな?
@@ -19832,8 +19929,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-663
 # text = ね蟻さんもこれ嫌いかな?
@@ -19843,8 +19941,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-664
 # text = ね蟻さんもこれ好きかな?
@@ -19854,8 +19953,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-665
 # text = ねキリンさんも何好きかな?
@@ -19865,8 +19965,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-666
 # text = ねキリンさんも何嫌いかな?
@@ -19876,8 +19977,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-667
 # text = ねキリンさんも何好きかな?
@@ -19887,8 +19989,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-668
 # text = ねキリンさんもこれ好きかな?
@@ -19898,8 +20001,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-669
 # text = ねキリンさんもこれ嫌いかな?
@@ -19909,8 +20013,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-670
 # text = ねキリンさんもこれ好きかな?
@@ -19920,8 +20025,9 @@
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-671
 # text = ね蟻さんって何好きかな?
@@ -19931,8 +20037,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-672
 # text = ね蟻さんって何嫌いかな?
@@ -19942,8 +20049,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-673
 # text = ね蟻さんって何好きかな?
@@ -19953,8 +20061,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-674
 # text = ね蟻さんってこれ好きかな?
@@ -19964,8 +20073,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-675
 # text = ね蟻さんってこれ嫌いかな?
@@ -19975,8 +20085,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-676
 # text = ね蟻さんってこれ好きかな?
@@ -19986,8 +20097,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-677
 # text = ねキリンさんって何好きかな?
@@ -19997,8 +20109,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-678
 # text = ねキリンさんって何嫌いかな?
@@ -20008,8 +20121,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-679
 # text = ねキリンさんって何好きかな?
@@ -20019,8 +20133,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-680
 # text = ねキリンさんってこれ好きかな?
@@ -20030,8 +20145,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-681
 # text = ねキリンさんってこれ嫌いかな?
@@ -20041,8 +20157,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	嫌い	嫌い	NOUN	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-682
 # text = ねキリンさんってこれ好きかな?
@@ -20052,8 +20169,9 @@
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
-7	かな	かな	PART	_	_	6	mark	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
+8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-683
 # text = これ大人がやる。
@@ -21730,8 +21848,9 @@
 # text = 何描くかな?
 1	何	何	PRON	_	_	2	obj	_	SpaceAfter=No
 2	描く	描く	VERB	_	_	0	root	_	SpaceAfter=No
-3	かな	かな	PART	_	_	2	mark	_	SpaceAfter=No
-4	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+3	か	か	PART	_	_	2	mark	_	SpaceAfter=No
+4	な	な	PART	_	_	2	mark	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # sent_id = OnlyOBJ-78
 # text = 何してるの?
