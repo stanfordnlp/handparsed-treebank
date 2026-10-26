@@ -1993,7 +1993,7 @@
 # sent_id = NSUBJ_OBJ-202
 # text = あっアキ君荷物一個落としてる。
 1	あっ	あっ	INTJ	_	_	7	discourse	_	SpaceAfter=No
-2	アキ	ヘンリー	PROPN	_	_	3	compound	_	SpaceAfter=No
+2	アキ	アキ	PROPN	_	_	3	compound	_	SpaceAfter=No
 3	君	君	NOUN	_	_	7	nsubj	_	SpaceAfter=No
 4	荷物	荷物	NOUN	_	_	6	compound	_	SpaceAfter=No
 5	一	一	NUM	_	_	6	nummod	_	SpaceAfter=No
@@ -2481,7 +2481,7 @@
 # sent_id = NSUBJ_OBJ-253
 # text = 歩美さんプーさん見た。
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
-2	さん	君	NOUN	_	_	5	nsubj	_	SpaceAfter=No
+2	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 3	プー	プー	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	さん	さん	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	見	見る	VERB	_	_	0	root	_	SpaceAfter=No
@@ -4339,7 +4339,7 @@
 4	水	水	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 6	て	てる	AUX	_	_	5	aux	_	SpaceAfter=No
-7	た	たい	AUX	_	_	5	aux	_	SpaceAfter=No
+7	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4351,7 +4351,7 @@
 4	水	水	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 6	て	てる	AUX	_	_	5	aux	_	SpaceAfter=No
-7	た	たい	AUX	_	_	5	aux	_	SpaceAfter=No
+7	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4362,7 +4362,7 @@
 3	水	水	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 5	て	てる	AUX	_	_	4	aux	_	SpaceAfter=No
-6	た	たい	AUX	_	_	4	aux	_	SpaceAfter=No
+6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4373,7 +4373,7 @@
 3	水	水	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 5	て	てる	AUX	_	_	4	aux	_	SpaceAfter=No
-6	た	たい	AUX	_	_	4	aux	_	SpaceAfter=No
+6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4383,7 +4383,7 @@
 2	水	水	NOUN	_	_	3	obj	_	SpaceAfter=No
 3	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 4	て	てる	AUX	_	_	3	aux	_	SpaceAfter=No
-5	た	たい	AUX	_	_	3	aux	_	SpaceAfter=No
+5	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -4393,7 +4393,7 @@
 2	水	水	NOUN	_	_	3	obj	_	SpaceAfter=No
 3	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 4	て	てる	AUX	_	_	3	aux	_	SpaceAfter=No
-5	た	たい	AUX	_	_	3	aux	_	SpaceAfter=No
+5	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -4405,7 +4405,7 @@
 4	人形	人形	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 6	て	てる	AUX	_	_	5	aux	_	SpaceAfter=No
-7	た	たい	AUX	_	_	5	aux	_	SpaceAfter=No
+7	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4417,7 +4417,7 @@
 4	人形	人形	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 6	て	てる	AUX	_	_	5	aux	_	SpaceAfter=No
-7	た	たい	AUX	_	_	5	aux	_	SpaceAfter=No
+7	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4428,7 +4428,7 @@
 3	人形	人形	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 5	て	てる	AUX	_	_	4	aux	_	SpaceAfter=No
-6	た	たい	AUX	_	_	4	aux	_	SpaceAfter=No
+6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4439,7 +4439,7 @@
 3	人形	人形	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 5	て	てる	AUX	_	_	4	aux	_	SpaceAfter=No
-6	た	たい	AUX	_	_	4	aux	_	SpaceAfter=No
+6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4449,7 +4449,7 @@
 2	人形	人形	NOUN	_	_	3	obj	_	SpaceAfter=No
 3	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 4	て	てる	AUX	_	_	3	aux	_	SpaceAfter=No
-5	た	たい	AUX	_	_	3	aux	_	SpaceAfter=No
+5	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -4459,7 +4459,7 @@
 2	人形	人形	NOUN	_	_	3	obj	_	SpaceAfter=No
 3	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
 4	て	てる	AUX	_	_	3	aux	_	SpaceAfter=No
-5	た	たい	AUX	_	_	3	aux	_	SpaceAfter=No
+5	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -4619,7 +4619,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 4	お	御	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	手	手	NOUN	_	_	6	obj	_	SpaceAfter=No
-6	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+6	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 7	てる	てる	AUX	_	_	6	aux	_	SpaceAfter=No
 8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -4630,7 +4630,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 4	お	御	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	手	手	NOUN	_	_	6	obj	_	SpaceAfter=No
-6	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+6	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 7	てる	てる	AUX	_	_	6	aux	_	SpaceAfter=No
 8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -4640,7 +4640,7 @@
 2	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 3	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	手	手	NOUN	_	_	5	obj	_	SpaceAfter=No
-5	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+5	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4650,7 +4650,7 @@
 2	君	君	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 3	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	手	手	NOUN	_	_	5	obj	_	SpaceAfter=No
-5	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+5	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4659,7 +4659,7 @@
 1	僕	僕	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	手	手	NOUN	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4668,7 +4668,7 @@
 1	あなた	貴方	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	手	手	NOUN	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4679,7 +4679,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 4	お	御	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	風呂	風呂	NOUN	_	_	6	obj	_	SpaceAfter=No
-6	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+6	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 7	てる	てる	AUX	_	_	6	aux	_	SpaceAfter=No
 8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -4690,7 +4690,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 4	お	御	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	風呂	風呂	NOUN	_	_	6	obj	_	SpaceAfter=No
-6	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+6	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 7	てる	てる	AUX	_	_	6	aux	_	SpaceAfter=No
 8	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -4700,7 +4700,7 @@
 2	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 3	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	風呂	風呂	NOUN	_	_	5	obj	_	SpaceAfter=No
-5	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+5	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4710,7 +4710,7 @@
 2	君	君	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 3	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	風呂	風呂	NOUN	_	_	5	obj	_	SpaceAfter=No
-5	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+5	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4719,7 +4719,7 @@
 1	僕	僕	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	風呂	風呂	NOUN	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4728,7 +4728,7 @@
 1	あなた	貴方	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	風呂	風呂	NOUN	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4738,7 +4738,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 4	大根	大根	NOUN	_	_	5	obj	_	SpaceAfter=No
-5	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+5	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4748,7 +4748,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 4	大根	大根	NOUN	_	_	5	obj	_	SpaceAfter=No
-5	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+5	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4757,7 +4757,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	大根	大根	NOUN	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4766,7 +4766,7 @@
 1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	大根	大根	NOUN	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4774,7 +4774,7 @@
 # text = 僕大根洗ってる。
 1	僕	僕	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	大根	大根	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+3	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -4782,7 +4782,7 @@
 # text = あなた大根洗ってる。
 1	あなた	貴方	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	大根	大根	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+3	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -4792,7 +4792,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 4	これ	此れ	PRON	_	_	5	obj	_	SpaceAfter=No
-5	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+5	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4801,7 +4801,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	これ	此れ	PRON	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4810,7 +4810,7 @@
 1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	これ	此れ	PRON	_	_	4	obj	_	SpaceAfter=No
-4	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+4	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -4818,7 +4818,7 @@
 # text = 僕これ洗ってる。
 1	僕	僕	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	これ	此れ	PRON	_	_	3	obj	_	SpaceAfter=No
-3	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+3	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -4826,7 +4826,7 @@
 # text = あなたこれ洗ってる。
 1	あなた	貴方	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	これ	此れ	PRON	_	_	3	obj	_	SpaceAfter=No
-3	洗っ	洗る	VERB	_	_	0	root	_	SpaceAfter=No
+3	洗っ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -5888,7 +5888,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
-5	し	為る	AUX	_	_	0	root	_	SpaceAfter=No
+5	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -5899,7 +5899,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 4	何	何	PRON	_	_	5	obj	_	SpaceAfter=No
-5	し	為る	AUX	_	_	0	root	_	SpaceAfter=No
+5	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 6	てる	てる	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -5909,7 +5909,7 @@
 1	茉莉	茉莉	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
-4	し	為る	AUX	_	_	0	root	_	SpaceAfter=No
+4	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -5919,7 +5919,7 @@
 1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	何	何	PRON	_	_	4	obj	_	SpaceAfter=No
-4	し	為る	AUX	_	_	0	root	_	SpaceAfter=No
+4	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 5	てる	てる	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -5928,7 +5928,7 @@
 # text = あたし何してるの?
 1	あたし	あたし	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	何	何	PRON	_	_	3	obj	_	SpaceAfter=No
-3	し	為る	AUX	_	_	0	root	_	SpaceAfter=No
+3	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -5937,7 +5937,7 @@
 # text = 僕何してるの?
 1	僕	僕	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	何	何	PRON	_	_	3	obj	_	SpaceAfter=No
-3	し	為る	AUX	_	_	0	root	_	SpaceAfter=No
+3	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -5946,7 +5946,7 @@
 # text = パパ何してるの?
 1	パパ	パパ	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 2	何	何	PRON	_	_	3	obj	_	SpaceAfter=No
-3	し	為る	AUX	_	_	0	root	_	SpaceAfter=No
+3	し	為る	VERB	_	_	0	root	_	SpaceAfter=No
 4	てる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -6046,7 +6046,7 @@
 # text = パパピアノ弾きたい。
 1	パパ	パパ	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 2	ピアノ	ピアノ	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	弾き	弾き	VERB	_	_	0	root	_	SpaceAfter=No
+3	弾き	弾く	VERB	_	_	0	root	_	SpaceAfter=No
 4	たい	たい	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -6054,23 +6054,23 @@
 # text = ママピアノ弾きたい。
 1	ママ	ママ	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 2	ピアノ	ピアノ	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	弾き	弾き	VERB	_	_	0	root	_	SpaceAfter=No
+3	弾き	弾く	VERB	_	_	0	root	_	SpaceAfter=No
 4	たい	たい	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-634
 # text = 僕ピアノ弾きたい。
-1	僕	僕	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+1	僕	僕	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	ピアノ	ピアノ	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	弾き	弾き	VERB	_	_	0	root	_	SpaceAfter=No
+3	弾き	弾く	VERB	_	_	0	root	_	SpaceAfter=No
 4	たい	たい	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = NSUBJ_OBJ-635
 # text = あたしピアノ弾きたい。
-1	あたし	あたし	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+1	あたし	あたし	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	ピアノ	ピアノ	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	弾き	弾き	VERB	_	_	0	root	_	SpaceAfter=No
+3	弾き	弾く	VERB	_	_	0	root	_	SpaceAfter=No
 4	たい	たい	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -11231,7 +11231,7 @@
 # text = タコさん泳いでるわ。
 1	タコ	タコ	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	泳い	泳く	VERB	_	_	0	root	_	SpaceAfter=No
+3	泳い	泳ぐ	VERB	_	_	0	root	_	SpaceAfter=No
 4	でる	てる	AUX	_	_	3	aux	_	SpaceAfter=No
 5	わ	わ	PART	_	_	3	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -12163,7 +12163,7 @@
 # text = 茉莉さん転んだ。
 1	茉莉	茉莉	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	転ん	転む	VERB	_	_	0	root	_	SpaceAfter=No
+3	転ん	転ぶ	VERB	_	_	0	root	_	SpaceAfter=No
 4	だ	た	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -12327,8 +12327,8 @@
 
 # sent_id = OnlyNSUBJ-260
 # text = 扇風機ある?
-1	扇風	扇	NOUN	_	_	2	compound	_	SpaceAfter=No
-2	機	風機	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+1	扇風	扇風	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	機	機	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 3	ある	有る	VERB	_	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -12433,7 +12433,7 @@
 1	もう	もう	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	茉莉	茉莉	PROPN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	塗っ	塗う	VERB	_	_	0	root	_	SpaceAfter=No
+4	塗っ	塗る	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 6	から	から	SCONJ	_	_	4	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -12528,7 +12528,7 @@
 # sent_id = OnlyNSUBJ-286
 # text = シーシー行った。
 1	シーシー	シーシー	NOUN	_	_	2	obl	_	SpaceAfter=No
-2	行っ	行う	VERB	_	_	0	root	_	SpaceAfter=No
+2	行っ	行く	VERB	_	_	0	root	_	SpaceAfter=No
 3	た	た	AUX	_	_	2	aux	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
@@ -12567,7 +12567,7 @@
 # sent_id = OnlyNSUBJ-291
 # text = あっち行ったよ。
 1	あっち	彼方	PRON	_	_	2	obl	_	SpaceAfter=No
-2	行っ	行う	VERB	_	_	0	root	_	SpaceAfter=No
+2	行っ	行く	VERB	_	_	0	root	_	SpaceAfter=No
 3	た	た	AUX	_	_	2	aux	_	SpaceAfter=No
 4	よ	よ	PART	_	_	2	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -13633,7 +13633,7 @@
 4	二	二	NUM	_	_	5	nummod	_	SpaceAfter=No
 5	階	階	NOUN	_	_	7	obl	_	SpaceAfter=No
 6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
-7	行っ	行う	VERB	_	_	0	root	_	SpaceAfter=No
+7	行っ	行く	VERB	_	_	0	root	_	SpaceAfter=No
 8	た	た	AUX	_	_	7	aux	_	SpaceAfter=No
 9	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
@@ -13645,7 +13645,7 @@
 4	二	二	NUM	_	_	5	nummod	_	SpaceAfter=No
 5	階	階	NOUN	_	_	7	obl	_	SpaceAfter=No
 6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
-7	行っ	行う	VERB	_	_	0	root	_	SpaceAfter=No
+7	行っ	行く	VERB	_	_	0	root	_	SpaceAfter=No
 8	た	た	AUX	_	_	7	aux	_	SpaceAfter=No
 9	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
@@ -13657,7 +13657,7 @@
 4	二	二	NUM	_	_	5	nummod	_	SpaceAfter=No
 5	階	階	NOUN	_	_	7	obl	_	SpaceAfter=No
 6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
-7	行っ	行う	VERB	_	_	0	root	_	SpaceAfter=No
+7	行っ	行く	VERB	_	_	0	root	_	SpaceAfter=No
 8	た	た	AUX	_	_	7	aux	_	SpaceAfter=No
 9	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
@@ -13669,7 +13669,7 @@
 4	二	二	NUM	_	_	5	nummod	_	SpaceAfter=No
 5	階	階	NOUN	_	_	7	obl	_	SpaceAfter=No
 6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
-7	行っ	行う	VERB	_	_	0	root	_	SpaceAfter=No
+7	行っ	行く	VERB	_	_	0	root	_	SpaceAfter=No
 8	た	た	AUX	_	_	7	aux	_	SpaceAfter=No
 9	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
@@ -18380,7 +18380,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
-5	これ	指	NOUN	_	_	6	nsubj	_	SpaceAfter=No
+5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	痛い	痛い	ADJ	_	_	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -18566,7 +18566,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
-5	これ	指	NOUN	_	_	6	nsubj	_	SpaceAfter=No
+5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	痛い	痛い	ADJ	_	_	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -18752,7 +18752,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
-5	これ	指	NOUN	_	_	6	nsubj	_	SpaceAfter=No
+5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	痛い	痛い	ADJ	_	_	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -19016,7 +19016,7 @@
 1	今日	今日	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
 3	天気	天気	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	いい	悪い	ADJ	_	_	0	root	_	SpaceAfter=No
+4	いい	良い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	ね	ね	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -19034,7 +19034,7 @@
 1	今日	今日	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	天気	天気	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	いい	悪い	ADJ	_	_	0	root	_	SpaceAfter=No
+4	いい	良い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	ね	ね	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -19052,7 +19052,7 @@
 1	今日	今日	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	天気	天気	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	いい	悪い	ADJ	_	_	0	root	_	SpaceAfter=No
+4	いい	良い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	ね	ね	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -19219,7 +19219,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
-5	ナス	那須	NOUN	_	_	6	obj	_	SpaceAfter=No
+5	ナス	茄子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	6	mark	_	SpaceAfter=No
@@ -19231,7 +19231,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
-5	ナス	那須	NOUN	_	_	6	obj	_	SpaceAfter=No
+5	ナス	茄子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	6	mark	_	SpaceAfter=No
@@ -19242,7 +19242,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
-4	ナス	那須	NOUN	_	_	5	obj	_	SpaceAfter=No
+4	ナス	茄子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 6	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
@@ -19253,7 +19253,7 @@
 1	トミト	トミト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 3	は	は	ADP	_	_	2	case	_	SpaceAfter=No
-4	ナス	那須	NOUN	_	_	5	obj	_	SpaceAfter=No
+4	ナス	茄子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 6	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
@@ -19263,7 +19263,7 @@
 # text = 僕はナス食べたの。
 1	僕	僕	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
-3	ナス	那須	NOUN	_	_	4	obj	_	SpaceAfter=No
+3	ナス	茄子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
@@ -19273,7 +19273,7 @@
 # text = あなたはナス食べたの。
 1	あなた	貴方	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
-3	ナス	那須	NOUN	_	_	4	obj	_	SpaceAfter=No
+3	ナス	茄子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
@@ -19417,7 +19417,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
-5	ナス	那須	NOUN	_	_	6	obj	_	SpaceAfter=No
+5	ナス	茄子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	6	mark	_	SpaceAfter=No
@@ -19429,7 +19429,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
-5	ナス	那須	NOUN	_	_	6	obj	_	SpaceAfter=No
+5	ナス	茄子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	6	mark	_	SpaceAfter=No
@@ -19440,7 +19440,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
-4	ナス	那須	NOUN	_	_	5	obj	_	SpaceAfter=No
+4	ナス	茄子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 6	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
@@ -19451,7 +19451,7 @@
 1	トミト	トミト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 3	も	も	ADP	_	_	2	case	_	SpaceAfter=No
-4	ナス	那須	NOUN	_	_	5	obj	_	SpaceAfter=No
+4	ナス	茄子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 6	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
@@ -19461,7 +19461,7 @@
 # text = 僕もナス食べたの。
 1	僕	僕	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
-3	ナス	那須	NOUN	_	_	4	obj	_	SpaceAfter=No
+3	ナス	茄子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
@@ -19471,7 +19471,7 @@
 # text = あなたもナス食べたの。
 1	あなた	貴方	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
-3	ナス	那須	NOUN	_	_	4	obj	_	SpaceAfter=No
+3	ナス	茄子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
@@ -19526,7 +19526,7 @@
 # sent_id = OuterNSUBJ-627
 # text = 僕もこれ食べたの。
 1	僕	僕	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
-2	も	は	ADP	_	_	1	case	_	SpaceAfter=No
+2	も	も	ADP	_	_	1	case	_	SpaceAfter=No
 3	これ	此れ	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
@@ -19615,7 +19615,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
-5	ナス	那須	NOUN	_	_	6	obj	_	SpaceAfter=No
+5	ナス	茄子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	6	mark	_	SpaceAfter=No
@@ -19627,7 +19627,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
-5	ナス	那須	NOUN	_	_	6	obj	_	SpaceAfter=No
+5	ナス	茄子	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
 8	の	の	PART	_	_	6	mark	_	SpaceAfter=No
@@ -19638,7 +19638,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
-4	ナス	那須	NOUN	_	_	5	obj	_	SpaceAfter=No
+4	ナス	茄子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 6	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
@@ -19649,7 +19649,7 @@
 1	トミト	トミト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 3	って	って	ADP	_	_	2	case	_	SpaceAfter=No
-4	ナス	那須	NOUN	_	_	5	obj	_	SpaceAfter=No
+4	ナス	茄子	NOUN	_	_	5	obj	_	SpaceAfter=No
 5	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 6	た	た	AUX	_	_	5	aux	_	SpaceAfter=No
 7	の	の	PART	_	_	5	mark	_	SpaceAfter=No
@@ -19659,7 +19659,7 @@
 # text = 僕ってナス食べたの。
 1	僕	僕	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
-3	ナス	那須	NOUN	_	_	4	obj	_	SpaceAfter=No
+3	ナス	茄子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
@@ -19669,7 +19669,7 @@
 # text = あなたってナス食べたの。
 1	あなた	貴方	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
 2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
-3	ナス	那須	NOUN	_	_	4	obj	_	SpaceAfter=No
+3	ナス	茄子	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
 6	の	の	PART	_	_	4	mark	_	SpaceAfter=No
@@ -19724,7 +19724,7 @@
 # sent_id = OuterNSUBJ-645
 # text = 僕ってこれ食べたの。
 1	僕	僕	PRON	_	_	4	nsubj:outer	_	SpaceAfter=No
-2	って	は	ADP	_	_	1	case	_	SpaceAfter=No
+2	って	って	ADP	_	_	1	case	_	SpaceAfter=No
 3	これ	此れ	PRON	_	_	4	obj	_	SpaceAfter=No
 4	食べ	食べる	VERB	_	_	0	root	_	SpaceAfter=No
 5	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
@@ -19772,7 +19772,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -19808,7 +19808,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -19844,7 +19844,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -19880,7 +19880,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	は	は	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -19916,7 +19916,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -19952,7 +19952,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -19988,7 +19988,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -20024,7 +20024,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	も	も	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -20060,7 +20060,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -20096,7 +20096,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -20132,7 +20132,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	何	何	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -20168,7 +20168,7 @@
 3	さん	さん	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No
 4	って	って	ADP	_	_	3	case	_	SpaceAfter=No
 5	これ	此れ	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	好き	大好き	ADJ	_	_	0	root	_	SpaceAfter=No
+6	好き	好き	ADJ	_	_	0	root	_	SpaceAfter=No
 7	か	か	PART	_	_	6	mark	_	SpaceAfter=No
 8	な	な	PART	_	_	6	mark	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -21387,7 +21387,7 @@
 # sent_id = OnlyOBJ-17
 # text = 貨車引っ張ってるから。
 1	貨車	貨車	NOUN	_	_	2	obj	_	SpaceAfter=No
-2	引っ張っ	引く	VERB	_	_	0	root	_	SpaceAfter=No
+2	引っ張っ	引っ張る	VERB	_	_	0	root	_	SpaceAfter=No
 3	てる	てる	AUX	_	_	2	aux	_	SpaceAfter=No
 4	から	から	SCONJ	_	_	2	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -22213,7 +22213,7 @@
 # text = お手洗わない。
 1	お	御	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	手	手	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	洗わ	洗わる	VERB	_	_	0	root	_	SpaceAfter=No
+3	洗わ	洗う	VERB	_	_	0	root	_	SpaceAfter=No
 4	ない	ない	AUX	_	_	3	aux	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -22465,7 +22465,7 @@
 # text = お薬塗って!
 1	お	御	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	薬	薬	NOUN	_	_	3	obj	_	SpaceAfter=No
-3	塗っ	塗う	VERB	_	_	0	root	_	SpaceAfter=No
+3	塗っ	塗る	VERB	_	_	0	root	_	SpaceAfter=No
 4	て	て	SCONJ	_	_	3	mark	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
