@@ -1068,7 +1068,7 @@
 1	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-4	白い	白い	ADJ	_	_	3	acl	_	SpaceAfter=No
+4	白い	白い	ADJ	_	_	5	acl	_	SpaceAfter=No
 5	クリーム	クリーム	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	作っ	作る	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
@@ -1079,7 +1079,7 @@
 1	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-4	白い	白い	ADJ	_	_	3	acl	_	SpaceAfter=No
+4	白い	白い	ADJ	_	_	5	acl	_	SpaceAfter=No
 5	クリーム	クリーム	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	作っ	作る	VERB	_	_	0	root	_	SpaceAfter=No
 7	た	た	AUX	_	_	6	aux	_	SpaceAfter=No
@@ -1827,7 +1827,7 @@
 
 # sent_id = NSUBJ_OBJ-188
 # text = アサト君本持ってないね。
-1	アサト	アサト	PROPN	_	_	4	compound	_	SpaceAfter=No
+1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	本	本	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
@@ -1838,7 +1838,7 @@
 
 # sent_id = NSUBJ_OBJ-189
 # text = 歩美さん本持ってないね。
-1	歩美	歩美	PROPN	_	_	4	compound	_	SpaceAfter=No
+1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	本	本	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	持っ	持つ	VERB	_	_	0	root	_	SpaceAfter=No
@@ -2420,7 +2420,7 @@
 
 # sent_id = NSUBJ_OBJ-248
 # text = ママプーさん見た。
-1	ママ	ママ	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+1	ママ	ママ	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 2	プー	プー	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	見	見る	VERB	_	_	0	root	_	SpaceAfter=No
@@ -2429,7 +2429,7 @@
 
 # sent_id = NSUBJ_OBJ-249
 # text = パパプーさん見た。
-1	パパ	パパ	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+1	パパ	パパ	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 2	プー	プー	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	見	見る	VERB	_	_	0	root	_	SpaceAfter=No
@@ -2438,7 +2438,7 @@
 
 # sent_id = NSUBJ_OBJ-250
 # text = 僕プーさん見た。
-1	僕	僕	PRON	_	_	3	nsubj	_	SpaceAfter=No
+1	僕	僕	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	プー	プー	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	見	見る	VERB	_	_	0	root	_	SpaceAfter=No
@@ -2447,7 +2447,7 @@
 
 # sent_id = NSUBJ_OBJ-251
 # text = あたしプーさん見た。
-1	あたし	あたし	PRON	_	_	3	nsubj	_	SpaceAfter=No
+1	あたし	あたし	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	プー	プー	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	見	見る	VERB	_	_	0	root	_	SpaceAfter=No
@@ -3703,7 +3703,7 @@
 1	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-4	お	御	NOUN	_	_	6	compound	_	SpaceAfter=No
+4	お	御	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	湯	湯	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -3713,7 +3713,7 @@
 1	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-4	お	御	NOUN	_	_	6	compound	_	SpaceAfter=No
+4	お	御	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	湯	湯	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -3739,7 +3739,7 @@
 # sent_id = NSUBJ_OBJ-390
 # text = 僕お湯作る。
 1	僕	僕	PRON	_	_	4	nsubj	_	SpaceAfter=No
-2	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
+2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	湯	湯	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -3747,7 +3747,7 @@
 # sent_id = NSUBJ_OBJ-391
 # text = あたしお湯作る。
 1	あたし	あたし	PRON	_	_	4	nsubj	_	SpaceAfter=No
-2	お	御	NOUN	_	_	4	compound	_	SpaceAfter=No
+2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	湯	湯	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -3757,7 +3757,7 @@
 1	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-4	味噌	味噌	NOUN	_	_	6	compound	_	SpaceAfter=No
+4	味噌	味噌	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	汁	汁	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -3767,7 +3767,7 @@
 1	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-4	味噌	味噌	NOUN	_	_	6	compound	_	SpaceAfter=No
+4	味噌	味噌	NOUN	_	_	5	compound	_	SpaceAfter=No
 5	汁	汁	NOUN	_	_	6	obj	_	SpaceAfter=No
 6	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -3793,7 +3793,7 @@
 # sent_id = NSUBJ_OBJ-396
 # text = 僕味噌汁作る。
 1	僕	僕	PRON	_	_	4	nsubj	_	SpaceAfter=No
-2	味噌	味噌	NOUN	_	_	4	compound	_	SpaceAfter=No
+2	味噌	味噌	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	汁	汁	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -3801,7 +3801,7 @@
 # sent_id = NSUBJ_OBJ-397
 # text = あたし味噌汁作る。
 1	あたし	あたし	PRON	_	_	4	nsubj	_	SpaceAfter=No
-2	味噌	味噌	NOUN	_	_	4	compound	_	SpaceAfter=No
+2	味噌	味噌	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	汁	汁	NOUN	_	_	4	obj	_	SpaceAfter=No
 4	作る	作る	VERB	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -4936,7 +4936,7 @@
 
 # sent_id = NSUBJ_OBJ-515
 # text = アサト君ポテトサラダ作った。
-1	アサト	アサト	PROPN	_	_	4	compound	_	SpaceAfter=No
+1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 3	ポテト	ポテト	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	サラダ	サラダ	NOUN	_	_	5	obj	_	SpaceAfter=No
@@ -4953,7 +4953,7 @@
 5	触ら	触る	VERB	_	_	0	root	_	SpaceAfter=No
 6	ない	ない	AUX	_	_	5	aux	_	SpaceAfter=No
 7	ん	の	SCONJ	_	_	5	mark	_	SpaceAfter=No
-8	だ	だ	AUX	_	_	5	fixed	_	SpaceAfter=No
+8	だ	だ	AUX	_	_	7	fixed	_	SpaceAfter=No
 9	もん	物	PART	_	_	5	mark	_	SpaceAfter=No
 10	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -4966,7 +4966,7 @@
 5	触ら	触る	VERB	_	_	0	root	_	SpaceAfter=No
 6	ない	ない	AUX	_	_	5	aux	_	SpaceAfter=No
 7	ん	の	SCONJ	_	_	5	mark	_	SpaceAfter=No
-8	だ	だ	AUX	_	_	5	fixed	_	SpaceAfter=No
+8	だ	だ	AUX	_	_	7	fixed	_	SpaceAfter=No
 9	もん	物	PART	_	_	5	mark	_	SpaceAfter=No
 10	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -5025,7 +5025,7 @@
 5	触ら	触る	VERB	_	_	0	root	_	SpaceAfter=No
 6	ない	ない	AUX	_	_	5	aux	_	SpaceAfter=No
 7	ん	の	SCONJ	_	_	5	mark	_	SpaceAfter=No
-8	だ	だ	AUX	_	_	5	fixed	_	SpaceAfter=No
+8	だ	だ	AUX	_	_	7	fixed	_	SpaceAfter=No
 9	もん	物	PART	_	_	5	mark	_	SpaceAfter=No
 10	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -5038,7 +5038,7 @@
 5	触ら	触る	VERB	_	_	0	root	_	SpaceAfter=No
 6	ない	ない	AUX	_	_	5	aux	_	SpaceAfter=No
 7	ん	の	SCONJ	_	_	5	mark	_	SpaceAfter=No
-8	だ	だ	AUX	_	_	5	fixed	_	SpaceAfter=No
+8	だ	だ	AUX	_	_	7	fixed	_	SpaceAfter=No
 9	もん	物	PART	_	_	5	mark	_	SpaceAfter=No
 10	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -5985,7 +5985,7 @@
 
 # sent_id = NSUBJ_OBJ-627
 # text = 僕ピーマン全部食べる。
-1	僕	僕	PRON	_	_	3	nsubj	_	SpaceAfter=No
+1	僕	僕	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	ピーマン	ピーマン	NOUN	_	_	4	obj	_	SpaceAfter=No
 3	全部	全部	ADV	_	_	4	advmod	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
@@ -5993,7 +5993,7 @@
 
 # sent_id = NSUBJ_OBJ-628
 # text = あたしピーマン全部食べる。
-1	あたし	あたし	PRON	_	_	3	nsubj	_	SpaceAfter=No
+1	あたし	あたし	PRON	_	_	4	nsubj	_	SpaceAfter=No
 2	ピーマン	ピーマン	NOUN	_	_	4	obj	_	SpaceAfter=No
 3	全部	全部	ADV	_	_	4	advmod	_	SpaceAfter=No
 4	食べる	食べる	VERB	_	_	0	root	_	SpaceAfter=No
@@ -6483,7 +6483,7 @@
 
 # sent_id = NSUBJ_OBJ-676
 # text = アヒルお風呂入ってる。
-1	アヒル	アヒル	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+1	アヒル	アヒル	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 2	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	風呂	風呂	NOUN	_	_	4	obl	_	SpaceAfter=No
 4	入っ	入る	VERB	_	_	0	root	_	SpaceAfter=No
@@ -10285,7 +10285,7 @@
 
 # sent_id = OnlyNSUBJ-9
 # text = お風呂大きい。
-1	お	御	NOUN	_	_	3	compound	_	SpaceAfter=No
+1	お	御	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	風呂	風呂	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 3	大きい	大きい	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -10539,7 +10539,7 @@
 # sent_id = OnlyNSUBJ-41
 # text = 歩美さんNさんと話したの。
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
-2	さん	さん	NOUN	_	_	4	nsubj	_	SpaceAfter=No
+2	さん	さん	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 3	N	N	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	さん	さん	NOUN	_	_	6	obl	_	SpaceAfter=No
 5	と	と	ADP	_	_	4	case	_	SpaceAfter=No
@@ -11217,7 +11217,7 @@
 
 # sent_id = OnlyNSUBJ-127
 # text = 飛行機飛ぶよ。
-1	飛行	飛行	NOUN	_	_	3	compound	_	SpaceAfter=No
+1	飛行	飛行	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	機	機	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 3	飛ぶ	飛ぶ	VERB	_	_	0	root	_	SpaceAfter=No
 4	よ	よ	PART	_	_	3	mark	_	SpaceAfter=No
@@ -12179,7 +12179,7 @@
 
 # sent_id = OnlyNSUBJ-252
 # text = 茉莉さんいま二歳。
-1	茉莉	茉莉	PROPN	_	_	3	compound	_	SpaceAfter=No
+1	茉莉	茉莉	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 3	いま	今	ADV	_	_	5	advmod	_	SpaceAfter=No
 4	二	二	NUM	_	_	5	nummod	_	SpaceAfter=No
@@ -14713,8 +14713,8 @@
 # sent_id = OuterNSUBJ-118
 # text = うん新幹線電池ないよ。
 1	うん	うん	INTJ	_	_	5	discourse	_	SpaceAfter=No
-2	新	新	NOUN	_	_	4	compound	_	SpaceAfter=No
-3	幹線	幹線	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
+2	新	新	NOUN	_	_	3	compound	_	SpaceAfter=No
+3	幹線	幹線	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	電池	電池	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
 6	よ	よ	PART	_	_	5	mark	_	SpaceAfter=No
@@ -14723,8 +14723,8 @@
 # sent_id = OuterNSUBJ-119
 # text = うん新幹線電池入ってないよ。
 1	うん	うん	INTJ	_	_	5	discourse	_	SpaceAfter=No
-2	新	新	NOUN	_	_	4	compound	_	SpaceAfter=No
-3	幹線	幹線	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
+2	新	新	NOUN	_	_	3	compound	_	SpaceAfter=No
+3	幹線	幹線	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	電池	電池	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 5	入っ	入る	VERB	_	_	0	root	_	SpaceAfter=No
 6	て	てる	AUX	_	_	5	aux	_	SpaceAfter=No
@@ -14735,8 +14735,8 @@
 # sent_id = OuterNSUBJ-120
 # text = うん絵本電池ないよ。
 1	うん	うん	INTJ	_	_	5	discourse	_	SpaceAfter=No
-2	絵	絵	NOUN	_	_	4	compound	_	SpaceAfter=No
-3	本	本	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
+2	絵	絵	NOUN	_	_	3	compound	_	SpaceAfter=No
+3	本	本	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	電池	電池	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
 6	よ	よ	PART	_	_	5	mark	_	SpaceAfter=No
@@ -14745,8 +14745,8 @@
 # sent_id = OuterNSUBJ-121
 # text = うん絵本電池入ってないよ。
 1	うん	うん	INTJ	_	_	5	discourse	_	SpaceAfter=No
-2	絵	絵	NOUN	_	_	4	compound	_	SpaceAfter=No
-3	本	本	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
+2	絵	絵	NOUN	_	_	3	compound	_	SpaceAfter=No
+3	本	本	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	電池	電池	NOUN	_	_	5	nsubj	_	SpaceAfter=No
 5	入っ	入る	VERB	_	_	0	root	_	SpaceAfter=No
 6	て	てる	AUX	_	_	5	aux	_	SpaceAfter=No
@@ -21252,7 +21252,7 @@
 
 # sent_id = OnlyOBJ-15
 # text = 黄色い電車見てて!
-1	黄色い	黄色い	ADJ	_	_	2	advcl	_	SpaceAfter=No
+1	黄色い	黄色い	ADJ	_	_	2	acl	_	SpaceAfter=No
 2	電車	電車	NOUN	_	_	3	obj	_	SpaceAfter=No
 3	見	見る	VERB	_	_	0	root	_	SpaceAfter=No
 4	て	てる	AUX	_	_	3	aux	_	SpaceAfter=No
@@ -22481,7 +22481,7 @@
 1	団扇	団扇	NOUN	_	_	2	obj	_	SpaceAfter=No
 2	使う	使う	VERB	_	_	0	root	_	SpaceAfter=No
 3	ん	の	SCONJ	_	_	2	mark	_	SpaceAfter=No
-4	だ	だ	AUX	_	_	2	fixed	_	SpaceAfter=No
+4	だ	だ	AUX	_	_	3	fixed	_	SpaceAfter=No
 5	よ	よ	PART	_	_	2	mark	_	SpaceAfter=No
 6	ね	ね	PART	_	_	2	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
