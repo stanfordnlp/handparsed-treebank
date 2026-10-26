@@ -10757,7 +10757,7 @@
 # sent_id = OnlyNSUBJ-58
 # text = ポケットないよ。
 1	ポケット	ポケット	NOUN	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	よ	よ	PART	_	_	2	mark	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
@@ -10820,7 +10820,7 @@
 # text = 砂糖パンなかったよ。
 1	砂糖	砂糖	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	パン	パン	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	なかっ	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	なかっ	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
 5	よ	よ	PART	_	_	3	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -10852,7 +10852,7 @@
 # sent_id = OnlyNSUBJ-70
 # text = 玉子ないよ。
 1	玉子	玉子	NOUN	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	よ	よ	PART	_	_	2	mark	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
@@ -10876,7 +10876,7 @@
 # sent_id = OnlyNSUBJ-73
 # text = 蜂蜜ない。
 1	蜂蜜	蜂蜜	NOUN	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-74
@@ -10901,7 +10901,7 @@
 # text = お団子ないよ。
 1	お	御	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	団子	団子	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	よ	よ	PART	_	_	3	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -11160,7 +11160,7 @@
 # sent_id = OnlyNSUBJ-109
 # text = 梯子ないね?
 1	梯子	梯子	NOUN	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	ね	ね	PART	_	_	2	mark	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
@@ -11718,7 +11718,7 @@
 2	本	本	NOUN	_	_	4	nmod	_	SpaceAfter=No
 3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
 4	プレゼント	プレゼント	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-181
@@ -11978,7 +11978,7 @@
 # sent_id = OnlyNSUBJ-214
 # text = ミカンないの。
 1	ミカン	ミカン	NOUN	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	の	の	PART	_	_	2	mark	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
@@ -12071,7 +12071,7 @@
 # sent_id = OnlyNSUBJ-227
 # text = 熊ない?
 1	熊	熊	NOUN	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-228
@@ -12342,7 +12342,7 @@
 # sent_id = OnlyNSUBJ-262
 # text = 牛乳ないね。
 1	牛乳	牛乳	NOUN	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	ね	ね	PART	_	_	2	mark	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
@@ -12708,7 +12708,7 @@
 # sent_id = OnlyNSUBJ-310
 # text = これない。
 1	これ	此れ	PRON	_	_	2	nsubj	_	SpaceAfter=No
-2	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+2	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 3	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # sent_id = OnlyNSUBJ-311
@@ -13729,7 +13729,7 @@
 1	ガソリン	ガソリン	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	スタンド	スタンド	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	しか	しか	ADP	_	_	2	case	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	です	です	AUX	_	_	4	aux	_	SpaceAfter=No
 6	よ	よ	PART	_	_	4	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -13739,7 +13739,7 @@
 1	新	新	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	幹線	幹線	NOUN	_	_	4	nsubj	_	SpaceAfter=No
 3	しか	しか	ADP	_	_	2	case	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	です	です	AUX	_	_	4	aux	_	SpaceAfter=No
 6	よ	よ	PART	_	_	4	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -13748,7 +13748,7 @@
 # text = こっちしかないですよ。
 1	こっち	此方	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	しか	しか	ADP	_	_	3	case	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	です	です	AUX	_	_	3	aux	_	SpaceAfter=No
 5	よ	よ	PART	_	_	3	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -13757,7 +13757,7 @@
 # text = これしかないですよ。
 1	これ	此れ	PRON	_	_	3	nsubj	_	SpaceAfter=No
 2	しか	しか	ADP	_	_	3	case	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	です	です	AUX	_	_	3	aux	_	SpaceAfter=No
 5	よ	よ	PART	_	_	3	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -13901,7 +13901,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	関係	関係	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-14
@@ -13910,7 +13910,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	関係	関係	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-15
@@ -13918,7 +13918,7 @@
 1	ウサギ	兎	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	関係	関係	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-16
@@ -13926,7 +13926,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	関係	関係	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-17
@@ -13934,7 +13934,7 @@
 1	アキ	アキ	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	関係	関係	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-18
@@ -13942,21 +13942,21 @@
 1	ウサギ	兎	NOUN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	関係	関係	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-19
 # text = 僕関係ない。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	関係	関係	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-20
 # text = あたし関係ない。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	関係	関係	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-21
@@ -14073,7 +14073,7 @@
 2	婆	婆	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	スプーン	スプーン	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-34
@@ -14082,7 +14082,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	スプーン	スプーン	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-35
@@ -14090,7 +14090,7 @@
 1	茉莉	茉莉	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	スプーン	スプーン	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-36
@@ -14098,21 +14098,21 @@
 1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	スプーン	スプーン	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-37
 # text = 僕スプーンない。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	スプーン	スプーン	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-38
 # text = あたしスプーンない。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	スプーン	スプーン	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-39
@@ -14121,7 +14121,7 @@
 2	婆	婆	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	時間	時間	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-40
@@ -14130,7 +14130,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	時間	時間	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-41
@@ -14138,7 +14138,7 @@
 1	茉莉	茉莉	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	時間	時間	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-42
@@ -14146,21 +14146,21 @@
 1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	時間	時間	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-43
 # text = 僕時間ない。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	時間	時間	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-44
 # text = あたし時間ない。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	時間	時間	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-45
@@ -14169,7 +14169,7 @@
 2	婆	婆	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	本	本	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-46
@@ -14178,7 +14178,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	本	本	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-47
@@ -14186,7 +14186,7 @@
 1	茉莉	茉莉	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	本	本	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-48
@@ -14194,28 +14194,28 @@
 1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	本	本	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-49
 # text = 僕本ない。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	本	本	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-50
 # text = あたし本ない。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	本	本	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-51
 # text = パパ本ない。
 1	パパ	パパ	NOUN	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	本	本	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-52
@@ -14224,7 +14224,7 @@
 2	婆	婆	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	携帯	携帯	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-53
@@ -14233,7 +14233,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	携帯	携帯	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-54
@@ -14241,7 +14241,7 @@
 1	茉莉	茉莉	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	携帯	携帯	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-55
@@ -14249,28 +14249,28 @@
 1	アサト	アサト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	携帯	携帯	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-56
 # text = 僕携帯ない。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	携帯	携帯	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-57
 # text = あたし携帯ない。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	携帯	携帯	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-58
 # text = パパ携帯ない。
 1	パパ	パパ	NOUN	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	携帯	携帯	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 # sent_id = OuterNSUBJ-59
@@ -14798,7 +14798,7 @@
 2	新	新	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	幹線	幹線	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	電池	電池	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	よ	よ	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -14820,7 +14820,7 @@
 2	絵	絵	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	本	本	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	電池	電池	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	よ	よ	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -16004,7 +16004,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	虫歯	虫歯	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -16014,7 +16014,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	虫歯	虫歯	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -16023,7 +16023,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	虫歯	虫歯	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -16032,7 +16032,7 @@
 1	トミト	トミト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	虫歯	虫歯	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -16040,7 +16040,7 @@
 # text = 僕虫歯ないの。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	虫歯	虫歯	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -16048,7 +16048,7 @@
 # text = あたし虫歯ないの。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	虫歯	虫歯	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -16058,7 +16058,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	時間	時間	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -16068,7 +16068,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	時間	時間	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -16077,7 +16077,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	時間	時間	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -16086,7 +16086,7 @@
 1	トミト	トミト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	時間	時間	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -16094,7 +16094,7 @@
 # text = 僕時間ないの。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	時間	時間	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -16102,7 +16102,7 @@
 # text = あたし時間ないの。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	時間	時間	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -16112,7 +16112,7 @@
 2	父	父	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	ご飯	御飯	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -16122,7 +16122,7 @@
 2	母	母	NOUN	_	_	3	compound	_	SpaceAfter=No
 3	さん	さん	NOUN	_	_	5	nsubj:outer	_	SpaceAfter=No
 4	ご飯	御飯	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-5	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+5	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 6	の	の	PART	_	_	5	mark	_	SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
@@ -16131,7 +16131,7 @@
 1	歩美	歩美	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	さん	さん	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	ご飯	御飯	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -16140,7 +16140,7 @@
 1	トミト	トミト	PROPN	_	_	2	compound	_	SpaceAfter=No
 2	君	君	NOUN	_	_	4	nsubj:outer	_	SpaceAfter=No
 3	ご飯	御飯	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-4	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+4	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 5	の	の	PART	_	_	4	mark	_	SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
@@ -16148,7 +16148,7 @@
 # text = 僕ご飯ないの。
 1	僕	僕	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	ご飯	御飯	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
@@ -16156,7 +16156,7 @@
 # text = あたしご飯ないの。
 1	あたし	あたし	PRON	_	_	3	nsubj:outer	_	SpaceAfter=No
 2	ご飯	御飯	NOUN	_	_	3	nsubj	_	SpaceAfter=No
-3	ない	ない	AUX	_	_	0	root	_	SpaceAfter=No
+3	ない	無い	ADJ	_	_	0	root	_	SpaceAfter=No
 4	の	の	PART	_	_	3	mark	_	SpaceAfter=No
 5	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
