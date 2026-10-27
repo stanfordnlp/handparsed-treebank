@@ -1,18 +1,18 @@
-# sent_id = initial-punct-q1
+# sent_id = initial-punct-train-q1
 # text = ¿Cómo estás?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Cómo	cómo	ADV	_	PronType=Int	3	advmod	_	_
 3	estás	estar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q2
+# sent_id = initial-punct-train-q2
 # text = ¿Dónde vives?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Dónde	dónde	ADV	_	PronType=Int	3	advmod	_	_
 3	vives	vivir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q3
+# sent_id = initial-punct-train-q3
 # text = ¿Qué hora es?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Int	4	det	_	_
@@ -20,7 +20,7 @@
 4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
 
-# sent_id = initial-punct-q4
+# sent_id = initial-punct-train-q4
 # text = ¿Cuántos años tienes?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
 2	Cuántos	cuánto	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Int	4	det	_	_
@@ -28,7 +28,7 @@
 4	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
 
-# sent_id = initial-punct-q5
+# sent_id = initial-punct-train-q5
 # text = ¿Por qué lloras?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
 2	Por	por	ADP	_	_	4	case	_	_
@@ -36,14 +36,14 @@
 4	lloras	llorar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
 
-# sent_id = initial-punct-q6
+# sent_id = initial-punct-train-q6
 # text = ¿Cuándo llegas?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Cuándo	cuándo	ADV	_	PronType=Int	3	advmod	_	_
 3	llegas	llegar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q7
+# sent_id = initial-punct-train-q7
 # text = ¿Quién es ese hombre?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Quién	quién	PRON	_	Number=Sing|PronType=Int	3	nsubj	_	_
@@ -52,14 +52,14 @@
 5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q8
+# sent_id = initial-punct-train-q8
 # text = ¿Tienes hambre?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	hambre	hambre	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
-# sent_id = initial-punct-q9
+# sent_id = initial-punct-train-q9
 # text = ¿Vienes a la fiesta?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Vienes	venir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -68,7 +68,7 @@
 5	fiesta	fiesta	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
-# sent_id = initial-punct-q10
+# sent_id = initial-punct-train-q10
 # text = ¿Puedes ayudarme?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Puedes	poder	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -77,7 +77,7 @@
 4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
-# sent_id = initial-punct-q11
+# sent_id = initial-punct-train-q11
 # text = ¿Dónde está el baño?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Dónde	dónde	ADV	_	PronType=Int	3	advmod	_	_
@@ -86,7 +86,7 @@
 5	baño	baño	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q12
+# sent_id = initial-punct-train-q12
 # text = ¿Cuál es tu nombre?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Cuál	cuál	PRON	_	Number=Sing|PronType=Int	3	nsubj	_	_
@@ -95,7 +95,7 @@
 5	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q13
+# sent_id = initial-punct-train-q13
 # text = ¿Te gusta el café?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
@@ -104,7 +104,7 @@
 5	café	café	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q14
+# sent_id = initial-punct-train-q14
 # text = ¿Qué quieres comer?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Qué	qué	PRON	_	Number=Sing|PronType=Int	3	obj	_	_
@@ -112,21 +112,21 @@
 4	comer	comer	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q15
+# sent_id = initial-punct-train-q15
 # text = ¿Sabes nadar?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Sabes	saber	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	nadar	nadar	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
-# sent_id = initial-punct-q16
+# sent_id = initial-punct-train-q16
 # text = ¿Adónde vas?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Adónde	adónde	ADV	_	PronType=Int	3	advmod	_	_
 3	vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q17
+# sent_id = initial-punct-train-q17
 # text = ¿Cuánto cuesta esto?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Cuánto	cuánto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Int	3	obl	_	_
@@ -134,48 +134,48 @@
 4	esto	esto	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
-# sent_id = initial-punct-q18
+# sent_id = initial-punct-train-q18
 # text = ¿Hablas inglés?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Hablas	hablar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
-# sent_id = initial-punct-q19
+# sent_id = initial-punct-train-q19
 # text = ¿Está lloviendo?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	lloviendo	llover	VERB	_	VerbForm=Ger	2	xcomp	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
-# sent_id = initial-punct-q20
+# sent_id = initial-punct-train-q20
 # text = ¿Necesitas algo?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Necesitas	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	algo	algo	PRON	_	Number=Sing|PronType=Ind	2	obj	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
-# sent_id = initial-punct-e1
+# sent_id = initial-punct-train-e1
 # text = ¡Qué bien!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	SpaceAfter=No
 2	Qué	qué	PRON	_	Number=Sing|PronType=Exc	3	nmod	_	_
 3	bien	bien	ADV	_	_	0	root	_	SpaceAfter=No
 4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
 
-# sent_id = initial-punct-e2
+# sent_id = initial-punct-train-e2
 # text = ¡Qué sorpresa!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	3	det	_	_
 3	sorpresa	sorpresa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
 
-# sent_id = initial-punct-e3
+# sent_id = initial-punct-train-e3
 # text = ¡Cuidado!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Cuidado	cuidado	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e4
+# sent_id = initial-punct-train-e4
 # text = ¡Vámonos!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2-3	Vámonos	_	_	_	_	_	_	_	SpaceAfter=No
@@ -183,20 +183,20 @@
 3	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e5
+# sent_id = initial-punct-train-e5
 # text = ¡Increíble!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Increíble	increíble	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e6
+# sent_id = initial-punct-train-e6
 # text = ¡Feliz cumpleaños!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	SpaceAfter=No
 2	Feliz	feliz	ADJ	_	Number=Sing	3	amod	_	_
 3	cumpleaños	cumpleaños	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
 
-# sent_id = initial-punct-e7
+# sent_id = initial-punct-train-e7
 # text = ¡Qué calor hace!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
@@ -204,14 +204,14 @@
 4	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
-# sent_id = initial-punct-e8
+# sent_id = initial-punct-train-e8
 # text = ¡Basta ya!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Basta	bastar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ya	ya	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e9
+# sent_id = initial-punct-train-e9
 # text = ¡Qué hermoso día!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
@@ -219,7 +219,7 @@
 4	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
-# sent_id = initial-punct-e10
+# sent_id = initial-punct-train-e10
 # text = ¡No puedo creerlo!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	SpaceAfter=No
 2	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
@@ -229,7 +229,7 @@
 5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
 
-# sent_id = initial-punct-e11
+# sent_id = initial-punct-train-e11
 # text = ¡Silencio por favor!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Silencio	silencio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -237,7 +237,7 @@
 4	favor	favor	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e12
+# sent_id = initial-punct-train-e12
 # text = ¡Qué buena idea!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
@@ -245,13 +245,13 @@
 4	idea	idea	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
-# sent_id = initial-punct-e13
+# sent_id = initial-punct-train-e13
 # text = ¡Socorro!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Socorro	socorro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e14
+# sent_id = initial-punct-train-e14
 # text = ¡Ten cuidado con el perro!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Ten	tener	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
@@ -261,7 +261,7 @@
 6	perro	perro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e15
+# sent_id = initial-punct-train-e15
 # text = ¡Qué rico está esto!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	SpaceAfter=No
 2	Qué	qué	PRON	_	Number=Sing|PronType=Exc	3	nmod	_	_
@@ -270,7 +270,7 @@
 5	esto	esto	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
 
-# sent_id = initial-punct-e16
+# sent_id = initial-punct-train-e16
 # text = ¡Bienvenidos a todos!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Bienvenidos	bienvenido	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
@@ -278,7 +278,7 @@
 4	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	2	obl	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e17
+# sent_id = initial-punct-train-e17
 # text = ¡Qué mala suerte!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
@@ -286,7 +286,7 @@
 4	suerte	suerte	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
-# sent_id = initial-punct-e18
+# sent_id = initial-punct-train-e18
 # text = ¡Vamos tú puedes!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Vamos	ir	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
@@ -294,7 +294,7 @@
 4	puedes	poder	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
-# sent_id = initial-punct-e19
+# sent_id = initial-punct-train-e19
 # text = ¡Estoy tan feliz!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -302,7 +302,7 @@
 4	feliz	feliz	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
-# sent_id = initial-punct-e20
+# sent_id = initial-punct-train-e20
 # text = ¡Qué frío hace hoy!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
