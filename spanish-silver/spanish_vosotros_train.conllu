@@ -1,0 +1,530 @@
+# sent_id = spanish-vosotros-train-001
+# text = Vosotros sois mis mejores amigos.
+1	Vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+2	sois	ser	AUX	vsip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	mis	mi	DET	dp1cps	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	mejores	mejor	ADJ	aq0cp0	Degree=Cmp|Number=Plur	5	amod	_	_
+5	amigos	amigo	NOUN	ncmp000	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+# sent_id = spanish-vosotros-train-002
+# text = ¿Vosotros vivís cerca de la estación?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	vivís	vivir	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cerca	cerca	ADV	rg	_	3	advmod	_	_
+5	de	de	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	estación	estación	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-003
+# text = Este regalo es para vosotros.
+1	Este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	regalo	regalo	NOUN	ncms000	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	para	para	ADP	sps00	_	5	case	_	_
+5	vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+# sent_id = spanish-vosotros-train-004
+# text = Vosotros tenéis razón en este asunto.
+1	Vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	tenéis	tener	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	razón	razón	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
+4	en	en	ADP	sps00	_	6	case	_	_
+5	este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	asunto	asunto	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-005
+# text = Confiamos en vosotros para organizar la fiesta.
+1	Confiamos	confiar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	sps00	_	3	case	_	_
+3	vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	_
+4	para	para	ADP	sps00	_	5	mark	_	_
+5	organizar	organizar	VERB	vmn0000	VerbForm=Inf	1	advcl	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	fiesta	fiesta	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-006
+# text = Vosotros llegasteis tarde otra vez.
+1	Vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	llegasteis	llegar	VERB	vmis2p0	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	tarde	tarde	ADV	rg	_	2	advmod	_	_
+4	otra	otro	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	vez	vez	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-007
+# text = Vosotros mismos lo dijisteis ayer.
+1	Vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+2	mismos	mismo	ADJ	aq0mp0	Gender=Masc|Number=Plur	1	amod	_	_
+3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	dijisteis	decir	VERB	vmis2p0	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ayer	ayer	ADV	rg	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# sent_id = spanish-vosotros-train-008
+# text = Hablaré con vosotros mañana por la mañana.
+1	Hablaré	hablar	VERB	vmif1s0	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	sps00	_	3	case	_	_
+3	vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+4	mañana	mañana	ADV	rg	_	1	advmod	_	_
+5	por	por	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mañana	mañana	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-009
+# text = ¿Sabéis vosotros dónde está la llave?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
+2	Sabéis	saber	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+4	dónde	dónde	ADV	pt000000	PronType=Int	5	advmod	_	_
+5	está	estar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	llave	llave	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-010
+# text = Vosotros os encargaréis de la comida.
+1	Vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+3	encargaréis	encargar	VERB	vmif2p0	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	comida	comida	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl:arg	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-011
+# text = Os lo explicaré a vosotros primero.
+1	Os	tú	PRON	pp2cp000	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	expl	_	_
+2	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	explicaré	explicar	VERB	vmif1s0	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	sps00	_	5	case	_	_
+5	vosotros	tú	PRON	pp2mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl:arg	_	_
+6	primero	primero	ADV	rg	_	3	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-012
+# text = Vosotras sois las ganadoras del concurso.
+1	Vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+2	sois	ser	AUX	vsip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	ganadoras	ganador	NOUN	ncfp000	Gender=Fem|Number=Plur	0	root	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	de	de	ADP	sps00	_	7	case	_	_
+6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	concurso	concurso	NOUN	ncms000	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# sent_id = spanish-vosotros-train-013
+# text = ¿Vosotras venís a la reunión de mañana?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	venís	venir	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	reunión	reunión	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
+7	de	de	ADP	sps00	_	8	case	_	_
+8	mañana	mañana	ADV	rg	_	6	advmod	_	SpaceAfter=No
+9	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-014
+# text = Vosotras cantasteis muy bien anoche.
+1	Vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	cantasteis	cantar	VERB	vmis2p0	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	muy	mucho	ADV	rg	_	4	advmod	_	_
+4	bien	bien	ADV	rg	_	2	advmod	_	_
+5	anoche	anoche	ADV	rg	_	2	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-015
+# text = Este mensaje es para vosotras.
+1	Este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	mensaje	mensaje	NOUN	ncms000	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	para	para	ADP	sps00	_	5	case	_	_
+5	vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+# sent_id = spanish-vosotros-train-016
+# text = Vosotras tenéis que decidir pronto.
+1	Vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	tenéis	tener	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	cs	_	4	mark	_	_
+4	decidir	decidir	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
+5	pronto	pronto	ADV	rg	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-017
+# text = Vosotras estáis invitadas a la boda.
+1	Vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	estáis	estar	AUX	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	invitadas	invitado	ADJ	aq0fpp	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
+4	a	a	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	boda	boda	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-018
+# text = Nosotros cocinamos y vosotras ponéis la mesa.
+1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	cocinamos	cocinar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	cc	_	5	cc	_	_
+4	vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+5	ponéis	poner	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mesa	mesa	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-019
+# text = ¿Vosotras conocéis a mi hermana?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	conocéis	conocer	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	sps00	_	6	case	_	_
+5	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermana	hermana	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+7	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-020
+# text = Ellas confían mucho en vosotras.
+1	Ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	confían	confiar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	rg	_	2	advmod	_	_
+4	en	en	ADP	sps00	_	5	case	_	_
+5	vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-021
+# text = Vosotras mismas lo veréis.
+1	Vosotras	tú	PRON	pp2fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+2	mismas	mismo	ADJ	aq0fp0	Gender=Fem|Number=Plur	1	amod	_	_
+3	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	veréis	ver	VERB	vmif2p0	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# sent_id = spanish-vosotros-train-022
+# text = Vuestro coche está aparcado en la calle.
+1	Vuestro	vuestro	DET	dp2msp	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	2	det	_	_
+2	coche	coche	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	está	estar	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	aparcado	aparcado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	en	en	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	calle	calle	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
+
+# sent_id = spanish-vosotros-train-023
+# text = ¿Dónde está vuestra casa?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Dónde	dónde	ADV	pt000000	PronType=Int	3	advmod	_	_
+3	está	estar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vuestra	vuestro	DET	dp2fsp	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
+6	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-024
+# text = Vuestros hijos juegan en el parque.
+1	Vuestros	vuestro	DET	dp2mpp	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	2	det	_	_
+2	hijos	hijo	NOUN	ncmp000	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	juegan	jugar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	sps00	_	6	case	_	_
+5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	parque	parque	NOUN	ncms000	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-025
+# text = Me gustan mucho vuestras ideas.
+1	Me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
+2	gustan	gustar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	rg	_	2	advmod	_	_
+4	vuestras	vuestro	DET	dp2fpp	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	ideas	idea	NOUN	ncfp000	Gender=Fem|Number=Plur	2	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-026
+# text = Hemos recibido vuestro mensaje.
+1	Hemos	haber	AUX	vaip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	recibido	recibir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	vuestro	vuestro	DET	dp2msp	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
+4	mensaje	mensaje	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-027
+# text = ¿Cuándo celebráis vuestra boda?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Cuándo	cuándo	ADV	pt000000	PronType=Int	3	advmod	_	_
+3	celebráis	celebrar	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vuestra	vuestro	DET	dp2fsp	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	boda	boda	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-028
+# text = Vuestros padres llamaron esta tarde.
+1	Vuestros	vuestro	DET	dp2mpp	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	ncmp000	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	llamaron	llamar	VERB	vmis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	tarde	tarde	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-029
+# text = Esta maleta es la vuestra.
+1	Esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	maleta	maleta	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vuestra	vuestro	PRON	px2fs0p0	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+# sent_id = spanish-vosotros-train-030
+# text = Habéis olvidado vuestras llaves en la mesa.
+1	Habéis	haber	AUX	vaip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	olvidado	olvidar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	vuestras	vuestro	DET	dp2fpp	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
+4	llaves	llave	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	_
+5	en	en	ADP	sps00	_	7	case	_	_
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mesa	mesa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-031
+# text = Gracias por vuestra ayuda.
+1	Gracias	gracia	NOUN	ncfp000	Gender=Fem|Number=Plur	0	root	_	_
+2	por	por	ADP	sps00	_	4	case	_	_
+3	vuestra	vuestro	DET	dp2fsp	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
+4	ayuda	ayuda	NOUN	ncfs000	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-032
+# text = Contadme algo sobre vuestro viaje.
+1-2	Contadme	_	_	_	_	_	_	_	_
+1	Contad	contar	VERB	vmm02p0	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+3	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	1	obj	_	_
+4	sobre	sobre	ADP	sps00	_	6	case	_	_
+5	vuestro	vuestro	DET	dp2msp	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	6	det	_	_
+6	viaje	viaje	NOUN	ncms000	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-033
+# text = Os veo mañana en la oficina.
+1	Os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	veo	ver	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mañana	mañana	ADV	rg	_	2	advmod	_	_
+4	en	en	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	oficina	oficina	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-034
+# text = Os llamaré esta noche.
+1	Os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	llamaré	llamar	VERB	vmif1s0	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	noche	noche	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-035
+# text = Os he traído un regalo.
+1	Os	tú	PRON	pp2cp000	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
+2	he	haber	AUX	vaip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	traído	traer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	regalo	regalo	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-036
+# text = ¿Os gusta la comida mexicana?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Os	tú	PRON	pp2cp000	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
+3	gusta	gustar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	comida	comida	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	mexicana	mexicano	ADJ	aq0fs0	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-037
+# text = Sentaos aquí, por favor.
+1-2	Sentaos	_	_	_	_	_	_	_	_
+1	Sentad	sentar	VERB	vmm02p0	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+3	aquí	aquí	ADV	rg	_	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	fc	PunctType=Comm	6	punct	_	_
+5	por	por	ADP	sps00	_	6	case	_	_
+6	favor	favor	NOUN	ncms000	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-038
+# text = ¿A qué hora os levantáis normalmente?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	6	punct	_	SpaceAfter=No
+2	A	a	ADP	sps00	_	4	case	_	_
+3	qué	qué	DET	dt0cn0	PronType=Int	4	det	_	_
+4	hora	hora	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obl	_	_
+5	os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
+6	levantáis	levantar	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	normalmente	normalmente	ADV	rg	_	6	advmod	_	SpaceAfter=No
+8	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	6	punct	_	_
+
+# sent_id = spanish-vosotros-train-039
+# text = No os preocupéis por nada.
+1	No	no	ADV	rn	Polarity=Neg	3	advmod	_	_
+2	os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+3	preocupéis	preocupar	VERB	vmsp2p0	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	por	por	ADP	sps00	_	5	case	_	_
+5	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-040
+# text = Os esperamos en la puerta del cine.
+1	Os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	esperamos	esperar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	sps00	_	5	case	_	_
+4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	puerta	puerta	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	de	de	ADP	sps00	_	8	case	_	_
+7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cine	cine	NOUN	ncms000	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-041
+# text = Ya os dije que no era verdad.
+1	Ya	ya	ADV	rg	_	3	advmod	_	_
+2	os	tú	PRON	pp2cp000	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
+3	dije	decir	VERB	vmis1s0	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	cs	_	7	mark	_	_
+5	no	no	ADV	rn	Polarity=Neg	7	advmod	_	_
+6	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	verdad	verdad	NOUN	ncfs000	Gender=Fem|Number=Sing	3	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-042
+# text = ¿Os acordáis de aquel verano?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Os	tú	PRON	pp2cp000	Case=Acc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+3	acordáis	acordar	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	sps00	_	6	case	_	_
+5	aquel	aquel	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	verano	verano	NOUN	ncms000	Gender=Masc|Number=Sing	3	obl:arg	_	SpaceAfter=No
+7	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-043
+# text = ¿Qué hacéis este fin de semana?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Qué	qué	PRON	pt0cs000	Number=Sing|PronType=Int	3	obj	_	_
+3	hacéis	hacer	VERB	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	fin	fin	NOUN	ncms000	Gender=Masc|Number=Sing	3	obl	_	_
+6	de	de	ADP	sps00	_	7	case	_	_
+7	semana	semana	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-044
+# text = Comed antes de salir.
+1	Comed	comer	VERB	vmm02p0	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	antes	antes	ADV	rg	_	1	advmod	_	_
+3	de	de	ADP	sps00	_	4	mark	_	_
+4	salir	salir	VERB	vmn0000	VerbForm=Inf	2	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-045
+# text = Si estudiarais más, aprobaríais el examen.
+1	Si	si	SCONJ	cs	_	2	mark	_	_
+2	estudiarais	estudiar	VERB	vmsi2p0	Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+3	más	más	ADV	rg	Degree=Cmp	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+5	aprobaríais	aprobar	VERB	vmic2p0	Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	examen	examen	NOUN	ncms000	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+# sent_id = spanish-vosotros-train-046
+# text = Cuando lleguéis a casa, llamadme.
+1	Cuando	cuando	SCONJ	cs	_	2	mark	_	_
+2	lleguéis	llegar	VERB	vmsp2p0	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	a	a	ADP	sps00	_	4	case	_	_
+4	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+6-7	llamadme	_	_	_	_	_	_	_	SpaceAfter=No
+6	llamad	llamar	VERB	vmm02p0	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+7	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obj	_	_
+8	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	_
+
+# sent_id = spanish-vosotros-train-047
+# text = Ayer fuisteis al cine sin mí.
+1	Ayer	ayer	ADV	rg	_	2	advmod	_	_
+2	fuisteis	ir	VERB	vmis2p0	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	sps00	_	5	case	_	_
+4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cine	cine	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
+6	sin	sin	ADP	sps00	_	7	case	_	_
+7	mí	yo	PRON	pp1cso00	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-048
+# text = De niños jugabais en la playa.
+1	De	de	ADP	sps00	_	2	case	_	_
+2	niños	niño	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obl	_	_
+3	jugabais	jugar	VERB	vmii2p0	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	playa	playa	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-049
+# text = ¿Podéis ayudarme con estas cajas?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Podéis	poder	AUX	vmip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3-4	ayudarme	_	_	_	_	_	_	_	_
+3	ayudar	ayudar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
+4	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+5	con	con	ADP	sps00	_	7	case	_	_
+6	estas	este	DET	dd0fp0	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	cajas	caja	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+8	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+# sent_id = spanish-vosotros-train-050
+# text = Espero que disfrutéis del viaje.
+1	Espero	esperar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	cs	_	3	mark	_	_
+3	disfrutéis	disfrutar	VERB	vmsp2p0	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	de	de	ADP	sps00	_	6	case	_	_
+5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	viaje	viaje	NOUN	ncms000	Gender=Masc|Number=Sing	3	obl:arg	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-051
+# text = Mañana tendréis más tiempo libre.
+1	Mañana	mañana	ADV	rg	_	2	advmod	_	_
+2	tendréis	tener	VERB	vmif2p0	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
+4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
+5	libre	libre	ADJ	aq0cs0	Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
+
+# sent_id = spanish-vosotros-train-052
+# text = Escribid vuestros nombres en la lista.
+1	Escribid	escribir	VERB	vmm02p0	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	vuestros	vuestro	DET	dp2mpp	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	3	det	_	_
+3	nombres	nombre	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	lista	lista	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+
+# sent_id = spanish-vosotros-train-053
+# text = ¿Habéis terminado los deberes?
+1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Habéis	haber	AUX	vaip2p0	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	terminado	terminar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	deberes	deber	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+6	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
