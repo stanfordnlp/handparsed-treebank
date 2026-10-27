@@ -1698,7 +1698,7 @@
 # sent_id = es-es_obj_iobj-006
 # text = Le dieron la beca al estudiante con mejores calificaciones.
 # note = dative clitic kept as obl:arg per AnCora/UD-Spanish convention (not iobj)
-1	Le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
+1	Le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	dieron	dar	VERB	vmis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	beca	beca	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
@@ -1729,7 +1729,7 @@
 # sent_id = es-es_obj_iobj-008
 # text = Les enviamos las invitaciones a todos los vecinos del barrio.
 # note = dative clitic kept as obl:arg per AnCora/UD-Spanish convention (not iobj)
-1	Les	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	_
+1	Les	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	expl	_	_
 2	enviamos	enviar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	invitaciones	invitación	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	_
@@ -3167,7 +3167,7 @@
 # text = Dile a tu hermano que venga a cenar con nosotros.
 1-2	Dile	_	_	_	_	_	_	_	_
 1	Di	decir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
+2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 3	a	a	ADP	sps00	_	5	case	_	_
 4	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
 5	hermano	hermano	NOUN	ncms000	Gender=Masc|Number=Sing	1	obl:arg	_	_
@@ -3183,7 +3183,7 @@
 # text = Pregúntale al profesor si hay examen mañana.
 1-2	Pregúntale	_	_	_	_	_	_	_	_
 1	Pregunta	preguntar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
+2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	sps00	_	5	case	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -3285,7 +3285,7 @@
 # text = Muéstrale las fotos del viaje a tu madre.
 1-2	Muéstrale	_	_	_	_	_	_	_	_
 1	Muestra	mostrar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
+2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 3	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	fotos	foto	NOUN	ncfp000	Gender=Fem|Number=Plur	1	obj	_	_
 5-6	del	_	_	_	_	_	_	_	_
@@ -3326,7 +3326,7 @@
 # text = Sírvele más sopa al niño que tiene hambre.
 1-2	Sírvele	_	_	_	_	_	_	_	_
 1	Sirve	servir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
+2	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
 4	sopa	sopa	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	_	_
 5-6	al	_	_	_	_	_	_	_	_
@@ -3690,7 +3690,7 @@
 # text = Díselo a tu jefe directamente.
 1-3	Díselo	_	_	_	_	_	_	_	_
 1	Di	decir	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	se	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	obl:arg	_	_
+2	se	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 4	a	a	ADP	sps00	_	6	case	_	_
 5	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	6	det	_	_
@@ -3702,7 +3702,7 @@
 # text = Enséñasela a los estudiantes.
 1-3	Enséñasela	_	_	_	_	_	_	_	_
 1	Enseña	enseñar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	se	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	obl:arg	_	_
+2	se	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	expl	_	_
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 4	a	a	ADP	sps00	_	6	case	_	_
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
@@ -3713,7 +3713,7 @@
 # text = Muéstraselo a tus padres esta noche.
 1-3	Muéstraselo	_	_	_	_	_	_	_	_
 1	Muestra	mostrar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	se	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	obl:arg	_	_
+2	se	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	expl	_	_
 3	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 4	a	a	ADP	sps00	_	6	case	_	_
 5	tus	tu	DET	dp2cps	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	6	det	_	_
