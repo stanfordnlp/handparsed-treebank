@@ -2570,7 +2570,7 @@
 3	sintieran	sentir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
 4	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
 5	mismo	mismo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
-6	que	que	SCONJ	cs	_	7	mark	_	_
+6	que	que	SCONJ	cs	_	7	case	_	_
 7	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 8	entenderían	entender	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 9	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
