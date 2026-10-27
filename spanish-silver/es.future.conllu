@@ -1176,7 +1176,7 @@
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	habitación	habitación	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	_
 7	grande	grande	ADJ	aq0cs0	Number=Sing	6	amod	_	_
-8	junto	junto	ADP	sps00	ExtPos=ADP	11	case	_	_
+8	junto	junto	ADJ	sps00	ExtPos=ADP|Gender=Masc|Number=Sing	11	case	_	_
 9	a	a	ADP	sps00	_	8	fixed	_	_
 10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	ventana	ventana	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
@@ -3458,7 +3458,7 @@
 1	Repara	reparar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	tú	tú	PRON	pp2cs000	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-4	mismo	mismo	ADJ	di0ms0	Gender=Masc|Number=Sing|PronType=Dem	3	amod	_	_
+4	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	3	amod	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
 6	puedes	poder	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
@@ -5503,7 +5503,7 @@
 2	de	de	ADP	sps00	_	3	mark	_	_
 3	cometer	cometer	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	mismo	mismo	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+5	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	6	amod	_	_
 6	error	error	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 7	por	por	ADP	sps00	_	9	case	_	_
 8	tercera	tercero	ADJ	ao0fs0	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
