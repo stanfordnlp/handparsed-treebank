@@ -272,7 +272,7 @@
 7	iglesia	iglesia	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nmod	_	_
 8	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
 9	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-10	domingos	domingo	NOUN	ncmp000	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+10	domingos	domingo	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # text = El médico recomendó que el paciente duerma al menos ocho horas.
@@ -384,7 +384,7 @@
 5	vuelo	volar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 6	sobre	sobre	ADP	sps00	_	8	case	_	_
 7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # text = Me traslado a otra ciudad por motivos de trabajo.

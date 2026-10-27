@@ -907,7 +907,7 @@
 
 # sent_id = es-eramos_p1-035
 # text = Si estuviéramos de acuerdo, firmaríamos el contrato esta misma tarde.
-1	Si	si	SCONJ	cs	_	2	mark	_	_
+1	Si	si	SCONJ	cs	_	4	mark	_	_
 2	estuviéramos	estar	AUX	vssi1p0	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
 4	acuerdo	acuerdo	NOUN	ncms000	Gender=Masc|Number=Sing	6	advcl	_	SpaceAfter=No
@@ -1541,8 +1541,8 @@
 # correction = pudiese: lemma pudir -> poder
 1	Nadie	nadie	PRON	pi0cs000	Number=Sing|PronType=Neg	2	nsubj	_	_
 2	esperaba	esperar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	que	que	SCONJ	cs	_	5	mark	_	_
-4	ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	que	que	SCONJ	cs	_	6	mark	_	_
+4	ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 5	pudiese	poder	AUX	vasi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
 6	resolver	resolver	VERB	vmn0000	VerbForm=Inf	2	ccomp	_	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -3582,11 +3582,11 @@
 1-2	Alégrate	_	_	_	_	_	_	_	SpaceAfter=No
 1	Alegra	alegrar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
-3	,	,	PUNCT	fc	PunctType=Comm	6	punct	_	_
-4	hoy	hoy	ADV	rg	_	6	advmod	_	_
-5	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	1	parataxis	_	_
-7	cumpleaños	cumpleaños	NOUN	ncms000	Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+4	hoy	hoy	ADV	rg	_	7	advmod	_	_
+5	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	7	det	_	_
+7	cumpleaños	cumpleaños	NOUN	ncms000	Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-034
@@ -3680,10 +3680,10 @@
 1	Compra	comprar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
-4	si	si	SCONJ	cs	_	6	mark	_	_
-5	está	estar	VERB	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	en	en	ADP	sps00	_	1	advcl	_	_
-7	oferta	oferta	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+4	si	si	SCONJ	cs	_	7	mark	_	_
+5	está	estar	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	en	en	ADP	sps00	_	7	case	_	_
+7	oferta	oferta	NOUN	ncfs000	Gender=Fem|Number=Sing	1	advcl	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-042
@@ -3728,11 +3728,11 @@
 1	Lee	leer	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
-4	en	en	ADP	sps00	_	6	case	_	_
-5	voz	voz	NOUN	ncfs000	Gender=Fem|Number=Sing	6	nmod	_	_
-6	alta	alto	ADJ	aq0fs0	Gender=Fem|Number=Sing	1	obl	_	_
-7	para	para	ADP	sps00	_	9	mark	_	_
-8	que	que	SCONJ	cs	_	9	mark	_	_
+4	en	en	ADP	sps00	_	5	case	_	_
+5	voz	voz	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	_
+6	alta	alto	ADJ	aq0fs0	Gender=Fem|Number=Sing	5	amod	_	_
+7	para	para	ADP	sps00	_	10	mark	_	_
+8	que	que	SCONJ	cs	_	10	mark	_	_
 9	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	10	nsubj	_	_
 10	oigan	oír	VERB	vmsp3p0	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
@@ -3788,8 +3788,8 @@
 1-2	Llámame	_	_	_	_	_	_	_	_
 1	Llama	llamar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
-3	en	en	ADP	sps00	_	4	mark	_	_
-4	cuanto	cuanto	SCONJ	cs	_	5	mark	_	_
+3	en	en	ADP	sps00	ExtPos=SCONJ	5	mark	_	_
+4	cuanto	cuanto	PRON	_	PronType=Rel	3	fixed	_	_
 5	llegues	llegar	VERB	vmsp2s0	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	sps00	_	8	case	_	_
@@ -3925,7 +3925,7 @@
 6	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	cuando	cuando	SCONJ	cs	_	8	mark	_	_
 8	llegamos	llegar	VERB	vmis1p0	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	6	advcl	_	_
-9	juntos	junto	ADJ	aq0mp0	Gender=Masc|Number=Plur	8	obj	_	_
+9	juntos	junto	ADJ	aq0mp0	Gender=Masc|Number=Plur	8	xcomp	_	_
 10	a	a	ADP	sps00	_	12	case	_	_
 11	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	cima	cima	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
@@ -4108,7 +4108,7 @@
 7	montaña	montaña	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	_
 8	salió	salir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	realmente	realmente	ADV	rg	_	10	advmod	_	_
-10	espectacular	espectacular	ADJ	aq0cs0	Number=Sing	8	obj	_	SpaceAfter=No
+10	espectacular	espectacular	ADJ	aq0cs0	Number=Sing	8	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-es_acl_relcl-017
@@ -4167,7 +4167,7 @@
 8	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl:arg	_	_
 9	pareció	parecer	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	bastante	bastante	PRON	pi0cs000	NumType=Card|PronType=Ind	11	nmod	_	_
-11	aburrida	aburrido	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	9	obj	_	SpaceAfter=No
+11	aburrida	aburrido	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	9	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	_
 
 # sent_id = es-es_antes_de-001
@@ -4522,7 +4522,7 @@
 6	dentista	dentista	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 7	antes	antes	ADV	rg	_	3	advmod	_	_
 8-9	del	_	_	_	_	_	_	_	_
-8	de	de	ADP	sps00	_	7	fixed	_	_
+8	de	de	ADP	sps00	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	viernes	viernes	NOUN	ncms000	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
@@ -4814,7 +4814,7 @@
 4	cambiar	cambiar	VERB	vmn0000	VerbForm=Inf	2	xcomp	_	_
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	planes	plan	NOUN	ncmp000	Gender=Masc|Number=Plur	4	obj	_	_
-7	por	por	ADP	sps00	ExtPos=ADP	8	case	_	_
+7	por	por	ADP	sps00	_	8	case	_	_
 8	culpa	culpa	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	_
 9	de	de	ADP	sps00	_	11	case	_	_
 10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_

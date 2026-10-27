@@ -650,7 +650,7 @@
 
 # text = Como de costumbre, abrió la tienda a las nueve.
 # sent_id = silver_neg_como_3
-1	Como	como	SCONJ	cs	_	5	mark	_	_
+1	Como	como	SCONJ	cs	_	2	mark	_	_
 2	de	de	ADP	rg	ExtPos=ADV	5	advmod	_	MWE=de_costumbre|MWEPOS=ADV
 3	costumbre	costumbre	NOUN	_	_	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
