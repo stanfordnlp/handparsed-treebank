@@ -5545,16 +5545,16 @@
 # sent_id = es-es_deber_de-002
 # text = Deben de estar cansados después de caminar tantas horas.
 # correction = de: deprel case -> mark
-1	Deben	deber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Deben	deber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 2	de	de	ADP	sps00	_	4	mark	_	_
 3	estar	estar	AUX	van0000	VerbForm=Inf	4	cop	_	_
-4	cansados	cansado	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	1	xcomp	_	_
+4	cansados	cansado	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 5	después	después	ADV	rg	_	4	advmod	_	_
 6	de	de	ADP	sps00	_	7	mark	_	_
 7	caminar	caminar	VERB	vmn0000	VerbForm=Inf	5	advcl	_	_
 8	tantas	tanto	DET	di0fp0	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
 9	horas	hora	NOUN	ncfp000	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+10	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-es_deber_de-003
 # text = Debe de haber llovido porque las calles están mojadas.
@@ -5571,9 +5571,9 @@
 
 # sent_id = es-es_deber_de-004
 # text = Debía de tener unos veinte años cuando se casó por primera vez.
-1	Debía	deber	AUX	vaii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Debía	deber	AUX	vaii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
-3	tener	tener	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	tener	tener	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	unos	uno	DET	di0mp0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 5	veinte	veinte	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
 6	años	año	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	_	_
@@ -5583,13 +5583,13 @@
 10	por	por	ADP	sps00	_	12	case	_	_
 11	primera	primero	ADJ	ao0fs0	Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
 12	vez	vez	NOUN	ncfs000	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
-13	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+13	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-005
 # text = Debe de costar una fortuna vivir en ese barrio tan exclusivo.
-1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
-3	costar	costar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	costar	costar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	fortuna	fortuna	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 6	vivir	vivir	VERB	vmn0000	VerbForm=Inf	3	csubj	_	_
@@ -5598,7 +5598,7 @@
 9	barrio	barrio	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	_
 10	tan	tanto	ADV	rg	_	11	advmod	_	_
 11	exclusivo	exclusivo	ADJ	aq0ms0	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
-12	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+12	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-006
 # text = Deben de haberlo sabido antes porque no parecían sorprendidos.
@@ -5617,9 +5617,9 @@
 
 # sent_id = es-es_deber_de-007
 # text = Debe de hacer mucho frío fuera porque los cristales están empañados.
-1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
-3	hacer	hacer	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	hacer	hacer	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
 5	frío	frío	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 6	fuera	fuera	ADV	rg	_	3	advmod	_	_
@@ -5628,14 +5628,14 @@
 9	cristales	cristal	NOUN	ncmp000	Gender=Masc|Number=Plur	11	nsubj	_	_
 10	están	estar	AUX	vsip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	empañados	empañado	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	3	advcl	_	SpaceAfter=No
-12	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+12	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-008
 # text = Debían de conocerse desde hacía mucho tiempo por cómo hablaban.
-1	Debían	deber	AUX	vaii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Debían	deber	AUX	vaii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
 3-4	conocerse	_	_	_	_	_	_	_	_
-3	conocer	conocer	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	conocer	conocer	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 5	desde	desde	ADP	sps00	_	6	mark	_	_
 6	hacía	hacer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
@@ -5644,7 +5644,7 @@
 9	por	por	ADP	sps00	_	11	mark	_	_
 10	cómo	cómo	PRON	pt000000	PronType=Int	11	obl	_	_
 11	hablaban	hablar	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	SpaceAfter=No
-12	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+12	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-009
 # text = Debe de haber un error en la factura porque la cifra es altísima.
@@ -5682,9 +5682,9 @@
 
 # sent_id = es-es_deber_de-011
 # text = Debe de quedar poca leche en la nevera porque no la encuentro.
-1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
-3	quedar	quedar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	quedar	quedar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	poca	poco	DET	di0fs0	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
 5	leche	leche	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
 6	en	en	ADP	sps00	_	8	case	_	_
@@ -5694,13 +5694,13 @@
 10	no	no	ADV	rn	Polarity=Neg	12	advmod	_	_
 11	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 12	encuentro	encontrar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
-13	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+13	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-012
 # text = Deben de pensar que somos turistas porque nos hablan en inglés.
-1	Deben	deber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Deben	deber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
-3	pensar	pensar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	pensar	pensar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	que	que	SCONJ	cs	_	6	mark	_	_
 5	somos	ser	AUX	vsip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	turistas	turista	NOUN	nccp000	Gender=Masc|Number=Plur	3	ccomp	_	_
@@ -5709,33 +5709,33 @@
 9	hablan	hablar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 10	en	en	ADP	sps00	_	11	case	_	_
 11	inglés	inglés	NOUN	ncms000	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
-12	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+12	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-013
 # text = Debe de faltar poco para que termine la película.
-1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Debe	deber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
-3	faltar	faltar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	faltar	faltar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	poco	poco	ADV	rg	_	3	advmod	_	_
 5	para	para	ADP	sps00	_	7	mark	_	_
 6	que	que	SCONJ	cs	_	7	mark	_	_
 7	termine	terminar	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	película	película	NOUN	ncfs000	Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+10	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-014
 # text = Debieron de llegar tarde porque sus asientos estaban vacíos.
-1	Debieron	deber	AUX	vais3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Debieron	deber	AUX	vais3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 2	de	de	ADP	sps00	_	3	mark	_	_
-3	llegar	llegar	VERB	vmn0000	VerbForm=Inf	1	xcomp	_	_
+3	llegar	llegar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	tarde	tarde	ADV	rg	_	3	advmod	_	_
 5	porque	porque	SCONJ	cs	_	9	mark	_	_
 6	sus	su	DET	dp3cp0	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	asientos	asiento	NOUN	ncmp000	Gender=Masc|Number=Plur	9	nsubj	_	_
 8	estaban	estar	AUX	vaii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 9	vacíos	vacío	ADJ	aq0mp0	Gender=Masc|Number=Plur	3	advcl	_	SpaceAfter=No
-10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
+10	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_deber_de-015
 # text = Debe de ser la primera vez que visita esta ciudad.
