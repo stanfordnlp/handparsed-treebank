@@ -1686,7 +1686,7 @@
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	sps00	_	7	case	_	_
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	estudiante	estudiante	NOUN	nccs000	Gender=Masc|Number=Sing	2	obl:arg	_	_
+7	estudiante	estudiante	NOUN	nccs000	Number=Sing	2	obl:arg	_	_
 8	con	con	ADP	sps00	_	10	case	_	_
 9	mejores	mejor	ADJ	aq0cp0	Degree=Cmp|Number=Plur	10	amod	_	_
 10	calificaciones	calificación	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
@@ -2148,7 +2148,7 @@
 5	si	si	SCONJ	cs	_	6	mark	_	_
 6	practicaras	practicar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 7	con	con	ADP	sps00	_	8	case	_	_
-8	hablantes	hablante	NOUN	nccp000	Gender=Masc|Number=Plur	6	obl	_	_
+8	hablantes	hablante	NOUN	nccp000	Number=Plur	6	obl	_	_
 9	nativos	nativo	ADJ	aq0mp0	Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
@@ -2700,7 +2700,7 @@
 4	descanso	descanso	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
 5	si	si	SCONJ	cs	_	9	mark	_	_
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	paciente	paciente	NOUN	nccs000	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	paciente	paciente	NOUN	nccs000	Number=Sing	9	nsubj	_	_
 8	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 9	quejara	quejar	VERB	vmsi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
@@ -2739,7 +2739,7 @@
 6	si	si	SCONJ	cs	_	8	mark	_	_
 7	no	no	ADV	rn	Polarity=Neg	8	advmod	_	_
 8	hubiera	haber	VERB	vasi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
-9	clientes	cliente	NOUN	nccp000	Gender=Masc|Number=Plur	8	obj	_	SpaceAfter=No
+9	clientes	cliente	NOUN	nccp000	Number=Plur	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-es_cnd_tense_extra-009
@@ -3673,7 +3673,7 @@
 3	la	él	PRON	pp3fs000	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 4	a	a	ADP	sps00	_	6	case	_	_
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-6	estudiantes	estudiante	NOUN	nccp000	Gender=Masc|Number=Plur	1	obl:arg	_	SpaceAfter=No
+6	estudiantes	estudiante	NOUN	nccp000	Number=Plur	1	obl:arg	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-044
@@ -4363,7 +4363,7 @@
 10-11	al	_	_	_	_	_	_	_	_
 10	a	a	ADP	spcms	_	12	case	_	_
 11	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	cliente	cliente	NOUN	nccs000	Gender=Masc|Number=Sing	7	obl:arg	_	_
+12	cliente	cliente	NOUN	nccs000	Number=Sing	7	obl:arg	_	_
 13	principal	principal	ADJ	aq0cs0	Number=Sing	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
@@ -4486,7 +4486,7 @@
 4-5	al	_	_	_	_	_	_	_	_
 4	a	a	ADP	sps00	_	6	case	_	_
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	dentista	dentista	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	_
+6	dentista	dentista	NOUN	ncms000	Number=Sing	3	obj	_	_
 7	antes	antes	ADV	rg	_	3	advmod	_	_
 8-9	del	_	_	_	_	_	_	_	_
 8	de	de	ADP	sps00	_	10	case	_	_
@@ -4616,7 +4616,7 @@
 # sent_id = es-es_tener_que-012
 # text = Los estudiantes tienen que leer tres novelas este semestre.
 1	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	estudiantes	estudiante	NOUN	nccp000	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	estudiantes	estudiante	NOUN	nccp000	Number=Plur	3	nsubj	_	_
 3	tienen	tener	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	cs	_	5	mark	_	_
 5	leer	leer	VERB	vmn0000	VerbForm=Inf	3	xcomp	_	_
@@ -5670,7 +5670,7 @@
 3	pensar	pensar	VERB	vmn0000	VerbForm=Inf	0	root	_	_
 4	que	que	SCONJ	cs	_	6	mark	_	_
 5	somos	ser	AUX	vsip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	turistas	turista	NOUN	nccp000	Gender=Masc|Number=Plur	3	ccomp	_	_
+6	turistas	turista	NOUN	nccp000	Number=Plur	3	ccomp	_	_
 7	porque	porque	SCONJ	cs	_	9	mark	_	_
 8	nos	yo	PRON	pp1cp000	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	9	obl:arg	_	_
 9	hablan	hablar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
