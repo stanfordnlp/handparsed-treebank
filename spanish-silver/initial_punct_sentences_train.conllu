@@ -131,7 +131,7 @@
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Cuánto	cuánto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Int	3	obl	_	_
 3	cuesta	costar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	esto	esto	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+4	esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = initial-punct-train-q18
@@ -180,7 +180,7 @@
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2-3	Vámonos	_	_	_	_	_	_	_	SpaceAfter=No
 2	Vamos	ir	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
-3	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
+3	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
 # sent_id = initial-punct-train-e5
@@ -241,7 +241,7 @@
 # text = ¡Qué buena idea!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
-3	buena	bueno	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+3	buena	buen	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 4	idea	idea	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
@@ -267,7 +267,7 @@
 2	Qué	qué	PRON	_	Number=Sing|PronType=Exc	3	nmod	_	_
 3	rico	rico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-5	esto	esto	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+5	esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
 6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
 
 # sent_id = initial-punct-train-e16
@@ -282,7 +282,7 @@
 # text = ¡Qué mala suerte!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
-3	mala	malo	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+3	mala	mal	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 4	suerte	suerte	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
@@ -298,7 +298,7 @@
 # text = ¡Estoy tan feliz!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
 2	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	tan	tan	ADV	_	_	4	advmod	_	_
+3	tan	tanto	ADV	_	_	4	advmod	_	_
 4	feliz	feliz	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
 
