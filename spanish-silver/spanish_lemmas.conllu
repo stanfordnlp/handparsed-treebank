@@ -344,7 +344,7 @@
 7	que	que	PRON	pr0cn000	PronType=Rel	8	nsubj	_	_
 8	ocurrió	ocurrir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 9	hace	hacer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
-10	tanto	tanto	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	11	det	_	_
+10	tanto	tanto	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	11	det	_	_
 11	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
