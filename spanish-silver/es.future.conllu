@@ -13,7 +13,6 @@
 
 # sent_id = es-cnd_tense-002
 # text = Ellos vivirían mejor si ganaran un poco más de dinero.
-# correction = vivirían: feats Tense=<missing> -> Tense=Pres
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	vivirían	vivir	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
@@ -28,7 +27,6 @@
 
 # sent_id = es-cnd_tense-003
 # text = Yo trabajaría desde casa si me lo permitieran mis jefes.
-# correction = trabajaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	trabajaría	trabajar	VERB	vmic1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	desde	desde	ADP	sps00	_	4	case	_	_
@@ -43,7 +41,6 @@
 
 # sent_id = es-cnd_tense-004
 # text = Ella estudiaría medicina si tuviera más tiempo y recursos.
-# correction = estudiaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	estudiaría	estudiar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	medicina	medicina	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	_	_
@@ -69,7 +66,6 @@
 
 # sent_id = es-cnd_tense-006
 # text = Tú comprarías esa casa si el banco te diera el préstamo.
-# correction = comprarías: feats Tense=Fut -> Tense=Pres
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	comprarías	comprar	VERB	vmic2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	esa	ese	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
@@ -85,7 +81,6 @@
 
 # sent_id = es-cnd_tense-007
 # text = Ellas cantarían en el coro si les dieran la oportunidad.
-# correction = cantarían: feats Tense=Imp -> Tense=Pres
 1	Ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	cantarían	cantar	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	sps00	_	5	case	_	_
@@ -112,7 +107,6 @@
 
 # sent_id = es-cnd_tense-009
 # text = Él escribiría un libro si encontrara la inspiración necesaria.
-# correction = escribiría: feats Tense=<missing> -> Tense=Pres
 1	Él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	escribiría	escribir	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -126,7 +120,6 @@
 
 # sent_id = es-cnd_tense-010
 # text = Ustedes llegarían a tiempo si salieran un poco más temprano.
-# correction = llegarían: feats Tense=<missing> -> Tense=Pres
 1	Ustedes	tú	PRON	pp2cp00p	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	llegarían	llegar	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	ExtPos=ADV	2	advmod	_	_
@@ -153,7 +146,6 @@
 
 # sent_id = es-cnd_tense-012
 # text = Ella hablaría con él si no estuviera tan enojada.
-# correction = hablaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	hablaría	hablar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	sps00	_	4	case	_	_
@@ -167,7 +159,6 @@
 
 # sent_id = es-cnd_tense-013
 # text = Los niños jugarían afuera si no lloviera tanto hoy.
-# correction = jugarían: feats Tense=<missing> -> Tense=Pres
 1	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	niños	niño	NOUN	ncmp000	Gender=Masc|Number=Plur	3	nsubj	_	_
 3	jugarían	jugar	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
@@ -181,7 +172,6 @@
 
 # sent_id = es-cnd_tense-014
 # text = Yo leería más si tuviera menos trabajo en la oficina.
-# correction = leería: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	leería	leer	VERB	vmic1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	2	advmod	_	_
@@ -209,7 +199,6 @@
 
 # sent_id = es-cnd_tense-016
 # text = Ella cocinaría algo especial si vinieran los invitados esta noche.
-# correction = cocinaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	cocinaría	cocinar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	2	obj	_	_
@@ -237,7 +226,6 @@
 
 # sent_id = es-cnd_tense-018
 # text = Ellos construirían una casa si compraran el terreno primero.
-# correction = construirían: feats Tense=<missing> -> Tense=Pres
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	construirían	construir	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	una	uno	DET	di0fs0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -266,7 +254,6 @@
 
 # sent_id = es-cnd_tense-020
 # text = Yo cambiaría de trabajo si encontrara algo mejor cerca de casa.
-# correction = cambiaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	cambiaría	cambiar	VERB	vmic1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
@@ -1080,7 +1067,6 @@
 
 # sent_id = es-es_cnd_mood-002
 # text = Ellos vivirían más tranquilos si mudaran al campo pronto.
-# correction = vivirían: feats Tense=<missing> -> Tense=Pres
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	vivirían	vivir	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
@@ -1110,7 +1096,6 @@
 
 # sent_id = es-es_cnd_mood-004
 # text = Yo cambiaría de opinión si alguien me presentara datos nuevos.
-# correction = cambiaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	cambiaría	cambiar	VERB	vmic1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	sps00	_	4	case	_	_
@@ -1125,7 +1110,6 @@
 
 # sent_id = es-es_cnd_mood-005
 # text = Ella estudiaría toda la noche si el examen fuera mañana.
-# correction = estudiaría: feats Tense=<missing> -> Tense=Pres
 1	Ella	él	PRON	pp3fs000	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	estudiaría	estudiar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	toda	todo	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
@@ -1184,7 +1168,6 @@
 
 # sent_id = es-es_mood_diag-001
 # text = Él diría la verdad si no tuviera miedo de las consecuencias.
-# correction = diría: feats Tense=<missing> -> Tense=Pres
 1	Él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	diría	decir	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -1200,7 +1183,7 @@
 
 # sent_id = es-es_mood_diag-002
 # text = Nosotros saldríamos temprano si el jefe nos lo permitiera.
-# correction = saldríamos: feats Mood=Ind -> Mood=Cnd; saldríamos: feats Tense=<missing> -> Tense=Pres
+# correction = saldríamos: feats Mood=Ind -> Mood=Cnd
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	saldríamos	salir	VERB	vmic1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 3	temprano	temprano	ADV	rg	_	2	advmod	_	_
@@ -1233,7 +1216,6 @@
 
 # sent_id = es-es_mood_diag-004
 # text = Ellas pondrían más esfuerzo si vieran resultados concretos.
-# correction = pondrían: feats Tense=<missing> -> Tense=Pres
 1	Ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	pondrían	poner	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
@@ -1246,7 +1228,6 @@
 
 # sent_id = es-es_mood_diag-005
 # text = Yo tendría más paciencia si me explicaran la situación completa.
-# correction = tendría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	tendría	tener	VERB	vmic1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	rg	Degree=Cmp	4	advmod	_	_
@@ -2657,7 +2638,6 @@
 
 # sent_id = es-es_cnd_tense_extra-001
 # text = María bailaría toda la noche si pusieran su canción favorita.
-# correction = bailaría: feats Tense=<missing> -> Tense=Pres
 1	María	María	PROPN	np00000	_	2	nsubj	_	_
 2	bailaría	bailar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	toda	todo	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
@@ -2672,7 +2652,6 @@
 
 # sent_id = es-es_cnd_tense_extra-002
 # text = El profesor explicaría el tema otra vez si alguien lo pidiera.
-# correction = explicaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	profesor	profesor	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	explicaría	explicar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2688,7 +2667,6 @@
 
 # sent_id = es-es_cnd_tense_extra-003
 # text = Mi hermano pintaría la casa si le prestáramos las herramientas.
-# correction = pintaría: feats Tense=<missing> -> Tense=Pres
 1	Mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	hermano	hermano	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	pintaría	pintar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2716,7 +2694,6 @@
 
 # sent_id = es-es_cnd_tense_extra-005
 # text = El doctor recomendaría descanso si el paciente se quejara.
-# correction = recomendaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	doctor	doctor	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	recomendaría	recomendar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2730,7 +2707,6 @@
 
 # sent_id = es-es_cnd_tense_extra-006
 # text = Ana aceptaría la oferta si incluyera mejores condiciones.
-# correction = aceptaría: feats Tense=<missing> -> Tense=Pres
 1	Ana	Ana	PROPN	np00000	_	2	nsubj	_	_
 2	aceptaría	aceptar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -2743,7 +2719,6 @@
 
 # sent_id = es-es_cnd_tense_extra-007
 # text = Pablo abandonaría el proyecto si nadie lo apoyara.
-# correction = abandonaría: feats Tense=<missing> -> Tense=Pres
 1	Pablo	Pablo	PROPN	np00000	_	2	nsubj	_	_
 2	abandonaría	abandonar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -2756,7 +2731,6 @@
 
 # sent_id = es-es_cnd_tense_extra-008
 # text = La tienda cerraría más temprano si no hubiera clientes.
-# correction = cerraría: feats Tense=<missing> -> Tense=Pres
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	tienda	tienda	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	cerraría	cerrar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2770,7 +2744,6 @@
 
 # sent_id = es-es_cnd_tense_extra-009
 # text = El gato escaparía por la ventana si alguien la dejara abierta.
-# correction = escaparía: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	gato	gato	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	escaparía	escapar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2786,7 +2759,6 @@
 
 # sent_id = es-es_cnd_tense_extra-010
 # text = Mi madre prepararía la cena si llegara temprano del trabajo.
-# correction = prepararía: feats Tense=<missing> -> Tense=Pres
 1	Mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	madre	madre	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	prepararía	preparar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2803,7 +2775,6 @@
 
 # sent_id = es-es_cnd_tense_extra-011
 # text = El equipo ganaría el campeonato si entrenara con más disciplina.
-# correction = ganaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	equipo	equipo	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	ganaría	ganar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2818,7 +2789,6 @@
 
 # sent_id = es-es_cnd_tense_extra-012
 # text = Laura organizaría la reunión si supiera la fecha exacta.
-# correction = organizaría: feats Tense=<missing> -> Tense=Pres
 1	Laura	Laura	PROPN	np00000	_	2	nsubj	_	_
 2	organizaría	organizar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -2832,7 +2802,6 @@
 
 # sent_id = es-es_cnd_tense_extra-013
 # text = El banco aprobaría el préstamo si presentaras todos los documentos.
-# correction = aprobaría: feats Tense=<missing> -> Tense=Pres
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	banco	banco	NOUN	ncms000	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	aprobaría	aprobar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2862,7 +2831,6 @@
 
 # sent_id = es-es_cnd_tense_extra-015
 # text = La directora cancelaría la excursión si lloviera el sábado.
-# correction = cancelaría: feats Tense=<missing> -> Tense=Pres
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	directora	directora	NOUN	ncfs000	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	cancelaría	cancelar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -2893,7 +2861,6 @@
 
 # sent_id = es-es_cnd_tense_extra-017
 # text = Yo llamaría al médico si me sintiera peor mañana por la mañana.
-# correction = llamaría: feats Tense=<missing> -> Tense=Pres
 1	Yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	llamaría	llamar	VERB	vmic1s0	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 3-4	al	_	_	_	_	_	_	_	_
