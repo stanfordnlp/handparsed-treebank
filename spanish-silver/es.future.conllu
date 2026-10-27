@@ -392,7 +392,7 @@
 8-9	visitarlos	_	_	_	_	_	_	_	_
 8	visitar	visitar	VERB	vmn0000	VerbForm=Inf	6	xcomp	_	_
 9	los	él	PRON	pp3mp000	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
-10	hoy	hoy	ADV	rg	_	6	advmod	_	_
+10	hoy	hoy	ADV	rg	ExtPos=ADV	6	advmod	_	_
 11	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	_
 
@@ -2498,7 +2498,7 @@
 5	documentos	documento	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	_	_
 6	resolveríamos	resolver	VERB	vmic1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 7	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	6	obj	_	_
-8	hoy	hoy	ADV	rg	_	6	advmod	_	_
+8	hoy	hoy	ADV	rg	ExtPos=ADV	6	advmod	_	_
 9	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	8	fixed	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	_
 
@@ -4004,7 +4004,7 @@
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
 4	cometimos	cometer	VERB	vmis1p0	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5-6	al	_	_	_	_	_	_	_	_
-5	a	a	ADP	rg	_	4	case	_	_
+5	a	a	ADP	rg	ExtPos=ADV	4	advmod	_	_
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	fixed	_	_
 7	principio	principio	NOUN	ncms000	Gender=Masc|Number=Sing	5	fixed	_	_
 8	nos	yo	PRON	pp1cp000	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	9	obl:arg	_	_
