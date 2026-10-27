@@ -5642,7 +5642,7 @@
 7	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
 8	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	_	_
 9	por	por	ADP	sps00	_	11	mark	_	_
-10	cómo	cómo	PRON	pt000000	PronType=Int	11	obl	_	_
+10	cómo	cómo	ADV	pt000000	PronType=Int	11	advmod	_	_
 11	hablaban	hablar	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 
