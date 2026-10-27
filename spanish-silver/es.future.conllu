@@ -120,7 +120,7 @@
 
 # sent_id = es-cnd_tense-010
 # text = Ustedes llegarían a tiempo si salieran un poco más temprano.
-1	Ustedes	tú	PRON	pp2cp00p	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+1	Ustedes	tú	PRON	pp2cp00p	Case=Acc,Nom|Number=Plur|Person=2|Polite=Form|PronType=Prs	2	nsubj	_	_
 2	llegarían	llegar	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	ExtPos=ADV	2	advmod	_	_
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	3	fixed	_	_
@@ -3424,7 +3424,7 @@
 1-2	Repáralo	_	_	_	_	_	_	_	_
 1	Repara	reparar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	pp3ms000	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
-3	tú	tú	PRON	pp2cs000	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 4	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	3	amod	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
 6	puedes	poder	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
@@ -3792,7 +3792,7 @@
 1-2	Recomiéndame	_	_	_	_	_	_	_	_
 1	Recomienda	recomendar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
-3	algún	alguno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+3	algún	alguno	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 4	buen	buen	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	_	_
 5	libro	libro	NOUN	ncms000	Gender=Masc|Number=Sing	1	obj	_	_
 6	de	de	ADP	sps00	_	7	case	_	_
