@@ -3889,14 +3889,14 @@
 # sent_id = es-es_acl_relcl-003
 # text = El problema que describiste en tu informe ya fue solucionado.
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	10	nsubj	_	_
+2	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
 4	describiste	describir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	en	en	ADP	sps00	_	7	case	_	_
 6	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	7	det	_	_
 7	informe	informe	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	_
 8	ya	ya	ADV	rg	_	10	advmod	_	_
-9	fue	ser	AUX	vsis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
+9	fue	ser	AUX	vsis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	solucionado	solucionar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	_
 
@@ -4067,12 +4067,12 @@
 # sent_id = es-es_acl_relcl-014
 # text = El informe que redactó el comité fue enviado a todas las delegaciones.
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	informe	informe	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	informe	informe	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
 4	redactó	redactar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	comité	comité	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
-7	fue	ser	AUX	vsis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
+7	fue	ser	AUX	vsis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
 8	enviado	enviar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	a	a	ADP	sps00	_	12	case	_	_
 10	todas	todo	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Tot	12	det	_	_
