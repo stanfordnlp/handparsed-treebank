@@ -378,7 +378,7 @@
 # text = A veces sueño que vuelo sobre la ciudad.
 # sent_id = 30
 1	A	a	ADP	rg	ExtPos=ADV	3	advmod	_	_
-2	veces	vez	NOUN	_	_	1	fixed	_	_
+2	veces	vez	NOUN	_	Gender=Fem|Number=Plur	1	fixed	_	_
 3	sueño	soñar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	cs	_	5	mark	_	_
 5	vuelo	volar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_

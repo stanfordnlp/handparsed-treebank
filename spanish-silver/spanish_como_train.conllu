@@ -109,7 +109,7 @@
 # sent_id = silver_como_train_11
 1	Como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	fruta	fruta	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	_	_
-3	fresca	fresca	ADJ	aq0fs0	Gender=Fem|Number=Sing	2	amod	_	_
+3	fresca	fresco	ADJ	aq0fs0	Gender=Fem|Number=Sing	2	amod	_	_
 4	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
 5	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	días	día	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
@@ -264,7 +264,7 @@
 # text = A veces como comida a domicilio.
 # sent_id = silver_como_train_27
 1	A	a	ADP	rg	ExtPos=ADV	3	advmod	_	MWE=a_veces|MWEPOS=ADV
-2	veces	veces	NOUN	_	_	1	fixed	_	_
+2	veces	vez	NOUN	_	Gender=Fem|Number=Plur	1	fixed	_	_
 3	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	comida	comida	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	_
 5	a	a	ADP	sps00	_	6	case	_	_
@@ -328,7 +328,7 @@
 # text = De vez en cuando como cosas que no debería.
 # sent_id = silver_como_train_33
 1	De	de	ADP	rg	ExtPos=ADV	5	advmod	_	MWE=de_vez_en_cuando|MWEPOS=ADV
-2	vez	vez	NOUN	_	_	1	fixed	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	fixed	_	_
 3	en	en	ADP	_	_	1	fixed	_	_
 4	cuando	cuando	ADV	_	_	1	fixed	_	_
 5	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -470,7 +470,7 @@
 5	hambre	hambre	NOUN	ncfs000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 7	a	a	ADP	rg	ExtPos=ADV	9	advmod	_	MWE=a_veces|MWEPOS=ADV
-8	veces	vez	NOUN	_	_	7	fixed	_	_
+8	veces	vez	NOUN	_	Gender=Fem|Number=Plur	7	fixed	_	_
 9	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	un	uno	DET	rg	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	9	advmod	_	MWE=un_poco|MWEPOS=ADV
 11	poco	poco	ADV	_	_	10	fixed	_	SpaceAfter=No
