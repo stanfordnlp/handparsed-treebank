@@ -228,7 +228,7 @@
 3	para	para	ADP	sps00	_	4	mark	_	_
 4-5	mantenerme	_	_	_	_	_	_	_	_
 4	mantener	mantener	VERB	vmn0000	VerbForm=Inf	1	advcl	_	_
-5	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	expl:pv	_	_
+5	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	en	en	ADP	sps00	_	7	case	_	_
 7	forma	forma	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
@@ -450,7 +450,7 @@
 # text = Si me invitan a cenar, casi siempre como demasiado.
 # sent_id = silver_como_train_43
 1	Si	si	SCONJ	cs	_	3	mark	_	_
-2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
 3	invitan	invitar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 4	a	a	ADP	sps00	_	5	mark	_	_
 5	cenar	cenar	VERB	vmn0000	VerbForm=Inf	3	xcomp	_	SpaceAfter=No

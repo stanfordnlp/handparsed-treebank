@@ -78,7 +78,7 @@
 6	para	para	ADP	sps00	_	7	mark	_	_
 7-8	cuidarme	_	_	_	_	_	_	_	SpaceAfter=No
 7	cuidar	cuidar	VERB	vmn0000	VerbForm=Inf	3	advcl	_	_
-8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obj	_	_
+8	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	obj	_	_
 9	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	SpacesAfter=\n
 
 # text = El postre lo como solo cuando es especial.

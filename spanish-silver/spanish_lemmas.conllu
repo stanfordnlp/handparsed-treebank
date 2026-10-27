@@ -389,7 +389,7 @@
 
 # text = Me traslado a otra ciudad por motivos de trabajo.
 # sent_id = 31
-1	Me	yo	PRON	p010s000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	expl:pv	_	_
+1	Me	yo	PRON	p010s000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 2	traslado	trasladar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	sps00	_	5	case	_	_
 4	otra	otro	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_

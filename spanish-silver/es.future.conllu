@@ -2901,7 +2901,7 @@
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	médico	médico	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	_	_
 6	si	si	SCONJ	cs	_	8	mark	_	_
-7	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
+7	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	sintiera	sentir	VERB	vmsi1s0	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 9	peor	peor	ADV	rg	Degree=Cmp	8	advmod	_	_
 10	mañana	mañana	ADV	rg	_	8	advmod	_	_
@@ -3376,7 +3376,7 @@
 6	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	agoten	agotar	VERB	vmsp3p0	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 8	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-9	entradas	entrada	NOUN	ncfp000	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No
+9	entradas	entrada	NOUN	ncfp000	Gender=Fem|Number=Plur	7	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-es_imp_clitic-017
@@ -3547,7 +3547,7 @@
 3	en	en	ADP	sps00	_	4	case	_	_
 4	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
-6	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
+6	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	sientes	sentir	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 8	mal	mal	ADV	rg	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
@@ -3741,7 +3741,7 @@
 # text = Ayúdame con este problema, por favor.
 1-2	Ayúdame	_	_	_	_	_	_	_	_
 1	Ayuda	ayudar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	con	con	ADP	sps00	_	5	case	_	_
 4	este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
@@ -3765,7 +3765,7 @@
 # text = Perdóname, no fue mi intención.
 1-2	Perdóname	_	_	_	_	_	_	_	SpaceAfter=No
 1	Perdona	perdonar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
 4	no	no	ADV	rn	Polarity=Neg	7	advmod	_	_
 5	fue	ser	AUX	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
@@ -3787,7 +3787,7 @@
 # text = Llámame en cuanto llegues al hotel.
 1-2	Llámame	_	_	_	_	_	_	_	_
 1	Llama	llamar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	en	en	ADP	sps00	_	4	mark	_	_
 4	cuanto	cuanto	SCONJ	cs	_	5	mark	_	_
 5	llegues	llegar	VERB	vmsp2s0	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
@@ -3801,7 +3801,7 @@
 # text = Discúlpame por llegar tarde a la reunión.
 1-2	Discúlpame	_	_	_	_	_	_	_	_
 1	Disculpa	disculpar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	por	por	ADP	sps00	_	4	mark	_	_
 4	llegar	llegar	VERB	vmn0000	VerbForm=Inf	1	advcl	_	_
 5	tarde	tarde	ADV	rg	_	4	advmod	_	_
@@ -3814,7 +3814,7 @@
 # text = Sálvame de este aburrimiento.
 1-2	Sálvame	_	_	_	_	_	_	_	_
 1	Salva	salvar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	de	de	ADP	sps00	_	5	case	_	_
 4	este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	aburrimiento	aburrimiento	NOUN	ncms000	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
@@ -4003,7 +4003,7 @@
 4	hizo	hacer	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	niño	niño	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	_	_
-7	nos	yo	PRON	pp1cp000	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
+7	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
 8	dejó	dejar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	sps00	_	10	case	_	_
 10	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	8	obj	_	_
@@ -4118,7 +4118,7 @@
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
 4	escuchamos	escuchar	VERB	vmis1p0	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	anoche	anoche	ADV	rg	_	4	advmod	_	_
-6	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obj	_	_
+6	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
 7	recuerda	recordar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	a	a	ADP	sps00	_	10	case	_	_
 9	nuestra	nuestro	DET	dp1fsp	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
@@ -4175,7 +4175,7 @@
 # correction = antes de + INF: restructured to Pattern A (antes=2→advmod→1, de=3→mark→4, INF=4→advcl→2)
 1-2	Llámame	_	_	_	_	_	_	_	_
 1	Llama	llamar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	antes	antes	ADV	rg	_	1	advmod	_	_
 4	de	de	ADP	sps00	_	5	mark	_	_
 5	salir	salir	VERB	vmn0000	VerbForm=Inf	3	advcl	_	_
@@ -4306,7 +4306,7 @@
 5	de	de	ADP	sps00	_	6	mark	_	_
 6-7	presentarte	_	_	_	_	_	_	_	_
 6	presentar	presentar	VERB	vmn0000	VerbForm=Inf	4	advcl	_	_
-7	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	obl:arg	_	_
+7	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 8-9	al	_	_	_	_	_	_	_	_
 8	a	a	ADP	spcms	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -4327,7 +4327,7 @@
 6	de	de	ADP	sps00	_	7	mark	_	_
 7-8	olvidarte	_	_	_	_	_	_	_	_
 7	olvidar	olvidar	VERB	vmn0000	VerbForm=Inf	5	advcl	_	_
-8	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
+8	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 9	de	de	ADP	sps00	_	11	case	_	_
 10	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	detalles	detalle	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obl:arg	_	_
@@ -4473,7 +4473,7 @@
 6	de	de	ADP	sps00	_	7	mark	_	_
 7-8	marcharte	_	_	_	_	_	_	_	_
 7	marchar	marchar	VERB	vmn0000	VerbForm=Inf	5	advcl	_	_
-8	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
+8	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 9	a	a	ADP	sps00	_	10	mark	_	_
 10	vivir	vivir	VERB	vmn0000	VerbForm=Inf	7	advcl	_	_
 11-12	al	_	_	_	_	_	_	_	_
