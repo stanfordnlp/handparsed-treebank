@@ -167,7 +167,7 @@
 2	aquí	aquí	ADV	rg	_	1	advmod	_	_
 3	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
 4	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	lunes	lunes	NOUN	_	_	1	obl	_	SpaceAfter=No
+5	lunes	lunes	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # text = Como lo que me dan.
@@ -292,7 +292,7 @@
 # text = Los lunes siempre como algo caliente.
 # sent_id = silver_como_train_30
 1	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	lunes	lunes	NOUN	_	_	4	obl	_	_
+2	lunes	lunes	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
 3	siempre	siempre	ADV	rg	_	4	advmod	_	_
 4	como	comer	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	algo	algo	PRON	pi0cs000	Number=Sing|PronType=Ind	4	obj	_	_
