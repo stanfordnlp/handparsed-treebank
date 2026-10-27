@@ -75,10 +75,10 @@
 
 # sent_id = initial-punct-test-q10
 # text = ¿Puedo entrar?
-1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
-2	Puedo	poder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	entrar	entrar	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
-4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	entrar	entrar	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = initial-punct-test-q11
 # text = ¿Dónde compraste eso?
