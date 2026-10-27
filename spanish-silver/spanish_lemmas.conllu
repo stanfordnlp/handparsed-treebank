@@ -370,9 +370,9 @@
 4	vecinos	vecino	NOUN	ncmp000	Gender=Masc|Number=Plur	1	obj	_	_
 5	cada	cada	DET	di0cs0	Number=Sing|PronType=Tot	6	det	_	_
 6	vez	vez	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obl	_	_
-7	que	que	SCONJ	cs	_	9	mark	_	_
+7	que	que	PRON	pr0cn000	PronType=Rel	9	obl	_	_
 8	los	él	PRON	pp3mpa00	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
-9	veo	ver	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl	_	SpaceAfter=No
+9	veo	ver	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 # text = A veces sueño que vuelo sobre la ciudad.

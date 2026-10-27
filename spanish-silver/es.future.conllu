@@ -5746,7 +5746,7 @@
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	primera	primero	ADJ	ao0fs0	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	_
 6	vez	vez	NOUN	ncfs000	Gender=Fem|Number=Sing	0	root	_	_
-7	que	que	SCONJ	cs	_	8	mark	_	_
+7	que	que	PRON	pr0cn000	PronType=Rel	8	obl	_	_
 8	visita	visitar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 9	esta	este	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
 10	ciudad	ciudad	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
