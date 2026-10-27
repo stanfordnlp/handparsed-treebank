@@ -3891,7 +3891,7 @@
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
-4	describiste	describir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	describiste	describir	VERB	vmis2s0	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	en	en	ADP	sps00	_	7	case	_	_
 6	tu	tu	DET	dp2css	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	7	det	_	_
 7	informe	informe	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	_
@@ -3924,7 +3924,7 @@
 5	recuerdo	recordar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 6	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	cuando	cuando	SCONJ	cs	_	8	mark	_	_
-8	llegamos	llegar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+8	llegamos	llegar	VERB	vmis1p0	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	6	advcl	_	_
 9	juntos	junto	ADJ	aq0mp0	Gender=Masc|Number=Plur	8	obj	_	_
 10	a	a	ADP	sps00	_	12	case	_	_
 11	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -3936,7 +3936,7 @@
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	lugar	lugar	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
-4	visitamos	visitar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	visitamos	visitar	VERB	vmis1p0	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	verano	verano	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl	_	_
 7	pasado	pasado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	6	amod	_	_
@@ -3968,7 +3968,7 @@
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	proyecto	proyecto	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
-4	presentamos	presentar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	presentamos	presentar	VERB	vmis1p0	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	semana	semana	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	_
 7	pasada	pasado	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	6	amod	_	_
@@ -4102,7 +4102,7 @@
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	foto	foto	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nsubj	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
-4	tomaste	tomar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	tomaste	tomar	VERB	vmis2s0	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	en	en	ADP	sps00	_	7	case	_	_
 6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	montaña	montaña	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	_
@@ -4116,7 +4116,7 @@
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	canción	canción	NOUN	ncfs000	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	que	que	PRON	pr0cn000	PronType=Rel	4	obj	_	_
-4	escuchamos	escuchar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	escuchamos	escuchar	VERB	vmis1p0	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	anoche	anoche	ADV	rg	_	4	advmod	_	_
 6	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obj	_	_
 7	recuerda	recordar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
