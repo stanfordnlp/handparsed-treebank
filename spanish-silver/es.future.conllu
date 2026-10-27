@@ -627,7 +627,7 @@
 7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	construcción	construcción	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	_	_
 9	de	de	ADP	sps00	_	10	case	_	_
-10	inmediato	inmediato	ADJ	aq0ms0	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	inmediato	inmediato	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	_
 
 # sent_id = es-eramos_p1-019
