@@ -14,16 +14,16 @@
 
 # sent_id = initial-punct-train-q3
 # text = ¿Qué hora es?
-1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Qué	qué	DET	_	PronType=Int	4	det	_	_
-3	hora	hora	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
-4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Qué	qué	DET	_	PronType=Int	3	det	_	_
+3	hora	hora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
+5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = initial-punct-train-q4
 # text = ¿Cuántos años tienes?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Cuántos	cuánto	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Int	4	det	_	_
+2	Cuántos	cuánto	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Int	3	det	_	_
 3	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
 4	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
@@ -31,7 +31,7 @@
 # sent_id = initial-punct-train-q5
 # text = ¿Por qué lloras?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Por	por	ADP	_	_	4	case	_	_
+2	Por	por	ADP	_	_	3	case	_	_
 3	qué	qué	PRON	_	Number=Sing|PronType=Int	4	obl	_	_
 4	lloras	llorar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
@@ -45,12 +45,12 @@
 
 # sent_id = initial-punct-train-q7
 # text = ¿Quién es ese hombre?
-1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
-2	Quién	quién	PRON	_	Number=Sing|PronType=Int	3	nsubj	_	_
-3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
-5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	5	punct	_	SpaceAfter=No
+2	Quién	quién	PRON	_	Number=Sing|PronType=Int	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	5	punct	_	_
 
 # sent_id = initial-punct-train-q8
 # text = ¿Tienes hambre?
@@ -63,8 +63,8 @@
 # text = ¿Vienes a la fiesta?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Vienes	venir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	a	a	ADP	_	_	2	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	fiesta	fiesta	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
@@ -82,32 +82,32 @@
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Dónde	dónde	ADV	_	PronType=Int	3	advmod	_	_
 3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	baño	baño	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = initial-punct-train-q12
 # text = ¿Cuál es tu nombre?
-1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
-2	Cuál	cuál	PRON	_	Number=Sing|PronType=Int	3	nsubj	_	_
-3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	_
-5	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	5	punct	_	SpaceAfter=No
+2	Cuál	cuál	PRON	_	Number=Sing|PronType=Int	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	5	punct	_	_
 
 # sent_id = initial-punct-train-q13
 # text = ¿Te gusta el café?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
-2	Te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+2	Te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	café	café	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = initial-punct-train-q14
 # text = ¿Qué quieres comer?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
-2	Qué	qué	PRON	_	Number=Sing|PronType=Int	3	obj	_	_
+2	Qué	qué	PRON	_	Number=Sing|PronType=Int	4	obj	_	_
 3	quieres	querer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	comer	comer	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
@@ -199,7 +199,7 @@
 # sent_id = initial-punct-train-e7
 # text = ¡Qué calor hace!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
-2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
+2	Qué	qué	DET	_	PronType=Exc	3	det	_	_
 3	calor	calor	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 4	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
@@ -233,8 +233,8 @@
 # text = ¡Silencio por favor!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Silencio	silencio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-3	por	por	ADP	_	_	2	case	_	_
-4	favor	favor	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+3	por	por	ADP	_	_	4	case	_	_
+4	favor	favor	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
 # sent_id = initial-punct-train-e12
@@ -256,8 +256,8 @@
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Ten	tener	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	cuidado	cuidado	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
-4	con	con	ADP	_	_	2	case	_	_
-5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	perro	perro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
@@ -274,7 +274,7 @@
 # text = ¡Bienvenidos a todos!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Bienvenidos	bienvenido	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-3	a	a	ADP	_	_	2	case	_	_
+3	a	a	ADP	_	_	4	case	_	_
 4	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	2	obl	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
@@ -290,7 +290,7 @@
 # text = ¡Vamos tú puedes!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Vamos	ir	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
-3	tú	tú	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+3	tú	tú	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 4	puedes	poder	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
@@ -305,7 +305,7 @@
 # sent_id = initial-punct-train-e20
 # text = ¡Qué frío hace hoy!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
-2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
+2	Qué	qué	DET	_	PronType=Exc	3	det	_	_
 3	frío	frío	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 4	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	hoy	hoy	ADV	_	_	4	advmod	_	SpaceAfter=No

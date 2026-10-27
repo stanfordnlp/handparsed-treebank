@@ -15,17 +15,17 @@
 
 # sent_id = initial-punct-test-q3
 # text = ¿Qué día es hoy?
-1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Qué	qué	DET	_	PronType=Int	4	det	_	_
-3	día	día	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
-4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	hoy	hoy	ADV	_	_	4	advmod	_	SpaceAfter=No
-6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
+2	Qué	qué	DET	_	PronType=Int	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	hoy	hoy	ADV	_	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = initial-punct-test-q4
 # text = ¿Cuántas personas vinieron?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Cuántas	cuánto	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Int	4	det	_	_
+2	Cuántas	cuánto	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Int	3	det	_	_
 3	personas	persona	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
 4	vinieron	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
@@ -33,7 +33,7 @@
 # sent_id = initial-punct-test-q5
 # text = ¿Por qué te vas?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	5	punct	_	SpaceAfter=No
-2	Por	por	ADP	_	_	5	case	_	_
+2	Por	por	ADP	_	_	3	case	_	_
 3	qué	qué	PRON	_	Number=Sing|PronType=Int	5	obl	_	_
 4	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -44,7 +44,7 @@
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Cuándo	cuándo	ADV	_	PronType=Int	3	advmod	_	_
 3	empieza	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
@@ -53,7 +53,7 @@
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Quién	quién	PRON	_	Number=Sing|PronType=Int	3	nsubj	_	_
 3	ganó	ganar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	partido	partido	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
@@ -68,8 +68,8 @@
 # text = ¿Vas a la escuela?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
 2	Vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	a	a	ADP	_	_	2	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
 
@@ -98,16 +98,16 @@
 # sent_id = initial-punct-test-q13
 # text = ¿Te gustan los perros?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
-2	Te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+2	Te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 3	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	perros	perro	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
 6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = initial-punct-test-q14
 # text = ¿Qué piensas hacer?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
-2	Qué	qué	PRON	_	Number=Sing|PronType=Int	3	obj	_	_
+2	Qué	qué	PRON	_	Number=Sing|PronType=Int	4	obj	_	_
 3	piensas	pensar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	hacer	hacer	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
@@ -197,7 +197,7 @@
 # sent_id = initial-punct-test-e7
 # text = ¡Qué viento hace!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
-2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
+2	Qué	qué	DET	_	PronType=Exc	3	det	_	_
 3	viento	viento	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 4	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
@@ -230,7 +230,7 @@
 2-3	Cállate	_	_	_	_	_	_	_	_
 2	Calla	callar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
-4	por	por	ADP	_	_	2	case	_	_
+4	por	por	ADP	_	_	5	case	_	_
 5	favor	favor	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
@@ -252,9 +252,9 @@
 # text = ¡Cuidado con el escalón!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Cuidado	cuidado	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-3	con	con	ADP	_	_	2	case	_	_
-4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-5	escalón	escalón	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+3	con	con	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	escalón	escalón	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
 # sent_id = initial-punct-test-e15
@@ -270,8 +270,8 @@
 # text = ¡Gracias a todos!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	SpaceAfter=No
 2	Gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
-3	a	a	ADP	_	_	2	case	_	_
-4	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	2	obl	_	SpaceAfter=No
+3	a	a	ADP	_	_	4	case	_	_
+4	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	2	nmod	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
 # sent_id = initial-punct-test-e17
@@ -287,7 +287,7 @@
 2-3	Anímate	_	_	_	_	_	_	_	_
 2	Anima	animar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 3	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
-4	tú	tú	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	tú	tú	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 5	puedes	poder	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
@@ -302,7 +302,7 @@
 # sent_id = initial-punct-test-e20
 # text = ¡Qué sed tengo!
 1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	SpaceAfter=No
-2	Qué	qué	DET	_	PronType=Exc	4	det	_	_
+2	Qué	qué	DET	_	PronType=Exc	3	det	_	_
 3	sed	sed	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 4	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
