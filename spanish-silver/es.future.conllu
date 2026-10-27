@@ -18,7 +18,7 @@
 3	mejor	mejor	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	ganaran	ganar	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
-6	un	uno	ADV	rg	_	8	advmod	_	_
+6	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	poco	poco	PRON	pi0ms000	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	nmod	_	_
 8	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 9	de	de	ADP	sps00	_	10	case	_	_
@@ -126,7 +126,7 @@
 4	tiempo	tiempo	NOUN	ncms000	Gender=Masc|Number=Sing	3	fixed	_	_
 5	si	si	SCONJ	cs	_	6	mark	_	_
 6	salieran	salir	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
-7	un	uno	ADV	rg	_	10	advmod	_	_
+7	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	poco	poco	PRON	pi0ms000	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	9	nmod	_	_
 9	más	más	ADV	rg	Degree=Cmp	10	advmod	_	_
 10	temprano	temprano	ADV	rg	_	6	advmod	_	SpaceAfter=No
@@ -2085,7 +2085,7 @@
 6	si	si	SCONJ	cs	_	8	mark	_	_
 7	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	concentraras	concentrar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
-9	un	uno	ADV	rg	_	10	advmod	_	_
+9	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	poco	poco	PRON	pi0ms000	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	11	nmod	_	_
 11	más	más	ADV	rg	Degree=Cmp	8	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
@@ -4187,8 +4187,8 @@
 # sent_id = es-es_antes_de-004
 # text = Descansa un poco antes de continuar con el siguiente ejercicio.
 1	Descansa	descansar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	un	uno	DET	rg	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	advmod	_	_
-3	poco	poco	PRON	pi0ms000	Gender=Masc|NumType=Card|PronType=Ind	2	fixed	_	_
+2	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	poco	poco	PRON	pi0ms000	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	1	obl	_	_
 4	antes	antes	ADV	rg	_	1	advmod	_	_
 5	de	de	ADP	sps00	_	6	mark	_	_
 6	continuar	continuar	VERB	vmn0000	VerbForm=Inf	4	advcl	_	_
