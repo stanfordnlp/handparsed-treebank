@@ -15,7 +15,7 @@
 # text = Ellos vivirían mejor si ganaran un poco más de dinero.
 1	Ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	vivirían	vivir	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
-3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
+3	mejor	mejor	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	ganaran	ganar	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 6	un	uno	ADV	rg	_	8	advmod	_	_
@@ -188,7 +188,7 @@
 # text = Nosotros dormiríamos mejor sin tanto ruido por la noche.
 1	Nosotros	yo	PRON	pp1mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	dormiríamos	dormir	VERB	vmic1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
-3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
+3	mejor	mejor	ADV	rg	_	2	advmod	_	_
 4	sin	sin	ADP	sps00	_	6	case	_	_
 5	tanto	tanto	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
 6	ruido	ruido	NOUN	ncms000	Gender=Masc|Number=Sing	2	obl	_	_
@@ -531,7 +531,7 @@
 4	horas	hora	NOUN	ncfp000	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 6	rendiríamos	rendir	VERB	vmic1p0	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
-7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
+7	mejor	mejor	ADV	rg	_	6	advmod	_	_
 8	en	en	ADP	sps00	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	_
@@ -717,7 +717,7 @@
 6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	jardín	jardín	NOUN	ncms000	Gender=Masc|Number=Sing	10	nsubj	_	_
 8	estaría	estar	AUX	vsic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	_
-9	mejor	mejor	ADV	rg	Degree=Cmp	10	advmod	_	_
+9	mejor	mejor	ADV	rg	_	10	advmod	_	_
 10	protegido	protegido	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 11-12	del	_	_	_	_	_	_	_	_
 11	de	de	ADP	sps00	_	13	case	_	_
@@ -989,7 +989,7 @@
 4	aquí	aquí	ADV	rg	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 6	entenderían	entender	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
-7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
+7	mejor	mejor	ADV	rg	_	6	advmod	_	_
 8	nuestros	nuestro	DET	dp1mpp	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	problemas	problema	NOUN	ncmp000	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	_
@@ -1085,7 +1085,7 @@
 # correction = entenderías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	entenderías	entender	VERB	vmic2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
+3	mejor	mejor	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	prestaras	prestar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 6	más	más	ADV	rg	Degree=Cmp	7	advmod	_	_
@@ -2034,7 +2034,7 @@
 # correction = cocinarías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	cocinarías	cocinar	VERB	vmic2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
+3	mejor	mejor	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	5	mark	_	_
 5	siguieras	seguir	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -2063,7 +2063,7 @@
 # correction = vivirías: feats Person=1 -> Person=2
 1	Tú	tú	PRON	pp2cs000	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	vivirías	vivir	VERB	vmic2s0	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-3	mejor	mejor	ADV	rg	Degree=Cmp	2	advmod	_	_
+3	mejor	mejor	ADV	rg	_	2	advmod	_	_
 4	si	si	SCONJ	cs	_	6	mark	_	_
 5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 6	mudaras	mudar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
@@ -2419,7 +2419,7 @@
 7	días	día	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obl	_	_
 8	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 9	sentirían	sentir	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
-10	mejor	mejor	ADV	rg	Degree=Cmp	9	advmod	_	SpaceAfter=No
+10	mejor	mejor	ADV	rg	_	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	_
 
 # sent_id = es-es_person_3pl-005
@@ -2523,7 +2523,7 @@
 4	más	más	ADV	rg	Degree=Cmp	5	advmod	_	_
 5	horas	hora	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	_	_
 6	rendirían	rendir	VERB	vmic3p0	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
-7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
+7	mejor	mejor	ADV	rg	_	6	advmod	_	_
 8	en	en	ADP	sps00	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	trabajo	trabajo	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
@@ -2619,7 +2619,7 @@
 6	juntas	junto	ADJ	aq0fp0	Gender=Fem|Number=Plur	3	xcomp	_	_
 7	sonaría	sonar	VERB	vmic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 8	mucho	mucho	ADV	rg	_	9	advmod	_	_
-9	mejor	mejor	ADV	rg	Degree=Cmp	7	advmod	_	SpaceAfter=No
+9	mejor	mejor	ADV	rg	_	7	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	_
 
 # sent_id = es-es_person_3pl-020
@@ -2870,7 +2870,7 @@
 6	si	si	SCONJ	cs	_	8	mark	_	_
 7	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	sintiera	sentir	VERB	vmsi1s0	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
-9	peor	peor	ADV	rg	Degree=Cmp	8	advmod	_	_
+9	peor	peor	ADV	rg	_	8	advmod	_	_
 10	mañana	mañana	ADV	rg	_	8	advmod	_	_
 11	por	por	ADP	sps00	_	13	case	_	_
 12	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -2980,7 +2980,7 @@
 4	si	si	SCONJ	cs	_	6	mark	_	_
 5	te	tú	PRON	pp2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 6	organizaras	organizar	VERB	vmsi2s0	Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	advcl	_	_
-7	mejor	mejor	ADV	rg	Degree=Cmp	6	advmod	_	_
+7	mejor	mejor	ADV	rg	_	6	advmod	_	_
 8	desde	desde	ADP	sps00	_	10	case	_	_
 9	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	principio	principio	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
