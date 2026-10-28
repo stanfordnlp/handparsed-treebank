@@ -2995,7 +2995,7 @@
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 1	Grill	grill	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	sausages	sausages	NOUN	NN	Number=Sing	1	obj	1:obj	_
+2	sausages	sausage	NOUN	NNS	Number=Plur	1	obj	1:obj	_
 3	for	for	ADP	IN	_	5	case	5:case	_
 4	5	5	NUM	CD	NumType=Card	5	nummod	5:nummod	_
 5	minutes	minute	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_

@@ -35,7 +35,7 @@
 (ROOT
   (S
     (VP (VB Grill)
-      (NP (NN sausages))
+      (NP (NNS sausages))
       (PP (IN for)
         (NP (CD 5) (NNS minutes))))))
 
