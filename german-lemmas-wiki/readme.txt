@@ -1,21 +1,33 @@
-This directory contains files for recreating a list of lemmas from German Wiktionary:
-extract_words.py
+This directory contains a list of lemmas from German Wiktionary,
+de_wiki_lemmas.conllu, used in the de_combined lemmatizer training data.
 
-This uses the wiktionary_de_parser python library.  This version of
-the library was compatible with python 3.9, whereas there is a newer
-version compatible only with python >= 3.11.  The API may have changed
-between versions... something to look out for
+To recreate it, use the converter in Stanza:
 
-Included in the script is the expected format for the various words,
-in case those change.
+  pip install wiktionary-de-parser==0.16.0
+  python3 -m stanza.utils.datasets.lemma.convert_de_wiktionary dewiktionary-latest-pages-articles-multistream.xml.bz2 de_wiki_lemmas.conllu
 
-The script attempts to remove auxiliaries and some various comment
-annotations on the words.
+https://github.com/stanfordnlp/stanza/blob/dev/stanza/utils/datasets/lemma/convert_de_wiktionary.py
 
+The converter is written for that exact version of wiktionary-de-parser,
+which requires Python 3.13 or later, and checks for it.  The parser's
+output format changes between versions, so a different version needs
+the converter updated to match.
+
+The dump is available from
+
+  https://dumps.wikimedia.org/dewiktionary/latest/
+
+German Wiktionary is licensed under CC BY-SA 4.0.
+
+
+extract_words.py is the original script, which was written for an
+older version of wiktionary_de_parser compatible with Python 3.9.  It
+does not run with current versions of the library, but is kept for
+reference.
 
 
 Also included is output_nouns.py
 This *only* outputs a list of nouns, using a separate module german_nouns
 Unfortunately, this seemed to confuse the lemmatizer into always
 lemmatizing unknown words as if they were nouns.
-Using extract_words.py is preferred
+Using the Stanza converter is preferred
