@@ -94,6 +94,54 @@
    (. .)))
 
 ((S
+   (NP (NN Mine) (NNS owners))
+   (VP (VBD refused)
+     (S
+       (VP (TO to)
+         (VP (VB raise)
+           (NP (NNS wages))))))
+   (. .)))
+
+((S
+   (NP (NN Mine) (NN waste))
+   (VP (VBD polluted)
+     (NP (DT the) (NN river))
+     (PP (IN for)
+       (NP (NNS years))))
+   (. .)))
+
+((S
+   (NP (NN Mine) (NNS inspectors))
+   (VP (VBD arrived)
+     (PP (IN without)
+       (NP (NN warning))))
+   (. .)))
+
+((S
+   (NP (NN Mine) (NNS closures))
+   (VP (VBD hit)
+     (NP (DT the) (NN town))
+     (ADVP (RB hard)))
+   (. .)))
+
+((S
+   (NP (NN Mine) (NNS explosions))
+   (VP (VBD killed)
+     (NP
+       (NP (NNS dozens))
+       (PP (IN of)
+         (NP (NNS miners)))))
+   (. .)))
+
+((S
+   (NP (NN Mine) (NNS entrances))
+   (VP (VBD were)
+     (VP (VBN sealed)
+       (PP (IN with)
+         (NP (NN concrete)))))
+   (. .)))
+
+((S
    (NP (NNS Workers))
    (VP (VBP mine)
      (NP

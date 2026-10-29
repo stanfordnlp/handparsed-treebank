@@ -135,6 +135,66 @@
 9	information	information	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	SpaceAfter=No
 10	.	.	PUNCT	.	_	6	punct	6:punct	_
 
+# sent_id = mine-noun-0007
+# text = Mine owners refused to raise wages.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	owners	owner	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+3	refused	refuse	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	raise	raise	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	wages	wage	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-noun-0008
+# text = Mine waste polluted the river for years.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	waste	waste	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	polluted	pollute	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	river	river	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	for	for	ADP	IN	_	7	case	7:case	_
+7	years	year	NOUN	NNS	Number=Plur	3	obl	3:obl:for	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-noun-0009
+# text = Mine inspectors arrived without warning.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	inspectors	inspector	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	arrived	arrive	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	without	without	ADP	IN	_	5	case	5:case	_
+5	warning	warning	NOUN	NN	Number=Sing	3	obl	3:obl:without	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-noun-0010
+# text = Mine closures hit the town hard.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	closures	closure	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	hit	hit	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	town	town	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	hard	hard	ADV	RB	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-noun-0011
+# text = Mine explosions killed dozens of miners.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	explosions	explosion	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	killed	kill	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	dozens	dozen	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+5	of	of	ADP	IN	_	6	case	6:case	_
+6	miners	miner	NOUN	NNS	Number=Plur	4	nmod	4:nmod:of	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-noun-0012
+# text = Mine entrances were sealed with concrete.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	entrances	entrance	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass	_
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+4	sealed	seal	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+5	with	with	ADP	IN	_	6	case	6:case	_
+6	concrete	concrete	NOUN	NN	Number=Sing	4	obl	4:obl:with	SpaceAfter=No
+7	.	.	PUNCT	.	_	4	punct	4:punct	_
+
 # sent_id = mine-verb-0001
 # text = Workers mine about ten tons of ore every day.
 1	Workers	worker	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
