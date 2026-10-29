@@ -504,7 +504,7 @@
 17	Bora	Bora	PROPN	NNP	Number=Sing	14	nmod	14:nmod:for	_
 18	late	late	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 19	last	last	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
-20	year	year	NOUN	NN	Number=Sing	11	obl:tmod	11:obl:tmod	_
+20	year	year	NOUN	NN	Number=Sing	11	obl:unmarked	11:obl:unmarked	_
 
 1	Was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 2	bin	bin	PROPN	NNP	Number=Sing	3	compound	3:compound	_
@@ -643,7 +643,7 @@
 20	policies	policy	NOUN	NNS	Number=Plur	17	obj	17:obj	_
 21	simultaneously	simultaneously	ADV	RB	_	17	advmod	17:advmod	_
 22	this	this	DET	DT	Number=Sing|PronType=Dem	23	det	23:det	_
-23	year	year	NOUN	NN	Number=Sing	17	obl:tmod	17:obl:tmod	SpaceAfter=No
+23	year	year	NOUN	NN	Number=Sing	17	obl:unmarked	17:obl:unmarked	SpaceAfter=No
 24	,	,	PUNCT	,	_	28	punct	28:punct	_
 25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	_
 26	scenario	scenario	NOUN	NN	Number=Sing	28	nsubj	28:nsubj	_
@@ -762,7 +762,7 @@
 17	7.4	7.4	NUM	CD	NumType=Card	18	compound	18:compound	_
 18	million	million	NUM	CD	NumType=Card	16	nummod	16:nummod	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
-20	year	year	NOUN	NN	Number=Sing	16	obl:tmod	16:obl:tmod	_
+20	year	year	NOUN	NN	Number=Sing	16	obl:unmarked	16:obl:unmarked	_
 21	ago	ago	ADP	IN	_	20	amod	20:amod	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	2:punct	_
 
@@ -800,7 +800,7 @@
 
 1	Heavy	heavy	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	fighting	fighting	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
-3	Monday	Monday	PROPN	NNP	Number=Sing	5	obl:tmod	5:obl:tmod	_
+3	Monday	Monday	PROPN	NNP	Number=Sing	5	obl:unmarked	5:obl:unmarked	_
 4	again	again	ADV	RB	_	5	advmod	5:advmod	_
 5	rocked	rock	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 6	Najaf	Najaf	PROPN	NNP	Number=Sing	5	obj	5:obj	SpaceAfter=No
@@ -1018,7 +1018,7 @@
 2	will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	cover	cover	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	Monday	Monday	PROPN	NNP	Number=Sing	5	compound	5:compound	_
-5	night	night	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	SpaceAfter=No
+5	night	night	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	SpaceAfter=No
 6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 1	Healthy	healthy	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
@@ -1560,7 +1560,7 @@
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	trash	trash	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	out	out	ADP	RP	_	1	compound:prt	1:compound:prt	_
-5	tonight	tonight	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	SpaceAfter=No
+5	tonight	tonight	NOUN	NN	Number=Sing	1	obl:unmarked	1:obl:unmarked	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 1	Remove	remove	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -1763,7 +1763,7 @@
 
 1	Text	text	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
-3	tonight	tonight	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_
+3	tonight	tonight	NOUN	NN	Number=Sing	1	obl:unmarked	1:obl:unmarked	_
 
 1	Nitric	nitric	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	oxide	oxide	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|6:nsubj	_
@@ -1789,12 +1789,12 @@
 9	Fitness	Fitness	PROPN	NNP	Number=Sing	2	obl	2:obl:from	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-1	Thursday	Thursday	PROPN	NNP	Number=Sing	4	obl:tmod	4:obl:tmod	_
+1	Thursday	Thursday	PROPN	NNP	Number=Sing	4	obl:unmarked	4:obl:unmarked	_
 2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	hip	hip	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	hurt	hurt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 
-1	Tuesday	Tuesday	PROPN	NNP	Number=Sing	6	obl:tmod	6:obl:tmod	_
+1	Tuesday	Tuesday	PROPN	NNP	Number=Sing	6	obl:unmarked	6:obl:unmarked	_
 2	last	last	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	week	week	NOUN	NN	Number=Sing	1	dep	1:dep	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
@@ -1808,7 +1808,7 @@
 
 1	Anytime	anytime	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
-3	week	week	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_
+3	week	week	NOUN	NN	Number=Sing	1	obl:unmarked	1:obl:unmarked	_
 4	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	for	for	ADP	IN	_	6	case	6:case	_
 6	lunch	lunch	NOUN	NN	Number=Sing	4	obl	4:obl:for	_
@@ -1919,7 +1919,7 @@
 5	seriously	seriously	ADV	RB	_	4	advmod	4:advmod	_
 6	stops	stop	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-8	moment	moment	NOUN	NN	Number=Sing	6	obl:tmod	6:obl:tmod	_
+8	moment	moment	NOUN	NN	Number=Sing	6	obl:unmarked	6:obl:unmarked	_
 9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
 10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
 11	broke	broke	ADJ	JJ	Degree=Pos	8	acl:relcl	8:acl:relcl	_
@@ -2015,7 +2015,7 @@
 5	40	40	NUM	CD	NumType=Card	6	nummod	6:nummod	_
 6	goals	goal	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 7	last	last	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
-8	season	season	NOUN	NN	Number=Sing	4	obl:tmod	4:obl:tmod	_
+8	season	season	NOUN	NN	Number=Sing	4	obl:unmarked	4:obl:unmarked	_
 
 1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
 2	one	one	NUM	CD	NumType=Card	3	nummod	3:nummod	_
@@ -2127,7 +2127,7 @@
 5	pumpkin	pumpkin	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	pie	pie	NOUN	NN	Number=Sing	3	obj	3:obj	_
 7	last	last	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
-8	Thanksgiving	Thanksgiving	PROPN	NNP	Number=Sing	3	obl:tmod	3:obl:tmod	SpaceAfter=No
+8	Thanksgiving	Thanksgiving	PROPN	NNP	Number=Sing	3	obl:unmarked	3:obl:unmarked	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 1-2	'Twas	_	_	_	_	_	_	_	_
@@ -2279,7 +2279,7 @@
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|6:nsubj	_
 2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	breakfast	breakfast	NOUN	NN	Number=Sing	2	obj	2:obj	_
-4	today	today	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
+4	today	today	NOUN	NN	Number=Sing	2	obl:unmarked	2:obl:unmarked	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
 6	hated	hate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
@@ -2333,7 +2333,7 @@
 9	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	5	conj	5:conj:or	_
 10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
 11	bad	bad	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
-12	day	day	NOUN	NN	Number=Sing	9	obl:tmod	9:obl:tmod	SpaceAfter=No
+12	day	day	NOUN	NN	Number=Sing	9	obl:unmarked	9:obl:unmarked	SpaceAfter=No
 13	?	?	PUNCT	.	_	5	punct	5:punct	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
@@ -2803,7 +2803,7 @@
 4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	head	head	NOUN	NN	Number=Sing	3	obj	3:obj	_
 6	every	every	DET	DT	_	7	det	7:det	_
-7	time	time	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	_
+7	time	time	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 9	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
 10	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
@@ -3005,7 +3005,7 @@
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	cake	cake	NOUN	NN	Number=Sing	2	obj	2:obj	_
 5	last	last	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
-6	night	night	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
+6	night	night	NOUN	NN	Number=Sing	2	obl:unmarked	2:obl:unmarked	_
 
 1	Bake	bake	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	in	in	ADP	IN	_	3	case	3:case	_
@@ -3779,7 +3779,7 @@
 11	Chile	Chile	PROPN	NNP	Number=Sing	8	obl	8:obl:in	_
 
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
-2	month	month	NOUN	NN	Number=Sing	5	obl:tmod	5:obl:tmod	SpaceAfter=No
+2	month	month	NOUN	NN	Number=Sing	5	obl:unmarked	5:obl:unmarked	SpaceAfter=No
 3	,	,	PUNCT	,	_	5	punct	5:punct	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|12:nsubj	_
 5	paid	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -3867,7 +3867,7 @@
 4	with	with	ADP	IN	_	6	case	6:case	_
 5	Bob	Bob	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	Barnett	Barnett	PROPN	NNP	Number=Sing	3	nmod	3:nmod:with	_
-7	Thursday	Thursday	PROPN	NNP	Number=Sing	3	obl:tmod	3:obl:tmod	_
+7	Thursday	Thursday	PROPN	NNP	Number=Sing	3	obl:unmarked	3:obl:unmarked	_
 8	at	at	ADP	IN	_	9	case	9:case	_
 9	noon	noon	NOUN	NN	Number=Sing	7	nmod	7:nmod:at	_
 
@@ -3960,7 +3960,7 @@
 1	Move	move	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	3pm	3pm	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
-4	meeting	meeting	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_
+4	meeting	meeting	NOUN	NN	Number=Sing	1	obl:unmarked	1:obl:unmarked	_
 5	to	to	ADP	TO	_	6	case	6:case	_
 6	4:30	4:30	NUM	CD	NumType=Card	1	obl	1:obl:to	_
 
@@ -4372,7 +4372,7 @@
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
 3	exercise	exercise	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	every	every	DET	DT	_	5	det	5:det	_
-5	day	day	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_
+5	day	day	NOUN	NN	Number=Sing	1	obl:unmarked	1:obl:unmarked	_
 
 1	Ping	ping	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
@@ -4808,7 +4808,7 @@
 9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
 10	rebuilt	rebuild	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 11	last	last	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
-12	year	year	NOUN	NN	Number=Sing	10	obl:tmod	10:obl:tmod	SpaceAfter=No
+12	year	year	NOUN	NN	Number=Sing	10	obl:unmarked	10:obl:unmarked	SpaceAfter=No
 13	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
@@ -4817,7 +4817,7 @@
 4	reggae	reggae	NOUN	NN	Number=Sing	3	obj	3:obj	_
 5	every	every	DET	DT	_	7	det	7:det	_
 6	Friday	Friday	PROPN	NNP	Number=Sing	7	compound	7:compound	_
-7	night	night	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	_
+7	night	night	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	_
 8	at	at	ADP	IN	_	10	case	10:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	harbor	harbor	NOUN	NN	Number=Sing	3	obl	3:obl:at	SpaceAfter=No
