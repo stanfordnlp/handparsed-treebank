@@ -1,0 +1,235 @@
+((S
+   (NP (JJ Several) (NNS countries))
+   (VP (VBP mine)
+     (NP (NN lithium))
+     (PP (IN for)
+       (NP (NNS batteries))))
+   (. .)))
+
+((S
+   (NP (NNS Dwarves))
+   (VP (VBP mine)
+     (ADVP (RB deep))
+     (PP (IN beneath)
+       (NP (DT the) (NN mountain))))
+   (. .)))
+
+((SQ (VBP Do)
+   (NP (PRP they))
+   (ADVP (RB still))
+   (VP (VB mine)
+     (NP (NN coal))
+     (ADVP (RB there)))
+   (. ?)))
+
+((S
+   (NP
+     (NP (NNS Companies))
+     (SBAR
+       (WHNP (WDT that))
+       (S
+         (VP (VBP mine)
+           (NP (NN cobalt))))))
+   (VP (VBP face)
+     (NP (NN scrutiny)))
+   (. .)))
+
+((S
+   (NP (NNS Robots))
+   (VP (MD could)
+     (VP (VB mine)
+       (NP (NNS asteroids))
+       (PP (IN within)
+         (NP (NNS decades)))))
+   (. .)))
+
+((SBARQ
+   (WHADVP (WRB Why))
+   (S
+     (VP (VB mine)
+       (NP (NN coal))
+       (SBAR
+         (WHADVP (WRB when))
+         (S
+           (NP (NN solar))
+           (VP (VBZ is)
+             (ADJP (JJR cheaper)))))))
+   (. ?)))
+
+((S
+   (VP (VB Let)
+     (S
+       (NP (PRP 's))
+       (VP (VB mine)
+         (NP (DT this) (NN vein))
+         (PP (IN before)
+           (NP (NN lunch))))))
+   (. .)))
+
+((S
+   (S
+     (NP (PRP You))
+     (VP (VBP mine)))
+   (, ,)
+   (CC and)
+   (S
+     (NP (PRP I))
+     (VP (MD 'll)
+       (VP (VB haul)
+         (NP (DT the) (NN ore)))))
+   (. .)))
+
+((S
+   (NP
+     (NP (NNS Dwarves))
+     (SBAR
+       (WHNP (WP who))
+       (S
+         (VP (VBP mine)
+           (ADVP (RB too) (RB greedily))))))
+   (VP (VBP wake)
+     (NP (JJ ancient) (NNS evils)))
+   (. .)))
+
+((S
+   (NP (PRP They))
+   (VP (VBP dig) (CC and) (VBP mine)
+     (NP (DT all) (NN winter)))
+   (. .)))
+
+((S
+   (NP (DT The) (NN mine))
+   (VP (VBD flooded)
+     (NP (JJ last) (NN spring)))
+   (. .)))
+
+((S
+   (NP (NNS Rescuers))
+   (VP (VBD reached)
+     (NP (DT the) (NN mine))
+     (PP (IN before)
+       (NP (NN dawn))))
+   (. .)))
+
+((S
+   (NP (NN Mine) (NNS workers))
+   (VP (VBD went)
+     (PP (IN on)
+       (NP (NN strike)))
+     (NP (NNP Tuesday)))
+   (. .)))
+
+((S
+   (NP (PRP$ Their) (NN mine))
+   (VP (VBD produced)
+     (NP (NN copper))
+     (PP (IN for)
+       (NP (DT a) (NN century))))
+   (. .)))
+
+((S
+   (NP (NNS Rescuers))
+   (VP (VBD searched)
+     (NP (DT the) (VBN abandoned) (NN mine))
+     (PP (IN for)
+       (NP (NNS survivors))))
+   (. .)))
+
+((S
+   (NP (NN Mine) (NN safety) (NNS rules))
+   (VP (VBD changed)
+     (PP (IN after)
+       (NP (DT the) (NN collapse))))
+   (. .)))
+
+((S
+   (NP (NNS Officials))
+   (VP (VBD closed)
+     (NP
+       (NP (DT the) (NN company) (POS 's))
+       (JJS largest)
+       (NN mine)))
+   (. .)))
+
+((S
+   (NP (NN Gold) (NN mine) (NNS tours))
+   (VP (VBP run)
+     (ADVP (RB daily))
+     (PP (IN in)
+       (NP (NN summer))))
+   (. .)))
+
+((S
+   (S
+     (NP (PRP Mine))
+     (ADVP (RB still))
+     (VP (VBZ works)))
+   (, ,)
+   (CC but)
+   (S
+     (NP (PRP hers))
+     (VP (VBD broke)))
+   (. .)))
+
+((S
+   (NP (PRP Mine))
+   (VP (VBD broke)
+     (PP (IN on)
+       (NP (DT the) (JJ first) (NN day))))
+   (. .)))
+
+((S
+   (NP (PRP Theirs))
+   (VP (VBD was)
+     (ADJP (JJR cheaper)
+       (PP (IN than)
+         (NP (PRP mine)))))
+   (. .)))
+
+((S
+   (VP (VB Let)
+     (S
+       (NP (PRP 's))
+       (VP (VB take)
+         (NP (PRP mine))
+         (NP (DT this) (NN time)))))
+   (. .)))
+
+((S
+   (NP
+     (NP (DT A) (NN friend))
+     (PP (IN of)
+       (NP (PRP mine))))
+   (VP (VBZ mines)
+     (NP (NN bitcoin)))
+   (. .)))
+
+((FRAG
+   (WHADVP (WRB Why))
+   (NP (PRP mine) (CC and) (RB not) (PRP yours))
+   (. ?)))
+
+((S
+   (S
+     (NP (PRP You))
+     (VP (VBP take)
+       (NP (PRP yours))))
+   (, ,)
+   (CC and)
+   (S
+     (NP (PRP I))
+     (VP (MD 'll)
+       (VP (VB take)
+         (NP (PRP mine)))))
+   (. .)))
+
+((S
+   (NP (DT The) (NN decision))
+   (VP (VBZ is)
+     (NP (PRP mine) (, ,) (RB not) (PRP theirs)))
+   (. .)))
+
+((SQ (VBZ Is)
+   (NP (DT this) (NN coat))
+   (NP (PRP yours) (CC or) (PRP mine))
+   (. ?)))

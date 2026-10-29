@@ -1,0 +1,153 @@
+((S
+   (NP (PRP She))
+   (VP (VBD bought)
+     (NP (CD three) (JJ new) (NNS bras))
+     (PP (IN at)
+       (NP (DT the) (NN mall))))
+   (. .)))
+
+((S
+   (NP (DT The) (NN store))
+   (VP (VBZ sells)
+     (NP (NNS bras) (, ,) (NNS socks) (, ,) (CC and) (NN underwear)))
+   (. .)))
+
+((S
+   (NP (NNS Sports) (NNS bras))
+   (VP (VBP are)
+     (PP (IN on)
+       (NP (NN sale)))
+     (NP (DT this) (NN week)))
+   (. .)))
+
+((S
+   (VP
+     (VP (VB Wash)
+       (NP (DT the) (NNS bras))
+       (PP (IN in)
+         (NP (JJ cold) (NN water))))
+     (CC and)
+     (VP (VB hang)
+       (NP (PRP them))
+       (S
+         (VP (TO to)
+           (VP (VB dry))))))
+   (. .)))
+
+((S
+   (NP
+     (NP (JJS Most))
+     (PP (IN of)
+       (NP (PRP$ her) (JJ old) (NNS bras))))
+   (ADVP (RB no) (RBR longer))
+   (VP (VBP fit))
+   (. .)))
+
+((S
+   (NP (DT The) (NN mine))
+   (VP (VBD closed)
+     (PP (IN in)
+       (NP (CD 1987)))
+     (PP (IN after)
+       (NP (DT the) (NN accident))))
+   (. .)))
+
+((S
+   (NP (PRP$ His) (NN grandfather))
+   (VP (VBD worked)
+     (PP (IN in)
+       (NP (DT a) (NN coal) (NN mine)))
+     (PP (IN for)
+       (NP (CD forty) (NNS years))))
+   (. .)))
+
+((S
+   (NP (DT The) (NN ship))
+   (VP (VBD struck)
+     (NP (DT a) (NN mine))
+     (PP (IN near)
+       (NP (DT the) (NN harbor))))
+   (. .)))
+
+((S
+   (NP (DT Each) (NN mine))
+   (VP (VBZ employs)
+     (NP
+       (QP (RB about) (CD two) (CD hundred))
+       (NNS people)))
+   (. .)))
+
+((S
+   (NP (DT The) (JJ old) (NN copper) (NN mine))
+   (VP (VBZ is)
+     (ADVP (RB now))
+     (NP (DT a) (NN museum)))
+   (. .)))
+
+((S
+   (NP (DT That) (NN website))
+   (VP (VBZ is)
+     (NP
+       (NP (DT a) (NN gold) (NN mine))
+       (PP (IN of)
+         (NP (JJ useful) (NN information)))))
+   (. .)))
+
+((S
+   (NP (NNS Workers))
+   (VP (VBP mine)
+     (NP
+       (NP
+         (QP (RB about) (CD ten))
+         (NNS tons))
+       (PP (IN of)
+         (NP (NN ore))))
+     (NP (DT every) (NN day)))
+   (. .)))
+
+((S
+   (NP (PRP They))
+   (VP (VBP mine)
+     (NP (NN copper))
+     (PP (IN in)
+       (NP (DT the) (JJ northern) (NNS hills))))
+   (. .)))
+
+((S
+   (NP (PRP We))
+   (VP (VBP mine)
+     (NP (DT the) (NN data))
+     (PP (IN for)
+       (NP (NNS patterns)))
+     (PP (IN before)
+       (S
+         (VP (VBG training)))))
+   (. .)))
+
+((S
+   (NP (JJ Many) (JJ small) (NNS companies))
+   (VP (VBP mine)
+     (NP (NN bitcoin))
+     (PP (IN in)
+       (NP (DT this) (NN region))))
+   (. .)))
+
+((S
+   (VP
+     (VP (VB Mine)
+       (NP (DT the) (JJ north) (NN tunnel))
+       (ADVP (RB first)))
+     (, ,)
+     (ADVP (RB then))
+     (VP (VB move)
+       (ADVP (RB east))))
+   (. .)))
+
+((S
+   (NP (DT Some) (NNS villagers))
+   (ADVP (RB still))
+   (VP (VBP mine)
+     (NP (NN salt))
+     (PP (IN by)
+       (NP (NN hand))))
+   (. .)))

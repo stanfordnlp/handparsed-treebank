@@ -1,0 +1,284 @@
+# sent_id = mine-test-verb-0001
+# text = Several countries mine lithium for batteries.
+1	Several	several	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	countries	country	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	mine	mine	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	lithium	lithium	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	for	for	ADP	IN	_	6	case	6:case	_
+6	batteries	battery	NOUN	NNS	Number=Plur	3	obl	3:obl:for	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-test-verb-0002
+# text = Dwarves mine deep beneath the mountain.
+1	Dwarves	dwarf	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+2	mine	mine	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	deep	deep	ADV	RB	_	2	advmod	2:advmod	_
+4	beneath	beneath	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	mountain	mountain	NOUN	NN	Number=Sing	2	obl	2:obl:beneath	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-verb-0003
+# text = Do they still mine coal there?
+1	Do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+3	still	still	ADV	RB	_	4	advmod	4:advmod	_
+4	mine	mine	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	coal	coal	NOUN	NN	Number=Sing	4	obj	4:obj	_
+6	there	there	ADV	RB	PronType=Dem	4	advmod	4:advmod	SpaceAfter=No
+7	?	?	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = mine-test-verb-0004
+# text = Companies that mine cobalt face scrutiny.
+1	Companies	company	NOUN	NNS	Number=Plur	5	nsubj	3:nsubj|5:nsubj	_
+2	that	that	PRON	WDT	PronType=Rel	3	nsubj	1:ref	_
+3	mine	mine	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
+4	cobalt	cobalt	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	face	face	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	scrutiny	scrutiny	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
+7	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = mine-test-verb-0005
+# text = Robots could mine asteroids within decades.
+1	Robots	robot	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	mine	mine	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	asteroids	asteroid	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+5	within	within	ADP	IN	_	6	case	6:case	_
+6	decades	decade	NOUN	NNS	Number=Plur	3	obl	3:obl:within	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-test-verb-0006
+# text = Why mine coal when solar is cheaper?
+1	Why	why	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
+2	mine	mine	VERB	VB	VerbForm=Inf	0	root	0:root	_
+3	coal	coal	NOUN	NN	Number=Sing	2	obj	2:obj	_
+4	when	when	ADV	WRB	PronType=Int	7	advmod	7:advmod	_
+5	solar	solar	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+7	cheaper	cheap	ADJ	JJR	Degree=Cmp	2	advcl	2:advcl:when	SpaceAfter=No
+8	?	?	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-verb-0007
+# text = Let's mine this vein before lunch.
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+2	's	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	1:obj|3:nsubj:xsubj	_
+3	mine	mine	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_
+5	vein	vein	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	before	before	ADP	IN	_	7	case	7:case	_
+7	lunch	lunch	NOUN	NN	Number=Sing	3	obl	3:obl:before	SpaceAfter=No
+8	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+# sent_id = mine-test-verb-0008
+# text = You mine, and I'll haul the ore.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	mine	mine	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	,	_	7	punct	7:punct	_
+4	and	and	CCONJ	CC	_	7	cc	7:cc	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	SpaceAfter=No
+6	'll	will	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+7	haul	haul	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	ore	ore	NOUN	NN	Number=Sing	7	obj	7:obj	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-verb-0009
+# text = Dwarves who mine too greedily wake ancient evils.
+1	Dwarves	dwarf	NOUN	NNS	Number=Plur	6	nsubj	3:nsubj|6:nsubj	_
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	1:ref	_
+3	mine	mine	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
+4	too	too	ADV	RB	_	5	advmod	5:advmod	_
+5	greedily	greedily	ADV	RB	_	3	advmod	3:advmod	_
+6	wake	wake	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+7	ancient	ancient	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	evils	evil	NOUN	NNS	Number=Plur	6	obj	6:obj	SpaceAfter=No
+9	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = mine-test-verb-0010
+# text = They dig and mine all winter.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj|4:nsubj	_
+2	dig	dig	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	mine	mine	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+5	all	all	DET	DT	PronType=Tot	6	det	6:det	_
+6	winter	winter	NOUN	NN	Number=Sing	2	obl:unmarked	2:obl:unmarked	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-noun-0001
+# text = The mine flooded last spring.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	mine	mine	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	flooded	flood	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	last	last	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	spring	spring	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-test-noun-0002
+# text = Rescuers reached the mine before dawn.
+1	Rescuers	rescuer	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+2	reached	reach	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	mine	mine	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	before	before	ADP	IN	_	6	case	6:case	_
+6	dawn	dawn	NOUN	NN	Number=Sing	2	obl	2:obl:before	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-noun-0003
+# text = Mine workers went on strike Tuesday.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	workers	worker	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	went	go	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	on	on	ADP	IN	_	5	case	5:case	_
+5	strike	strike	NOUN	NN	Number=Sing	3	obl	3:obl:on	_
+6	Tuesday	Tuesday	PROPN	NNP	Number=Sing	3	obl:unmarked	3:obl:unmarked	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-test-noun-0004
+# text = Their mine produced copper for a century.
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	mine	mine	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	produced	produce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	copper	copper	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	for	for	ADP	IN	_	7	case	7:case	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	century	century	NOUN	NN	Number=Sing	3	obl	3:obl:for	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-test-noun-0005
+# text = Rescuers searched the abandoned mine for survivors.
+1	Rescuers	rescuer	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+2	searched	search	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	abandoned	abandon	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	amod	5:amod	_
+5	mine	mine	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	for	for	ADP	IN	_	7	case	7:case	_
+7	survivors	survivor	NOUN	NNS	Number=Plur	2	obl	2:obl:for	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-noun-0006
+# text = Mine safety rules changed after the collapse.
+1	Mine	mine	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	safety	safety	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	rules	rule	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+4	changed	change	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	after	after	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	collapse	collapse	NOUN	NN	Number=Sing	4	obl	4:obl:after	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = mine-test-noun-0007
+# text = Officials closed the company's largest mine.
+1	Officials	official	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+2	closed	close	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	company	company	NOUN	NN	Number=Sing	7	nmod:poss	7:nmod:poss	SpaceAfter=No
+5	's	's	PART	POS	_	4	case	4:case	_
+6	largest	large	ADJ	JJS	Degree=Sup	7	amod	7:amod	_
+7	mine	mine	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-noun-0008
+# text = Gold mine tours run daily in summer.
+1	Gold	gold	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	mine	mine	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	tours	tour	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+4	run	run	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	daily	daily	ADV	RB	_	4	advmod	4:advmod	_
+6	in	in	ADP	IN	_	7	case	7:case	_
+7	summer	summer	NOUN	NN	Number=Sing	4	obl	4:obl:in	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = mine-test-pron-0001
+# text = Mine still works, but hers broke.
+1	Mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	_
+2	still	still	ADV	RB	_	3	advmod	3:advmod	_
+3	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	7	punct	7:punct	_
+5	but	but	CCONJ	CC	_	7	cc	7:cc	_
+6	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nsubj	7:nsubj	_
+7	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	3:conj:but	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-test-pron-0002
+# text = Mine broke on the first day.
+1	Mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	2:nsubj	_
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	on	on	ADP	IN	_	6	case	6:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	6	amod	6:amod	_
+6	day	day	NOUN	NN	Number=Sing	2	obl	2:obl:on	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-pron-0003
+# text = Theirs was cheaper than mine.
+1	Theirs	their	PRON	PRP	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	cheaper	cheap	ADJ	JJR	Degree=Cmp	0	root	0:root	_
+4	than	than	ADP	IN	_	5	case	5:case	_
+5	mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	3:obl:than	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = mine-test-pron-0004
+# text = Let's take mine this time.
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+2	's	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	1:obj|3:nsubj:xsubj	_
+3	take	take	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
+4	mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obj	3:obj	_
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	6:det	_
+6	time	time	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	SpaceAfter=No
+7	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+# sent_id = mine-test-pron-0005
+# text = A friend of mine mines bitcoin.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
+2	friend	friend	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	2:nmod:of	_
+5	mines	mine	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	bitcoin	bitcoin	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
+7	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = mine-test-pron-0006
+# text = Why mine and not yours?
+1	Why	why	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
+2	mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	_
+3	and	and	CCONJ	CC	_	5	cc	5:cc	_
+4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
+5	yours	your	PRON	PRP	Person=2|Poss=Yes|PronType=Prs	2	conj	2:conj:and	SpaceAfter=No
+6	?	?	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-pron-0007
+# text = You take yours, and I'll take mine.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	take	take	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	yours	your	PRON	PRP	Person=2|Poss=Yes|PronType=Prs	2	obj	2:obj	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	8:punct	_
+5	and	and	CCONJ	CC	_	8	cc	8:cc	_
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	SpaceAfter=No
+7	'll	will	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+8	take	take	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	_
+9	mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	obj	8:obj	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = mine-test-pron-0008
+# text = The decision is mine, not theirs.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	decision	decision	NOUN	NN	Number=Sing	4	nsubj	4:nsubj|7:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+4	mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	,	_	7	punct	7:punct	_
+6	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
+7	theirs	their	PRON	PRP	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	conj	4:conj	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = mine-test-pron-0009
+# text = Is this coat yours or mine?
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
+3	coat	coat	NOUN	NN	Number=Sing	4	nsubj	4:nsubj|6:nsubj	_
+4	yours	your	PRON	PRP	Person=2|Poss=Yes|PronType=Prs	0	root	0:root	_
+5	or	or	CCONJ	CC	_	6	cc	6:cc	_
+6	mine	my	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	conj	4:conj:or	SpaceAfter=No
+7	?	?	PUNCT	.	_	4	punct	4:punct	_
+
