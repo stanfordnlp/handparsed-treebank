@@ -7,7 +7,7 @@
     (CC but)
     (S
       (NP (PRP$ their) (NNS oysters))
-      (VP (VBZ leave)
+      (VP (VBP leave)
         (NP (NN something))
         (S
           (VP (TO to)

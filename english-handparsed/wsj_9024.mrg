@@ -42,11 +42,11 @@
     (NP (NN Chicken) (NN soup))
     (VP (MD can)
       (VP
-        (VBP make)
+        (VB make)
         (S
           (NP (PRP you))
           (VP
-            (VP (VBP feel) (ADVP (RBR better)))))
+            (VP (VB feel) (ADVP (RBR better)))))
         (SBAR
           (IN if)
           (S
