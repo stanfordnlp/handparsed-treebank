@@ -293,7 +293,7 @@
         (S
           (VP (TO to)
             (VP (VB endorse)
-              (NP (JJ healthier) (NNS foods)))))))
+              (NP (JJR healthier) (NNS foods)))))))
     (. .) ))
 ( (S
     (NP (DT Another) (NN boss))

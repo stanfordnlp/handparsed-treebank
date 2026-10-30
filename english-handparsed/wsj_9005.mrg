@@ -163,7 +163,7 @@
               (PP (IN from)
                 (NP
                   (QP ($ EUR) (CD 7.4) (CD million)))
-                (NP-TMP (DT a) (NN year) (IN ago))))))))
+                (ADVP-TMP (NP (DT a) (NN year)) (RB ago))))))))
     (. .)))
 
 ( (S

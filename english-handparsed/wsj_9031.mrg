@@ -94,7 +94,7 @@
               (NP (CD one))
               (PP (IN of)
                 (NP
-                  (NP (DT the) (JJR greatest) (JJ English) (NNS  writers))
+                  (NP (DT the) (JJS greatest) (JJ English) (NNS  writers))
                   (S
                     (NP-SBJ (-NONE- *))
                     (VP (TO to)

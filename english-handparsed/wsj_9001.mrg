@@ -8,7 +8,7 @@
           (NP
             (NP (JJ marine) (NNS burials))
             (PP (IN of)
-              (NP (NN chemical) (NNS weapons))))))))
+              (NP (JJ chemical) (NNS weapons))))))))
     (VP
       (VBN increased)
       (PP (RB prior)
