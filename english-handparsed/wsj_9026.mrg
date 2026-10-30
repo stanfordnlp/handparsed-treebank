@@ -37,7 +37,7 @@
 
 
 (
-  (SQ (NNP Does)
+  (SQ (VBZ Does)
     (NP (NNS homeowners) (NN insurance))
     (VP (VB cover)
       (NP (NNS tornadoes)))
@@ -135,7 +135,7 @@
 ( (S
   (NP (NNS Dogs))
   (VP
-   (VB like)
+   (VBP like)
    (S
     (VP
      (TO to)

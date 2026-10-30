@@ -568,7 +568,7 @@
         (WHADVP (WRB when))
         (S
           (NP (PRP you))
-          (VP (VBZ are)
+          (VP (VBP are)
             (VP (VBN done))))))
     (. .)))
 

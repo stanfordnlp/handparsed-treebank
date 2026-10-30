@@ -2,7 +2,7 @@
 (ROOT
   (S
     (NP (NNP Trump))
-    (VP (VBP can)
+    (VP (MD can)
       (VP (VB succeed)))
         (SBAR
           (IN if)
@@ -34,7 +34,7 @@
   (SBARQ
     (WHADVP (WRB How) (RB far))
     (SQ
-      (VBZ did)
+      (VBD did)
       (NP (DT the) (NN sea) (NN level))
       (VP (VB drop)
         (PP (IN in)

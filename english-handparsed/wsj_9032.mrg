@@ -403,7 +403,7 @@
     (VP (VBP Plan)
       (NP (NN Venture))
       (S-PRP
-        (VP (VB to)
+        (VP (TO to)
           (VP (VB Mine)
             (NP (NN Copper))
             (PP (IN in)

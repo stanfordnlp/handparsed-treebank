@@ -154,7 +154,7 @@
 
 ((SBARQ
   (WHNP (WP Who))
-  (SQ (VP (VB met)
+  (SQ (VP (VBD met)
           (NP (PRP you))
           (PP (IN at)
 	      (NP (DT the) (NN airport)))))

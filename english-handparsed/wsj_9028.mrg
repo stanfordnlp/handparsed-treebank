@@ -17,7 +17,7 @@
 
 (ROOT
   (S
-    (VP (VBG Swing)
+    (VP (VB Swing)
       (NP (PRP$ your) (NN partner))
       (ADVP (RB round) (CC and) (RB round)))
     (. .)))
@@ -188,7 +188,7 @@
       (SBAR
         (WHNP (WP who))
         (S
-          (VP (VBZ like)
+          (VP (VBP like)
             (NP (NNS cats))))))
     (VP (VBP eat)
       (NP (NN sausage)))
