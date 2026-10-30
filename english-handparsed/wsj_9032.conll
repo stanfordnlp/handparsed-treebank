@@ -37,7 +37,7 @@
 # sent_id = 5
 1	Hello	hello	INTJ	UH	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
-3	sir	sir	PROPN	NNP	Number=Sing	1	dep	1:dep	SpaceAfter=No
+3	sir	sir	NOUN	NN	Number=Sing	1	dep	1:dep	SpaceAfter=No
 4	!!!	!!!	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 6
@@ -331,7 +331,7 @@
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
 4	center	center	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 5	of	of	ADP	IN	_	6	case	6:case	_
-6	hers	hers	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
+6	hers	her	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	4:nmod:of	_
 7	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
 9	agricultural	agricultural	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
@@ -413,8 +413,8 @@
 # sent_id = 43
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	limit	limit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	obj	2:obj	_
-4	boasting	boast	VERB	VBG	VerbForm=Ger	3	amod	3:amod	_
+3	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	boasting	boasting	NOUN	NN	Number=Sing	2	obj	2:obj	_
 5	to	to	ADP	IN	_	7	case	7:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	work	work	NOUN	NN	Number=Sing	2	obl	2:obl:to|10:nsubj	_
@@ -464,8 +464,8 @@
 4	Itochu	Itochu	PROPN	NNP	Number=Sing	2	appos	2:appos	_
 5	Plan	plan	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	Venture	venture	NOUN	NN	Number=Sing	5	obj	5:obj	_
-7	to	to	AUX	VB	VerbForm=Inf	8	aux	8:aux	_
-8	Mine	mine	VERB	VB	VerbForm=Inf	5	dep	5:dep	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	Mine	mine	VERB	VB	VerbForm=Inf	5	advcl	5:advcl:to	_
 9	Copper	copper	NOUN	NN	Number=Sing	8	obj	8:obj	_
 10	in	in	ADP	IN	_	11	case	11:case	_
 11	Chile	Chile	PROPN	NNP	Number=Sing	8	obl	8:obl:in	_

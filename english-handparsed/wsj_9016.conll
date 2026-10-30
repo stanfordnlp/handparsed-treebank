@@ -21,7 +21,7 @@
 2	last	last	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	week	week	NOUN	NN	Number=Sing	1	dep	1:dep	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	Flyers	Flyers	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+5	Flyers	Flyers	PROPN	NNPS	Number=Plur	6	nsubj	6:nsubj	_
 6	won	win	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 
 # sent_id = 3

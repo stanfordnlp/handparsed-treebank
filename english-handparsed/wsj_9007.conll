@@ -111,7 +111,7 @@
 4	Wrigley	Wrigley	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
 6	manage	manage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	dep	2:dep	_
-7	Cubs	Cubs	PROPN	NNP	Number=Sing	6	obj	6:obj	SpaceAfter=No
+7	Cubs	Cubs	PROPN	NNPS	Number=Plur	6	obj	6:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = 10
@@ -125,7 +125,7 @@
 8	2007	2007	NUM	CD	NumType=Card	6	nummod	6:nummod	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	10:punct	_
 10	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-11	gaming	gaming	NUM	CD	NumType=Card	13	nummod	13:nummod	_
+11	gaming	gaming	NOUN	NN	Number=Sing	13	compound	13:compound	_
 12	research	research	NOUN	NN	Number=Sing	13	compound	13:compound	_
 13	firm	firm	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	10:punct	_
@@ -312,7 +312,7 @@
 1	Bold	bold	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	move	move	NOUN	NN	Number=Sing	0	root	0:root	_
 3	for	for	ADP	IN	_	4	case	4:case	_
-4	Cubs	Cubs	PROPN	NNP	Number=Sing	2	nmod	2:nmod:for	SpaceAfter=No
+4	Cubs	Cubs	PROPN	NNPS	Number=Plur	2	nmod	2:nmod:for	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
 6	risky	risky	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	one	one	NOUN	NN	Number=Sing	2	appos	2:appos	_
@@ -331,7 +331,7 @@
 1	Jobs	Jobs	PROPN	NNP	Number=Sing	0	root	0:root	_
 2	on	on	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-4	iPod	ipod	NOUN	NN	Number=Sing	1	nmod	1:nmod:on	SpaceAfter=No
+4	iPod	iPod	PROPN	NNP	Number=Sing	1	nmod	1:nmod:on	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 34
@@ -340,7 +340,7 @@
 3	move	move	NOUN	NN	Number=Sing	2	obj	2:obj	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	endorse	endorse	VERB	VB	VerbForm=Inf	3	acl	3:acl:to	_
-6	healthier	healthier	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+6	healthier	healthy	ADJ	JJR	Degree=Cmp	7	amod	7:amod	_
 7	foods	food	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 

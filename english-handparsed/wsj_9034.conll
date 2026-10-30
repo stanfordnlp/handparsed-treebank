@@ -69,7 +69,7 @@
 
 # sent_id = 10
 1	Go	go	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	home	home	NOUN	NN	Number=Sing	1	obj	1:obj	_
+2	home	home	ADV	RB	_	1	advmod	1:advmod	_
 
 # sent_id = 11
 1	Hand	hand	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -201,7 +201,7 @@
 
 # sent_id = 27
 1	Call	call	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	dad	dad	PROPN	NNP	Number=Sing	1	obj	1:obj	_
+2	dad	dad	NOUN	NN	Number=Sing	1	obj	1:obj	_
 3	about	about	ADP	IN	_	6	case	6:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	rent	rent	NOUN	NN	Number=Sing	6	compound	6:compound	_
@@ -267,7 +267,7 @@
 7	when	when	ADV	WRB	PronType=Int	9	advmod	9:advmod	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 9	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl	_
-10	home	home	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
+10	home	home	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 35
@@ -590,7 +590,7 @@
 
 # sent_id = 84
 1	Park	park	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	your	you	PRON	PRP	_	3	dep	3:dep	_
+2	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	car	car	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	behind	behind	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -629,7 +629,7 @@
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	when	when	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
 4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_
-5	are	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	1:advcl	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	1:punct	_
 

@@ -1,6 +1,6 @@
 # sent_id = 0
 1	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
-2	can	can	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	succeed	succeed	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	if	if	SCONJ	IN	_	6	mark	6:mark	_
 5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
@@ -29,7 +29,7 @@
 # sent_id = 3
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	far	far	ADV	RB	Degree=Pos	7	advmod	7:advmod	_
-3	did	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	sea	sea	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	level	level	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
@@ -90,10 +90,10 @@
 16	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 17	to	to	PART	TO	_	19	mark	19:mark	_
 18	be	be	AUX	VB	VerbForm=Inf	19	cop	19:cop	_
-19	one	one	NOUN	NN	Number=Sing	16	dep	16:dep	_
+19	one	one	NUM	CD	NumType=Card	16	dep	16:dep	_
 20	of	of	ADP	IN	_	24	case	24:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
-22	greatest	great	ADJ	JJR	Degree=Cmp	24	amod	24:amod	_
+22	greatest	great	ADJ	JJS	Degree=Sup	24	amod	24:amod	_
 23	English	English	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
 24	writers	writer	NOUN	NNS	Number=Plur	19	nmod	19:nmod:of	_
 25	to	to	PART	TO	_	28	mark	28:mark	_
@@ -188,7 +188,7 @@
 5	works	work	NOUN	NNS	Number=Plur	3	obj	3:obj	_
 6	of	of	ADP	IN	_	9	case	9:case	_
 7	poet	poet	NOUN	NN	Number=Sing	9	compound	9:compound	_
-8	Charles	charle	NOUN	NNS	Number=Plur	9	compound	9:compound	_
+8	Charles	Charles	PROPN	NNP	Number=Sing	9	compound	9:compound	_
 9	Baudelaire	Baudelaire	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	_
 10	as	as	ADV	RB	_	3	advmod	3:advmod	_
 11	well	well	ADV	RB	Degree=Pos	10	fixed	10:fixed	SpaceAfter=No

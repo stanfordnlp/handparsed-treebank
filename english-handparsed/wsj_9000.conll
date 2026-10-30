@@ -169,9 +169,9 @@
 
 # sent_id = 12
 1	Bin	Bin	PROPN	NNP	Number=Sing	2	compound	2:compound	_
-2	Laden	Laden	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+2	Laden	Laden	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|6:nsubj:xsubj	_
 3	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-4	home	home	NOUN	NN	Number=Sing	3	obj	3:obj	_
+4	home	home	ADV	RB	_	3	advmod	3:advmod	_
 5	to	to	PART	TO	_	6	mark	6:mark	_
-6	roost	roost	VERB	VB	VerbForm=Inf	3	advcl	3:advcl:to	_
+6	roost	roost	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
 

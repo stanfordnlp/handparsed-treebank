@@ -14,7 +14,7 @@
 
 # sent_id = 1
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	dep	3:dep	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	fallen	fall	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	in	in	ADP	IN	_	5	case	5:case	_
 5	love	love	NOUN	NN	Number=Sing	3	obl	3:obl:in	_

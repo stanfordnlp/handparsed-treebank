@@ -123,7 +123,7 @@
 7	Kent	Kent	PROPN	NNP	Number=Sing	5	nmod	5:nmod:in	_
 8	with	with	ADP	IN	_	10	case	10:case	_
 9	suspected	suspect	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	10:amod	_
-10	osteoporosis	osteoporosis	NOUN	NNS	Number=Plur	5	nmod	5:nmod:with	_
+10	osteoporosis	osteoporosis	NOUN	NN	Number=Sing	5	nmod	5:nmod:with	_
 11	facing	face	VERB	VBG	VerbForm=Ger	4	dep	4:dep	_
 12	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
 13	six	six	NUM	CD	NumType=Card	15	nummod	15:nummod	SpaceAfter=No
@@ -187,8 +187,8 @@
 17	7.4	7.4	NUM	CD	NumType=Card	18	compound	18:compound	_
 18	million	million	NUM	CD	NumType=Card	16	nummod	16:nummod	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
-20	year	year	NOUN	NN	Number=Sing	16	obl:tmod	16:obl:tmod	_
-21	ago	ago	ADP	IN	_	20	amod	20:amod	SpaceAfter=No
+20	year	year	NOUN	NN	Number=Sing	21	obl:npmod	21:obl:npmod	_
+21	ago	ago	ADV	RB	_	16	advmod	16:advmod	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = 8

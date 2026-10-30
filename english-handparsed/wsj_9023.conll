@@ -10,7 +10,7 @@
 1	When	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 3	arrived	arrive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	7:advcl	_
-4	home	home	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+4	home	home	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 7	cooked	cook	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_

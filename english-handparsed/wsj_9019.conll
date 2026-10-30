@@ -2,14 +2,14 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	money	money	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-4	yours	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
+4	yours	your	PRON	PRP	Case=Gen|Person=2|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 # sent_id = 1
 1	Which	which	DET	WDT	PronType=Int	2	det	2:det	_
 2	one	one	NOUN	NN	Number=Sing	3	obj	3:obj	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-4	yours	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+4	yours	your	PRON	PRP	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
 5	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 2

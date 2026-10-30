@@ -156,11 +156,11 @@
 14	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 1	Bin	Bin	PROPN	NNP	Number=Sing	2	compound	2:compound	_
-2	Laden	Laden	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+2	Laden	Laden	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|6:nsubj:xsubj	_
 3	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-4	home	home	NOUN	NN	Number=Sing	3	obj	3:obj	_
+4	home	home	ADV	RB	_	3	advmod	3:advmod	_
 5	to	to	PART	TO	_	6	mark	6:mark	_
-6	roost	roost	VERB	VB	VerbForm=Inf	3	advcl	3:advcl:to	_
+6	roost	roost	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
 
 1	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
@@ -172,7 +172,7 @@
 8	marine	marine	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	burials	burial	NOUN	NNS	Number=Plur	6	nmod	6:nmod:in	_
 10	of	of	ADP	IN	_	12	case	12:case	_
-11	chemical	chemical	NOUN	NN	Number=Sing	12	compound	12:compound	_
+11	chemical	chemical	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	weapons	weapon	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	_
 13	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 14	prior	prior	ADV	RB	_	16	advmod	16:advmod	_
@@ -311,7 +311,7 @@
 3	Mary	Mary	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
 4	visit	visit	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	on	on	ADP	IN	_	6	case	6:case	_
-6	Fridays	Fridays	PROPN	NNP	Number=Sing	4	advcl	4:advcl:on	SpaceAfter=No
+6	Fridays	Fridays	PROPN	NNPS	Number=Plur	4	obl	4:obl:on	SpaceAfter=No
 7	?	?	PUNCT	.	_	4	punct	4:punct	_
 
 1	When	when	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
@@ -326,7 +326,7 @@
 1	Which	which	DET	WDT	PronType=Int	2	det	2:det	_
 2	blouse	blouse	NOUN	NN	Number=Sing	5	obj	5:obj	_
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
-4	you	you	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	like	like	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 6	?	?	PUNCT	.	_	5	punct	5:punct	_
 
@@ -338,7 +338,7 @@
 5	bring	bring	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	dictionary	dictionary	NOUN	NN	Number=Sing	5	obj	5:obj	_
-8	today	today	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
+8	today	today	NOUN	NN	Number=Sing	5	obl:unmarked	5:obl:unmarked	SpaceAfter=No
 9	?	?	PUNCT	.	_	5	punct	5:punct	_
 
 1	Who	who	PRON	WP	PronType=Int	0	root	0:root	_
@@ -394,7 +394,7 @@
 5	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 1	Who	who	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
-2	met	meet	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	2:obj	_
 4	at	at	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -419,7 +419,7 @@
 
 1	Which	which	DET	WDT	PronType=Int	3	det	3:det	_
 2	large	large	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
-3	cactus	cactus	NOUN	NNS	Number=Plur	6	dep	6:dep	_
+3	cactus	cactus	NOUN	NN	Number=Sing	6	dep	6:dep	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 5	Bill	Bill	PROPN	NNP	Number=Sing	6	nsubj:pass	6:nsubj:pass|8:nsubj:xsubj	_
 6	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -701,7 +701,7 @@
 7	Kent	Kent	PROPN	NNP	Number=Sing	5	nmod	5:nmod:in	_
 8	with	with	ADP	IN	_	10	case	10:case	_
 9	suspected	suspect	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	10:amod	_
-10	osteoporosis	osteoporosis	NOUN	NNS	Number=Plur	5	nmod	5:nmod:with	_
+10	osteoporosis	osteoporosis	NOUN	NN	Number=Sing	5	nmod	5:nmod:with	_
 11	facing	face	VERB	VBG	VerbForm=Ger	4	dep	4:dep	_
 12	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
 13	six	six	NUM	CD	NumType=Card	15	nummod	15:nummod	SpaceAfter=No
@@ -762,8 +762,8 @@
 17	7.4	7.4	NUM	CD	NumType=Card	18	compound	18:compound	_
 18	million	million	NUM	CD	NumType=Card	16	nummod	16:nummod	_
 19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
-20	year	year	NOUN	NN	Number=Sing	16	obl:unmarked	16:obl:unmarked	_
-21	ago	ago	ADP	IN	_	20	amod	20:amod	SpaceAfter=No
+20	year	year	NOUN	NN	Number=Sing	21	obl:npmod	21:obl:npmod	_
+21	ago	ago	ADV	RB	_	16	advmod	16:advmod	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 1	Book	book	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -955,7 +955,7 @@
 4	Wrigley	Wrigley	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
 6	manage	manage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	dep	2:dep	_
-7	Cubs	Cubs	PROPN	NNP	Number=Sing	6	obj	6:obj	SpaceAfter=No
+7	Cubs	Cubs	PROPN	NNPS	Number=Plur	6	obj	6:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 1	PS3	PS3	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
@@ -968,7 +968,7 @@
 8	2007	2007	NUM	CD	NumType=Card	6	nummod	6:nummod	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	10:punct	_
 10	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-11	gaming	gaming	NUM	CD	NumType=Card	13	nummod	13:nummod	_
+11	gaming	gaming	NOUN	NN	Number=Sing	13	compound	13:compound	_
 12	research	research	NOUN	NN	Number=Sing	13	compound	13:compound	_
 13	firm	firm	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	10:punct	_
@@ -1134,7 +1134,7 @@
 1	Bold	bold	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	move	move	NOUN	NN	Number=Sing	0	root	0:root	_
 3	for	for	ADP	IN	_	4	case	4:case	_
-4	Cubs	Cubs	PROPN	NNP	Number=Sing	2	nmod	2:nmod:for	SpaceAfter=No
+4	Cubs	Cubs	PROPN	NNPS	Number=Plur	2	nmod	2:nmod:for	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
 6	risky	risky	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	one	one	NOUN	NN	Number=Sing	2	appos	2:appos	_
@@ -1151,7 +1151,7 @@
 1	Jobs	Jobs	PROPN	NNP	Number=Sing	0	root	0:root	_
 2	on	on	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-4	iPod	ipod	NOUN	NN	Number=Sing	1	nmod	1:nmod:on	SpaceAfter=No
+4	iPod	iPod	PROPN	NNP	Number=Sing	1	nmod	1:nmod:on	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 1	Disney	Disney	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
@@ -1159,7 +1159,7 @@
 3	move	move	NOUN	NN	Number=Sing	2	obj	2:obj	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	endorse	endorse	VERB	VB	VerbForm=Inf	3	acl	3:acl:to	_
-6	healthier	healthier	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+6	healthier	healthy	ADJ	JJR	Degree=Cmp	7	amod	7:amod	_
 7	foods	food	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
@@ -1466,7 +1466,7 @@
 1	Should	should	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 3	go	go	VERB	VB	VerbForm=Inf	0	root	0:root	_
-4	home	home	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+4	home	home	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 5	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 1	May	may	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
@@ -1798,7 +1798,7 @@
 2	last	last	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	week	week	NOUN	NN	Number=Sing	1	dep	1:dep	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	Flyers	Flyers	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+5	Flyers	Flyers	PROPN	NNPS	Number=Plur	6	nsubj	6:nsubj	_
 6	won	win	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 
 1	Anytime	anytime	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
@@ -1927,13 +1927,13 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	money	money	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-4	yours	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
+4	yours	your	PRON	PRP	Case=Gen|Person=2|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 1	Which	which	DET	WDT	PronType=Int	2	det	2:det	_
 2	one	one	NOUN	NN	Number=Sing	3	obj	3:obj	_
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-4	yours	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+4	yours	your	PRON	PRP	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
 5	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
@@ -1965,7 +1965,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	money	money	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	_
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
-7	mine	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
+7	mine	my	PRON	PRP	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
@@ -2308,7 +2308,7 @@
 1	When	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 3	arrived	arrive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	7:advcl	_
-4	home	home	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+4	home	home	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 7	cooked	cook	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -2369,7 +2369,7 @@
 12	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	dep	3:dep	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	fallen	fall	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	in	in	ADP	IN	_	5	case	5:case	_
 5	love	love	NOUN	NN	Number=Sing	3	obl	3:obl:in	_
@@ -2537,7 +2537,7 @@
 5	stab	stab	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 6	?	?	PUNCT	.	_	5	punct	5:punct	_
 
-1	Does	Does	PROPN	NNP	Number=Sing	4	dep	4:dep	_
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 2	homeowners	homeowner	NOUN	NNS	Number=Plur	3	compound	3:compound	_
 3	insurance	insurance	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	cover	cover	VERB	VB	VerbForm=Inf	0	root	0:root	_
@@ -2630,7 +2630,7 @@
 10	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 1	Dogs	dog	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj|4:nsubj:xsubj	_
-2	like	like	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	chase	chase	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	cats	cat	NOUN	NNS	Number=Plur	4	obj	4:obj	_
@@ -2739,7 +2739,7 @@
 10	awesome	awesome	ADJ	JJ	Degree=Pos	1	conj	1:conj:but	SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	1:punct	_
 
-1	Swing	swing	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+1	Swing	swing	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	partner	partner	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	round	round	ADV	RB	_	1	advmod	1:advmod	_
@@ -2885,7 +2885,7 @@
 1	All	all	DET	DT	_	2	det	2:det	_
 2	dogs	dog	NOUN	NNS	Number=Plur	6	nsubj	4:nsubj|6:nsubj	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
-4	like	like	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+4	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 5	cats	cat	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 6	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	sausage	sausage	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
@@ -3030,7 +3030,7 @@
 3	!	!	PUNCT	.	_	1	punct	1:punct	_
 
 1	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
-2	can	can	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	succeed	succeed	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	if	if	SCONJ	IN	_	6	mark	6:mark	_
 5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
@@ -3056,7 +3056,7 @@
 
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	far	far	ADV	RB	Degree=Pos	7	advmod	7:advmod	_
-3	did	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	sea	sea	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	level	level	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
@@ -3114,10 +3114,10 @@
 16	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 17	to	to	PART	TO	_	19	mark	19:mark	_
 18	be	be	AUX	VB	VerbForm=Inf	19	cop	19:cop	_
-19	one	one	NOUN	NN	Number=Sing	16	dep	16:dep	_
+19	one	one	NUM	CD	NumType=Card	16	dep	16:dep	_
 20	of	of	ADP	IN	_	24	case	24:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
-22	greatest	great	ADJ	JJR	Degree=Cmp	24	amod	24:amod	_
+22	greatest	great	ADJ	JJS	Degree=Sup	24	amod	24:amod	_
 23	English	English	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
 24	writers	writer	NOUN	NNS	Number=Plur	19	nmod	19:nmod:of	_
 25	to	to	PART	TO	_	28	mark	28:mark	_
@@ -3203,7 +3203,7 @@
 5	works	work	NOUN	NNS	Number=Plur	3	obj	3:obj	_
 6	of	of	ADP	IN	_	9	case	9:case	_
 7	poet	poet	NOUN	NN	Number=Sing	9	compound	9:compound	_
-8	Charles	charle	NOUN	NNS	Number=Plur	9	compound	9:compound	_
+8	Charles	Charles	PROPN	NNP	Number=Sing	9	compound	9:compound	_
 9	Baudelaire	Baudelaire	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	_
 10	as	as	ADV	RB	_	3	advmod	3:advmod	_
 11	well	well	ADV	RB	Degree=Pos	10	fixed	10:fixed	SpaceAfter=No
@@ -3388,7 +3388,7 @@
 
 1	Hello	hello	INTJ	UH	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
-3	sir	sir	PROPN	NNP	Number=Sing	1	dep	1:dep	SpaceAfter=No
+3	sir	sir	NOUN	NN	Number=Sing	1	dep	1:dep	SpaceAfter=No
 4	!!!	!!!	PUNCT	.	_	1	punct	1:punct	_
 
 1	Hi	hi	INTJ	UH	_	0	root	0:root	SpaceAfter=No
@@ -3648,7 +3648,7 @@
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
 4	center	center	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 5	of	of	ADP	IN	_	6	case	6:case	_
-6	hers	hers	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
+6	hers	her	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	4:nmod:of	_
 7	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
 9	agricultural	agricultural	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
@@ -3726,8 +3726,8 @@
 
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	limit	limit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	obj	2:obj	_
-4	boasting	boast	VERB	VBG	VerbForm=Ger	3	amod	3:amod	_
+3	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	boasting	boasting	NOUN	NN	Number=Sing	2	obj	2:obj	_
 5	to	to	ADP	IN	_	7	case	7:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	work	work	NOUN	NN	Number=Sing	2	obl	2:obl:to|10:nsubj	_
@@ -3772,8 +3772,8 @@
 4	Itochu	Itochu	PROPN	NNP	Number=Sing	2	appos	2:appos	_
 5	Plan	plan	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	Venture	venture	NOUN	NN	Number=Sing	5	obj	5:obj	_
-7	to	to	AUX	VB	VerbForm=Inf	8	aux	8:aux	_
-8	Mine	mine	VERB	VB	VerbForm=Inf	5	dep	5:dep	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	Mine	mine	VERB	VB	VerbForm=Inf	5	advcl	5:advcl:to	_
 9	Copper	copper	NOUN	NN	Number=Sing	8	obj	8:obj	_
 10	in	in	ADP	IN	_	11	case	11:case	_
 11	Chile	Chile	PROPN	NNP	Number=Sing	8	obl	8:obl:in	_
@@ -3897,7 +3897,7 @@
 7	address	address	NOUN	NN	Number=Sing	4	dep	4:dep	_
 
 1	Go	go	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	home	home	NOUN	NN	Number=Sing	1	obj	1:obj	_
+2	home	home	ADV	RB	_	1	advmod	1:advmod	_
 
 1	Hand	hand	VERB	VB	VerbForm=Inf	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	1:iobj	_
@@ -4012,7 +4012,7 @@
 5	trip	trip	NOUN	NN	Number=Sing	1	obl	1:obl:about	_
 
 1	Call	call	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	dad	dad	PROPN	NNP	Number=Sing	1	obj	1:obj	_
+2	dad	dad	NOUN	NN	Number=Sing	1	obj	1:obj	_
 3	about	about	ADP	IN	_	6	case	6:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	rent	rent	NOUN	NN	Number=Sing	6	compound	6:compound	_
@@ -4071,7 +4071,7 @@
 7	when	when	ADV	WRB	PronType=Int	9	advmod	9:advmod	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 9	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl	_
-10	home	home	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
+10	home	home	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 1-2	Apple's	_	_	_	_	_	_	_	_
@@ -4344,7 +4344,7 @@
 4	sheep	sheep	NOUN	NN	Number=Sing	1	obj	1:obj	_
 
 1	Park	park	VERB	VB	VerbForm=Inf	0	root	0:root	_
-2	your	you	PRON	PRP	_	3	dep	3:dep	_
+2	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	car	car	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	behind	behind	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -4378,7 +4378,7 @@
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	when	when	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
 4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_
-5	are	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	1:advcl	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	1:punct	_
 
@@ -4542,7 +4542,7 @@
 1	Enjoying	enjoy	VERB	VBG	VerbForm=Ger	0	root	0:root	_
 2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 3	favorite	favorite	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-4	Friday	friday	NOUN	NN	Number=Sing	5	compound	5:compound	_
+4	Friday	Friday	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	tradition	tradition	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
