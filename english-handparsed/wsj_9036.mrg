@@ -1,6 +1,6 @@
 ( (S
     (VP (VBG Enjoying)
-      (NP (PRP$  my) (JJ favorite) (NN Friday) (NN tradition)))
+      (NP (PRP$  my) (JJ favorite) (NNP Friday) (NN tradition)))
     (. .)))
 
 ( (NP

@@ -91,7 +91,7 @@
         (VP (TO to)
           (VP (VB be)
             (NP
-              (NP (NN one))
+              (NP (CD one))
               (PP (IN of)
                 (NP
                   (NP (DT the) (JJR greatest) (JJ English) (NNS  writers))
@@ -193,7 +193,7 @@
       (NP
         (NP (DT the) (NNS works))
         (PP (IN of)
-          (NP (NN poet) (NNS Charles) (NNP Baudelaire))))
+          (NP (NN poet) (NNP Charles) (NNP Baudelaire))))
       (ADVP (RB as) (RB well)))
     (. ?)))
 

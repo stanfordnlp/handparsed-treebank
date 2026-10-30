@@ -12,7 +12,7 @@
       (S
         (NP (PRP I))
         (VP (VBD arrived)
-          (NP (NN home)))))
+          (ADVP (RB home)))))
     (, ,)
     (NP (PRP I))
     (VP (VBD cooked)

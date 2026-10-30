@@ -22,7 +22,7 @@
 ( (SQ (MD Should)
     (NP (PRP you))
     (VP (VB go)
-      (NP (NN home)))
+      (ADVP (RB home)))
     (. ?)))
 
 ( (SQ (MD May)

@@ -32,7 +32,7 @@
 ( (INTJ
     (INTJ (UH Hello))
     (, ,)
-    (NP-VOC (NNP sir))
+    (NP-VOC (NN sir))
     (. !!!)))
 
 ( (INTJ
@@ -272,7 +272,7 @@
     (NP-SBJ
       (NP (DT this) (NN center))
       (PP (IN of)
-        (NP (NN hers))))
+        (NP (PRP hers))))
     (VP (VBD became)
       (NP-PRD
         (NP (DT an)
@@ -352,7 +352,7 @@
   (S
     (NP-SBJ (PRP We))
     (VP (VBP limit)
-      (NP (PRP$ our) (VBG boasting))
+      (NP (PRP$ our) (NN boasting))
       (PP-CLR (IN to)
         (NP
           (NP (DT the) (NN work))

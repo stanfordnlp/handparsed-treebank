@@ -15,7 +15,7 @@
   (NP-TMP
    (NP-TMP (NNP Tuesday))
    (NP-TMP (JJ last) (NN week)))
-  (NP (DT the) (NNP Flyers))
+  (NP (DT the) (NNPS Flyers))
   (VP (VBD won))))
 
 ((S

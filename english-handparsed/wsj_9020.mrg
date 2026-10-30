@@ -14,7 +14,7 @@
       (PP (IN of)
         (NP (DT the) (NN money))))
     (VP (VBZ is)
-      (NP (PRP$ mine)))
+      (NP (PRP mine)))
     (. .)))
 
 ( (S

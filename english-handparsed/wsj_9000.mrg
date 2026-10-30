@@ -133,7 +133,7 @@
 ( (S-HLN 
     (NP-SBJ (NNP Bin) (NNP Laden))
     (VP (VBZ comes)
-      (NP (NN home))
+      (ADVP (RB home))
       (S (NP-SBJ (-NONE- *))
          (VP (TO to)
            (VP (VB roost)))))) )

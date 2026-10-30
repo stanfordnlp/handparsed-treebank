@@ -99,7 +99,7 @@
           (NP (NNP Wrigley))))
       (, ,)
       (VP (VBP manage)
-        (NP (NNP Cubs))))
+        (NP (NNPS Cubs))))
     (. .) ))
 ( (SINV
     (S-TPC-1
@@ -112,7 +112,7 @@
     (, ,)
     (VP (VBZ says) 
       (S (-NONE- *T*-1)))
-    (NP-SBJ (CD gaming) (NN research) (NN firm))
+    (NP-SBJ (NN gaming) (NN research) (NN firm))
     (. .) ))
 ( (SINV
     (S
@@ -268,7 +268,7 @@
         (NP
           (NP (JJ Bold) (NN move))
           (PP (IN for)
-            (NP (NNP Cubs))))
+            (NP (NNPS Cubs))))
         (, ,)
         (NP
           (NP (JJ risky) (NN one))
@@ -283,7 +283,7 @@
 ( (NP
     (NP (NNP Jobs))
     (PP (IN on)
-      (NP (DT the) (NN iPod)))
+      (NP (DT the) (NNP iPod)))
   (. .) ))
 ( (S
     (NP (NNP Disney))

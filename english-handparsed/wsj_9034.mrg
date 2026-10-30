@@ -45,7 +45,7 @@
             (NP (NN home) (NN address))))))
 ((S
  (VP (VB Go)
-  (NP (NN home)))))
+  (ADVP (RB home)))))
 
 ((S
   (VP (VB Hand)
@@ -158,7 +158,7 @@
 
 ((S
   (VP (VB Call)
-    (NP (NNP dad))
+    (NP (NN dad))
     (PP (IN about)
       (NP (DT the) (NN rent) (NN check))))))
 
@@ -218,7 +218,7 @@
               (S
                 (NP (PRP I))
                 (VP (VBP get)
-                  (NP (NN home)))))))))
+                  (ADVP (RB home)))))))))
     (. .)))
 
 ( (NP
@@ -531,7 +531,7 @@
 ((S
   (VP
     (VB Park)
-    (NP (PRP your) (NN car))
+    (NP (PRP$ your) (NN car))
     (PP (IN behind)
       (NP (DT the) (NN house))))))
 

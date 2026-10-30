@@ -108,7 +108,7 @@
           (NP (NNP Kent)))
         (PP (IN with)
           (NP
-            (NP (VBN suspected) (NNS osteoporosis)))))
+            (NP (VBN suspected) (NN osteoporosis)))))
       (VP (VBG facing)
         (NP
           (NP (DT a) (NML (CD six) (HYPH -) (NN month)) (NN wait))

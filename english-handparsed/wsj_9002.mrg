@@ -76,7 +76,7 @@
        (NP (NNP Mary))
        (VP (VB visit)
            (PP (IN on)
-	       (NNP Fridays))))
+	       (NP (NNPS Fridays)))))
    (. ?)))
 
 ((SBARQ
@@ -90,7 +90,7 @@
 ((SBARQ
    (WHNP (WDT Which) (NN blouse))
    (SQ (VBP do)
-       (NP (NN you))
+       (NP (PRP you))
        (VP (VB like)))
    (. ?)))
 
@@ -101,7 +101,7 @@
       (VP 
           (VP (VB bring)
               (NP (PRP$ your) (NN dictionary)))
-          (ADVP (RB today))))
+          (NP-TMP (NN today))))
   (. ?)))
 
 ((SBARQ
@@ -178,7 +178,7 @@
   (. ?)))
 
 ( (SBARQ
-    (WHNP (WDT Which) (JJ large) (NNS cactus))
+    (WHNP (WDT Which) (JJ large) (NN cactus))
     (SQ (VBZ is)
       (NP (NNP Bill))
       (VP (VBN expected)
