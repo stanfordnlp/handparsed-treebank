@@ -1,10 +1,11 @@
 This directory contains a list of lemmas from German Wiktionary,
-de_wiki_lemmas.conllu, used in the de_combined lemmatizer training data.
+de_wiki_lemmas.conllu.gz, used as the dictionary of the de_combined
+lemmatizer.  It is gzipped to stay under the GitHub file size limit.
 
 To recreate it, use the converter in Stanza:
 
   pip install wiktionary-de-parser==0.16.0
-  python3 -m stanza.utils.datasets.lemma.convert_de_wiktionary dewiktionary-latest-pages-articles-multistream.xml.bz2 de_wiki_lemmas.conllu
+  python3 -m stanza.utils.datasets.lemma.convert_de_wiktionary dewiktionary-latest-pages-articles-multistream.xml.bz2 de_wiki_lemmas.conllu.gz
 
 https://github.com/stanfordnlp/stanza/blob/dev/stanza/utils/datasets/lemma/convert_de_wiktionary.py
 
