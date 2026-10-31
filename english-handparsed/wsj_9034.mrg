@@ -294,8 +294,8 @@
 ((S
    (VP 
     (VB Pass)
-      (S (NP (PRP me))
-      (NP (DT the) (NNS peanuts))))
+      (NP (PRP me))
+      (NP (DT the) (NNS peanuts)))
   (. .)))
 
 ((S
@@ -618,12 +618,11 @@
 
 ((S
     (VP (VB Slice)
-      (S
-        (NP (PRP me))
-        (NP
-          (NP (DT a) (NN piece))
-          (PP (IN of)
-            (NP (NN cake))))))))
+      (NP (PRP me))
+      (NP
+        (NP (DT a) (NN piece))
+        (PP (IN of)
+          (NP (NN cake)))))))
 
 ((S
     (VP (VB Stand)
