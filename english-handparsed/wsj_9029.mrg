@@ -5,7 +5,7 @@
       (VP (VB Let)
         (S
           (NP (DT the) (NN dog))
-          (VP (VB go) (RP out)))))
+          (VP (VB go) (PRT (RP out))))))
     (CC or)
     (S
       (NP (PRP he))
