@@ -42,3 +42,24 @@
 4	here	here	ADV	RB	PronType=Dem	2	advmod	2:advmod	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
+# sent_id = 6
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	grilled	grill	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	ling	ling	NOUN	NN	Number=Sing	4	compound	4:compound	_
+4	cod	cod	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	for	for	ADP	IN	_	6	case	6:case	_
+6	dinner	dinner	NOUN	NN	Number=Sing	2	obl	2:obl:for	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	fishermen	fisherman	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	caught	catch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	large	large	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	ling	ling	NOUN	NN	Number=Sing	3	obj	3:obj	_
+7	off	off	ADP	IN	_	9	case	9:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	coast	coast	NOUN	NN	Number=Sing	3	obl	3:obl:off	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+
