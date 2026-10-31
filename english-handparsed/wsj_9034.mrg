@@ -108,7 +108,7 @@
 
 ((S
     (VP (VB Move)
-      (NP-TMP (PRP$ my) (JJ 3pm) (NN meeting))
+      (NP (PRP$ my) (JJ 3pm) (NN meeting))
       (PP (TO to)
         (NP (CD 4:30))))))
 
