@@ -19,7 +19,7 @@
 	(VP (VBD signed)
 	  (NP
             (NP (DT the) (NN declaration)
-	    (PP (IN of) (NN independence))))))
+	    (PP (IN of) (NP (NN independence)))))))
     (. ?)))
 
 ((SBARQ

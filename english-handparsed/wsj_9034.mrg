@@ -345,13 +345,13 @@
     (VB Cover)
     (NP (DT the) (NN bed))
     (PP
-      (IN with) (NNS sheets)))))
+      (IN with) (NP (NNS sheets))))))
 
 ((S
   (VP 
     (VB Skype)
     (NP (PRP me))
-    (PP-TMP (IN after) (NN dinner)))))
+    (PP-TMP (IN after) (NP (NN dinner))))))
 
 ((S
   (VP

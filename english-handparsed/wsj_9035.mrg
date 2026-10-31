@@ -39,7 +39,7 @@
     (NP (PRP Ye))
     (VP (VBP forget)
       (NP (NP (DT the) (NN love))
-          (PP (IN of) (NNP God))))
+          (PP (IN of) (NP (NNP God)))))
     (. .)))
 
 ( (S

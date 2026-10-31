@@ -130,7 +130,7 @@
   (VP 
     (VB Turn) 
     (ADVP-DIR (RB left)) 
-    (PP (IN at) (DT the) (NN light))) 
+    (PP (IN at) (NP (DT the) (NN light)))) 
   (. .)))
 
 
