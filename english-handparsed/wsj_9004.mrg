@@ -34,3 +34,19 @@
       (NP (NNS wolves))
       (ADVP (RB here)))
     (. .)))
+
+( (S
+    (NP (PRP We))
+    (VP (VBD grilled)
+      (NP (NN ling) (NN cod))
+      (PP (IN for)
+        (NP (NN dinner))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NNS fishermen))
+    (VP (VBD caught)
+      (NP (DT a) (JJ large) (NN ling))
+      (PP (IN off)
+        (NP (DT the) (NN coast))))
+    (. .)))

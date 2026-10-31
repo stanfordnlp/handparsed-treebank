@@ -152,3 +152,36 @@
       (VBD shared)
       (NP (CD one) (JJ enormous) (NN sundae)))
     (. .)))
+
+( (S
+    (NP (DT The) (NN beetle))
+    (VP
+      (VBD cleaned)
+      (NP (PRP$ its) (NNS antennae))
+      (PP
+        (IN with)
+        (NP (PRP$ its) (JJ front) (NNS legs))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NNS engineers))
+    (VP
+      (VBD replaced)
+      (NP
+        (NP (DT both) (NNS antennae))
+        (PP
+          (IN on)
+          (NP (DT the) (NN satellite)))))
+    (. .)))
+
+( (S
+    (S
+      (NP (CD One) (NN antenna))
+      (VP (VBD broke)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (JJ other) (CD two) (NNS antennae))
+      (ADVP (RB still))
+      (VP (VBP work)))
+    (. .)))
