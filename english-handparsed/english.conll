@@ -1079,7 +1079,7 @@
 6	confirmed	confirm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
-1	Aussies	Aussies	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+1	Aussies	Aussie	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 2	to	to	PART	TO	_	3	mark	3:mark	_
 3	help	help	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	exhume	exhume	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
@@ -2396,9 +2396,9 @@
 1	Chicken	chicken	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	soup	soup	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
-4	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-6	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
+6	feel	feel	VERB	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
 7	better	well	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	_
 8	if	if	SCONJ	IN	_	10	mark	10:mark	_
 9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
@@ -2511,7 +2511,7 @@
 7	but	but	CCONJ	CC	_	10	cc	10:cc	_
 8	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	oysters	oyster	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
-10	leave	leave	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	_
+10	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	_
 11	something	something	PRON	NN	Number=Sing	10	obj	10:obj	_
 12	to	to	PART	TO	_	14	mark	14:mark	_
 13	be	be	AUX	VB	VerbForm=Inf	14	cop	14:cop	_
@@ -4723,7 +4723,7 @@
 4	henna	henna	NOUN	NN	Number=Sing	3	obj	3:obj	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
-2	Israelites	Israelites	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+2	Israelites	Israelite	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	survived	survive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	on	on	ADP	IN	_	5	case	5:case	_
 5	manna	manna	NOUN	NN	Number=Sing	3	obl	3:obl:on	_

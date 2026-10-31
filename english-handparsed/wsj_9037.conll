@@ -148,7 +148,7 @@
 
 # sent_id = 14
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
-2	Israelites	Israelites	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+2	Israelites	Israelite	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	survived	survive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	on	on	ADP	IN	_	5	case	5:case	_
 5	manna	manna	NOUN	NN	Number=Sing	3	obl	3:obl:on	_

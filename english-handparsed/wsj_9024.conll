@@ -44,9 +44,9 @@
 1	Chicken	chicken	NOUN	NN	Number=Sing	2	compound	2:compound	_
 2	soup	soup	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
-4	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-6	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
+6	feel	feel	VERB	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
 7	better	well	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	_
 8	if	if	SCONJ	IN	_	10	mark	10:mark	_
 9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_

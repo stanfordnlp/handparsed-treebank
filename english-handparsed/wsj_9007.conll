@@ -251,7 +251,7 @@
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 25
-1	Aussies	Aussies	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
+1	Aussies	Aussie	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 2	to	to	PART	TO	_	3	mark	3:mark	_
 3	help	help	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	exhume	exhume	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
