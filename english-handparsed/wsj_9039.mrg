@@ -1,0 +1,192 @@
+( (S
+    (NP
+      (NP (DT The) (NNS octopi))
+      (PP
+        (IN in)
+        (NP (DT the) (NN aquarium))))
+    (VP
+      (VBD escaped)
+      (PP
+        (IN from)
+        (NP (PRP$ their) (NN tank)))
+      (ADVP (RB overnight)))
+    (. .)))
+
+( (S
+    (S
+      (NP (DT Some) (JJ fungal) (NNS cells))
+      (VP
+        (VBP have)
+        (NP (JJ several) (NNS nuclei))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJS most))
+      (VP
+        (VBP have)
+        (NP (CD one) (NN nucleus))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NNS children))
+    (VP
+      (VBD reacted)
+      (PP
+        (IN to)
+        (NP (DT the) (NNS stimuli)))
+      (ADVP
+        (ADVP (RBR faster))
+        (SBAR
+          (IN than)
+          (S
+            (NP (DT the) (NNS adults))
+            (VP (VBD did))))))
+    (. .)))
+
+( (S
+    (VP
+      (VB Measure)
+      (NP
+        (NP (DT the) (NNS radii))
+        (PP
+          (IN of)
+          (NP (DT both) (NNS circles)))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NNS cacti))
+      (PP
+        (IN in)
+        (NP (PRP$ her) (NN garden))))
+    (VP
+      (VBD bloomed)
+      (PP
+        (IN after)
+        (NP (DT the) (NN rain))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (CD two) (NNS foci))
+      (PP
+        (IN of)
+        (NP (DT an) (NN ellipse))))
+    (VP
+      (VBP lie)
+      (PP
+        (IN on)
+        (NP (PRP$ its) (JJ major) (NN axis))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NN alchemist) (POS 's))
+      (NNS homunculi))
+    (VP
+      (VBD escaped)
+      (PP
+        (IN from)
+        (NP (PRP$ their) (NNS jars))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NNS alumni))
+    (VP
+      (VBD donated)
+      (NP (DT a) (JJ new) (NN library))
+      (PP
+        (IN to)
+        (NP (DT the) (NN school))))
+    (. .)))
+
+( (S
+    (NP (JJ Several) (NNS mafiosi))
+    (VP
+      (VBD were)
+      (VP
+        (VBN arrested)
+        (PP
+          (IN in)
+          (NP (DT the) (NN raid)))))
+    (. .)))
+
+( (S
+    (NP (PRP We))
+    (VP
+      (VBD ordered)
+      (NP (NNS antipasti))
+      (PP
+        (IN for)
+        (NP (DT the) (JJ whole) (NN table))))
+    (. .)))
+
+( (S
+    (NP (PRP We))
+    (VP
+      (VBD booked)
+      (NP
+        (NP (DT a) (NN safari))
+        (PP
+          (IN in)
+          (NP (NNP Kenya))))
+      (PP
+        (IN for)
+        (NP (JJ next) (NN spring))))
+    (. .)))
+
+( (S
+    (NP (PRP She))
+    (VP
+      (VBD took)
+      (NP (DT a) (NN taxi))
+      (PP
+        (IN to)
+        (NP (DT the) (NN airport))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NN sushi))
+      (PP
+        (IN at)
+        (NP (DT that) (NN restaurant))))
+    (VP
+      (VBZ is)
+      (ADJP (JJ excellent)))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN skier))
+    (VP
+      (VBD lost)
+      (NP (DT a) (NN ski))
+      (PP
+        (IN on)
+        (NP (DT the) (JJ steep) (NN slope))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NN radius))
+      (PP
+        (IN of)
+        (NP (DT the) (NN circle))))
+    (VP
+      (VBZ is)
+      (NP (CD five) (NNS centimeters)))
+    (. .)))
+
+( (S
+    (NP (CD One) (NN stimulus))
+    (VP
+      (VBD was)
+      (ADJP
+        (JJ enough)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB trigger)
+              (NP (DT the) (NN reflex)))))))
+    (. .)))
