@@ -8,7 +8,7 @@
 (ROOT
   (S
     (NP (PRP I))
-    (VP (VB shit)
+    (VP (VBP shit)
       (NP (PRP you))
       (ADVP (RB not)))))
 

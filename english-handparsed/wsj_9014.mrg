@@ -147,11 +147,11 @@
         (PP (IN in)
           (NP (DT the) (NN subway)))))
     (, ,)
-    (NP (NN darling))
+    (NP-VOC (NN darling))
     (. .)))
 
 ( (S
-   (NP (NN Asshole))
+   (NP-VOC (NN Asshole))
    (, ,)
    (VP (VB pick)
      (PRT (RP up))
