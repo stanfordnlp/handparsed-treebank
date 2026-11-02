@@ -119,7 +119,7 @@
 (ROOT
   (S
     (S
-      (VP (VBN Fooled)
+      (VP (VBD Fooled)
         (NP (PRP you))))
     (: -)
     (S (CC but)

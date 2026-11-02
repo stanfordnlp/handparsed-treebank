@@ -7,7 +7,7 @@
       (VP (VBD married)
         (NP (NNP John) (NNP Lennon)))
       (CC and)
-      (VP (VBN campaigned)
+      (VP (VBD campaigned)
         (PP (IN for)
           (NP
             (NP (NN peace))
