@@ -15,7 +15,7 @@
 ( (S 
     (NP-SBJ-1 (NNP Bin) (NNP Laden))
     (VP (VBD returned)
-      (PP (TO to)
+      (PP (IN to)
           (NP (NNP Saudi) (NNP Arabia)))
       (S (NP-SBJ (-NONE- *-1))
          (VP (TO to)

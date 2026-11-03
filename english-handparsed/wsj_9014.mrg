@@ -34,7 +34,7 @@
   (VP
     (VB Commit)
     (NP (DT the) (NNS changes))
-    (PP (TO to)
+    (PP (IN to)
       (NP (NN svn))))
   (. .)))
 
@@ -42,7 +42,7 @@
   (VP
     (VB Move)
     (ADVP-DIR (RB back))
-    (PP (TO to)
+    (PP (IN to)
       (NP (PRP$ your) (JJ original) (NN spot))))))
 
 ( (S
@@ -121,7 +121,7 @@
   (VP 
     (VB Turn) 
     (PP 
-      (TO to) 
+      (IN to) 
       (NP (DT the) (NN left)))) 
   (. .)))
 

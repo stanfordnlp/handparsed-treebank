@@ -67,7 +67,7 @@
         (VP (TO to)
           (VP (VB get)
             (PRT (RP back))
-            (PP (TO to)
+            (PP (IN to)
               (NP (DT the) (NN hotel))))))
       (SBAR (IN because)
         (S

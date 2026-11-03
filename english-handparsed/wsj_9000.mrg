@@ -75,7 +75,7 @@
           (NP (PRP they))
           (VP (VBP are)
              (VP (VBN linked)
-               (PP (TO to)
+               (PP (IN to)
                   (NP (NNP al) (HYPH -) (NNP Qaeda)))))))))
   (. .)))
 

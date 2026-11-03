@@ -190,7 +190,7 @@
     (VP (VB Book)
       (NP
         (NP (JJ cheap) (NNS flights))
-        (PP (TO to)
+        (PP (IN to)
           (NP (NNP Athens)))))))
 
 

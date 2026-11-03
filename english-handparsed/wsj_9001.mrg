@@ -12,7 +12,7 @@
     (VP
       (VBN increased)
       (PP (RB prior)
-        (PP (TO to)
+        (PP (IN to)
           (NP (CD  1999)))))
     (. ?)) )
 

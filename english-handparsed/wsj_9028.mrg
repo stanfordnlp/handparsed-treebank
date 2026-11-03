@@ -54,7 +54,7 @@
               (RRC
                 (ADJP 
                   (ADJP (RB simply) (JJ intrusive))
-                  (PP (TO to)
+                  (PP (IN to)
                     (NP (DT the) (NN story))))))))))
     (. .)))
 

@@ -90,7 +90,7 @@
     (NP (NNP Manolis))
     (VP (VBZ hands)
       (NP (DT the) (NN mug))
-      (PP (TO to)
+      (PP (IN to)
         (NP (NNP Angel))))
     (. .)))
 

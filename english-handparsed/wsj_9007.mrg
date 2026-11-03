@@ -95,7 +95,7 @@
     (NP (NNP Piniella))
     (VP
       (VP (VBG coming)
-        (PP (TO to)
+        (PP (IN to)
           (NP (NNP Wrigley))))
       (, ,)
       (VP (VBP manage)

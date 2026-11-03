@@ -31,7 +31,7 @@
       (PP (IN on)
         (NP
           (NP (DT a) (NN touchdown) (NN pass))
-          (PP (TO to)
+          (PP (IN to)
             (NP (NNP Jason) (NNP Witten))))))
       (. .)))
 
@@ -41,7 +41,7 @@
       (PP (IN with)
         (NP
           (NP (DT a) (NML (CD 20) (HYPH -) (NN yard)) (NN touchdown) (NN pass))
-          (PP (TO to)
+          (PP (IN to)
             (NP (NNP Mike) (NNP Williams))))))
      (. .)))
 

@@ -35,7 +35,7 @@
 ((S
   (VP (VB Send)
       (NP (DT an) (NN e-mail))
-      (PP (TO to)
+      (PP (IN to)
           (NP (NNP Danny) (NNP Cooper))))))
 
 ((SBARQ
@@ -109,13 +109,13 @@
 ((S
     (VP (VB Move)
       (NP (PRP$ my) (JJ 3pm) (NN meeting))
-      (PP (TO to)
+      (PP (IN to)
         (NP (CD 4:30))))))
 
 ((S
     (VP (VB Add)
       (NP (NNP Lisa))
-      (PP (TO to)
+      (PP (IN to)
         (NP
           (NP (PRP$ my) (NN meeting))
           (PP (IN with)
@@ -362,7 +362,7 @@
   (VP 
     (VB Fax)
     (NP (DT the) (NN contract))
-    (PP (TO to) 
+    (PP (IN to) 
       (NP (DT the) (NN airline))))))
 
 ((S
@@ -390,7 +390,7 @@
   (VP
     (VB Glue)
     (NP (DT the) (NN ad))
-    (PP (TO to)
+    (PP (IN to)
       (NP (DT the) (NN tree))))))
 
 ((S
@@ -408,7 +408,7 @@
   (VP
     (VB Hammer)
     (NP (DT this))
-    (PP (TO to)
+    (PP (IN to)
       (NP (DT the) (NN wall))))))
 
 ((S
@@ -503,7 +503,7 @@
 ((S
     (VP (VB Nail)
           (NP (DT this))
-                (PP (TO to)
+                (PP (IN to)
                         (NP (DT the) (NN wall))))))
 
 ((S
@@ -552,7 +552,7 @@
 ((S
     (VP (VB Point)
       (NP (PRP us))
-      (PP (TO to)
+      (PP (IN to)
         (NP (DT the) (JJS nearest) (NN pharmacy))))))
 
 ((S
@@ -627,7 +627,7 @@
 ((S
     (VP (VB Stand)
       (ADVP (RBR closer)
-        (PP (TO to)
+        (PP (IN to)
           (NP (DT the) (NN stage)))))))
 
 ((S
@@ -649,7 +649,7 @@
 
 ((S
     (VP (VB Connect)
-          (PP (TO to)
+          (PP (IN to)
                   (NP (DT the) (NN server))))))
 
 ((S
@@ -676,7 +676,7 @@
 ( (S
   (VP (VB email)
     (NP (UH hello))
-    (PP (TO to) 
+    (PP (IN to) 
       (NP (NNP John))))))
 
 ( (S

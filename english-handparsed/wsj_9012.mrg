@@ -8,7 +8,7 @@
         (VP (TO to)
           (VP (VB change)
             (NP (DT the) (NN return) (NN date))
-            (PP (TO to)
+            (PP (IN to)
               (NP (NN sfo)))))))
     (. ?)))
 

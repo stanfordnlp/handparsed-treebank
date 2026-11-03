@@ -1,7 +1,7 @@
 ( (S
     (NP-SBJ (-NONE- *))
     (VP (VB Go)
-      (PP-DIR (TO to)
+      (PP-DIR (IN to)
         (NP (PRP$ your) (NN room))))
    (. !)))
 
@@ -59,7 +59,7 @@
     (S
       (NP-SBJ (-NONE- *))
       (VP (VB Drive)
-        (PP (TO to)
+        (PP (IN to)
           (NP
             (NP (DT the) (JJ next) (NN set))
             (PP (IN of)

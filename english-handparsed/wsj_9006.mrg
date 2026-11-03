@@ -39,7 +39,7 @@
     (NP-SBJ (NNP Mia))
     (VP (VBD made)
       (NP (DT a) (JJ recent) (NN visit))
-      (PP (TO to)
+      (PP (IN to)
         (NP (NNP NYC))))
     (. .)))
 
