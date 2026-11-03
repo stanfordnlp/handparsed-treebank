@@ -57,7 +57,7 @@
 14	zone	zone	NOUN	NN	Number=Sing	8	conj	8:conj:and|17:nsubj	_
 15	all	all	ADV	RB	_	17	advmod	17:advmod	_
 16	could	could	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
-17	tighten	tighten	VERB	VB	VerbForm=Inf	5	dep	5:dep	_
+17	tighten	tighten	VERB	VB	VerbForm=Inf	5	ccomp	5:ccomp	_
 18	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
 19	monetary	monetary	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	policies	policy	NOUN	NNS	Number=Plur	17	obj	17:obj	_
@@ -220,9 +220,9 @@
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-4	place	place	NOUN	NN	Number=Sing	2	obj	2:obj	_
-5	that	that	SCONJ	IN	_	7	mark	7:mark	_
+4	place	place	NOUN	NN	Number=Sing	2	obj	2:obj|7:obj	_
+5	that	that	PRON	WDT	PronType=Rel	7	obj	4:ref	_
 6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
-7	mean	mean	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	dep	4:dep	SpaceAfter=No
+7	mean	mean	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
