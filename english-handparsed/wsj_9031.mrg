@@ -3,12 +3,12 @@
   (S
     (NP (NNP Trump))
     (VP (MD can)
-      (VP (VB succeed)))
+      (VP (VB succeed)
         (SBAR
           (IN if)
           (S
             (NP (PRP he))
-            (VP (VBZ bargains))))))
+            (VP (VBZ bargains))))))))
 
 (ROOT
   (S
@@ -62,12 +62,13 @@
       (PP (IN via)
         (NP (NNP Twitter)))
       (SBAR (IN that)
-        (NP (PRP she))
-        (VP (VBZ is)
-          (NP-PRD
-            (NP (DT a) (NN candidate))
-            (PP (IN for)
-              (NP (NNP  U.S.) (NNP Senate)))))))
+        (S
+          (NP (PRP she))
+          (VP (VBZ is)
+            (NP-PRD
+              (NP (DT a) (NN candidate))
+              (PP (IN for)
+                (NP (NNP  U.S.) (NNP Senate))))))))
     (. .)))
 
 (ROOT

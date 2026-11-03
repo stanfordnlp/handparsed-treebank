@@ -200,7 +200,7 @@
       (NP
         (NP (DT the) (NN place))
         (SBAR
-          (IN that)
+          (WHNP (WDT that))
           (S
             (NP (PRP you))
             (VP (VBP mean))))))

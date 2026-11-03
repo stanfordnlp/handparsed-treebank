@@ -35,12 +35,11 @@
    (NP (NN lunch)))))
 
 ((S
-  (ADVP
-   (RB Anytime)
-   (SBAR
-    (S
-     (NP (PRP I))
-     (VP (VB run)))))
+  (SBAR
+   (WHADVP (RB Anytime))
+   (S
+    (NP (PRP I))
+    (VP (VBP run))))
   (NP (PRP$ my) (NN hip))
   (VP (VBZ hurts))))
 
