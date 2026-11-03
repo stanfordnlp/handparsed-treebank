@@ -1,0 +1,180 @@
+( (S
+    (NP (DT The) (NN school) (NN board))
+    (VP
+      (VBD approved)
+      (NP
+        (NP (JJ new) (NNS curricula))
+        (PP
+          (IN for)
+          (NP (DT the) (JJ middle) (NNS schools)))))
+    (. .)))
+
+( (S
+    (NP (DT The) (CD two) (NNS curricula))
+    (VP
+      (VBP differ)
+      (ADVP (RB mainly))
+      (PP
+        (IN in)
+        (NP (PRP$ their) (NN math) (NNS requirements))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN committee))
+    (VP
+      (VBD published)
+      (NP
+        (NP (PRP$ its) (NNS criteria))
+        (PP
+          (IN for)
+          (NP (DT the) (NN award)))))
+    (. .)))
+
+( (S
+    (NP (NNS Scientists))
+    (ADVP (RB still))
+    (VP
+      (VBP do)
+      (RB not)
+      (VP
+        (VB understand)
+        (NP (DT these) (NNS phenomena))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NNS bacteria))
+      (PP
+        (IN in)
+        (NP (DT the) (NN sample))))
+    (VP
+      (VBD multiplied)
+      (ADVP (RB overnight)))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN geologist))
+    (VP
+      (VBD counted)
+      (NP
+        (NP (DT the) (NNS strata))
+        (PP
+          (IN in)
+          (NP (DT the) (NN cliff)))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN lawyer))
+    (VP
+      (VBD filed)
+      (NP (CD two) (NNS memoranda))
+      (PP
+        (IN with)
+        (NP (DT the) (NN court))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NNS ruins))
+    (VP
+      (VBP have)
+      (VP
+        (VBN stood)
+        (PP
+          (IN for)
+          (NP (CD two) (NNS millennia)))))
+    (. .)))
+
+( (S
+    (NP (NNS Linguists))
+    (VP
+      (VBP compare)
+      (NP
+        (NP (NNS corpora))
+        (PP
+          (IN from)
+          (NP (JJ many) (NNS languages)))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN botanist))
+    (VP
+      (VBD sorted)
+      (NP (DT the) (NNS plants))
+      (PP
+        (IN into)
+        (NP (JJ several) (NNS genera))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NN agenda))
+      (PP
+        (IN for)
+        (NP (DT the) (NN meeting))))
+    (VP
+      (VBZ is)
+      (ADJP (JJ short)))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT The) (NN formula))
+      (PP
+        (IN on)
+        (NP (DT the) (NN board))))
+    (VP
+      (VBD was)
+      (ADJP (JJ wrong)))
+    (. .)))
+
+( (S
+    (NP (PRP I))
+    (VP
+      (VBD left)
+      (NP (PRP$ my) (NN camera))
+      (PP
+        (IN on)
+        (NP (DT the) (NN train))))
+    (. .)))
+
+( (S
+    (NP (DT The) (JJ new) (NN curriculum))
+    (VP
+      (VBZ starts)
+      (PP
+        (IN in)
+        (NP (DT the) (NN fall))))
+    (. .)))
+
+( (S
+    (NP (NN Speed))
+    (VP
+      (VBD was)
+      (NP
+        (NP (DT the) (JJ main) (NN criterion))
+        (PP
+          (IN for)
+          (NP (DT the) (NNS judges)))))
+    (. .)))
+
+( (S
+    (NP (DT A) (JJ single) (NN bacterium))
+    (VP
+      (MD can)
+      (VP
+        (VB divide)
+        (PP
+          (IN in)
+          (NP (CD twenty) (NNS minutes)))))
+    (. .)))
+
+( (S
+    (NP
+      (NP (DT Each) (NN stratum))
+      (PP
+        (IN of)
+        (NP (NN rock))))
+    (VP
+      (VBZ records)
+      (NP (DT a) (JJ different) (NN era)))
+    (. .)))

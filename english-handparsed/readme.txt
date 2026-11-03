@@ -39,6 +39,7 @@
 9037: -nna endings for the Stanza tokenizer
 9038: -ae endings for the Stanza POS/lemmatizer
 9039: -i endings for plurals, useful for POS
+9040: -i endings for plurals, useful for POS
 
 
 # english.conll: automatically converted using CoreNLP's conversion tool
