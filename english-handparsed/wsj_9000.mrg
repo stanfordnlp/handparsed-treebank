@@ -35,8 +35,7 @@
         (PP (IN as) (`` ``) 
           (ADJP (JJ absurd)) 
           ('' ''))
-        (NP
-          (NP (DT a) (NN claim))
+        (NP (DT a) (NN claim)
           (PP (IN by)
             (NP (NNP Jean) (HYPH -) (NNP Bertrand) (NNP Aristide)))
           (SBAR (IN that)

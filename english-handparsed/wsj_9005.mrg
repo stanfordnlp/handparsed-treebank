@@ -43,8 +43,7 @@
     (S
       (NP (EX There))
       (VP (VBZ is)
-        (NP
-          (NP (DT a) (VBG rising) (NN possibility))
+        (NP (DT a) (VBG rising) (NN possibility)
           (SBAR (IN that)
             (S
               (NP
