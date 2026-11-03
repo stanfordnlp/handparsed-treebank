@@ -2,7 +2,7 @@
 1	Actually	actually	ADV	RB	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	just	just	ADV	RB	_	4	advmod	4:advmod	_
-4	5	5	NUM	CD	NumType=Card	1	dep	1:dep	SpaceAfter=No
+4	5	5	NUM	CD	NumForm=Digit|NumType=Card	1	dep	1:dep	SpaceAfter=No
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
 6	but	but	CCONJ	CC	_	10	cc	10:cc	_
 7-8	that's	_	_	_	_	_	_	_	_
@@ -13,7 +13,7 @@
 11	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 1
-1	Swing	swing	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Swing	swing	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	partner	partner	NOUN	NN	Number=Sing	1	obj	1:obj	_
 4	round	round	ADV	RB	_	1	advmod	1:advmod	_
@@ -29,7 +29,7 @@
 5	to	to	PART	TO	_	13	mark	13:mark	_
 6	be	be	AUX	VB	VerbForm=Inf	13	cop	13:cop	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
-8	21st	21st	ADJ	JJ	Degree=Pos|NumType=Ord	9	amod	9:amod	_
+8	21st	21st	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	9	amod	9:amod	_
 9-10	century's	_	_	_	_	_	_	_	_
 9	century	century	NOUN	NN	Number=Sing	13	nmod:poss	13:nmod:poss	_
 10	's	's	PART	POS	_	9	case	9:case	_
@@ -70,30 +70,30 @@
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 4	few	few	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	cats	cat	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
-6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	tails	tail	NOUN	NNS	Number=Plur	6	obj	6:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = 5
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	still	still	ADV	RB	_	3	advmod	3:advmod	_
-3	turn	turn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	turn	turn	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	head	head	NOUN	NN	Number=Sing	3	obj	3:obj	_
 6	every	every	DET	DT	_	7	det	7:det	_
 7	time	time	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
-9	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
+9	hear	hear	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
 10	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
 11	name	name	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 6
-1	First	first	ADV	RB	_	5	advmod	5:advmod	_
+1	First	first	ADV	RB	NumForm=Word|NumType=Ord	5	advmod	5:advmod	_
 2	of	of	ADP	IN	_	3	case	3:case	_
 3	all	all	ADV	RB	_	1	obl	1:obl:of	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|7:nsubj:xsubj	_
-5	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	to	to	PART	TO	_	7	mark	7:mark	_
 7	thank	thank	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	_
 8	all	all	DET	PDT	_	10	det:predet	10:det:predet	_
@@ -115,14 +115,14 @@
 7	time	time	NOUN	NN	Number=Sing	4	obl	4:obl:agent	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	occupants	occupant	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
-10	finished	finish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
+10	finished	finish	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
 11	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
-12	6	6	NUM	CD	NumType=Card	13	nummod	13:nummod	_
+12	6	6	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	13:nummod	_
 13	month	month	NOUN	NN	Number=Sing	14	amod	14:amod	_
 14	lease	lease	NOUN	NN	Number=Sing	10	obj	10:obj	_
 
 # sent_id = 8
-1	Fooled	fool	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+1	Fooled	fool	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	1:obj	_
 3	-	-	PUNCT	:	_	1	punct	1:punct	_
 4	but	but	CCONJ	CC	_	7	cc	7:cc	_
@@ -131,7 +131,7 @@
 7	understand	understand	VERB	VB	VerbForm=Inf	1	parataxis	1:parataxis	_
 8	why	why	ADV	WRB	PronType=Int	10	advmod	10:advmod	_
 9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
-10	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	7:ccomp	_
+10	keep	keep	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	7:ccomp	_
 11	getting	get	VERB	VBG	VerbForm=Ger	10	xcomp	10:xcomp	_
 12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 13	wrong	wrong	ADJ	JJ	Degree=Pos	11	xcomp	11:xcomp	_
@@ -142,7 +142,7 @@
 # sent_id = 9
 1	If	if	SCONJ	IN	_	3	mark	3:mark	_
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
-3	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:if	_
+3	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:if	_
 4	Sue	Sue	PROPN	NNP	Number=Sing	3	obj	3:obj	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	please	please	INTJ	UH	_	7	discourse	7:discourse	_
@@ -163,15 +163,15 @@
 6	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	what	what	PRON	WP	PronType=Int	9	obj	9:obj	_
 8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
-9	ate	eat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	ccomp	6:ccomp	_
+9	ate	eat	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	6:ccomp	_
 
 # sent_id = 11
 1	All	all	DET	DT	_	2	det	2:det	_
 2	dogs	dog	NOUN	NNS	Number=Plur	6	nsubj	4:nsubj|6:nsubj	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
-4	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+4	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 5	cats	cat	NOUN	NNS	Number=Plur	4	obj	4:obj	_
-6	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	eat	eat	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	sausage	sausage	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
 8	.	.	PUNCT	.	_	6	punct	6:punct	_
 

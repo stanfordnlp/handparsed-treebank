@@ -19,7 +19,7 @@
 
 # sent_id = 2
 1	Politicians	politician	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
-2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	regulations	regulation	NOUN	NNS	Number=Plur	2	obj	2:obj	_
 4	more	more	ADJ	JJR	Degree=Cmp	2	advmod	2:advmod	_
 5	than	than	ADP	IN	_	6	case	6:case	_
@@ -29,7 +29,7 @@
 # sent_id = 3
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	far	far	ADV	RB	Degree=Pos	7	advmod	7:advmod	_
-3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
+3	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	sea	sea	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	level	level	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
@@ -58,7 +58,7 @@
 2	Manning	Manning	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 3	on	on	ADP	IN	_	4	case	4:case	_
 4	Sunday	Sunday	PROPN	NNP	Number=Sing	5	obl	5:obl:on	_
-5	confirmed	confirm	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	confirmed	confirm	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 6	via	via	ADP	IN	_	7	case	7:case	_
 7	Twitter	Twitter	PROPN	NNP	Number=Sing	5	obl	5:obl:via	_
 8	that	that	ADP	IN	_	12	mark	12:mark	_
@@ -72,11 +72,11 @@
 16	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 # sent_id = 6
-1	Born	bear	VERB	VBN	Tense=Past|VerbForm=Part	16	advcl	16:advcl	_
+1	Born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	16:advcl	_
 2	on	on	ADP	IN	_	3	case	3:case	_
 3	December	December	PROPN	NNP	Number=Sing	1	obl	1:obl:on	_
-4	30th	30th	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	3:amod	_
-5	1865	1865	NUM	CD	NumType=Card	3	nummod	3:nummod	SpaceAfter=No
+4	30th	30th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	3	amod	3:amod	_
+5	1865	1865	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	SpaceAfter=No
 6	,	,	PUNCT	,	_	1	punct	1:punct	_
 7	in	in	ADP	IN	_	8	case	8:case	_
 8	Bombay	Bombay	PROPN	NNP	Number=Sing	1	obl	1:obl:in	SpaceAfter=No
@@ -90,7 +90,7 @@
 16	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 17	to	to	PART	TO	_	19	mark	19:mark	_
 18	be	be	AUX	VB	VerbForm=Inf	19	cop	19:cop	_
-19	one	one	NUM	CD	NumType=Card	16	dep	16:dep	_
+19	one	one	NUM	CD	NumForm=Word|NumType=Card	16	dep	16:dep	_
 20	of	of	ADP	IN	_	24	case	24:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
 22	greatest	great	ADJ	JJS	Degree=Sup	24	amod	24:amod	_
@@ -135,14 +135,14 @@
 # sent_id = 9
 1	Places	place	NOUN	NNS	Number=Plur	0	root	0:root	_
 2	people	person	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	1	acl:relcl	1:acl:relcl	SpaceAfter=No
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
 6	and	and	CCONJ	CC	_	10	cc	10:cc	_
 7	how	how	ADV	WRB	PronType=Int	10	advmod	10:advmod	_
 8	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	choices	choice	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
-10	differ	differ	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	1:conj:and	_
+10	differ	differ	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	1:conj:and	_
 
 # sent_id = 10
 1	Powisset	Powisset	PROPN	NNP	Number=Sing	2	compound	2:compound	_
@@ -164,7 +164,7 @@
 
 # sent_id = 12
 1	•	•	SYM	SYM	_	2	dep	2:dep	_
-2	Buy	buy	VERB	VB	VerbForm=Inf	0	root	0:root	_
+2	Buy	buy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 3	milk	milk	NOUN	NN	Number=Sing	2	obj	2:obj	_
 
 # sent_id = 13
@@ -196,7 +196,7 @@
 
 # sent_id = 16
 1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	embarked	embark	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	embarked	embark	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	on	on	ADP	IN	_	7	case	7:case	_
 4	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 5	maiden	maiden	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
@@ -219,7 +219,7 @@
 22	Li	Li	PROPN	NNP	Number=Sing	19	appos	19:appos	SpaceAfter=No
 23	,	,	PUNCT	,	_	16	punct	16:punct	_
 24	both	both	DET	DT	_	25	advmod	25:advmod	_
-25	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	16	acl:relcl	16:acl:relcl	_
+25	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	acl:relcl	16:acl:relcl	_
 26	in	in	ADP	IN	_	27	case	27:case	_
 27	Shanghai	Shanghai	PROPN	NNP	Number=Sing	25	obl	25:obl:in	_
 28	and	and	CCONJ	CC	_	31	cc	31:cc	_
@@ -243,7 +243,7 @@
 45	inaugural	inaugural	ADJ	JJ	Degree=Pos	46	amod	46:amod	_
 46	ceremony	ceremony	NOUN	NN	Number=Sing	39	obl	39:obl:during	_
 47	widely	widely	ADV	RB	_	48	advmod	48:advmod	_
-48	covered	cover	VERB	VBN	Tense=Past|VerbForm=Part	46	acl	46:acl	_
+48	covered	cover	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	46	acl	46:acl	_
 49	throughout	throughout	ADP	IN	_	50	case	50:case	_
 50	China	China	PROPN	NNP	Number=Sing	48	obl	48:obl:throughout	SpaceAfter=No
 51	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -251,7 +251,7 @@
 # sent_id = 17
 1	And	and	CCONJ	CC	_	4	cc	4:cc	_
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	kicking	kick	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	off	off	ADP	RP	_	4	compound:prt	4:compound:prt	_
 6	an	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
@@ -259,7 +259,7 @@
 8	new	new	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 9	Yuan	Yuan	PROPN	NNP	Number=Sing	10	compound	10:compound	_
 10	Ye	Ye	PROPN	NNP	Number=Sing	11	dep	11:dep	_
-11	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	13:amod	_
+11	led	lead	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	amod	13:amod	_
 12	tea	tea	NOUN	NN	Number=Sing	13	compound	13:compound	_
 13	portfolio	portfolio	NOUN	NN	Number=Sing	4	obj	4:obj	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	13:punct	_
@@ -286,7 +286,7 @@
 12	growth	growth	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_
 13	as	as	SCONJ	IN	_	15	mark	15:mark	_
 14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj|17:nsubj:xsubj	_
-15	continue	continue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:as	_
+15	continue	continue	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:as	_
 16	to	to	PART	TO	_	17	mark	17:mark	_
 17	buildout	buildout	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	_
 18	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_

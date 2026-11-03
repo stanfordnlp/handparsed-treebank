@@ -6,9 +6,9 @@
 
 # sent_id = 1
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	shit	shit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	shit	shit	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	2:obj	_
-4	not	not	PART	RB	_	2	advmod	2:advmod	_
+4	not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 
 # sent_id = 2
 1	Lurrus	Lurrus	PROPN	NNP	Number=Sing	4	nsubj:pass	4:nsubj:pass	_

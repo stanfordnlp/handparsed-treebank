@@ -1,12 +1,12 @@
 # sent_id = 0
-1	Go	go	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	to	to	ADP	TO	_	4	case	4:case	_
 3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	room	room	NOUN	NN	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 5	!	!	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 1
-1	Look	look	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	in	in	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	drawer	drawer	NOUN	NN	Number=Sing	1	obl	1:obl:in	_
@@ -16,22 +16,22 @@
 8	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 2
-1	Tell	tell	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	1:iobj	_
 3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	name	name	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 3
-1	Seek	seek	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Seek	seek	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	simplicity	simplicity	NOUN	NN	Number=Sing	1	obj	1:obj	_
 3	and	and	CCONJ	CC	_	4	cc	4:cc	_
-4	distrust	distrust	VERB	VB	VerbForm=Inf	1	conj	1:conj:and	_
+4	distrust	distrust	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	1:conj:and	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 4
-1	Buy	buy	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Buy	buy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	1:iobj	_
 3	some	some	DET	DT	_	4	det	4:det	_
 4	peanuts	peanut	NOUN	NNS	Number=Plur	1	obj	1:obj	SpaceAfter=No
@@ -39,8 +39,8 @@
 
 # sent_id = 5
 1-2	Don't	_	_	_	_	_	_	_	_
-1	Do	do	AUX	VB	VerbForm=Inf	5	aux	5:aux	_
-2	n't	not	PART	RB	_	5	advmod	5:advmod	_
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	5:aux	_
+2	n't	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 3	be	be	AUX	VB	VerbForm=Inf	5	cop	5:cop	_
 4	too	too	ADV	RB	_	5	advmod	5:advmod	_
 5	proud	proud	ADJ	JJ	Degree=Pos	0	root	0:root	_
@@ -51,11 +51,11 @@
 10	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 # sent_id = 6
-1	Stop	stop	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 2	!	!	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 7
-1	Drive	drive	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Drive	drive	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	to	to	ADP	TO	_	5	case	5:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	next	next	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
@@ -65,7 +65,7 @@
 8	lights	light	NOUN	NNS	Number=Plur	5	nmod	5:nmod:of	_
 9	and	and	CCONJ	CC	_	11	cc	11:cc	_
 10	then	then	ADV	RB	PronType=Dem	11	advmod	11:advmod	_
-11	turn	turn	VERB	VB	VerbForm=Inf	1	conj	1:conj:and	_
+11	turn	turn	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	1:conj:and	_
 12	left	left	ADV	RB	_	11	advmod	11:advmod	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	1:punct	_
 

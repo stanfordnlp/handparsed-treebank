@@ -2,7 +2,7 @@
 1	Mellitus	Mellitus	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	5:amod	_
+4	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	5	amod	5:amod	_
 5	Bishop	Bishop	PROPN	NNP	Number=Sing	0	root	0:root	_
 6	of	of	ADP	IN	_	7	case	7:case	_
 7	London	London	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	SpaceAfter=No
@@ -10,8 +10,8 @@
 
 # sent_id = 1
 1-2	Don't	_	_	_	_	_	_	_	_
-1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	_
-2	n't	not	PART	RB	_	3	advmod	3:advmod	_
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	3:aux	_
+2	n't	not	PART	RB	Polarity=Neg	3	advmod	3:advmod	_
 3	use	use	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	cattle	cattle	NOUN	NNS	Number=Plur	6	compound	6:compound	_
@@ -25,17 +25,17 @@
 1	All	all	DET	DT	_	2	det	2:det	_
 2	whales	whale	NOUN	NNS	Number=Plur	6	nsubj	4:nsubj|6:nsubj	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
-4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+4	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 5	teeth	tooth	NOUN	NNS	Number=Plur	4	obj	4:obj	_
-6	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	eat	eat	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	fish	fish	NOUN	NNS	Number=Plur	6	obj	6:obj	_
 
 # sent_id = 3
 1	All	all	DET	DT	_	2	det	2:det	_
 2	whales	whale	NOUN	NNS	Number=Plur	6	nsubj	4:nsubj|6:nsubj	_
 3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
-4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+4	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 5	baleen	baleen	NOUN	NN	Number=Sing	4	obj	4:obj	_
-6	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	eat	eat	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	krill	krill	NOUN	NNS	Number=Plur	6	obj	6:obj	_
 

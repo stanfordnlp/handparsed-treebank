@@ -4,7 +4,7 @@
 3	of	of	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	crows	crow	NOUN	NNS	Number=Plur	2	nmod	2:nmod:of	_
-6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 7	dead	dead	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	7:punct	_
 
@@ -24,7 +24,7 @@
 3	of	of	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	avocets	avocet	NOUN	NNS	Number=Plur	2	nmod	2:nmod:of	_
-6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	orange	orange	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	necks	neck	NOUN	NNS	Number=Plur	6	obj	6:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -35,7 +35,7 @@
 3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 5	child	child	NOUN	NN	Number=Sing	18	nsubj:pass	10:nsubj|18:nsubj:pass	_
-6	fifteen	fifteen	NUM	CD	NumType=Card	5	amod	5:amod	_
+6	fifteen	fifteen	NUM	CD	NumForm=Word|NumType=Card	5	amod	5:amod	_
 7	or	or	CCONJ	CC	_	8	cc	8:cc	_
 8	older	old	ADJ	JJR	Degree=Cmp	6	conj	5:amod|6:conj:or	_
 9	who	who	PRON	WP	PronType=Rel	10	nsubj	5:ref	_
@@ -43,7 +43,7 @@
 11	aggravated	aggravated	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	assault	assault	NOUN	NN	Number=Sing	10	obj	10:obj	_
 13	or	or	CCONJ	CC	_	15	cc	15:cc	_
-14	attempted	attempt	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	15:amod	_
+14	attempted	attempt	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	amod	15:amod	_
 15	murder	murder	NOUN	NN	Number=Sing	12	conj	10:obj|12:conj:or	_
 16	must	must	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
 17	be	be	AUX	VB	VerbForm=Inf	18	aux:pass	18:aux:pass	_
@@ -55,28 +55,28 @@
 
 # sent_id = 4
 1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
-2	one	one	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+2	one	one	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	accountant	accountant	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
-4	attended	attend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	attended	attend	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	meeting	meeting	NOUN	NN	Number=Sing	4	obj	4:obj	_
 
 # sent_id = 5
 1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
-2	three	three	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+2	three	three	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	players	player	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
-4	scored	score	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	40	40	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+4	scored	score	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	40	40	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
 6	goals	goal	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 7	last	last	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	season	season	NOUN	NN	Number=Sing	4	obl:tmod	4:obl:tmod	_
 
 # sent_id = 6
 1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
-2	one	one	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+2	one	one	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	day	day	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
-4	meant	mean	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	3000	3000	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+4	meant	mean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	3000	3000	NUM	CD	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
 6	more	more	ADJ	JJR	Degree=Cmp	8	amod	8:amod	_
 7	coronavirus	coronavirus	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	infections	infection	NOUN	NNS	Number=Plur	4	obj	4:obj	_
@@ -107,15 +107,15 @@
 2	only	only	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	time	time	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-5	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
+5	felt	feel	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
 6	number	numb	ADJ	JJR	Degree=Cmp	5	xcomp	5:xcomp	_
 7	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	when	when	ADV	WRB	PronType=Int	10	advmod	10:advmod	_
 9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
-10	rubbed	rub	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	7:advcl	_
+10	rubbed	rub	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	advcl	7:advcl	_
 11	one	one	NOUN	NN	Number=Sing	10	obj	10:obj	_
 12	out	out	ADP	RP	_	10	compound:prt	10:compound:prt	_
-13	three	three	NUM	CD	NumType=Card	14	nummod	14:nummod	_
+13	three	three	NUM	CD	NumForm=Word|NumType=Card	14	nummod	14:nummod	_
 14	times	time	NOUN	NNS	Number=Plur	10	obj	10:obj	_
 15	in	in	ADP	IN	_	17	case	17:case	_
 16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_

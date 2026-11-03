@@ -1,7 +1,7 @@
 # sent_id = 0
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	dog	dog	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
-3	bit	bite	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	bit	bite	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	cat	cat	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	3:punct	_
@@ -23,28 +23,28 @@
 # sent_id = 3
 1	Most	most	ADJ	JJS	Degree=Sup	2	amod	2:amod	_
 2	dogs	dog	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	eat	eat	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	kibble	kibble	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 5	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 4
 1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
 2	osprey	osprey	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
-3	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	stole	steal	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	fish	fish	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 6	!	!	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 5
 1	There	there	PRON	EX	_	2	expl	2:expl	_
-2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	wolves	wolf	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
 4	here	here	ADV	RB	PronType=Dem	2	advmod	2:advmod	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = 6
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	grilled	grill	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	grilled	grill	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	ling	ling	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	cod	cod	NOUN	NN	Number=Sing	2	obj	2:obj	_
 5	for	for	ADP	IN	_	6	case	6:case	_
@@ -54,7 +54,7 @@
 # sent_id = 7
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	fishermen	fisherman	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	caught	catch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	caught	catch	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 5	large	large	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	ling	ling	NOUN	NN	Number=Sing	3	obj	3:obj	_

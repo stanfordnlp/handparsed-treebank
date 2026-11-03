@@ -8,7 +8,7 @@
 7	but	but	CCONJ	CC	_	10	cc	10:cc	_
 8	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	oysters	oyster	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
-10	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	_
+10	leave	leave	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	_
 11	something	something	PRON	NN	Number=Sing	10	obj	10:obj	_
 12	to	to	PART	TO	_	14	mark	14:mark	_
 13	be	be	AUX	VB	VerbForm=Inf	14	cop	14:cop	_
@@ -30,7 +30,7 @@
 
 # sent_id = 2
 1	Who	who	PRON	WP	PronType=Int	5	obj	5:obj	_
-2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
 3	John	John	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4	Booth	Booth	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
 5	stab	stab	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
@@ -45,7 +45,7 @@
 6	?	?	PUNCT	.	_	4	punct	4:punct	_
 
 # sent_id = 4
-1	Monitor	monitor	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Monitor	monitor	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	heart	heart	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	rate	rate	NOUN	NN	Number=Sing	1	obj	1:obj	_
@@ -103,14 +103,14 @@
 # sent_id = 11
 1	If	if	SCONJ	IN	_	3	mark	3:mark	_
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
-3	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl:if	_
+3	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl:if	_
 4	reading	reading	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 5	,	,	PUNCT	,	_	10	punct	10:punct	_
 6	then	then	ADV	RB	PronType=Dem	9	advmod	9:advmod	_
 7	by	by	ADP	IN	_	9	case	9:case	_
 8	all	all	DET	DT	_	9	det	9:det	_
 9	means	means	NOUN	NNS	Number=Plur	10	obl	10:obl:by	_
-10	check	check	VERB	VB	VerbForm=Inf	0	root	0:root	_
+10	check	check	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	10:obj	_
 12	out	out	ADP	RP	_	10	compound:prt	10:compound:prt	SpaceAfter=No
 13	.	.	PUNCT	.	_	10	punct	10:punct	_
@@ -141,20 +141,20 @@
 
 # sent_id = 14
 1	Dogs	dog	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj|4:nsubj:xsubj	_
-2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	chase	chase	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	cats	cat	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 
 # sent_id = 15
 1	Cats	cat	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
-2	chase	chase	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	chase	chase	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	mice	mouse	NOUN	NNS	Number=Plur	2	obj	2:obj	_
 
 # sent_id = 16
 1	Large	large	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	cats	cat	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
-3	chase	chase	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	chase	chase	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	small	small	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	birds	bird	NOUN	NNS	Number=Plur	3	obj	3:obj	_
 
@@ -181,7 +181,7 @@
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	why	why	ADV	WRB	PronType=Int	5	advmod	5:advmod	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-5	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	_
+5	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	smartphone	smartphone	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
 8	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	5:ccomp	_
@@ -208,7 +208,7 @@
 6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 22
-1	Turn	turn	VERB	VB	VerbForm=Inf	0	root	0:root	_
+1	Turn	turn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	off	off	ADP	RP	_	1	compound:prt	1:compound:prt	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	oven	oven	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
@@ -228,8 +228,8 @@
 6	if	if	SCONJ	IN	_	10	mark	10:mark	_
 7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 8-9	aren't	_	_	_	_	_	_	_	_
-8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
-9	n't	not	PART	RB	_	10	advmod	10:advmod	_
+8	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	n't	not	PART	RB	Polarity=Neg	10	advmod	10:advmod	_
 10	careful	careful	ADJ	JJ	Degree=Pos	4	advcl	4:advcl:if	_
 
 # sent_id = 24
