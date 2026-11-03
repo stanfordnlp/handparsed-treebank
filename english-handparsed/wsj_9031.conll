@@ -85,12 +85,12 @@
 11	,	,	PUNCT	,	_	16	punct	16:punct	_
 12	Joseph	Joseph	PROPN	NNP	Number=Sing	14	compound	14:compound	_
 13	Rudyard	Rudyard	PROPN	NNP	Number=Sing	14	compound	14:compound	_
-14	Kipling	Kipling	PROPN	NNP	Number=Sing	16	nsubj:pass	16:nsubj:pass	_
+14	Kipling	Kipling	PROPN	NNP	Number=Sing	16	nsubj:pass	16:nsubj:pass|19:nsubj:xsubj	_
 15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	16:aux:pass	_
 16	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 17	to	to	PART	TO	_	19	mark	19:mark	_
 18	be	be	AUX	VB	VerbForm=Inf	19	cop	19:cop	_
-19	one	one	NUM	CD	NumForm=Word|NumType=Card	16	dep	16:dep	_
+19	one	one	NUM	CD	NumForm=Word|NumType=Card	16	xcomp	16:xcomp	_
 20	of	of	ADP	IN	_	24	case	24:case	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
 22	greatest	great	ADJ	JJS	Degree=Sup	24	amod	24:amod	_
@@ -153,14 +153,14 @@
 6	programs	program	NOUN	NNS	Number=Plur	5	obj	5:obj	_
 
 # sent_id = 11
-1	Number	number	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+1	Number	number	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|8:nsubj:xsubj	_
 2	Of	of	ADP	IN	_	5	case	5:case	_
 3	Wisconsin	Wisconsin	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 4	Dairy	dairy	NOUN	NN	Number=Sing	5	compound	5:compound	_
 5	Farms	farm	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	_
 6	Continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	To	to	PART	TO	_	8	mark	8:mark	_
-8	Decline	decline	VERB	VB	VerbForm=Inf	6	dep	6:dep	_
+8	Decline	decline	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 
 # sent_id = 12
 1	•	•	SYM	SYM	_	2	dep	2:dep	_

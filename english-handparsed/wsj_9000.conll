@@ -91,7 +91,7 @@
 5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj:pass	7:nsubj:pass	_
 6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	_
 7	linked	link	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	ccomp	4:ccomp	_
-8	to	to	ADP	TO	_	11	case	11:case	_
+8	to	to	ADP	IN	_	11	case	11:case	_
 9	al	al	PROPN	NNP	Number=Sing	11	compound	11:compound	SpaceAfter=No
 10	-	-	PUNCT	HYPH	_	11	punct	11:punct	SpaceAfter=No
 11	Qaeda	Qaeda	PROPN	NNP	Number=Sing	7	obl	7:obl:to	SpaceAfter=No

@@ -1,6 +1,6 @@
 # sent_id = 0
 1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-2	to	to	ADP	TO	_	4	case	4:case	_
+2	to	to	ADP	IN	_	4	case	4:case	_
 3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	room	room	NOUN	NN	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 5	!	!	PUNCT	.	_	1	punct	1:punct	_
@@ -56,7 +56,7 @@
 
 # sent_id = 7
 1	Drive	drive	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-2	to	to	ADP	TO	_	5	case	5:case	_
+2	to	to	ADP	IN	_	5	case	5:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	next	next	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	set	set	NOUN	NN	Number=Sing	1	obl	1:obl:to	_

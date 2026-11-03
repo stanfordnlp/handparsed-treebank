@@ -1,0 +1,181 @@
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	school	school	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	board	board	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	approved	approve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	new	new	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	curricula	curriculum	NOUN	NNS	Number=Plur	4	obj	4:obj	_
+7	for	for	ADP	IN	_	10	case	10:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	middle	middle	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	schools	school	NOUN	NNS	Number=Plur	6	nmod	6:nmod:for	SpaceAfter=No
+11	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	two	two	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	_
+3	curricula	curriculum	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+4	differ	differ	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	mainly	mainly	ADV	RB	_	4	advmod	4:advmod	_
+6	in	in	ADP	IN	_	9	case	9:case	_
+7	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	math	math	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	requirements	requirement	NOUN	NNS	Number=Plur	4	obl	4:obl:in	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	committee	committee	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	published	publish	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	criteria	criterion	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	for	for	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	award	award	NOUN	NN	Number=Sing	5	nmod	5:nmod:for	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 3
+1	Scientists	scientist	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
+2	still	still	ADV	RB	_	5	advmod	5:advmod	_
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
+5	understand	understand	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	7:det	_
+7	phenomena	phenomenon	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
+8	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	bacteria	bacterium	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+3	in	in	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	sample	sample	NOUN	NN	Number=Sing	2	nmod	2:nmod:in	_
+6	multiplied	multiply	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	overnight	overnight	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
+8	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	geologist	geologist	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	counted	count	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	strata	stratum	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	in	in	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	cliff	cliff	NOUN	NN	Number=Sing	5	nmod	5:nmod:in	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	lawyer	lawyer	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	filed	file	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	two	two	NUM	CD	NumForm=Word|NumType=Card	5	nummod	5:nummod	_
+5	memoranda	memorandum	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	with	with	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	court	court	NOUN	NN	Number=Sing	3	obl	3:obl:with	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	ruins	ruin	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+4	stood	stand	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	for	for	ADP	IN	_	7	case	7:case	_
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	7	nummod	7:nummod	_
+7	millennia	millennium	NOUN	NNS	Number=Plur	4	obl	4:obl:for	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = 8
+1	Linguists	linguist	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+2	compare	compare	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	corpora	corpus	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+4	from	from	ADP	IN	_	6	case	6:case	_
+5	many	many	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	languages	language	NOUN	NNS	Number=Plur	3	nmod	3:nmod:from	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	botanist	botanist	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	sorted	sort	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	plants	plant	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	into	into	ADP	IN	_	8	case	8:case	_
+7	several	several	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	genera	genus	NOUN	NNS	Number=Plur	3	obl	3:obl:into	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	agenda	agenda	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+3	for	for	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	meeting	meeting	NOUN	NN	Number=Sing	2	nmod	2:nmod:for	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+7	short	short	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	7:punct	_
+
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	formula	formula	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+3	on	on	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	board	board	NOUN	NN	Number=Sing	2	nmod	2:nmod:on	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+7	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	7:punct	_
+
+# sent_id = 12
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	left	leave	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	camera	camera	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	on	on	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	train	train	NOUN	NN	Number=Sing	2	obl	2:obl:on	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	new	new	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	curriculum	curriculum	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	starts	start	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	in	in	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	fall	fall	NOUN	NN	Number=Sing	4	obl	4:obl:in	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = 14
+1	Speed	speed	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	main	main	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	criterion	criterion	NOUN	NN	Number=Sing	0	root	0:root	_
+6	for	for	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	judges	judge	NOUN	NNS	Number=Plur	5	nmod	5:nmod:for	SpaceAfter=No
+9	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = 15
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	single	single	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	bacterium	bacterium	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+5	divide	divide	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	in	in	ADP	IN	_	8	case	8:case	_
+7	twenty	twenty	NUM	CD	NumForm=Word|NumType=Card	8	nummod	8:nummod	_
+8	minutes	minute	NOUN	NNS	Number=Plur	5	obl	5:obl:in	SpaceAfter=No
+9	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = 16
+1	Each	each	DET	DT	_	2	det	2:det	_
+2	stratum	stratum	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	rock	rock	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	_
+5	records	record	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+7	different	different	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	era	era	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
+9	.	.	PUNCT	.	_	5	punct	5:punct	_
+

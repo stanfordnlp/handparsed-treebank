@@ -34,14 +34,14 @@
 1	Commit	commit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	changes	change	NOUN	NNS	Number=Plur	1	obj	1:obj	_
-4	to	to	ADP	TO	_	5	case	5:case	_
+4	to	to	ADP	IN	_	5	case	5:case	_
 5	svn	svn	NOUN	NN	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 5
 1	Move	move	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	back	back	ADV	RB	_	1	advmod	1:advmod	_
-3	to	to	ADP	TO	_	6	case	6:case	_
+3	to	to	ADP	IN	_	6	case	6:case	_
 4	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 5	original	original	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	spot	spot	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
@@ -124,7 +124,7 @@
 
 # sent_id = 16
 1	Turn	turn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-2	to	to	ADP	TO	_	4	case	4:case	_
+2	to	to	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	left	left	NOUN	NN	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	1:punct	_

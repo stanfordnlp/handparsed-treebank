@@ -96,7 +96,7 @@
 2	hands	hand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	mug	mug	NOUN	NN	Number=Sing	2	obj	2:obj	_
-5	to	to	ADP	TO	_	6	case	6:case	_
+5	to	to	ADP	IN	_	6	case	6:case	_
 6	Angel	Angel	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 

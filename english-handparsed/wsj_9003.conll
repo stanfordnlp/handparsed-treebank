@@ -20,7 +20,7 @@
 1	Bin	Bin	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Laden	Laden	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|8:nsubj:xsubj	_
 3	returned	return	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	to	to	ADP	TO	_	6	case	6:case	_
+4	to	to	ADP	IN	_	6	case	6:case	_
 5	Saudi	Saudi	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	Arabia	Arabia	PROPN	NNP	Number=Sing	3	obl	3:obl:to	_
 7	to	to	PART	TO	_	8	mark	8:mark	_

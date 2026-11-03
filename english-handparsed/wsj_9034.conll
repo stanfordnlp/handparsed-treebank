@@ -52,7 +52,7 @@
 1	Send	send	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	an	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
 3	e-mail	e-mail	NOUN	NN	Number=Sing	1	obj	1:obj	_
-4	to	to	ADP	TO	_	6	case	6:case	_
+4	to	to	ADP	IN	_	6	case	6:case	_
 5	Danny	Danny	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	Cooper	Cooper	PROPN	NNP	Number=Sing	1	obl	1:obl:to	_
 
@@ -142,13 +142,13 @@
 2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 3	3pm	3pm	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	meeting	meeting	NOUN	NN	Number=Sing	1	obj	1:obj	_
-5	to	to	ADP	TO	_	6	case	6:case	_
+5	to	to	ADP	IN	_	6	case	6:case	_
 6	4:30	4:30	NUM	CD	NumForm=Digit|NumType=Card	1	obl	1:obl:to	_
 
 # sent_id = 20
 1	Add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	Lisa	Lisa	PROPN	NNP	Number=Sing	1	obj	1:obj	_
-3	to	to	ADP	TO	_	5	case	5:case	_
+3	to	to	ADP	IN	_	5	case	5:case	_
 4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	meeting	meeting	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 6	with	with	ADP	IN	_	7	case	7:case	_
@@ -419,7 +419,7 @@
 1	Fax	fax	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	contract	contract	NOUN	NN	Number=Sing	1	obj	1:obj	_
-4	to	to	ADP	TO	_	6	case	6:case	_
+4	to	to	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	airline	airline	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 
@@ -451,7 +451,7 @@
 1	Glue	glue	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
 3	ad	ad	NOUN	NN	Number=Sing	1	obj	1:obj	_
-4	to	to	ADP	TO	_	6	case	6:case	_
+4	to	to	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	tree	tree	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 
@@ -468,7 +468,7 @@
 # sent_id = 65
 1	Hammer	hammer	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	obj	1:obj	_
-3	to	to	ADP	TO	_	5	case	5:case	_
+3	to	to	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	wall	wall	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 
@@ -562,7 +562,7 @@
 # sent_id = 80
 1	Nail	nail	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	obj	1:obj	_
-3	to	to	ADP	TO	_	5	case	5:case	_
+3	to	to	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	wall	wall	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 
@@ -612,7 +612,7 @@
 # sent_id = 87
 1	Point	point	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	1:obj	_
-3	to	to	ADP	TO	_	6	case	6:case	_
+3	to	to	ADP	IN	_	6	case	6:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 5	nearest	near	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
 6	pharmacy	pharmacy	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
@@ -687,7 +687,7 @@
 # sent_id = 97
 1	Stand	stand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	closer	close	ADV	RBR	Degree=Cmp	1	advmod	1:advmod	_
-3	to	to	ADP	TO	_	5	case	5:case	_
+3	to	to	ADP	IN	_	5	case	5:case	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	stage	stage	NOUN	NN	Number=Sing	2	obl	2:obl:to	_
 
@@ -710,7 +710,7 @@
 
 # sent_id = 101
 1	Connect	connect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-2	to	to	ADP	TO	_	4	case	4:case	_
+2	to	to	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	server	server	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 
@@ -739,7 +739,7 @@
 # sent_id = 105
 1	email	email	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	hello	hello	INTJ	UH	_	1	obj	1:obj	_
-3	to	to	ADP	TO	_	4	case	4:case	_
+3	to	to	ADP	IN	_	4	case	4:case	_
 4	John	John	PROPN	NNP	Number=Sing	1	obl	1:obl:to	_
 
 # sent_id = 106

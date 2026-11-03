@@ -107,7 +107,7 @@
 # sent_id = 9
 1	Piniella	Piniella	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
 2	coming	come	VERB	VBG	VerbForm=Ger	0	root	0:root	_
-3	to	to	ADP	TO	_	4	case	4:case	_
+3	to	to	ADP	IN	_	4	case	4:case	_
 4	Wrigley	Wrigley	PROPN	NNP	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
 6	manage	manage	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	dep	2:dep	_

@@ -12,7 +12,7 @@
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	return	return	NOUN	NN	Number=Sing	13	compound	13:compound	_
 13	date	date	NOUN	NN	Number=Sing	10	obj	10:obj	_
-14	to	to	ADP	TO	_	15	case	15:case	_
+14	to	to	ADP	IN	_	15	case	15:case	_
 15	sfo	sfo	NOUN	NN	Number=Sing	10	obl	10:obl:to	SpaceAfter=No
 16	?	?	PUNCT	.	_	7	punct	7:punct	_
 

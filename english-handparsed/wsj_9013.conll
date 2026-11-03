@@ -37,7 +37,7 @@
 14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
 15	touchdown	touchdown	NOUN	NN	Number=Sing	16	compound	16:compound	_
 16	pass	pass	NOUN	NN	Number=Sing	3	obl	3:obl:on	_
-17	to	to	ADP	TO	_	19	case	19:case	_
+17	to	to	ADP	IN	_	19	case	19:case	_
 18	Jason	Jason	PROPN	NNP	Number=Sing	19	compound	19:compound	_
 19	Witten	Witten	PROPN	NNP	Number=Sing	16	nmod	16:nmod:to	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	3:punct	_
@@ -52,7 +52,7 @@
 7	yard	yard	NOUN	NN	Number=Sing	9	compound	9:compound	_
 8	touchdown	touchdown	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	pass	pass	NOUN	NN	Number=Sing	2	obl	2:obl:with	_
-10	to	to	ADP	TO	_	12	case	12:case	_
+10	to	to	ADP	IN	_	12	case	12:case	_
 11	Mike	Mike	PROPN	NNP	Number=Sing	12	compound	12:compound	_
 12	Williams	Williams	PROPN	NNP	Number=Sing	9	nmod	9:nmod:to	SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	2:punct	_

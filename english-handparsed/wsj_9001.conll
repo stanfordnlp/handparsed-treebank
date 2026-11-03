@@ -13,7 +13,7 @@
 12	weapons	weapon	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	_
 13	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 14	prior	prior	ADV	RB	_	16	advmod	16:advmod	_
-15	to	to	ADP	TO	_	16	case	16:case	_
+15	to	to	ADP	IN	_	16	case	16:case	_
 16	1999	1999	NUM	CD	NumForm=Digit|NumType=Card	13	advcl	13:advcl:to	SpaceAfter=No
 17	?	?	PUNCT	.	_	13	punct	13:punct	_
 

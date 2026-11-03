@@ -213,7 +213,7 @@
 1	Book	book	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	cheap	cheap	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	flights	flight	NOUN	NNS	Number=Plur	1	obj	1:obj	_
-4	to	to	ADP	TO	_	5	case	5:case	_
+4	to	to	ADP	IN	_	5	case	5:case	_
 5	Athens	Athens	PROPN	NNP	Number=Sing	3	nmod	3:nmod:to	_
 
 # sent_id = 10
