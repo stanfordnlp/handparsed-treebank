@@ -88,18 +88,19 @@
     (NP (NNP Joseph) (NNP Rudyard) (NNP Kipling))
     (VP (VBZ is)
       (VP (VBN considered)
-        (VP (TO to)
-          (VP (VB be)
-            (NP
-              (NP (CD one))
-              (PP (IN of)
-                (NP
-                  (NP (DT the) (JJS greatest) (JJ English) (NNS  writers))
-                  (S
-                    (NP-SBJ (-NONE- *))
-                    (VP (TO to)
-                      (VP (VB have)
-                        (VP (RB  ever) (VBN lived))))))))))))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJS greatest) (JJ English) (NNS  writers))
+                    (S
+                      (NP-SBJ (-NONE- *))
+                      (VP (TO to)
+                        (VP (VB have)
+                          (VP (RB  ever) (VBN lived)))))))))))))
     (. .)))
 
 (ROOT
@@ -162,8 +163,9 @@
       (PP (IN Of)
         (NP (NNP Wisconsin) (NN Dairy) (NNS Farms))))
     (VP (VBZ Continues)
-      (VP (TO To)
-        (VP (VB Decline))))))
+      (S
+        (VP (TO To)
+          (VP (VB Decline)))))))
 
 (ROOT
   (S

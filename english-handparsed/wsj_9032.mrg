@@ -246,12 +246,14 @@
 ( (S
     (NP (NNP Kerry) (NNP Katona))
     (VP (VBN asked)
-      (VP (TO to) (VB prove)
-        (SBAR
-          (S
-            (NP (NN daughter) (NNP Dylan))
-            (VP (VBZ is) (RB really)
-              (NP (PRP hers))))))
+      (S
+        (VP (TO to)
+          (VP (VB prove)
+            (SBAR
+              (S
+                (NP (NN daughter) (NNP Dylan))
+                (VP (VBZ is) (RB really)
+                  (NP (PRP hers))))))))
       (PP (IN at)
         (NP (NN  airport))))))
 
