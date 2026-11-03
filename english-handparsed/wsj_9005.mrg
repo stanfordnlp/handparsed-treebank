@@ -59,10 +59,11 @@
                   (ADVP (RB simultaneously))
                   (NP-TMP (DT this) (NN year)))))))))
     (, ,)
-    (NP (DT a) (NN scenario))
-    (VP (RB not) (VBN seen)
-      (PP (IN since)
-        (NP (DT the) (NNS 1980s))))
+    (NP
+      (NP (DT a) (NN scenario))
+      (VP (RB not) (VBN seen)
+        (PP (IN since)
+          (NP (DT the) (NNS 1980s)))))
     (. .)))
 
 ( (S (`` ``)
