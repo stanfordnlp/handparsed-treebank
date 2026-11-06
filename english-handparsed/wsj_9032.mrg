@@ -76,7 +76,7 @@
       (NP-PRD-1 (-NONE- *T*)))
     (. ?????)))
 
-( (NP (SYM *****)
+( (NP (NFP *****)
     (NP (NNS DIRECTIONS))
     (PP (IN FOR)
       (SBAR-NOM
@@ -88,7 +88,7 @@
               (PP-CLR (IN TO)
                 (NP (NN NEWS) (NNS GROUPS)))
               (ADVP-MNR-1 (-NONE- *T*)))))))
-    (. !!!) (SYM *****)))
+    (. !!!) (NFP *****)))
 
 ( (FRAG
     (NP (SYM ©))
@@ -126,11 +126,11 @@
           (NP (PRP$ my) (JJ Syrian) (NN Hamster)))))
     (. !!!?)))
 
-( (NP (NN A) (SYM ++++) (. !!!!!!)))
+( (NP (NN A) (NFP ++++) (. !!!!!!)))
 
-( (FRAG (SYM ****)
+( (FRAG (NFP ****)
     (INTJ (UH sigh))
-    (SYM ****)
+    (NFP ****)
     (FRAG (RB not)
       (VP (VBG trying)
         (S
@@ -158,46 +158,46 @@
       (NP (PRP$ their) (JJ haunting) (NNS qualities)))
     (. .)))
 
-( (X (SYM ------)))
+( (X (NFP ------)))
 
-( (X (SYM _____)))
+( (X (NFP _____)))
 
-( (FRAG (SYM ---=)
+( (FRAG (NFP ---=)
     (NP (CD 19) (JJ Specialized) (NNS Servers))
     (, -)
     (FRAG
       (NP (JJ Total) (NN Privacy))
       (PP (IN via)
         (NP (NN Encryption))))
-    (SYM =---)))
+    (NFP =---)))
 
 ( (S
     (NP-SBJ (DT The) (NN answer))
     (VP (VBZ is)
-      (SYM ===>)
+      (NFP ===>)
       (NP (NNP Slovenia)))
     (. .)))
 
-( (NP (SYM ----) (NNP Sue)))
+( (NP (NFP ----) (NNP Sue)))
 
-( (NP (SYM ++++++) (NN CONFIDENTIALITY) (NN NOTICE) (SYM +++++)))
+( (NP (NFP ++++++) (NN CONFIDENTIALITY) (NN NOTICE) (NFP +++++)))
 
 ( (FRAG
     (NP (NNP Cathy))
-    (SYM *****)
+    (NFP *****)
     (NP (CD Five) (NNS Stars))
     (PP (IN for)
       (NP
         (NNP Lake) (NNP Forest) (NNPS Tots)))
     (. .)))
 
-( (NP (NN A) (SYM ++++) (. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)))
+( (NP (NN A) (NFP ++++) (. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)))
 
 ( (FRAG
     (ADJP (JJ excellent))
     (, ,)
     (NP (JJ top) (NNS guys))
-    (NP (NN a) (SYM +++++))
+    (NP (NN a) (NFP +++++))
     (VP (VB reccommend)
       (PP (IN to)
         (NP (NN anyone))))

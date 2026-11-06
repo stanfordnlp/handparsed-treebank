@@ -170,14 +170,14 @@
 
 (ROOT
   (S
-    (SYM •)
+    (NFP •)
     (NP-SBJ (-NONE- *))
     (VP (VB Buy)
       (NP (NN milk)))))
 
 (ROOT
   (NP
-    (SYM •)
+    (NFP •)
     (NNS Carrots)))
 
 (ROOT
