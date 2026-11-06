@@ -17,10 +17,10 @@
     (VP (VBZ swims))
     (. .)))
 
-( (S (NP-SBJ (NNS Minorities)
+( (S (NP-SBJ (NNS Minorities))
      (VP (VBP rise)
        (PP (IN in)
-         (NP (JJS most) (NNP US) (NNS states)))))))
+         (NP (JJS most) (NNP US) (NNS states))))))
 
 
 

@@ -183,11 +183,10 @@
 (ROOT
   (SQ
     (MD Shall)
-    (S
-      (NP (PRP I))
-      (VP (VB buy)
-        (NP (PRP you))
-        (NP (DT a) (NN beer))))
+    (NP (PRP I))
+    (VP (VB buy)
+      (NP (PRP you))
+      (NP (DT a) (NN beer)))
     (. ?)))
 
 ( (SQ (MD Shall)

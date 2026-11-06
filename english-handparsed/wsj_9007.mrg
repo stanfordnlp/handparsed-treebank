@@ -172,10 +172,11 @@
     (PP (IN for)
       (NP (NNP Christmas) (CD 2006)))
     (. ?) ))
-( (S
-    (NP (NNP Jobs))
-    (PP (IN on)
-        (NP (NNP Zune)))
+( (FRAG
+    (NP
+      (NP (NNP Jobs))
+      (PP (IN on)
+        (NP (NNP Zune))))
     (. ?) ))
 ( (S
     (NP (PRP He))

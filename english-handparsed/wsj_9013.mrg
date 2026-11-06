@@ -10,14 +10,14 @@
           (NP (DT the) (NN corner))))
       (CC and)
       (VP (VBD caught)
-        (NP (DT the) (VBG scoring) (NN pass))))
-      (SBAR (IN before)
-        (S
-          (VP (VBG being)
-            (VP (VBN pushed)
-              (PP (IN into)
-                (NP (DT a) (NN snowbank)))))))
-      (. .)))
+        (NP (DT the) (VBG scoring) (NN pass))
+        (SBAR (IN before)
+          (S
+            (VP (VBG being)
+              (VP (VBN pushed)
+                (PP (IN into)
+                  (NP (DT a) (NN snowbank)))))))))
+    (. .)))
 
 ( (S
     (NP-SBJ (NNP Tony) (NNP Romo))

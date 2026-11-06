@@ -190,14 +190,13 @@
 
 ( (SBARQ
     (WHNP (WP What))
-    (SQ
-      (VP (VBZ is)
-        (NP
-          (NP (DT the) (JJS shortest) (NN path))
-          (PP (IN between)
-            (NP
-              (NP (CD two) (NNS points)))))
-        (VP (VBN called))))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS shortest) (NN path))
+        (PP (IN between)
+          (NP
+            (NP (CD two) (NNS points)))))
+      (VP (VBN called)))
     (. ?)))
 
 ( (SBARQ

@@ -42,7 +42,7 @@
     (WHNP (WP What))
     (SQ (VBZ 's)
         (NP (NP (NNP Steve) (NNP Wang) (POS 's))
-            (NP (NN home) (NN address))))))
+            (NN home) (NN address)))))
 ((S
  (VP (VB Go)
   (ADVP (RB home)))))
