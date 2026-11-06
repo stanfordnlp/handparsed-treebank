@@ -19,8 +19,8 @@
 3	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = 3
-1	Minorities	minority	NOUN	NNS	Number=Plur	0	root	0:root	_
-2	rise	rise	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	dep	1:dep	_
+1	Minorities	minority	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+2	rise	rise	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	in	in	ADP	IN	_	6	case	6:case	_
 4	most	most	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
 5	US	US	PROPN	NNP	Number=Sing	6	compound	6:compound	_

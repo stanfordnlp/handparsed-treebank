@@ -244,11 +244,11 @@
 9	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
-2	old	old	ADJ	JJ	Degree=Pos	3	dep	3:dep	_
-3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	old	old	ADJ	JJ	Degree=Pos	0	root	0:root	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 4	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	cousin	cousin	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
-6	?	?	PUNCT	.	_	3	punct	3:punct	_
+5	cousin	cousin	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
+6	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 1	Which	which	DET	WDT	PronType=Int	2	det	2:det	_
 2	president	president	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
@@ -427,11 +427,11 @@
 8	eat	eat	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	SpaceAfter=No
 9	?	?	PUNCT	.	_	6	punct	6:punct	_
 
-1	What	what	PRON	WP	PronType=Int	9	nsubj:pass	9:nsubj:pass	_
+1	What	what	PRON	WP	PronType=Int	9	obj	9:obj	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	shortest	short	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
-5	path	path	NOUN	NN	Number=Sing	9	dep	9:dep	_
+5	path	path	NOUN	NN	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
 6	between	between	ADP	IN	_	8	case	8:case	_
 7	two	two	NUM	CD	NumForm=Word|NumType=Card	8	nummod	8:nummod	_
 8	points	point	NOUN	NNS	Number=Plur	5	nmod	5:nmod:between	_
@@ -641,7 +641,7 @@
 22	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 1	There	there	PRON	EX	_	2	expl	2:expl	_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	ccomp	28:ccomp	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 4	rising	rise	VERB	VBG	VerbForm=Ger	5	amod	5:amod	_
 5	possibility	possibility	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
@@ -663,15 +663,15 @@
 21	simultaneously	simultaneously	ADV	RB	_	17	advmod	17:advmod	_
 22	this	this	DET	DT	Number=Sing|PronType=Dem	23	det	23:det	_
 23	year	year	NOUN	NN	Number=Sing	17	obl:unmarked	17:obl:unmarked	SpaceAfter=No
-24	,	,	PUNCT	,	_	28	punct	28:punct	_
+24	,	,	PUNCT	,	_	2	punct	2:punct	_
 25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	_
-26	scenario	scenario	NOUN	NN	Number=Sing	28	nsubj	28:nsubj	_
+26	scenario	scenario	NOUN	NN	Number=Sing	2	dep	2:dep	_
 27	not	not	PART	RB	Polarity=Neg	28	advmod	28:advmod	_
-28	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+28	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	acl	26:acl	_
 29	since	since	ADP	IN	_	31	case	31:case	_
 30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	31:det	_
 31	1980s	1980	NOUN	NNS	Number=Plur	28	obl	28:obl:since	SpaceAfter=No
-32	.	.	PUNCT	.	_	28	punct	28:punct	_
+32	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 1	``	``	PUNCT	``	_	33	punct	33:punct	SpaceAfter=No
 2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
@@ -715,13 +715,13 @@
 2	funding	funding	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	shortage	shortage	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	leaves	leave	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	patients	patient	NOUN	NNS	Number=Plur	4	obj	4:obj	_
+5	patients	patient	NOUN	NNS	Number=Plur	4	obj	4:obj|11:nsubj:xsubj	_
 6	in	in	ADP	IN	_	7	case	7:case	_
 7	Kent	Kent	PROPN	NNP	Number=Sing	5	nmod	5:nmod:in	_
 8	with	with	ADP	IN	_	10	case	10:case	_
 9	suspected	suspect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	amod	10:amod	_
 10	osteoporosis	osteoporosis	NOUN	NN	Number=Sing	5	nmod	5:nmod:with	_
-11	facing	face	VERB	VBG	VerbForm=Ger	4	dep	4:dep	_
+11	facing	face	VERB	VBG	VerbForm=Ger	4	xcomp	4:xcomp	_
 12	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
 13	six	six	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	SpaceAfter=No
 14	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
@@ -834,8 +834,8 @@
 2	swims	swim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-1	Minorities	minority	NOUN	NNS	Number=Plur	0	root	0:root	_
-2	rise	rise	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	dep	1:dep	_
+1	Minorities	minority	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+2	rise	rise	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	in	in	ADP	IN	_	6	case	6:case	_
 4	most	most	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
 5	US	US	PROPN	NNP	Number=Sing	6	compound	6:compound	_
@@ -951,7 +951,7 @@
 2	stock	stock	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	futures	future	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 4	edge	edge	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	higher	high	ADJ	JJR	Degree=Cmp	4	dep	4:dep	SpaceAfter=No
+5	higher	high	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	SpaceAfter=No
 6	;	;	PUNCT	:	_	4	punct	4:punct	_
 7	earnings	earnings	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 8	in	in	ADP	IN	_	9	case	9:case	_
@@ -1028,8 +1028,8 @@
 1	Will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	McGuires	McGuires	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	keep	keep	VERB	VB	VerbForm=Inf	0	root	0:root	_
-4	on	on	ADV	RB	_	3	advmod	3:advmod	_
-5	giving	give	VERB	VBG	VerbForm=Ger	4	dep	4:dep	_
+4	on	on	ADP	RP	_	3	compound:prt	3:compound:prt	_
+5	giving	give	VERB	VBG	VerbForm=Ger	3	xcomp	3:xcomp	_
 6	locally	locally	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
 7	?	?	PUNCT	.	_	3	punct	3:punct	_
 
@@ -1055,7 +1055,7 @@
 
 1	Jobs	Jobs	PROPN	NNP	Number=Sing	0	root	0:root	_
 2	on	on	ADP	IN	_	3	case	3:case	_
-3	Zune	Zune	PROPN	NNP	Number=Sing	1	dep	1:dep	SpaceAfter=No
+3	Zune	Zune	PROPN	NNP	Number=Sing	1	nmod	1:nmod:on	SpaceAfter=No
 4	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 1-2	He's	_	_	_	_	_	_	_	_
@@ -1318,8 +1318,8 @@
 
 1-2	Let's	_	_	_	_	_	_	_	_
 1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-2	's	's	PRON	PRP	_	3	nsubj	3:nsubj	_
-3	talk	talk	VERB	VB	VerbForm=Inf	1	ccomp	1:ccomp	_
+2	's	's	PRON	PRP	_	1	obj	1:obj|3:nsubj:xsubj	_
+3	talk	talk	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
 4	about	about	ADP	IN	_	5	case	5:case	_
 5	something	something	PRON	NN	Number=Sing	3	obl	3:obl:about	_
 6	else	else	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
@@ -1357,9 +1357,9 @@
 3	Assisi	Assisi	PROPN	NNP	Number=Sing	1	obl	1:obl:to	SpaceAfter=No
 4	,	,	PUNCT	,	_	6	punct	6:punct	_
 5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-6	traversed	traverse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	traversed	traverse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-8	city	city	NOUN	NN	Number=Sing	6	obj	6:obj	_
+8	city	city	NOUN	NN	Number=Sing	6	obj	6:obj|9:nsubj:xsubj	_
 9	begging	beg	VERB	VBG	VerbForm=Ger	6	xcomp	6:xcomp	_
 10	stones	stone	NOUN	NNS	Number=Plur	9	obj	9:obj	_
 11	for	for	ADP	IN	_	13	case	13:case	_
@@ -1367,48 +1367,48 @@
 13	restoration	restoration	NOUN	NN	Number=Sing	10	nmod	10:nmod:for	_
 14	of	of	ADP	IN	_	16	case	16:case	_
 15	St.	St.	PROPN	NNP	Number=Sing	16	compound	16:compound	_
-16-17	Damiano's	_	_	_	_	_	_	_	_
-16	Damiano	Damiano	PROPN	NNP	Number=Sing	13	nmod	13:nmod:'s	SpaceAfter=No
-17	's	's	PART	POS	_	16	case	16:case	SpaceAfter=No
+16-17	Damiano's	_	_	_	_	_	_	_	SpaceAfter=No
+16	Damiano	Damiano	PROPN	NNP	Number=Sing	13	nmod	13:nmod:'s	_
+17	's	's	PART	POS	_	16	case	16:case	_
 18	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 1-2	Galen's	_	_	_	_	_	_	_	_
-1	Galen	Galen	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
+1	Galen	Galen	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
 3	work	work	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
 4	on	on	ADP	IN	_	5	case	5:case	_
 5	animals	animal	NOUN	NNS	Number=Plur	3	nmod	3:nmod:on	_
-6	led	lead	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	to	to	ADP	IN	_	9	case	9:case	_
 8	some	some	DET	DT	_	9	det	9:det	_
 9	inaccuracies	inaccuracy	NOUN	NNS	Number=Plur	6	obl	6:obl:to	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	9:punct	_
 11	most	most	ADV	RBS	_	12	advmod	12:advmod	_
 12	notably	notably	ADV	RB	_	14	advmod	14:advmod	_
-13	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
+13	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
 14	anatomy	anatomy	NOUN	NN	Number=Sing	9	appos	9:appos|20:nsubj	_
 15	of	of	ADP	IN	_	17	case	17:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	uterus	uterus	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	_
 18	which	which	PRON	WDT	PronType=Rel	20	nsubj	14:ref	_
 19	largely	largely	ADV	RB	_	20	advmod	20:advmod	_
-20	resembled	resemble	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	acl:relcl	14:acl:relcl	_
+20	resembled	resemble	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	14:acl:relcl	_
 21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
-22-23	dog's	_	_	_	_	_	_	_	_
-22	dog	dog	NOUN	NN	Number=Sing	20	xcomp	20:xcomp	SpaceAfter=No
-23	's	's	PART	POS	_	22	case	22:case	SpaceAfter=No
+22-23	dog's	_	_	_	_	_	_	_	SpaceAfter=No
+22	dog	dog	NOUN	NN	Number=Sing	20	xcomp	20:xcomp	_
+23	's	's	PART	POS	_	22	case	22:case	_
 24	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	to	to	ADP	IN	_	4	case	4:case	_
 4	Bernini	Bernini	PROPN	NNP	Number=Sing	0	root	0:root	_
-5	that	that	PRON	WDT	PronType=Dem	7	nsubj	7:nsubj	_
+5	that	that	SCONJ	IN	_	7	mark	7:mark	_
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 7	due	due	ADJ	JJ	Degree=Pos	4	ccomp	4:ccomp	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9-10	lion's	_	_	_	_	_	_	_	_
-9	lion	lion	NOUN	NN	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
+9	lion	lion	NOUN	NN	Number=Sing	11	nmod:poss	11:nmod:poss	_
 10	's	's	PART	POS	_	9	case	9:case	_
 11	share	share	NOUN	NN	Number=Sing	7	dep	7:dep	_
 12	of	of	ADP	IN	_	13	case	13:case	_
@@ -1425,17 +1425,17 @@
 23	impact	impact	NOUN	NN	Number=Sing	20	conj	13:nmod:for|20:conj:and	_
 24	of	of	ADP	IN	_	26	case	26:case	_
 25	St.	St.	PROPN	NNP	Number=Sing	26	compound	26:compound	_
-26-27	Peter's	_	_	_	_	_	_	_	_
-26	Peter	Peter	PROPN	NNP	Number=Sing	20	nmod	20:nmod:'s	SpaceAfter=No
-27	's	's	PART	POS	_	26	case	26:case	SpaceAfter=No
+26-27	Peter's	_	_	_	_	_	_	_	SpaceAfter=No
+26	Peter	Peter	PROPN	NNP	Number=Sing	20	nmod	20:nmod:'s	_
+27	's	's	PART	POS	_	26	case	26:case	_
 28	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 1	In	in	ADP	IN	_	2	case	2:case	_
-2	1629	1629	NUM	CD	NumType=Card	6	obl	6:obl:in	SpaceAfter=No
+2	1629	1629	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:in	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	Urban	Urban	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	VIII	VIII	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
-6	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	put	put	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	_
 8	in	in	ADP	IN	_	9	case	9:case	_
 9	charge	charge	NOUN	NN	Number=Sing	6	obl	6:obl:in	_
@@ -1447,9 +1447,9 @@
 15	works	work	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	_
 16	at	at	ADP	IN	_	18	case	18:case	_
 17	St	St	PROPN	NNP	Number=Sing	18	compound	18:compound	_
-18-19	Peter's	_	_	_	_	_	_	_	_
-18	Peter	Peter	PROPN	NNP	Number=Sing	15	nmod	15:nmod:'s	SpaceAfter=No
-19	's	's	PART	POS	_	18	case	18:case	SpaceAfter=No
+18-19	Peter's	_	_	_	_	_	_	_	SpaceAfter=No
+18	Peter	Peter	PROPN	NNP	Number=Sing	15	nmod	15:nmod:'s	_
+19	's	's	PART	POS	_	18	case	18:case	_
 20	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
@@ -1460,26 +1460,26 @@
 6	and	and	CCONJ	CC	_	9	cc	9:cc	_
 7	no	no	DET	DT	_	8	det	8:det	_
 8	details	detail	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
-9	survive	survive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	5:conj:and	_
+9	survive	survive	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	5:conj:and	_
 10	about	about	ADP	IN	_	13	case	13:case	_
 11-12	Chaumpaigne's	_	_	_	_	_	_	_	_
-11	Chaumpaigne	Chaumpaigne	PROPN	NNP	Number=Sing	13	nmod:poss	13:nmod:poss	SpaceAfter=No
+11	Chaumpaigne	Chaumpaigne	PROPN	NNP	Number=Sing	13	nmod:poss	13:nmod:poss	_
 12	's	's	PART	POS	_	11	case	11:case	_
 13	service	service	NOUN	NN	Number=Sing	9	dep	9:dep	_
 14	or	or	CCONJ	CC	_	17	cc	17:cc	_
 15	how	how	ADV	WRB	PronType=Int	17	advmod	17:advmod	_
 16	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj|19:nsubj:xsubj	_
-17	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	conj	9:dep|13:conj:or	_
+17	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	9:dep|13:conj:or	_
 18	to	to	PART	TO	_	19	mark	19:mark	_
 19	leave	leave	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	_
 20-21	Staundon's	_	_	_	_	_	_	_	_
-20	Staundon	Staundon	PROPN	NNP	Number=Sing	22	nmod:poss	22:nmod:poss	SpaceAfter=No
+20	Staundon	Staundon	PROPN	NNP	Number=Sing	22	nmod:poss	22:nmod:poss	_
 21	's	's	PART	POS	_	20	case	20:case	_
 22	employ	employ	NOUN	NN	Number=Sing	19	obj	19:obj	_
 23	for	for	ADP	IN	_	24	case	24:case	_
-24-25	Chaucer's	_	_	_	_	_	_	_	_
-24	Chaucer	Chaucer	PROPN	NNP	Number=Sing	19	obl	19:obl:'s	SpaceAfter=No
-25	's	's	PART	POS	_	24	case	24:case	SpaceAfter=No
+24-25	Chaucer's	_	_	_	_	_	_	_	SpaceAfter=No
+24	Chaucer	Chaucer	PROPN	NNP	Number=Sing	19	obl	19:obl:'s	_
+25	's	's	PART	POS	_	24	case	24:case	_
 26	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 1	Preserving	preserve	VERB	VBG	VerbForm=Ger	27	csubj	27:csubj	_
@@ -1494,29 +1494,29 @@
 10	mathematics	mathematics	NOUN	NN	Number=Sing	8	conj	6:nmod:between|8:conj:and	SpaceAfter=No
 11	,	,	PUNCT	,	_	1	punct	1:punct	_
 12	although	although	ADP	IN	_	1	advcl	1:advcl	_
-13	not	not	ADV	RB	_	12	advmod	12:advmod	_
+13	not	not	ADV	RB	Polarity=Neg	12	advmod	12:advmod	_
 14	in	in	ADP	IN	_	17	case	17:case	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 16	same	same	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
 17	form	form	NOUN	NN	Number=Sing	12	dep	12:dep	_
 18	as	as	SCONJ	IN	_	19	mark	19:mark	_
-19	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	17	dep	17:dep	_
+19	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	dep	17:dep	_
 20	by	by	ADP	IN	_	22	case	22:case	_
-21	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
+21	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
 22	critics	critic	NOUN	NNS	Number=Plur	19	obl	19:obl:by	SpaceAfter=No
 23	,	,	PUNCT	,	_	1	punct	1:punct	_
-24	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	cop	27:cop	_
+24	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	cop	27:cop	_
 25	long	long	ADV	RB	Degree=Pos	27	advmod	27:advmod	_
 26	a	a	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	_
 27	concern	concern	NOUN	NN	Number=Sing	0	root	0:root	_
 28	of	of	ADP	IN	_	29	case	29:case	_
-29-30	Cantor's	_	_	_	_	_	_	_	_
-29	Cantor	Cantor	PROPN	NNP	Number=Sing	27	nmod	27:nmod:'s	SpaceAfter=No
-30	's	's	PART	POS	_	29	case	29:case	SpaceAfter=No
+29-30	Cantor's	_	_	_	_	_	_	_	SpaceAfter=No
+29	Cantor	Cantor	PROPN	NNP	Number=Sing	27	nmod	27:nmod:'s	_
+30	's	's	PART	POS	_	29	case	29:case	_
 31	.	.	PUNCT	.	_	27	punct	27:punct	_
 
 1-2	Kasparov's	_	_	_	_	_	_	_	_
-1	Kasparov	Kasparov	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
+1	Kasparov	Kasparov	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
 3	attacking	attacking	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	style	style	NOUN	NN	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
@@ -1528,45 +1528,45 @@
 10	by	by	ADP	IN	_	11	case	11:case	_
 11	many	many	ADJ	JJ	Degree=Pos	9	obl	9:obl:agent	_
 12	to	to	ADP	IN	_	13	case	13:case	_
-13-14	Alekhine's	_	_	_	_	_	_	_	_
-13	Alekhine	Alekhine	PROPN	NNP	Number=Sing	9	obl	9:obl:'s	SpaceAfter=No
-14	's	's	PART	POS	_	13	case	13:case	SpaceAfter=No
+13-14	Alekhine's	_	_	_	_	_	_	_	SpaceAfter=No
+13	Alekhine	Alekhine	PROPN	NNP	Number=Sing	9	obl	9:obl:'s	_
+14	's	's	PART	POS	_	13	case	13:case	_
 15	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 1	This	this	DET	DT	Number=Sing|PronType=Dem	6	det	6:det	_
-2	screwed	screw	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	6:amod	_
+2	screwed	screw	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	_
 3	up	up	ADP	RP	_	2	compound:prt	2:compound:prt	_
 4	x	x	NOUN	NN	Number=Sing	6	compound	6:compound	SpaceAfter=No
 5	-	-	PUNCT	HYPH	_	6	punct	6:punct	SpaceAfter=No
 6	ray	ray	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
-7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
-8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
-9-10	hip's	_	_	_	_	_	_	_	_
-9	hip	hip	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
-10	's	's	PART	POS	_	9	case	9:case	SpaceAfter=No
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+8	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9-10	hip's	_	_	_	_	_	_	_	SpaceAfter=No
+9	hip	hip	NOUN	NN	Number=Sing	0	root	0:root	_
+10	's	's	PART	POS	_	9	case	9:case	_
 11	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2-3	proton's	_	_	_	_	_	_	_	_
-2	proton	proton	NOUN	NN	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
+2	proton	proton	NOUN	NN	Number=Sing	4	nmod:poss	4:nmod:poss	_
 3	's	's	PART	POS	_	2	case	2:case	_
 4	mass	mass	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
-5	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 6	only	only	ADV	RB	_	8	advmod	8:advmod	_
 7	about	about	ADV	RB	_	8	advmod	8:advmod	_
-8	0.13	0.13	NUM	CD	NumType=Card	9	nummod	9:nummod	SpaceAfter=No
+8	0.13	0.13	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No
 9	%	%	SYM	NN	Number=Sing	10	obl:npmod	10:obl:npmod	_
 10	less	less	ADJ	JJR	Degree=Cmp	0	root	0:root	_
 11	than	than	ADP	IN	_	13	case	13:case	_
 12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
-13-14	neutron's	_	_	_	_	_	_	_	_
-13	neutron	neutron	NOUN	NN	Number=Sing	10	obl	10:obl:'s	SpaceAfter=No
-14	's	's	PART	POS	_	13	case	13:case	SpaceAfter=No
+13-14	neutron's	_	_	_	_	_	_	_	SpaceAfter=No
+13	neutron	neutron	NOUN	NN	Number=Sing	10	obl	10:obl:'s	_
+14	's	's	PART	POS	_	13	case	13:case	_
 15	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 1	An	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
 2	avalanche	avalanche	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
-3	hit	hit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 5	house	house	NOUN	NN	Number=Sing	3	obj	3:obj	_
 6	in	in	ADP	IN	_	9	case	9:case	_
@@ -1575,19 +1575,19 @@
 9	section	section	NOUN	NN	Number=Sing	5	nmod	5:nmod:in	_
 10	of	of	ADP	IN	_	12	case	12:case	_
 11	St.	St.	PROPN	NNP	Number=Sing	12	compound	12:compound	_
-12-13	John's	_	_	_	_	_	_	_	_
-12	John	John	PROPN	NNP	Number=Sing	9	nmod	9:nmod:'s	SpaceAfter=No
-13	's	's	PART	POS	_	12	case	12:case	SpaceAfter=No
+12-13	John's	_	_	_	_	_	_	_	SpaceAfter=No
+12	John	John	PROPN	NNP	Number=Sing	9	nmod	9:nmod:'s	_
+13	's	's	PART	POS	_	12	case	12:case	_
 14	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	Shepherds	Shepherds	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
-3	established	establish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	established	establish	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5-6	province's	_	_	_	_	_	_	_	_
-5	province	province	NOUN	NN	Number=Sing	9	nmod:poss	9:nmod:poss	SpaceAfter=No
+5	province	province	NOUN	NN	Number=Sing	9	nmod:poss	9:nmod:poss	_
 6	's	's	PART	POS	_	5	case	5:case	_
-7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	9	amod	9:amod	_
+7	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	9	amod	9:amod	_
 8	art	art	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	school	school	NOUN	NN	Number=Sing	3	obj	3:obj	_
 10	in	in	ADP	IN	_	12	case	12:case	_
@@ -1596,16 +1596,16 @@
 13	in	in	ADP	IN	_	16	case	16:case	_
 14	downtown	downtown	NOUN	NN	Number=Sing	16	compound	16:compound	_
 15	St.	St.	PROPN	NNP	Number=Sing	16	compound	16:compound	_
-16-17	John's	_	_	_	_	_	_	_	_
-16	John	John	PROPN	NNP	Number=Sing	12	nmod	12:nmod:'s	SpaceAfter=No
-17	's	's	PART	POS	_	16	case	16:case	SpaceAfter=No
+16-17	John's	_	_	_	_	_	_	_	SpaceAfter=No
+16	John	John	PROPN	NNP	Number=Sing	12	nmod	12:nmod:'s	_
+17	's	's	PART	POS	_	16	case	16:case	_
 18	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 1	Fine	fine	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	arts	art	NOUN	NNS	Number=Plur	3	compound	3:compound	_
 3	education	education	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	programs	program	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	_
-5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	established	establish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 7	at	at	ADP	IN	_	9	case	9:case	_
 8	post-secondary	post-secondary	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
@@ -1618,32 +1618,32 @@
 15	Centre	Centre	PROPN	NNP	Number=Sing	9	nmod	9:nmod:such_as	_
 16	in	in	ADP	IN	_	18	case	18:case	_
 17	St.	St.	PROPN	NNP	Number=Sing	18	compound	18:compound	_
-18-19	John's	_	_	_	_	_	_	_	_
-18	John	John	PROPN	NNP	Number=Sing	15	nmod	15:nmod:'s	SpaceAfter=No
-19	's	's	PART	POS	_	18	case	18:case	SpaceAfter=No
+18-19	John's	_	_	_	_	_	_	_	SpaceAfter=No
+18	John	John	PROPN	NNP	Number=Sing	15	nmod	15:nmod:'s	_
+19	's	's	PART	POS	_	18	case	18:case	_
 20	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 1	In	in	ADP	IN	_	2	case	2:case	_
-2	1969	1969	NUM	CD	NumType=Card	6	obl	6:obl:in	SpaceAfter=No
+2	1969	1969	NUM	CD	NumForm=Digit|NumType=Card	6	obl	6:obl:in	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	Alan	Alan	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	Siegel	Siegel	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
-6	created	create	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	created	create	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 8	modern	modern	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
 9	NBA	NBA	PROPN	NNP	Number=Sing	10	compound	10:compound	_
 10	logo	logo	NOUN	NN	Number=Sing	6	obj	6:obj	_
-11	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	10:acl	_
+11	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
 12	by	by	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
-14-15	MLB's	_	_	_	_	_	_	_	_
-14	MLB	MLB	PROPN	NNP	Number=Sing	11	obl	11:obl:'s	SpaceAfter=No
-15	's	's	PART	POS	_	14	case	14:case	SpaceAfter=No
+14-15	MLB's	_	_	_	_	_	_	_	SpaceAfter=No
+14	MLB	MLB	PROPN	NNP	Number=Sing	11	obl	11:obl:'s	_
+15	's	's	PART	POS	_	14	case	14:case	_
 16	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 1	Other	other	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	scholars	scholar	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|6:nsubj	_
-3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	challenged	challenge	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 5	and	and	CCONJ	CC	_	6	cc	6:cc	_
 6	argued	argue	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	4:conj:and	_
@@ -1653,34 +1653,34 @@
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 11	above	above	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
 12	works	work	NOUN	NNS	Number=Plur	8	nmod	8:nmod:of	_
-13	being	be	VERB	VBG	VerbForm=Ger	14	cop	14:cop	_
-14-15	Nagarjuna's	_	_	_	_	_	_	_	_
-14	Nagarjuna	Nagarjuna	PROPN	NNP	Number=Sing	4	dep	4:dep	SpaceAfter=No
-15	's	's	PART	POS	_	14	case	14:case	SpaceAfter=No
+13	being	be	AUX	VBG	VerbForm=Ger	14	cop	14:cop	_
+14-15	Nagarjuna's	_	_	_	_	_	_	_	SpaceAfter=No
+14	Nagarjuna	Nagarjuna	PROPN	NNP	Number=Sing	4	dep	4:dep	_
+15	's	's	PART	POS	_	14	case	14:case	_
 16	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 1	Many	many	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	people	person	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj|5:nsubj:xsubj	_
-3	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	began	begin	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	question	question	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
 6	whether	whether	SCONJ	IN	_	20	mark	20:mark	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	body	body	NOUN	NN	Number=Sing	20	nsubj	20:nsubj	_
-9	mutilated	mutilate	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	8:acl	_
+9	mutilated	mutilate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
 10	at	at	ADP	IN	_	11	case	11:case	_
 11	Tyburn	Tyburn	PROPN	NNP	Number=Sing	9	obl	9:obl:at	_
 12	and	and	CCONJ	CC	_	14	cc	14:cc	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 14	head	head	NOUN	NN	Number=Sing	8	conj	8:conj:and|20:nsubj	_
-15	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
+15	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
 16	on	on	ADP	IN	_	18	case	18:case	_
 17	Westminster	Westminster	PROPN	NNP	Number=Sing	18	compound	18:compound	_
 18	Hall	Hall	PROPN	NNP	Number=Sing	15	obl	15:obl:on	_
-19	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	cop	20:cop	_
-20-21	Cromwell's	_	_	_	_	_	_	_	_
-20	Cromwell	Cromwell	PROPN	NNP	Number=Sing	5	ccomp	5:ccomp	SpaceAfter=No
-21	's	's	PART	POS	_	20	case	20:case	SpaceAfter=No
+19	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	cop	20:cop	_
+20-21	Cromwell's	_	_	_	_	_	_	_	SpaceAfter=No
+20	Cromwell	Cromwell	PROPN	NNP	Number=Sing	5	ccomp	5:ccomp	_
+21	's	's	PART	POS	_	20	case	20:case	_
 22	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 1	Orcus	Orcus	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
@@ -1693,15 +1693,15 @@
 8	and	and	CCONJ	CC	_	9	cc	9:cc	_
 9	eccentricity	eccentricity	NOUN	NN	Number=Sing	7	conj	5:obl:in|7:conj:and	_
 10	to	to	ADP	IN	_	11	case	11:case	_
-11-12	Pluto's	_	_	_	_	_	_	_	_
-11	Pluto	Pluto	PROPN	NNP	Number=Sing	5	obl	5:obl:'s	SpaceAfter=No
-12	's	's	PART	POS	_	11	case	11:case	SpaceAfter=No
+11-12	Pluto's	_	_	_	_	_	_	_	SpaceAfter=No
+11	Pluto	Pluto	PROPN	NNP	Number=Sing	5	obl	5:obl:'s	_
+12	's	's	PART	POS	_	11	case	11:case	_
 13	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 1	Although	although	SCONJ	IN	_	3	mark	3:mark	_
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl:although	_
-4	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+4	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 5	own	own	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	house	house	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 7	,	,	PUNCT	,	_	11	punct	11:punct	_
@@ -1712,18 +1712,18 @@
 12	staying	stay	VERB	VBG	VerbForm=Ger	11	xcomp	11:xcomp	_
 13	overnight	overnight	ADV	RB	_	12	advmod	12:advmod	_
 14	at	at	ADP	IN	_	15	case	15:case	_
-15-16	Asterix's	_	_	_	_	_	_	_	_
-15	Asterix	Asterix	PROPN	NNP	Number=Sing	12	obl	12:obl:'s	SpaceAfter=No
-16	's	's	PART	POS	_	15	case	15:case	SpaceAfter=No
+15-16	Asterix's	_	_	_	_	_	_	_	SpaceAfter=No
+15	Asterix	Asterix	PROPN	NNP	Number=Sing	12	obl	12:obl:'s	_
+16	's	's	PART	POS	_	15	case	15:case	_
 17	.	.	PUNCT	.	_	11	punct	11:punct	_
 
 1-2	Fiji's	_	_	_	_	_	_	_	_
-1	Fiji	Fiji	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
+1	Fiji	Fiji	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
 3	sevens	sevens	NOUN	NN	Number=Sing	4	compound	4:compound	_
 4	team	team	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
-5	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
-6	one	one	NUM	CD	NumType=Card	0	root	0:root	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+6	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 7	of	of	ADP	IN	_	10	case	10:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 9	most	most	ADV	RBS	_	10	advmod	10:advmod	_
@@ -1735,20 +1735,20 @@
 15	as	as	SCONJ	IN	_	16	dep	16:dep	_
 16	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	6:advcl	_
 17	New	New	PROPN	NNP	Number=Sing	18	compound	18:compound	_
-18-19	Zealand's	_	_	_	_	_	_	_	_
-18	Zealand	Zealand	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	SpaceAfter=No
-19	's	's	PART	POS	_	18	case	18:case	SpaceAfter=No
+18-19	Zealand's	_	_	_	_	_	_	_	SpaceAfter=No
+18	Zealand	Zealand	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	_
+19	's	's	PART	POS	_	18	case	18:case	_
 20	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 1-2	Mars's	_	_	_	_	_	_	_	_
-1	Mars	Mars	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	SpaceAfter=No
+1	Mars	Mars	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	_
 2	's	's	PART	POS	_	1	case	1:case	_
 3	atmosphere	atmosphere	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|9:nsubj	_
-4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 5	expansive	expansive	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	and	and	CCONJ	CC	_	9	cc	9:cc	_
 7	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
-8	not	not	PART	RB	_	9	advmod	9:advmod	_
+8	not	not	PART	RB	Polarity=Neg	9	advmod	9:advmod	_
 9	drop	drop	VERB	VB	VerbForm=Inf	5	conj	5:conj:and	_
 10	off	off	ADP	RP	_	9	compound:prt	9:compound:prt	_
 11	in	in	ADP	IN	_	12	case	12:case	_
@@ -1758,22 +1758,22 @@
 15	as	as	ADV	RB	_	16	advmod	16:advmod	_
 16	sharply	sharply	ADV	RB	_	9	advmod	9:advmod	_
 17	as	as	ADP	IN	_	18	case	18:case	_
-18-19	Earth's	_	_	_	_	_	_	_	_
-18	Earth	Earth	PROPN	NNP	Number=Sing	16	obl	16:obl:'s	SpaceAfter=No
-19	's	's	PART	POS	_	18	case	18:case	SpaceAfter=No
+18-19	Earth's	_	_	_	_	_	_	_	SpaceAfter=No
+18	Earth	Earth	PROPN	NNP	Number=Sing	16	obl	16:obl:'s	_
+19	's	's	PART	POS	_	18	case	18:case	_
 20	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 1	By	by	ADP	IN	_	4	case	4:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-3	19th	19th	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	4:amod	_
+3	19th	19th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	century	century	NOUN	NN	Number=Sing	10	obl	10:obl:by	SpaceAfter=No
 5	,	,	PUNCT	,	_	10	punct	10:punct	_
 6-7	Plato's	_	_	_	_	_	_	_	_
-6	Plato	Plato	PROPN	NNP	Number=Sing	8	nmod:poss	8:nmod:poss	SpaceAfter=No
+6	Plato	Plato	PROPN	NNP	Number=Sing	8	nmod:poss	8:nmod:poss	_
 7	's	's	PART	POS	_	6	case	6:case	_
 8	reputation	reputation	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
-9	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	_
-10	restored	restore	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	_
+10	restored	restore	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	10:punct	_
 12	and	and	CCONJ	CC	_	16	cc	16:cc	_
 13	at	at	ADP	IN	_	16	advmod	16:advmod	_
@@ -1781,24 +1781,24 @@
 15	on	on	ADP	IN	_	16	case	16:case	_
 16	par	par	NOUN	NN	Number=Sing	10	conj	10:conj:and	_
 17	with	with	ADP	IN	_	18	case	18:case	_
-18-19	Aristotle's	_	_	_	_	_	_	_	_
-18	Aristotle	Aristotle	PROPN	NNP	Number=Sing	16	nmod	16:nmod:'s	SpaceAfter=No
-19	's	's	PART	POS	_	18	case	18:case	SpaceAfter=No
+18-19	Aristotle's	_	_	_	_	_	_	_	SpaceAfter=No
+18	Aristotle	Aristotle	PROPN	NNP	Number=Sing	16	nmod	16:nmod:'s	_
+19	's	's	PART	POS	_	18	case	18:case	_
 20	.	.	PUNCT	.	_	10	punct	10:punct	_
 
-1	His	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	tenure	tenure	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
-3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 4	more	more	ADV	RBR	_	5	advmod	5:advmod	_
 5	successful	successful	ADJ	JJ	Degree=Pos	0	root	0:root	_
 6	than	than	ADP	IN	_	7	case	7:case	_
-7-8	Patterson's	_	_	_	_	_	_	_	_
-7	Patterson	Patterson	PROPN	NNP	Number=Sing	5	obl	5:obl:'s	SpaceAfter=No
-8	's	's	PART	POS	_	7	case	7:case	SpaceAfter=No
+7-8	Patterson's	_	_	_	_	_	_	_	SpaceAfter=No
+7	Patterson	Patterson	PROPN	NNP	Number=Sing	5	obl	5:obl:'s	_
+8	's	's	PART	POS	_	7	case	7:case	_
 9	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 1	Germany	Germany	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj|4:nsubj:xsubj|11:nsubj	_
-2	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	pursue	pursue	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
@@ -1807,16 +1807,16 @@
 8	global	global	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	prominence	prominence	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	_
 10	and	and	CCONJ	CC	_	11	cc	11:cc	_
-11	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+11	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
 12	building	build	VERB	VBG	VerbForm=Ger	11	xcomp	11:xcomp	_
 13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
 14	navy	navy	NOUN	NN	Number=Sing	12	obj	12:obj	_
 15	to	to	PART	TO	_	16	mark	16:mark	_
 16	compete	compete	VERB	VB	VerbForm=Inf	14	acl	14:acl:to	_
 17	with	with	ADP	IN	_	18	case	18:case	_
-18-19	Britain's	_	_	_	_	_	_	_	_
-18	Britain	Britain	PROPN	NNP	Number=Sing	16	obl	16:obl:'s	SpaceAfter=No
-19	's	's	PART	POS	_	18	case	18:case	SpaceAfter=No
+18-19	Britain's	_	_	_	_	_	_	_	SpaceAfter=No
+18	Britain	Britain	PROPN	NNP	Number=Sing	16	obl	16:obl:'s	_
+19	's	's	PART	POS	_	18	case	18:case	_
 20	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 1	``	``	PUNCT	``	_	6	punct	6:punct	SpaceAfter=No
@@ -2001,7 +2001,7 @@
 13	pass	pass	NOUN	NN	Number=Sing	10	obj	10:obj	_
 14	before	before	SCONJ	IN	_	16	mark	16:mark	_
 15	being	be	AUX	VBG	VerbForm=Ger	16	aux:pass	16:aux:pass	_
-16	pushed	push	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	dep	2:dep	_
+16	pushed	push	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	10:advcl:before	_
 17	into	into	ADP	IN	_	19	case	19:case	_
 18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
 19	snowbank	snowbank	NOUN	NN	Number=Sing	16	obl	16:obl:into	SpaceAfter=No
@@ -2883,8 +2883,8 @@
 2	soup	soup	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
-5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-6	feel	feel	VERB	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	4:obj|6:nsubj:xsubj	_
+6	feel	feel	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
 7	better	well	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	_
 8	if	if	SCONJ	IN	_	10	mark	10:mark	_
 9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
@@ -2963,7 +2963,7 @@
 2	tin	tin	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	can	can	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	contains	contain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	beets	beet	NOUN	NNS	Number=Plur	4	dep	4:dep	_
+5	beets	beet	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -3379,8 +3379,8 @@
 
 1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
-3	dog	dog	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
-4	go	go	VERB	VB	VerbForm=Inf	1	ccomp	1:ccomp	_
+3	dog	dog	NOUN	NN	Number=Sing	1	obj	1:obj|4:nsubj:xsubj	_
+4	go	go	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
 5	out	out	ADP	RP	_	4	compound:prt	4:compound:prt	_
 6	or	or	CCONJ	CC	_	9	cc	9:cc	_
 7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
@@ -3667,20 +3667,20 @@
 7	To	to	PART	TO	_	8	mark	8:mark	_
 8	Decline	decline	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 
-1	•	•	SYM	SYM	_	2	dep	2:dep	_
+1	•	•	SYM	NFP	_	2	punct	2:punct	_
 2	Buy	buy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 3	milk	milk	NOUN	NN	Number=Sing	2	obj	2:obj	_
 
-1	•	•	SYM	SYM	_	2	dep	2:dep	_
+1	•	•	SYM	NFP	_	2	punct	2:punct	_
 2	Carrots	carrot	NOUN	NNS	Number=Plur	0	root	0:root	_
 
-1	Shall	shall	AUX	MD	VerbForm=Fin	0	root	0:root	_
+1	Shall	shall	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	buy	buy	VERB	VB	VerbForm=Inf	1	dep	1:dep	_
+3	buy	buy	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	iobj	3:iobj	_
 5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 6	beer	beer	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
-7	?	?	PUNCT	.	_	1	punct	1:punct	_
+7	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 1	Shall	shall	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
@@ -3849,10 +3849,10 @@
 2	everyone	everyone	PRON	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 3	…	…	PUNCT	,	_	2	punct	2:punct	_
 
-1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	_
 2	got	get	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	ta	ta	ADP	TO	_	4	dep	4:dep	_
-4	get	get	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	_
+3	ta	ta	PART	TO	_	4	mark	4:mark	_
+4	get	get	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
 6	iPhone	iPhone	PROPN	NNP	Number=Sing	4	obj	4:obj	_
 7	for	for	ADP	IN	_	8	case	8:case	_
@@ -3919,7 +3919,7 @@
 3	THAT	that	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	1:nsubj	SpaceAfter=No
 4	?????	?????	PUNCT	.	_	1	punct	1:punct	_
 
-1	*****	*****	SYM	SYM	_	2	dep	2:dep	_
+1	*****	*****	PUNCT	NFP	_	2	punct	2:punct	_
 2	DIRECTIONS	direction	NOUN	NNS	Number=Plur	0	root	0:root	_
 3	FOR	for	SCONJ	IN	_	6	mark	6:mark	_
 4	HOW	how	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
@@ -3929,7 +3929,7 @@
 8	NEWS	news	NOUN	NN	Number=Sing	9	compound	9:compound	_
 9	GROUPS	group	NOUN	NNS	Number=Plur	6	obl	6:obl:to	_
 10	!!!	!!!	PUNCT	.	_	2	punct	2:punct	_
-11	*****	*****	SYM	SYM	_	2	dep	2:dep	_
+11	*****	*****	PUNCT	NFP	_	2	punct	2:punct	_
 
 1	©	©	SYM	SYM	_	0	root	0:root	_
 2	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	1	dep	1:dep	_
@@ -3970,12 +3970,12 @@
 8	!!!?	!!!?	PUNCT	.	_	2	punct	2:punct	_
 
 1	A	a	NOUN	NN	Number=Sing	0	root	0:root	_
-2	++++	++++	SYM	SYM	_	1	dep	1:dep	_
+2	++++	++++	SYM	NFP	_	1	punct	1:punct	_
 3	!!!!!!	!!!!!!	PUNCT	.	_	1	punct	1:punct	_
 
-1	****	****	SYM	SYM	_	5	dep	5:dep	_
+1	****	****	PUNCT	NFP	_	5	punct	5:punct	_
 2	sigh	sigh	INTJ	UH	_	5	discourse	5:discourse	_
-3	****	****	SYM	SYM	_	5	dep	5:dep	_
+3	****	****	PUNCT	NFP	_	5	punct	5:punct	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	trying	try	VERB	VBG	VerbForm=Ger	0	root	0:root	_
 6	to	to	PART	TO	_	7	mark	7:mark	_
@@ -4000,11 +4000,11 @@
 8	qualities	quality	NOUN	NNS	Number=Plur	5	obj	5:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	5:punct	_
 
-1	------	------	SYM	SYM	_	0	root	0:root	_
+1	------	------	PUNCT	NFP	_	0	root	0:root	_
 
-1	_____	_____	SYM	SYM	_	0	root	0:root	_
+1	_____	_____	SYM	NFP	_	0	root	0:root	_
 
-1	---=	---=	SYM	SYM	_	4	dep	4:dep	_
+1	---=	---=	SYM	NFP	_	4	punct	4:punct	_
 2	19	19	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
 3	Specialized	specialized	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	Servers	server	NOUN	NNS	Number=Plur	0	root	0:root	_
@@ -4013,25 +4013,25 @@
 7	Privacy	privacy	NOUN	NN	Number=Sing	4	dep	4:dep	_
 8	via	via	ADP	IN	_	9	case	9:case	_
 9	Encryption	encryption	NOUN	NN	Number=Sing	7	obl	7:obl:via	_
-10	=---	=---	SYM	SYM	_	4	dep	4:dep	_
+10	=---	=---	SYM	NFP	_	4	punct	4:punct	_
 
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
 2	answer	answer	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-4	===>	===>	SYM	SYM	_	5	dep	5:dep	_
+4	===>	===>	SYM	NFP	_	5	punct	5:punct	_
 5	Slovenia	Slovenia	PROPN	NNP	Number=Sing	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	5:punct	_
 
-1	----	----	SYM	SYM	_	2	dep	2:dep	_
+1	----	----	PUNCT	NFP	_	2	punct	2:punct	_
 2	Sue	Sue	PROPN	NNP	Number=Sing	0	root	0:root	_
 
-1	++++++	++++++	SYM	SYM	_	3	dep	3:dep	_
+1	++++++	++++++	SYM	NFP	_	3	punct	3:punct	_
 2	CONFIDENTIALITY	confidentiality	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	NOTICE	notice	NOUN	NN	Number=Sing	0	root	0:root	_
-4	+++++	+++++	SYM	SYM	_	3	dep	3:dep	_
+4	+++++	+++++	SYM	NFP	_	3	punct	3:punct	_
 
 1	Cathy	Cathy	PROPN	NNP	Number=Sing	0	root	0:root	_
-2	*****	*****	SYM	SYM	_	1	dep	1:dep	_
+2	*****	*****	PUNCT	NFP	_	1	punct	1:punct	_
 3	Five	five	NUM	CD	NumForm=Word|NumType=Card	4	nummod	4:nummod	_
 4	Stars	star	NOUN	NNS	Number=Plur	1	dep	1:dep	_
 5	for	for	ADP	IN	_	8	case	8:case	_
@@ -4041,7 +4041,7 @@
 9	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 1	A	a	NOUN	NN	Number=Sing	0	root	0:root	_
-2	++++	++++	SYM	SYM	_	1	dep	1:dep	_
+2	++++	++++	SYM	NFP	_	1	punct	1:punct	_
 3	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	PUNCT	.	_	1	punct	1:punct	_
 
 1	excellent	excellent	ADJ	JJ	Degree=Pos	4	dep	4:dep	SpaceAfter=No
@@ -4049,7 +4049,7 @@
 3	top	top	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	guys	guy	NOUN	NNS	Number=Plur	0	root	0:root	_
 5	a	a	NOUN	NN	Number=Sing	4	dep	4:dep	_
-6	+++++	+++++	SYM	SYM	_	5	dep	5:dep	_
+6	+++++	+++++	SYM	NFP	_	5	punct	5:punct	_
 7	reccommend	reccommend	VERB	VB	VerbForm=Inf	4	dep	4:dep	_
 8	to	to	ADP	IN	_	9	case	9:case	_
 9	anyone	anyone	PRON	NN	Number=Sing	7	obl	7:obl:to	SpaceAfter=No
@@ -4377,10 +4377,10 @@
 2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	Steve	Steve	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 4-5	Wang's	_	_	_	_	_	_	_	_
-4	Wang	Wang	PROPN	NNP	Number=Sing	1	nsubj	1:nsubj	_
+4	Wang	Wang	PROPN	NNP	Number=Sing	7	nmod:poss	7:nmod:poss	_
 5	's	's	PART	POS	_	4	case	4:case	_
 6	home	home	NOUN	NN	Number=Sing	7	compound	7:compound	_
-7	address	address	NOUN	NN	Number=Sing	4	dep	4:dep	_
+7	address	address	NOUN	NN	Number=Sing	1	nsubj	1:nsubj	_
 
 1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	home	home	ADV	RB	_	1	advmod	1:advmod	_
@@ -4743,8 +4743,8 @@
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 1	Help	help	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	find	find	VERB	VB	VerbForm=Inf	1	ccomp	1:ccomp	_
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj|3:nsubj:xsubj	_
+3	find	find	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 5	answer	answer	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	1:punct	_
@@ -4978,10 +4978,10 @@
 1	Thou	thou	PRON	PRP	_	3	nsubj	3:nsubj	_
 2	art	art	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	slow	slow	ADJ	JJ	Degree=Pos	0	root	0:root	_
-4	but	but	CCONJ	CC	_	6	cc	6:cc	_
-5	thou	thou	PRON	PRP	_	6	nsubj	6:nsubj	_
-6	shalt	shalt	AUX	MD	VerbForm=Fin	3	conj	3:conj:but	_
-7	succeed	succeed	VERB	VB	VerbForm=Inf	6	dep	6:dep	SpaceAfter=No
+4	but	but	CCONJ	CC	_	7	cc	7:cc	_
+5	thou	thou	PRON	PRP	_	7	nsubj	7:nsubj	_
+6	shalt	shalt	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+7	succeed	succeed	VERB	VB	VerbForm=Inf	3	conj	3:conj:but	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 1	If	if	SCONJ	IN	_	5	mark	5:mark	_
@@ -5039,7 +5039,7 @@
 5	hot	hot	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 6	South	South	PROPN	NNP	Number=Sing	7	compound	7:compound	_
 7	Station	Station	PROPN	NNP	Number=Sing	1	obl	1:obl:in	_
-8	waiting	wait	VERB	VBG	VerbForm=Ger	1	dep	1:dep	_
+8	waiting	wait	VERB	VBG	VerbForm=Ger	1	advcl	1:advcl	_
 9	for	for	ADP	IN	_	13	case	13:case	_
 10	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
 11	delayed	delayed	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
@@ -5084,8 +5084,8 @@
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	used	use	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
-4	burnt	burn	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	dep	5:dep	_
-5	sienna	sienna	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+4	burnt	burnt	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	sienna	sienna	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	crayon	crayon	NOUN	NN	Number=Sing	2	obj	2:obj	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	color	color	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_

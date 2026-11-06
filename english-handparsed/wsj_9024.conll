@@ -45,8 +45,8 @@
 2	soup	soup	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
-5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-6	feel	feel	VERB	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	4:obj|6:nsubj:xsubj	_
+6	feel	feel	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
 7	better	well	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	_
 8	if	if	SCONJ	IN	_	10	mark	10:mark	_
 9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
@@ -131,5 +131,5 @@
 2	tin	tin	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	can	can	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
 4	contains	contain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	beets	beet	NOUN	NNS	Number=Plur	4	dep	4:dep	_
+5	beets	beet	NOUN	NNS	Number=Plur	4	obj	4:obj	_
 

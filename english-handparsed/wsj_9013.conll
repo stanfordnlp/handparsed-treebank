@@ -14,7 +14,7 @@
 13	pass	pass	NOUN	NN	Number=Sing	10	obj	10:obj	_
 14	before	before	SCONJ	IN	_	16	mark	16:mark	_
 15	being	be	AUX	VBG	VerbForm=Ger	16	aux:pass	16:aux:pass	_
-16	pushed	push	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	dep	2:dep	_
+16	pushed	push	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	10:advcl:before	_
 17	into	into	ADP	IN	_	19	case	19:case	_
 18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
 19	snowbank	snowbank	NOUN	NN	Number=Sing	16	obl	16:obl:into	SpaceAfter=No

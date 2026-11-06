@@ -86,7 +86,7 @@
 2	stock	stock	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	futures	future	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 4	edge	edge	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	higher	high	ADJ	JJR	Degree=Cmp	4	dep	4:dep	SpaceAfter=No
+5	higher	high	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	SpaceAfter=No
 6	;	;	PUNCT	:	_	4	punct	4:punct	_
 7	earnings	earnings	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 8	in	in	ADP	IN	_	9	case	9:case	_
@@ -171,8 +171,8 @@
 1	Will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 2	McGuires	McGuires	PROPN	NNPS	Number=Plur	3	nsubj	3:nsubj	_
 3	keep	keep	VERB	VB	VerbForm=Inf	0	root	0:root	_
-4	on	on	ADV	RB	_	3	advmod	3:advmod	_
-5	giving	give	VERB	VBG	VerbForm=Ger	4	dep	4:dep	_
+4	on	on	ADP	RP	_	3	compound:prt	3:compound:prt	_
+5	giving	give	VERB	VBG	VerbForm=Ger	3	xcomp	3:xcomp	_
 6	locally	locally	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
 7	?	?	PUNCT	.	_	3	punct	3:punct	_
 
@@ -202,7 +202,7 @@
 # sent_id = 19
 1	Jobs	Jobs	PROPN	NNP	Number=Sing	0	root	0:root	_
 2	on	on	ADP	IN	_	3	case	3:case	_
-3	Zune	Zune	PROPN	NNP	Number=Sing	1	dep	1:dep	SpaceAfter=No
+3	Zune	Zune	PROPN	NNP	Number=Sing	1	nmod	1:nmod:on	SpaceAfter=No
 4	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 # sent_id = 20

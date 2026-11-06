@@ -10,8 +10,8 @@
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	used	use	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
-4	burnt	burn	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	dep	5:dep	_
-5	sienna	sienna	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+4	burnt	burnt	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	sienna	sienna	NOUN	NN	Number=Sing	6	compound	6:compound	_
 6	crayon	crayon	NOUN	NN	Number=Sing	2	obj	2:obj	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	color	color	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_

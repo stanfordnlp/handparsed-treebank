@@ -88,8 +88,8 @@
 # sent_id = 9
 1-2	Let's	_	_	_	_	_	_	_	_
 1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-2	's	's	PRON	PRP	_	3	nsubj	3:nsubj	_
-3	talk	talk	VERB	VB	VerbForm=Inf	1	ccomp	1:ccomp	_
+2	's	's	PRON	PRP	_	1	obj	1:obj|3:nsubj:xsubj	_
+3	talk	talk	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
 4	about	about	ADP	IN	_	5	case	5:case	_
 5	something	something	PRON	NN	Number=Sing	3	obl	3:obl:about	_
 6	else	else	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No

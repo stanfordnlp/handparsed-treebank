@@ -2,10 +2,10 @@
 1	Thou	thou	PRON	PRP	_	3	nsubj	3:nsubj	_
 2	art	art	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	slow	slow	ADJ	JJ	Degree=Pos	0	root	0:root	_
-4	but	but	CCONJ	CC	_	6	cc	6:cc	_
-5	thou	thou	PRON	PRP	_	6	nsubj	6:nsubj	_
-6	shalt	shalt	AUX	MD	VerbForm=Fin	3	conj	3:conj:but	_
-7	succeed	succeed	VERB	VB	VerbForm=Inf	6	dep	6:dep	SpaceAfter=No
+4	but	but	CCONJ	CC	_	7	cc	7:cc	_
+5	thou	thou	PRON	PRP	_	7	nsubj	7:nsubj	_
+6	shalt	shalt	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+7	succeed	succeed	VERB	VB	VerbForm=Inf	3	conj	3:conj:but	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 # sent_id = 1

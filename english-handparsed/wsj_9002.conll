@@ -11,11 +11,11 @@
 
 # sent_id = 1
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
-2	old	old	ADJ	JJ	Degree=Pos	3	dep	3:dep	_
-3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	old	old	ADJ	JJ	Degree=Pos	0	root	0:root	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 4	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	cousin	cousin	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
-6	?	?	PUNCT	.	_	3	punct	3:punct	_
+5	cousin	cousin	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
+6	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = 2
 1	Which	which	DET	WDT	PronType=Int	2	det	2:det	_
@@ -216,11 +216,11 @@
 9	?	?	PUNCT	.	_	6	punct	6:punct	_
 
 # sent_id = 23
-1	What	what	PRON	WP	PronType=Int	9	nsubj:pass	9:nsubj:pass	_
+1	What	what	PRON	WP	PronType=Int	9	obj	9:obj	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	shortest	short	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
-5	path	path	NOUN	NN	Number=Sing	9	dep	9:dep	_
+5	path	path	NOUN	NN	Number=Sing	9	nsubj:pass	9:nsubj:pass	_
 6	between	between	ADP	IN	_	8	case	8:case	_
 7	two	two	NUM	CD	NumForm=Word|NumType=Card	8	nummod	8:nummod	_
 8	points	point	NOUN	NNS	Number=Plur	5	nmod	5:nmod:between	_

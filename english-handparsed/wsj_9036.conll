@@ -14,7 +14,7 @@
 5	hot	hot	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 6	South	South	PROPN	NNP	Number=Sing	7	compound	7:compound	_
 7	Station	Station	PROPN	NNP	Number=Sing	1	obl	1:obl:in	_
-8	waiting	wait	VERB	VBG	VerbForm=Ger	1	dep	1:dep	_
+8	waiting	wait	VERB	VBG	VerbForm=Ger	1	advcl	1:advcl	_
 9	for	for	ADP	IN	_	13	case	13:case	_
 10	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
 11	delayed	delayed	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
