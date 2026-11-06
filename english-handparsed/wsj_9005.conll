@@ -57,7 +57,7 @@
 14	zone	zone	NOUN	NN	Number=Sing	8	conj	8:conj:and|17:nsubj	_
 15	all	all	ADV	RB	_	17	advmod	17:advmod	_
 16	could	could	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
-17	tighten	tighten	VERB	VB	VerbForm=Inf	5	ccomp	5:ccomp	_
+17	tighten	tighten	VERB	VB	VerbForm=Inf	5	acl	5:acl:that	_
 18	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
 19	monetary	monetary	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	policies	policy	NOUN	NNS	Number=Plur	17	obj	17:obj	_
