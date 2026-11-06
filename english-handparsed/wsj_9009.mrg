@@ -58,6 +58,8 @@
     (. .)))
 
 
+# cleft with a PP focus, so there is no NP gap: that is a
+# complementizer, and the lion's share is the postposed subject
 (ROOT
   (S
     (NP (PRP It))
@@ -67,11 +69,11 @@
         (IN to)
         (NP (NNP Bernini)))
       (SBAR
-        (WHNP (WDT that))
+        (IN that)
         (S
           (VP
             (VBZ is)
-            (VP (JJ due))
+            (ADJP (JJ due))
             (NP
               (NP
                 (NP (DT the) (NN lion) (POS 's))
@@ -133,8 +135,7 @@
         (VP (VBN prosecuted))))
     (CC and)
     (S
-      (NP
-        (NP (DT no) (NNS details)))
+      (NP (DT no) (NNS details))
       (VP
         (VBP survive)
         (UCP
@@ -289,7 +290,8 @@
               (NP (NNP St.) (NNP John) (POS 's)))))))
     (. .)))
 
-# first art school flat?
+# first art school is flat: first modifies art school, which
+# branches right, so it needs no NML
 (ROOT
   (S
     (NP (DT The) (NNPS Shepherds))
@@ -309,7 +311,8 @@
             (NP (NN downtown) (NNP St.) (NNP John) (POS 's))))))
     (. .)))
 
-# NML structure?
+# Fine arts education programs branches left: Fine arts modifies
+# education, and Fine arts education modifies programs, so it needs the NMLs
 (ROOT
   (S
     (NP
@@ -338,7 +341,8 @@
                   (NP (NNP St.) (NNP John) (POS 's)))))))))
     (. .)))
 
-# inspired VP attached a level higher?
+# the inspired VP attaches to the logo NP, since the logo is what
+# was inspired by the MLB's
 (ROOT
   (S
     (PP
@@ -455,7 +459,7 @@
               (NP (NNP Asterix) (POS 's)))))))
     (. .)))
 
-# sevens team separate?
+# Fiji's sevens team needs no NML
 # "as is" is clearly the standard treatment
 (ROOT
   (S
@@ -513,7 +517,7 @@
               (NP (NNP Earth) (POS 's)))))))
     (. .)))
 
-# UCP is weird
+# UCP coordinates the VBN with the PP; the PP is not inside a VP
 (ROOT
   (S
     (PP
@@ -529,15 +533,14 @@
         (VP (VBN restored))
         (, ,)
         (CC and)
-        (VP
-          (PP
-            (ADVP (IN at) (JJS least))
-            (IN on)
-            (NP
-              (NP (NN par))
-              (PP
-                (IN with)
-                (NP (NNP Aristotle) (POS 's))))))))
+        (PP
+          (ADVP (IN at) (JJS least))
+          (IN on)
+          (NP
+            (NP (NN par))
+            (PP
+              (IN with)
+              (NP (NNP Aristotle) (POS 's)))))))
     (. .)))
 
 (ROOT
