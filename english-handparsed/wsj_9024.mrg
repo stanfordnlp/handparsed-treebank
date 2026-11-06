@@ -141,5 +141,5 @@
 
 ( (S
     (NP (DT This) (NN tin) (NN can))
-    (VP (VBZ contains) (NNS beets))))
+    (VP (VBZ contains) (NP (NNS beets)))))
 

@@ -3,13 +3,14 @@
       (NP (PRP$  my) (JJ favorite) (NNP Friday) (NN tradition)))
     (. .)))
 
-( (NP
+( (FRAG
     (VP (VBG Sitting)
       (PP (IN in)
         (NP (DT a) (RB stifling) (JJ hot) (NNP South) (NNP Station)))
-      (VP (VBG waiting)
-        (PP (IN for)
-          (NP (PRP$  my) (JJ delayed) (NNP @MBTA) (NN train)))))
+      (S
+        (VP (VBG waiting)
+          (PP (IN for)
+            (NP (PRP$  my) (JJ delayed) (NNP @MBTA) (NN train))))))
     (. .)))
 
 ( (S

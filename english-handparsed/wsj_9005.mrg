@@ -102,18 +102,19 @@
 ( (S 
     (NP (DT A) (NN funding) (NN shortage))
     (VP (VBZ leaves)
-      (NP
-        (NP (NNS patients))
-        (PP (IN in)
-          (NP (NNP Kent)))
-        (PP (IN with)
-          (NP
-            (NP (VBN suspected) (NN osteoporosis)))))
-      (VP (VBG facing)
+      (S
         (NP
-          (NP (DT a) (NML (CD six) (HYPH -) (NN month)) (NN wait))
-          (PP (IN for)
-            (NP (NN treatment))))))
+          (NP (NNS patients))
+          (PP (IN in)
+            (NP (NNP Kent)))
+          (PP (IN with)
+            (NP
+              (NP (VBN suspected) (NN osteoporosis)))))
+        (VP (VBG facing)
+          (NP
+            (NP (DT a) (NML (CD six) (HYPH -) (NN month)) (NN wait))
+            (PP (IN for)
+              (NP (NN treatment)))))))
     (. .)))
 
 ( (S

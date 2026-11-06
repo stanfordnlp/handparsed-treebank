@@ -4,7 +4,7 @@
            (ADJP (JJ slow))))
     (CC but)
     (S (NP (PRP thou))
-       (VP (MD shalt) (VB succeed)))
+       (VP (MD shalt) (VP (VB succeed))))
     (. .)))
 
 ( (S
