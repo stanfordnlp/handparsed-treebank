@@ -139,7 +139,7 @@
     (: -)
     (S
       (NP (PRP you))
-      (NN (NN idiot)))))
+      (NN idiot))))
 
 (ROOT
  (S-IMP

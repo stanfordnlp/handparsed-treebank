@@ -8,7 +8,7 @@
    (. ?)))
 
 ((SBARQ
-  (WHNP (WRB How) (JJ old))
+  (WHADJP (WRB How) (JJ old))
   (SQ (VBZ is)
       (NP (PRP$ your) (NN cousin)))
   (. ?)))

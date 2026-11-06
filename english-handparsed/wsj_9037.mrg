@@ -10,7 +10,7 @@
       (VBD used)
       (NP
         (DT a)
-        (ADJP (VBN burnt) (JJ sienna))
+        (NML (JJ burnt) (NN sienna))
         (NN crayon))
       (S
         (VP

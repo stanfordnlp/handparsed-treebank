@@ -74,7 +74,7 @@
     (S
       (NP-SBJ (NNP US) (NN stock) (NNS futures))
       (VP (VBP edge)
-        (JJR higher)))
+        (ADVP (RBR higher))))
     (: ;)
     (S
       (NP-SBJ (NNS earnings))
@@ -149,11 +149,11 @@
 ( (SQ (MD Will)
     (NP-SBJ-1 (NNPS McGuires))
     (VP (VB keep)
-      (ADVP-CLR (RB on)
+      (PRT (RP on))
       (S
         (NP-SBJ (-NONE- *-1))
         (VP (VBG giving)
-          (ADVP (RB locally))))))
+          (ADVP (RB locally)))))
     (. ?) ))
 ( (SBARQ
     (WHNP (WP Who))
