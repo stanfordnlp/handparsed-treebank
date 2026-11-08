@@ -12,7 +12,7 @@
 # sent_id = 1
 1	How	how	ADV	WRB	PronType=Int	2	advmod	2:advmod	_
 2	old	old	ADJ	JJ	Degree=Pos	0	root	0:root	_
-3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 4	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	cousin	cousin	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
 6	?	?	PUNCT	.	_	2	punct	2:punct	_
@@ -121,7 +121,7 @@
 
 # sent_id = 13
 1	Who	who	PRON	WP	PronType=Int	0	root	0:root	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	man	man	NOUN	NN	Number=Sing	1	nsubj	1:nsubj	_
 5	with	with	ADP	IN	_	8	case	8:case	_
@@ -145,7 +145,7 @@
 
 # sent_id = 15
 1	What	what	PRON	WP	PronType=Int	0	root	0:root	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 4	favorite	favorite	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	kind	kind	NOUN	NN	Number=Sing	1	nsubj	1:nsubj	_

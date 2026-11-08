@@ -88,7 +88,7 @@
 
 # sent_id = 15
 1	WHAT	what	PRON	WP	PronType=Int	0	root	0:root	_
-2	IS	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
+2	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	THAT	that	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	1:nsubj	SpaceAfter=No
 4	?????	?????	PUNCT	.	_	1	punct	1:punct	_
 
