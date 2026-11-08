@@ -1,0 +1,228 @@
+( (SBARQ
+    (WHADJP (WRB How) (JJ tall))
+    (SQ
+      (VBZ is)
+      (NP (PRP$ your) (NN brother)))
+    (. ?)))
+
+( (SBARQ
+    (WHADJP (WRB How) (JJ long))
+    (SQ
+      (VBD was)
+      (NP (DT the) (NN meeting)))
+    (. ?)))
+
+( (SBARQ
+    (WHADJP (WRB How) (JJ expensive))
+    (SQ
+      (VBD were)
+      (NP (DT the) (NNS tickets)))
+    (. ?)))
+
+( (SBARQ
+    (WHADJP (WRB How) (JJ deep))
+    (SQ
+      (VBZ is)
+      (NP (DT the) (NN lake)))
+    (. ?)))
+
+( (SBARQ
+    (WHADJP (WRB How) (JJ difficult))
+    (SQ
+      (VBD was)
+      (NP (DT the) (JJ final) (NN exam)))
+    (. ?)))
+
+( (SBARQ
+    (WHADJP (WRB How) (JJ old))
+    (SQ
+      (MD will)
+      (NP (PRP she))
+      (VP
+        (VB be)
+        (PP
+          (IN in)
+          (NP (NNP June)))))
+    (. ?)))
+
+( (SBARQ
+    (WHADJP (WRB How) (JJ cold))
+    (SQ
+      (VBZ does)
+      (NP (PRP it))
+      (VP
+        (VB get)
+        (PP
+          (IN in)
+          (NP (DT the) (NN winter)))))
+    (. ?)))
+
+( (SBARQ
+    (WHADJP (WRB How) (JJ healthy))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN food))
+        (PP
+          (IN at)
+          (NP (DT the) (NN school)))))
+    (. ?)))
+
+( (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS people))
+    (SQ
+      (VP
+        (VBD came)
+        (PP
+          (IN to)
+          (NP (DT the) (NN party)))))
+    (. ?)))
+
+( (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ much))
+      (NN money))
+    (SQ
+      (VBD did)
+      (NP (PRP they))
+      (VP
+        (VB spend)
+        (PP
+          (IN on)
+          (NP (DT the) (NN trip)))))
+    (. ?)))
+
+( (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS languages))
+    (SQ
+      (VBZ does)
+      (NP (PRP she))
+      (VP (VB speak)))
+    (. ?)))
+
+( (S
+    (NP (PRP I))
+    (VP
+      (VBP wonder)
+      (SBAR
+        (WHADJP (WRB how) (JJ old))
+        (S
+          (NP (DT the) (NN house))
+          (VP (VBZ is)))))
+    (. .)))
+
+( (S
+    (NP (PRP She))
+    (VP
+      (VBD asked)
+      (SBAR
+        (WHADJP (WRB how) (JJ expensive))
+        (S
+          (NP (DT the) (NNS tickets))
+          (VP (VBD were)))))
+    (. .)))
+
+( (S
+    (NP (NN Nobody))
+    (VP
+      (MD can)
+      (VP
+        (VB say)
+        (SBAR
+          (WHADJP (WRB how) (JJ serious))
+          (S
+            (NP (DT the) (NN damage))
+            (VP
+              (MD will)
+              (VP (VB be)))))))
+    (. .)))
+
+( (S
+    (NP (PRP I))
+    (VP
+      (VBD asked)
+      (SBAR
+        (WHADJP (WRB how) (JJ old))
+        (S
+          (NP (PRP$ his) (NNS children))
+          (VP (VBD were)))))
+    (. .)))
+
+( (S
+    (NP (PRP We))
+    (VP
+      (VBD wondered)
+      (SBAR
+        (WHNP
+          (WHADJP (WRB how) (JJ many))
+          (NNS guests))
+        (S
+          (VP
+            (MD would)
+            (VP (VB come))))))
+    (. .)))
+
+( (S
+    (NP (DT The) (NN report))
+    (VP
+      (VBZ shows)
+      (SBAR
+        (WHADJP (WRB how) (JJ important))
+        (S
+          (NP (DT the) (NN river))
+          (VP
+            (VBZ is)
+            (PP
+              (IN to)
+              (NP (DT the) (NN town)))))))
+    (. .)))
+
+( (S
+    (NP (PRP They))
+    (VP
+      (VBD argued)
+      (PP
+        (IN about)
+        (SBAR
+          (WHADJP (WRB how) (JJ large))
+          (S
+            (NP (DT the) (NN budget))
+            (VP
+              (MD should)
+              (VP (VB be)))))))
+    (. .)))
+
+( (SBAR
+    (WHADJP (WRB How) (JJ beautiful))
+    (S
+      (NP (DT the) (NN garden))
+      (VP
+        (VBZ looks)
+        (PP
+          (IN in)
+          (NP (DT the) (NN spring)))))
+    (. !)))
+
+( (SBAR
+    (WHADJP (WRB How) (JJ lucky))
+    (S
+      (NP (PRP we))
+      (VP (VBD were)))
+    (. !)))
+
+( (SBAR
+    (WHADJP (WRB How) (JJ quiet))
+    (S
+      (NP (DT the) (NN house))
+      (VP
+        (VBD was)
+        (SBAR
+          (IN after)
+          (S
+            (NP (DT the) (NNS guests))
+            (VP (VBD left))))))
+    (. !)))

@@ -41,7 +41,7 @@
 9038: -ae endings for the Stanza POS/lemmatizer
 9039: -i endings for plurals, useful for POS
 9040: -i endings for plurals, useful for POS
-
+9041: SBARQ + WHADJP questions
 
 # english.conll: automatically converted using CoreNLP's conversion tool
 # some checking of the dependencies, features, etc would be useful though
